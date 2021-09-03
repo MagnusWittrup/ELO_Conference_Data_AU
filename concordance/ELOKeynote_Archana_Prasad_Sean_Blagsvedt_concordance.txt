@@ -1,0 +1,835 @@
+
+TRIGGER WORD: platform
+	SENTENCE INDEX 19
+	BEFORE: 
+		And I'll just mention a few of the very, very many things she's been involved in.
+
+		One thing is that she's founder and CEO of Darran Networks.
+
+	CONTAINING:
+		She engages public awareness of the UN Sustainable Development Goals through Be Fantastic, an international political platform that was founded by her in 2017 with an international fellowship program called CoLab, which which aims to provide open public dialogs on the on the state of technology and arts, as well as the public showcasing festival.
+
+	AFTER: 
+		And in 2009, she founded Joga that builds collaborative community communities to solve today's big challenges.
+
+		Today, Georgia has a coworking community with an alumni of more than 500 people, a lab that serves enterprises through innovative solutions, a program focused on learning and a public art public arts program that has worked with more than 60 artists and supported more than 12 international residencies and have.
+
+
+	SENTENCE INDEX 33
+	BEFORE: 
+		As a designer and member.
+
+		So apart from learning about all the interesting stuff going on in India, I think Ashiana and Zhang is a highly relevant for for this conference giving.
+
+	CONTAINING:
+		So they are highly relevant for this conference, giving their way of working with platforms and platforms in China.
+
+	AFTER: 
+		And John Chang has worked a lot and very successfully with combining spaces, communities and DIY participation.
+
+		They made participatory urban design, collaborative communities, and has worked have worked continuously with Sintering Tigard and artistic practice in this autumn by making art accessible and creating accessible spaces.
+
+
+	SENTENCE INDEX 37
+	BEFORE: 
+		And John Chang has worked a lot and very successfully with combining spaces, communities and DIY participation.
+
+		They made participatory urban design, collaborative communities, and has worked have worked continuously with Sintering Tigard and artistic practice in this autumn by making art accessible and creating accessible spaces.
+
+	CONTAINING:
+		And lately, they they have worked with setting up alternative platforms such as the DHARA network and be fantastic.
+
+	AFTER: 
+		All this activity is obviously related to the activism and hacktivists we also see in other parts of the world.
+
+		But when you look at this work, I can't help to wonder as a European if there's a difference and whether there's a different cultural environment in India and perhaps a more generous and collaborative spirit.
+
+
+	SENTENCE INDEX 117
+	BEFORE: 
+		I was accepting read Radboud authors asking for a friend.
+
+		The workshop material seems to be still online.
+
+	CONTAINING:
+		A question from Alvaro Sijia Sisa is also which which probably relates to the whole discussion about, you know, the platforms you've been building with physical spaces and then then the covid pandemic, which was also, as far as I remember, one of the reasons of getting into this right.
+
+	AFTER: 
+		And, and including the NFTE part as a way of generating money, revenue for for the artist.
+
+		So so Alvaro asks, how is the implementation of these body parts made in the community?
+
+
+	SENTENCE INDEX 182
+	BEFORE: 
+		And so this is an example.
+
+		I'll let you take this one.
+
+	CONTAINING:
+		Of some of the work with Joga and be fantastic that you heard about, of bringing together many, many artists and really trying to create platforms and new experiences and new tools for artists to showcase the work, but also extend their work with technology.
+
+	AFTER: 
+		OK, so with Radford's in particular, you know, you can think of this as a part of a very long tradition that humanity has had of a desire to talk to the dead, to talk to fictional characters, to talk to the times gone, to talk to time's gone by and to get a sense of it.
+
+		Right.
+
+
+	SENTENCE INDEX 194
+	BEFORE: 
+		Similarly, in the world of, you know, again, for coming from machine learning and much of the the deep learning that's been happening, deep fakes have basically been really good that essentially making one face say a thing that it never said and make it look like it a that thing.
+
+		And so we thought we might be able to use that technology combined with the text creation, to basically enable people or enable us to essentially make realistic talking figures and video.
+
+	CONTAINING:
+		And then finally, because we had DHARA, right, which was this, you know, reasonably stable video chat, chat platform, it gave us the ability to put hooks directly into our own platform in a way that, like WhatsApp or Telegram just doesn't allow us to do today.
+
+	AFTER: 
+		And so we thought, wow, there's an interesting technology opportunity to kind of play in this old tradition.
+
+		Oh, so if you think about like what is Redbones, right, and the initial idea of it was to allow a video chat platform where artists could create lifelike interactions with historical or fictional characters.
+
+
+	SENTENCE INDEX 196
+	BEFORE: 
+		We'd seen that.
+
+		And then finally, because we had DHARA, right, which was this, you know, reasonably stable video chat, chat platform, it gave us the ability to put hooks directly into our own platform in a way that, like WhatsApp or Telegram just doesn't allow us to do today.
+
+	CONTAINING:
+		Oh, so if you think about like what is Redbones, right, and the initial idea of it was to allow a video chat platform where artists could create lifelike interactions with historical or fictional characters.
+
+	AFTER: 
+		And I'll show you here the kind of first mock up demo that we did.
+
+		I freeda, what's the meaning of life?
+
+
+	SENTENCE INDEX 542
+	BEFORE: 
+		Sure.
+
+		So, yes, speech recognition is definitely can be a weak link.
+
+	CONTAINING:
+		And so, again, that's kind of an advantage of running the the interaction platform.
+
+	AFTER: 
+		Or we can say, you know, if if you know, if Argin is using DHARA, we say that she's speaking in an Indian English accent and then that radically improves the quality of the speech recognition.
+
+		Which is different than when I'm logged in, I'm saying I'm speaking in an English US accent and so and it's interesting, too, that many of the authors have discovered that they like chatting via text with their bots more than they like the video piece.
+
+
+	SENTENCE INDEX 569
+	BEFORE: 
+		OK, come on.
+
+		And then finally, we just wanted to say I saw the comment on a discussion on discord.
+
+	CONTAINING:
+		But also for anybody that is in need of a non big tech, you know, communication platform, please get in touch with us about DHARA.
+
+	AFTER: 
+		The whole point is of us making this thing is, is for us to have, you know, a communication platform that we can use that's not controlled by all these other companies and is really built from the cultural sector for the cultural sector.
+
+		So for anybody out there, you know, that's thinking about it for their institution, of their own community, please get in touch with us.
+
+
+	SENTENCE INDEX 570
+	BEFORE: 
+		And then finally, we just wanted to say I saw the comment on a discussion on discord.
+
+		We'd love to be there.
+
+	CONTAINING:
+		The whole point is of us making this thing is, is for us to have, you know, a communication platform that we can use that's not controlled by all these other companies and is really built from the cultural sector for the cultural sector.
+
+	AFTER: 
+		So for anybody out there, you know, that's thinking about it for their institution, of their own community, please get in touch with us.
+
+		We'd love to hear from you and and support your work, too.
+
+
+	SENTENCE INDEX 595
+	BEFORE: 
+		So so please keep keep that in mind as as Sean walks us through through all of all of the slides, he's kindly prepared.
+
+		Our team comprises of Hansen and the WHO have been working magic, absolute technical magic.
+
+	CONTAINING:
+		We've had kind of the absolute good fortune of of having come from Cendant, who co-founded B Fantastic the Tagget Festival platform with me.
+
+	AFTER: 
+		And she's pretty much a genius at keeping people together and and kind of facilitating conversations and collaborations.
+
+		We have a stellar and young team with us, Shatrova, Nikita and Munin, who were really pushing forward and really a huge, huge thank you to all of them, especially now in the middle of this these crazy times globally, the pandemic.
+
+
+	SENTENCE INDEX 638
+	BEFORE: 
+		So I think this this has been exciting for us in terms of like collaborators.
+
+		We we were quite clear from from from very early on, even within the open call itself, that it was an invitation to join us in the.
+
+	CONTAINING:
+		We as artists, we are very excited to understand how far it can go as technologists with the DHARA platform were very excited to be able to support projects like this and push the envelope there and then of course, come in from the kind of the fantastic world here is a possibility to to kind of explore bringing voice to some of these very hidden or underrepresented agendas.
+
+	AFTER: 
+		And so I think this is this group here are collaborators and coconspirators in the making of the but themselves fantastic people.
+
+		And here are the redwoods.
+
+
+	SENTENCE INDEX 690
+	BEFORE: 
+		Just in terms of talking back and forth, it seems like each quarter is about about 50 cents, approximately 50 cents for one question.
+
+		Yeah, just the pure, you know, processing just even for the text and so on, the ecological pieces with NFTE.
+
+	CONTAINING:
+		One, not all NFTE platforms are created equal.
+
+	AFTER: 
+		So etherial is particularly it's particularly pricey in terms of its computational heft has to do with the security of it as well.
+
+		And the fact that it's like really distributed.
+
+
+	SENTENCE INDEX 694
+	BEFORE: 
+		So etherial is particularly it's particularly pricey in terms of its computational heft has to do with the security of it as well.
+
+		And the fact that it's like really distributed.
+
+	CONTAINING:
+		There are other platforms.
+
+	AFTER: 
+		Tanso is the probably the one that will list on which I think has literally two millionth of the power consumption.
+
+		The other thing that we're doing is we're just saying that the percentage of the fees of the sale of the net itself is actually being used to buy carbon offsets for the running and the creation of those parts in fees.
+
+
+	SENTENCE INDEX 766
+	BEFORE: 
+		And so that's a that's I guess.
+
+		And strands to the question whether.
+
+	CONTAINING:
+		But as as a kind like actually this is something Sean and I have discussed a fair bit recently, is that a lot of our ideas tend to have more of a platform play.
+
+	AFTER: 
+		So when when we started Jugg, that was a physical structure and, you know, invited people to both build the physical structure with us and then use the physical structure as a space to kind of share their work or showcase their work.
+
+		And and then would be fantastic if it was this kind of let's about a physical structure, more like a platform, but a festival version or a kind of, you know, going out into the street.
+
+
+	SENTENCE INDEX 768
+	BEFORE: 
+		Well, I mean, it just just kind of disservice to the topic of the yellow we look at, right.
+
+		But as as a kind like actually this is something Sean and I have discussed a fair bit recently, is that a lot of our ideas tend to have more of a platform play.
+
+	CONTAINING:
+		And and then would be fantastic if it was this kind of let's about a physical structure, more like a platform, but a festival version or a kind of, you know, going out into the street.
+
+	AFTER: 
+		And that's the kind of work if you if you look at some of the projects I've been involved with, it's constantly negotiating both physical space, urban space and then communities that are stakeholders to that space are bringing artists and technologies into these spaces as catalysts.
+
+		And that is is really something that we've been discussing for a long time to create.
+
+
+	SENTENCE INDEX 774
+	BEFORE: 
+		And I think maybe with covid, we had that impetus to kind of push really hard.
+
+		But as a as an idea started as a chat.
+
+	CONTAINING:
+		And so all of the journey that we made, as do artists who made that proposal and then started to work on chat boards and an interactive chat boards and all of that kind of really became the the inspiration behind us, creating that network as a platform to enable communities across geographies and disciplines to come together in a virtual context.
+
+	AFTER: 
+		Right.
+
+		And I think with with covid, what we saw was that as people were inhibited from moving physically to meet each other, this reliance on platforms that already existed and then the possibility for new platforms that kind of learned from the mistakes of our kind of tried to better the existing platforms.
+
+
+	SENTENCE INDEX 776
+	BEFORE: 
+		But in fact, it was a digital arts project supported by the British Council in 2013.
+
+		And so all of the journey that we made, as do artists who made that proposal and then started to work on chat boards and an interactive chat boards and all of that kind of really became the the inspiration behind us, creating that network as a platform to enable communities across geographies and disciplines to come together in a virtual context.
+
+	CONTAINING:
+		And I think with with covid, what we saw was that as people were inhibited from moving physically to meet each other, this reliance on platforms that already existed and then the possibility for new platforms that kind of learned from the mistakes of our kind of tried to better the existing platforms.
+
+	AFTER: 
+		And please, if anyone out there is keen to jump in and guide us, that we would be more than happy to to get any kind of advice on taking wonderful radboud world into the NFTE universe.
+
+		We started off with this and we just wanted to kind of give a shout out to the amazing team, the Radboud project relied very heavily on Hussin and Dave technically.
+
+
+	SENTENCE INDEX 852
+	BEFORE: 
+		So in that way, that's how we even built the exhibition.
+
+		For all this time, we really did not think what the exhibition is going to be.
+
+	CONTAINING:
+		And there was a lot of this thought of creating a platform because the team was a platform and an easy job.
+
+	AFTER: 
+		That's what job does, is to create a platform for the community in terms of a network or various ways in which we share the work, or a place where people can come together and be in collective study and share their ideas and work together.
+
+		So it fit very well for us.
+
+
+	SENTENCE INDEX 853
+	BEFORE: 
+		For all this time, we really did not think what the exhibition is going to be.
+
+		We just started with the collaborative text lab and started experimenting together and and we arrive somewhere.
+
+	CONTAINING:
+		That's what job does, is to create a platform for the community in terms of a network or various ways in which we share the work, or a place where people can come together and be in collective study and share their ideas and work together.
+
+	AFTER: 
+		So it fit very well for us.
+
+		And you will see what the exhibition is all about and how it's connected to platforms and deep diving into them or creating them or escaping them.
+
+
+	SENTENCE INDEX 855
+	BEFORE: 
+		And there was a lot of this thought of creating a platform because the team was a platform and an easy job.
+
+		That's what job does, is to create a platform for the community in terms of a network or various ways in which we share the work, or a place where people can come together and be in collective study and share their ideas and work together.
+
+	CONTAINING:
+		And you will see what the exhibition is all about and how it's connected to platforms and deep diving into them or creating them or escaping them.
+
+	AFTER: 
+		So I won't say much about it, but I hope we hope to see you guys tomorrow.
+
+		And so she's graciously not advise advised, along with Sean and Camille, who also constantly advice about lots of things for now.
+
+
+
+TRIGGER WORD: google
+
+TRIGGER WORD: facebook
+
+TRIGGER WORD: right
+	SENTENCE INDEX 69
+	BEFORE: 
+		OK, that's a good one.
+
+		Thank you, Carol.
+
+	CONTAINING:
+		So I think the best way to get our politicians to act is by making sure we vote for the right people.
+
+	AFTER: 
+		So, yeah.
+
+		So I didn't ask Dana about what do you think about copyright.
+
+
+	SENTENCE INDEX 71
+	BEFORE: 
+		Yes.
+
+		So I think the best way to get our politicians to act is by making sure we vote for the right people.
+
+	CONTAINING:
+		So I didn't ask Dana about what do you think about copyright.
+
+	AFTER: 
+		Shocked the art world.
+
+		OK. OK, Ken, bottom freeze, the odd where I'm just going to ask.
+
+
+	SENTENCE INDEX 93
+	BEFORE: 
+		You know, the first question maybe you did answer that is whether where the creator's aware of the discussions that emerged, you know, how how do they the authors relate to.
+
+		Yeah.
+
+	CONTAINING:
+		This discussion of the autonomy of the boxwoods, which is a basic from Christine, who asked, have you set the right to talk among themselves, you know, today?
+
+	AFTER: 
+		There are still some questions, but I also think we should bring Ambiga and.
+
+		From draft, they're here and obviously I and obviously they work with you and and and we got the contact also through through them.
+
+
+	SENTENCE INDEX 117
+	BEFORE: 
+		I was accepting read Radboud authors asking for a friend.
+
+		The workshop material seems to be still online.
+
+	CONTAINING:
+		A question from Alvaro Sijia Sisa is also which which probably relates to the whole discussion about, you know, the platforms you've been building with physical spaces and then then the covid pandemic, which was also, as far as I remember, one of the reasons of getting into this right.
+
+	AFTER: 
+		And, and including the NFTE part as a way of generating money, revenue for for the artist.
+
+		So so Alvaro asks, how is the implementation of these body parts made in the community?
+
+
+	SENTENCE INDEX 142
+	BEFORE: 
+		Then.
+
+		Actually, I want to finish up with also mentioning the draft even tomorrow morning.
+
+	CONTAINING:
+		Yeah, and the the the thing tomorrow will also be recorded, right?
+
+	AFTER: 
+		So because it's going to happen at a very inconvenient time for the people.
+
+		Yeah.
+
+
+	SENTENCE INDEX 154
+	BEFORE: 
+		It was it was it was wonderful.
+
+		So let's give a quiet hint of applause since we can't hear all the people in the audience.
+
+	CONTAINING:
+		I think Mark is working great right now.
+
+	AFTER: 
+		Maybe he'll post it well.
+
+		Uh, yeah, because, you know, there is lots of fun has posted it, so you grab it and then I will close the session and stuff the.
+
+
+	SENTENCE INDEX 194
+	BEFORE: 
+		Similarly, in the world of, you know, again, for coming from machine learning and much of the the deep learning that's been happening, deep fakes have basically been really good that essentially making one face say a thing that it never said and make it look like it a that thing.
+
+		And so we thought we might be able to use that technology combined with the text creation, to basically enable people or enable us to essentially make realistic talking figures and video.
+
+	CONTAINING:
+		And then finally, because we had DHARA, right, which was this, you know, reasonably stable video chat, chat platform, it gave us the ability to put hooks directly into our own platform in a way that, like WhatsApp or Telegram just doesn't allow us to do today.
+
+	AFTER: 
+		And so we thought, wow, there's an interesting technology opportunity to kind of play in this old tradition.
+
+		Oh, so if you think about like what is Redbones, right, and the initial idea of it was to allow a video chat platform where artists could create lifelike interactions with historical or fictional characters.
+
+
+	SENTENCE INDEX 196
+	BEFORE: 
+		We'd seen that.
+
+		And then finally, because we had DHARA, right, which was this, you know, reasonably stable video chat, chat platform, it gave us the ability to put hooks directly into our own platform in a way that, like WhatsApp or Telegram just doesn't allow us to do today.
+
+	CONTAINING:
+		Oh, so if you think about like what is Redbones, right, and the initial idea of it was to allow a video chat platform where artists could create lifelike interactions with historical or fictional characters.
+
+	AFTER: 
+		And I'll show you here the kind of first mock up demo that we did.
+
+		I freeda, what's the meaning of life?
+
+
+	SENTENCE INDEX 251
+	BEFORE: 
+		And so this is a bot.
+
+		Yes.
+
+	CONTAINING:
+		And then, you know, to give you an example and I'll just read out sort of some of the stuff on the right of the this was just a question that came from one of the users of like, how do I stop feeling sad?
+
+	AFTER: 
+		And what's interesting that we found is I'll just let it speak for itself.
+
+		Let your sad self be sad for a bit to cry if you have to, then think about all the things that make you happy.
+
+
+	SENTENCE INDEX 304
+	BEFORE: 
+		MS1 is an elderly woman with lots of verve and creativity, perhaps a bit eccentric.
+
+		And then that description is really used by the eye to adjust the language, the tenor of what things are said.
+
+	CONTAINING:
+		But that's right.
+
+	AFTER: 
+		And the rest of it is really being filled in by the the A.I.
+
+		And so the part that was very fun was that each author did.
+
+
+	SENTENCE INDEX 312
+	BEFORE: 
+		But this is really the work that the humans did.
+
+		And then everything else is really happening by these by that by that open API model.
+
+	CONTAINING:
+		You know, this is another one, right, in terms of those examples of, you know, Mandy, who was by our by staff, Sophia, another one of our artists, and, you know, they're self-aware in the sense of like, you know, arguing MFT.
+
+	AFTER: 
+		And then she's saying, I've been accused of that, but I've never had sex with a a very independent of a woman of my word.
+
+		You can be sure that it will burst your idea to the world.
+
+
+	SENTENCE INDEX 327
+	BEFORE: 
+		And so, you know, again, the quality of these conversations are just so interesting.
+
+		And some of them are surly and some of them are nice, but you can't help but begin to personify them.
+
+	CONTAINING:
+		And then and again, this is the sort of background of Mandy's brain, right.
+
+	AFTER: 
+		Of like she's a surrogate mother.
+
+		She loves gestating ideas and helping to save the planet and create queer families.
+
+
+	SENTENCE INDEX 346
+	BEFORE: 
+		And so I'm curious from anybody if there's a question that you'd like us to ask and if you just say it over audio, I'll type it in.
+
+		Well, I think so.
+
+	CONTAINING:
+		All right.
+
+	AFTER: 
+		OK, let's see what we can do.
+
+		So, you know, this goes off, hits our server, goes into the text corpus.
+
+
+	SENTENCE INDEX 350
+	BEFORE: 
+		OK, let's see what we can do.
+
+		So, you know, this goes off, hits our server, goes into the text corpus.
+
+	CONTAINING:
+		I think that's what we need to focus on right now.
+
+	AFTER: 
+		Uh.
+
+		And the.
+
+
+	SENTENCE INDEX 358
+	BEFORE: 
+		Digital poetry does not exclude people from the arts.
+
+		It opens up new opportunities for those who may not have been able to access the arts before.
+
+	CONTAINING:
+		She gets thrown off by, you know, copyright.
+
+	AFTER: 
+		That's a good question.
+
+		That's definitely not covered, and I don't think I need to worry about it.
+
+
+	SENTENCE INDEX 390
+	BEFORE: 
+		We must stop to keep chatting.
+
+		Give me the chance of my butchering and I'm sorry.
+
+	CONTAINING:
+		Can you lie and do you have a body, right?
+
+	AFTER: 
+		Well, we'll just ask, what do you have any secrets?
+
+		Can you lie?
+
+
+	SENTENCE INDEX 429
+	BEFORE: 
+		I want to change the world.
+
+		I want to do good in the world and want to fight for justice, who want to fight for the little guy.
+
+	CONTAINING:
+		Anyway, you can see I want to fight for the right of gays.
+
+	AFTER: 
+		I want to fight for the rights of the marginalized.
+
+		So choose chattier, rather long winded sometimes.
+
+
+	SENTENCE INDEX 430
+	BEFORE: 
+		I want to do good in the world and want to fight for justice, who want to fight for the little guy.
+
+		I want to fight for the underdogs.
+
+	CONTAINING:
+		I want to fight for the rights of the marginalized.
+
+	AFTER: 
+		So choose chattier, rather long winded sometimes.
+
+		So.
+
+
+	SENTENCE INDEX 447
+	BEFORE: 
+		And and that's even before the video synthesis is just.
+
+		And and there's a way to support the authors themselves.
+
+	CONTAINING:
+		And so if you're a playwright, it's a tough time.
+
+	AFTER: 
+		And so many people are looking at just leaving the field.
+
+		And so we really wanted to figure out, is there a way that people can make money here?
+
+
+	SENTENCE INDEX 473
+	BEFORE: 
+		And that was kind of like to remember the early Internet.
+
+		If you went to a Web page, you could just do what you source so you could figure out what was going on in their HTML.
+
+	CONTAINING:
+		So here this is actually what's going on, right.
+
+	AFTER: 
+		So you can take this text corpus and if you have access to the open API, you can recreate identically everything that we've done in terms of the text corpus here.
+
+		And so the format is the same.
+
+
+	SENTENCE INDEX 507
+	BEFORE: 
+		So actually, I think I think they'll work pretty well in French and German, frankly, because there's a lot of content out there.
+
+		And then we can do things like we can run translation of the responses that come back from English into another language.
+
+	CONTAINING:
+		But but right now it's been mostly English based because of the training is the training day.
+
+	AFTER: 
+		But there's probably ways that we can make it work at a reasonable level, like we can probably like at least for Hindi, which, you know, various APIs from Amazon or Google or or Microsoft are pretty good at speech recognition and Hindi.
+
+		So we can do that and then run it into English, then push it over to open API, get back an answer and then take back that answer, you know, do a translation and then do it.
+
+
+	SENTENCE INDEX 626
+	BEFORE: 
+		And so be fantastic in particular, is is is kind of focused on bringing to light one or several of the UN's sustainable development goals.
+
+		Yeah, well, as open calls go, we we were keen to ensure that this group would be more focused on, as said, writers.
+
+	CONTAINING:
+		And we actually went right back to the first time we going to focus our attention and say, like, let's bring in the writer community, the theater writers, playwrights, poets, people who might otherwise have have not been part of our typical cohort.
+
+	AFTER: 
+		Right.
+
+		And and I guess with this particular project, that's that's the beauty of it, is that it lends itself to pretty much anyone.
+
+
+	SENTENCE INDEX 637
+	BEFORE: 
+		Several of them are writers themselves, academics.
+
+		So I think this this has been exciting for us in terms of like collaborators.
+
+	CONTAINING:
+		Picking the right books as an active activity of collaboration said, wasn't so much as just purely a workshop where we transfer knowledge, but really a way for all of us to to push the frontiers of what this kind of augmented writing could be.
+
+	AFTER: 
+		We as artists, we are very excited to understand how far it can go as technologists with the DHARA platform were very excited to be able to support projects like this and push the envelope there and then of course, come in from the kind of the fantastic world here is a possibility to to kind of explore bringing voice to some of these very hidden or underrepresented agendas.
+
+		And so I think this is this group here are collaborators and coconspirators in the making of the but themselves fantastic people.
+
+
+	SENTENCE INDEX 643
+	BEFORE: 
+		And here are the redwoods.
+
+		She's polyamorous as a description.
+
+	CONTAINING:
+		And so, you know, I hope my shares are right, that we should and so on and the back end.
+
+	AFTER: 
+		But, yeah, I think that what is exciting for the writers or authors here is that there's a little bit that they can control.
+
+		But much like, you know, children or a director or students you use, you give them a sense of the world.
+
+
+	SENTENCE INDEX 732
+	BEFORE: 
+		Fantastic.
+
+		Great.
+
+	CONTAINING:
+		But to really like proper character design, you really get into the nitty gritty and, you know, right out.
+
+	AFTER: 
+		I think they all took the time to write a fairly lengthy essays on who these boards are, what what made them who they are today.
+
+		All of that, even even with Dora.
+
+
+	SENTENCE INDEX 735
+	BEFORE: 
+		But to really like proper character design, you really get into the nitty gritty and, you know, right out.
+
+		I think they all took the time to write a fairly lengthy essays on who these boards are, what what made them who they are today.
+
+	CONTAINING:
+		But she has a whole history, right?
+
+	AFTER: 
+		Like where she studied, where she grew up, what formed her opinions, what were experiences that changed her life or her way of thinking?
+
+		And I think the more and this is true to anyone who's creating character, I would imagine, is to really kind of, you know, get into the nuances of of of who they're creating.
+
+
+	SENTENCE INDEX 761
+	BEFORE: 
+		I think something that the, you know, very recently initiated and are planning to grow, which is artists and technologists coming together.
+
+		And it's called C3 of creativity, code and community.
+
+	CONTAINING:
+		I think the Wright Brothers Project kind of is kicking off that for that game, folks.
+
+	AFTER: 
+		And I'm sure many of you have heard of of of them that they're a very good organization.
+
+		And so that's a that's I guess.
+
+
+	SENTENCE INDEX 765
+	BEFORE: 
+		And I'm sure many of you have heard of of of them that they're a very good organization.
+
+		And so that's a that's I guess.
+
+	CONTAINING:
+		Well, I mean, it just just kind of disservice to the topic of the yellow we look at, right.
+
+	AFTER: 
+		But as as a kind like actually this is something Sean and I have discussed a fair bit recently, is that a lot of our ideas tend to have more of a platform play.
+
+		So when when we started Jugg, that was a physical structure and, you know, invited people to both build the physical structure with us and then use the physical structure as a space to kind of share their work or showcase their work.
+
+
+	SENTENCE INDEX 782
+	BEFORE: 
+		So thank you so much to the two of them.
+
+		Of course, it was inspired by that about itself.
+
+	CONTAINING:
+		And so the program designed for the Wright brothers workshopping was all was all Cumia and then Nikita, Shatrova and Munin have been absolutely amazing in supporting the entire project, both from the workshopping and but also from the kind of, you know, making sure all of the little details that make something good shine.
+
+	AFTER: 
+		So a really big, big, big tanks specifically to these wonderful folk in our.
+
+		And, of course, a very big thank you to Sarah in America and the Christian and everyone else who is part of the yellow team.
+
+
+	SENTENCE INDEX 827
+	BEFORE: 
+		Anyway, I'll paste direct link here.
+
+		We would urge you to register for it because it's being held on Gladstone.
+
+	CONTAINING:
+		And the link for for the showcase event is right there.
+
+	AFTER: 
+		And we would love for you guys to come in and interact with the creators on the town.
+
+		We have limited capacity for it.
+
+
+	SENTENCE INDEX 843
+	BEFORE: 
+		Also hosts are very well-known Jaipur Literature Festival.
+
+		It's known worldwide and it invites authors from all around.
+
+	CONTAINING:
+		But anyway, just right after we conceptualizer that we were hit by the pandemic and we quickly adapted to the virtual world and it slowly turned into a community, a virtual community of many technologists, writers and creators, starting with India.
+
+	AFTER: 
+		But then, of course, we had we had the opportunity to expand globally, expand the community globally, because it was now what you learn.
+
+		We started with Asia and of course, we have people across all countries.
+
+
+
+TRIGGER WORD: data
+	SENTENCE INDEX 175
+	BEFORE: 
+		And how does that really come together?
+
+		It's really you can think of it as kind of like WhatsApp versus LinkedIn, plus some media pieces for the art and culture space in particular.
+
+	CONTAINING:
+		With folks like the British Council and Gote and institutions like philanthropies and schools to basically bring together their alumni in a way that's private and safe and not on top of Facebook, it isn't about selling their data.
+
+	AFTER: 
+		And one of the big things that we do inside of that is video chat.
+
+		And so that's one half.
+
+
+	SENTENCE INDEX 225
+	BEFORE: 
+		And we think that was really interesting.
+
+		Additionally, you know, we've seen a lot in technology lately.
+
+	CONTAINING:
+		And if you look at the data sets that are out there, they're really based on, you know, very small slices of society that have been traditionally quite powerful.
+
+	AFTER: 
+		And so as we thought about this, we thought not only could we bring in authors, but we could also try to bring a voice and a set of themes that were around showcasing people that, you know, like me, you know, don't get to talk all the time in venues like this.
+
+		And then finally, especially with covid, you know, we've seen so much of the cultural and performing arts segment, especially in places like India, where the state doesn't support it as well, really take a huge hit in terms of their livelihood.
+
+
+	SENTENCE INDEX 816
+	BEFORE: 
+		And I think that's so and it's so wonderful to see.
+
+		I was on the edge of my seat with all those responses.
+
+	CONTAINING:
+		But the only thing I really wanting to know if if you don't mind a question at this point, so then if we can ask them because we understand that it works on some larger databases, how did you help the artists to build this project?
+
+	AFTER: 
+		I think the is in one sense, I don't know what this would be called and maybe give us a sense of it then.
+
+		And you mentioned also the work that I don't know if you wanted to try with Bangla.
+
+

@@ -1,0 +1,325 @@
+
+TRIGGER WORD: platform
+	SENTENCE INDEX 11
+	BEFORE: 
+		And everywhere in between.
+
+		I was reflecting the other night that this is actually the third ELO conference in festival that have been part of organizing, including the 2,002 state of the Art symposium at UCLA and the 2,015 End of Electronic Literature Conference.
+
+	CONTAINING:
+		And now, for one last time, the 20 21 platform post pandemic.
+
+	AFTER: 
+		And although this has been in some ways the most challenging of those experiences, it's also been the most rewarding.
+
+		This year, I took on the Organization of the Arts program, and Soren has earned his Angels wings.
+
+
+	SENTENCE INDEX 29
+	BEFORE: 
+		And something that I think has been successful is that the Posthuman exhibition, The COVID Ideation and the Platforming Utopias and Platform Dystopias exhibitions all opened well in advance to the conference itself, with dedicated virtual openings featuring the majority of the artists and each exhibition presenting their work.
+
+		And the online exhibitions already include the video documentation of those events this year.
+
+	CONTAINING:
+		When we wrote the call for work for these exhibitions, Son and I talked about the fact that we wanted to organize focused and curated exhibitions that cohere with the themes of the conference as a whole, featuring works that could function as critical digital media in reflecting our current situation in the pandemic and in platform culture, and provide frameworks for thinking about what comes after.
+
+	AFTER: 
+		In a way, we were challenging Elos community of authors and artists, not just they have working on, but to respond very specifically to the call answer this moment.
+
+		And we are enormously grateful for the work that you've all produced.
+
+
+	SENTENCE INDEX 109
+	BEFORE: 
+		So this conference will give us a taste of who we are at this moment in our history as an organization.
+
+		And and I'm thrilled to see what a great history and what a great group we have here together.
+
+	CONTAINING:
+		We have partners all around coming together, thanks to these wonderful platforms that allow us to do so.
+
+	AFTER: 
+		And so I ask of you all.
+
+		I ask of us all to recognize that there's a ton of moving parts and to recognize that, you know, these things come together and come together through a lot of efforts.
+
+
+	SENTENCE INDEX 169
+	BEFORE: 
+		They will be archived at the outset, knowledge space after the conference.
+
+		And actually when submitting, you all accept this recording.
+
+	CONTAINING:
+		The theme this year ended up being platform postpandemic, as Scott said, and we have a long description that I won't repeat now, However, our briefly mentioned two things.
+
+	AFTER: 
+		The first thing is this post pandemic.
+
+		When Scott and I wrote the first version of the theme description last autumn, we naively believe that the pandemic would be more or less over by now and and Luckily the yellow board light our proposal, but suggested, I think actually Leo suggested that we put this post in parenthesis and with a question Mark in order to unalign that we didn't take the disease the Covet disease lightly in any way.
+
+
+	SENTENCE INDEX 192
+	BEFORE: 
+		So please send one thought and also perhaps a donation to India and other parts of the world that are currently challenged and in difficult situations.
+
+		And you can donate through the big organizations like UNICEF, Red Cross Medicine.
+
+	CONTAINING:
+		However, as can be be seen in the exhibition three for future text Escaping No Escalating platforms that is open and will be presented Friday.
+
+	AFTER: 
+		There's a lot of great lots going on in India and this leads me to the second term, which is platform.
+
+		This is a conference that will trivially explore platforms of many kinds, including how we experiencing platform culture during the pandemic and how we might envision it beyond the Pandemic has in many ways been climax in platform culture and I believe also a turn in plot plat formalization.
+
+
+	SENTENCE INDEX 193
+	BEFORE: 
+		And you can donate through the big organizations like UNICEF, Red Cross Medicine.
+
+		So once or Oxfam and our friends in India have also suggested specific, more local initiatives that I'll include in my next email.
+
+	CONTAINING:
+		There's a lot of great lots going on in India and this leads me to the second term, which is platform.
+
+	AFTER: 
+		This is a conference that will trivially explore platforms of many kinds, including how we experiencing platform culture during the pandemic and how we might envision it beyond the Pandemic has in many ways been climax in platform culture and I believe also a turn in plot plat formalization.
+
+		I certainly hope that we're seeing the beginning of something new and better than the current version of Atomization of what request no like anesma called the meter interface.
+
+
+	SENTENCE INDEX 194
+	BEFORE: 
+		So once or Oxfam and our friends in India have also suggested specific, more local initiatives that I'll include in my next email.
+
+		However, as can be be seen in the exhibition three for future text Escaping No Escalating platforms that is open and will be presented Friday.
+
+	CONTAINING:
+		This is a conference that will trivially explore platforms of many kinds, including how we experiencing platform culture during the pandemic and how we might envision it beyond the Pandemic has in many ways been climax in platform culture and I believe also a turn in plot plat formalization.
+
+	AFTER: 
+		I certainly hope that we're seeing the beginning of something new and better than the current version of Atomization of what request no like anesma called the meter interface.
+
+		We are thrilled to see the many ways that the theme of platform has been taken off from discussing the history and the disappearance of old platforms like Flesh, which is also a topic of the exhibition after flash to thinking about it happening on platforms which we saw last night in the Killed exhibition, and how electronic literature is afforded and challenged by platform culture and to developing alternative platforms and alternative ways of thinking, as also Draft has been doing again.
+
+
+	SENTENCE INDEX 196
+	BEFORE: 
+		There's a lot of great lots going on in India and this leads me to the second term, which is platform.
+
+		This is a conference that will trivially explore platforms of many kinds, including how we experiencing platform culture during the pandemic and how we might envision it beyond the Pandemic has in many ways been climax in platform culture and I believe also a turn in plot plat formalization.
+
+	CONTAINING:
+		We are thrilled to see the many ways that the theme of platform has been taken off from discussing the history and the disappearance of old platforms like Flesh, which is also a topic of the exhibition after flash to thinking about it happening on platforms which we saw last night in the Killed exhibition, and how electronic literature is afforded and challenged by platform culture and to developing alternative platforms and alternative ways of thinking, as also Draft has been doing again.
+
+	AFTER: 
+		And this is of course, also the topic of one of of the main exhibition, Platforming Utopias and Platform Dystopias.
+
+		Electronic literature obviously has a history of developing new forms and media of expressions ever since the beginning or through the development of Hypertext, to currently experiments with machine learning, just to mention a few examples.
+
+
+	SENTENCE INDEX 199
+	BEFORE: 
+		We are thrilled to see the many ways that the theme of platform has been taken off from discussing the history and the disappearance of old platforms like Flesh, which is also a topic of the exhibition after flash to thinking about it happening on platforms which we saw last night in the Killed exhibition, and how electronic literature is afforded and challenged by platform culture and to developing alternative platforms and alternative ways of thinking, as also Draft has been doing again.
+
+		And this is of course, also the topic of one of of the main exhibition, Platforming Utopias and Platform Dystopias.
+
+	CONTAINING:
+		And from looking at the program this year, this community is still taking the lead in thinking Platforms Post and Dame, but the platform still have us captured, including this conference.
+
+	AFTER: 
+		And this is not to apologize, but just to sort of in by explaining how and why in order for us also to collectively reflect on the conference platform postpandemic.
+
+		So we do.
+
+
+	SENTENCE INDEX 200
+	BEFORE: 
+		And this is of course, also the topic of one of of the main exhibition, Platforming Utopias and Platform Dystopias.
+
+		Electronic literature obviously has a history of developing new forms and media of expressions ever since the beginning or through the development of Hypertext, to currently experiments with machine learning, just to mention a few examples.
+
+	CONTAINING:
+		And this is not to apologize, but just to sort of in by explaining how and why in order for us also to collectively reflect on the conference platform postpandemic.
+
+	AFTER: 
+		So we do.
+
+		Video conferencing obviously allows us to have this conference during the Pandemic with global partners saving travel and carbon emissions, which is great.
+
+
+	SENTENCE INDEX 203
+	BEFORE: 
+		And this is not to apologize, but just to sort of in by explaining how and why in order for us also to collectively reflect on the conference platform postpandemic.
+
+		So we do.
+
+	CONTAINING:
+		And this is also an example of why and how we rely on platforms.
+
+	AFTER: 
+		Ideally we would have used an open source platform, but they Unfortunately don't have the solidity of scale to fit a conference such as this.
+
+		And Besides, they are not supported by our universities actually as an Burgen University's supply.
+
+
+	SENTENCE INDEX 204
+	BEFORE: 
+		So we do.
+
+		Video conferencing obviously allows us to have this conference during the Pandemic with global partners saving travel and carbon emissions, which is great.
+
+	CONTAINING:
+		Ideally we would have used an open source platform, but they Unfortunately don't have the solidity of scale to fit a conference such as this.
+
+	AFTER: 
+		And Besides, they are not supported by our universities actually as an Burgen University's supply.
+
+		So version with like the one we're in now that is running on our own Nordic Scandinavian servers, securing Privacy.
+
+
+	SENTENCE INDEX 210
+	BEFORE: 
+		But it turned out that we couldn't use these versions either because they didn't support other partners outside our universities.
+
+		They couldn't make recordings available in an efficient way, nor had the had the possibility for live captioning, all of which depends on sums own servers.
+
+	CONTAINING:
+		So I think this conundrum is a perfect example of how we are trapped and captured by the platforms that we depend on for meeting, communicating, reading, writing, making art, literature and culture.
+
+	AFTER: 
+		Organizing a conference also teaches you about this.
+
+		So this is the world we live in.
+
+
+	SENTENCE INDEX 213
+	BEFORE: 
+		So I think this conundrum is a perfect example of how we are trapped and captured by the platforms that we depend on for meeting, communicating, reading, writing, making art, literature and culture.
+
+		Organizing a conference also teaches you about this.
+
+	CONTAINING:
+		It needs to turn to the better both regarding the platforms and the Pandemic.
+
+	AFTER: 
+		But I think this community is full of ideas.
+
+		Electronic literature is about its literary and artistic qualities, but it's also and simultaneously about the platforms, the technologies, the network that it uses explores, criticizes and great alternatives.
+
+
+	SENTENCE INDEX 215
+	BEFORE: 
+		So this is the world we live in.
+
+		It needs to turn to the better both regarding the platforms and the Pandemic.
+
+	CONTAINING:
+		Electronic literature is about its literary and artistic qualities, but it's also and simultaneously about the platforms, the technologies, the network that it uses explores, criticizes and great alternatives.
+
+	AFTER: 
+		And with this I think, you know, we are the ones who can push things forward.
+
+		So with this I would say welcome to Platform Postpandemic and next point of the agenda is really welcoming you to war.
+
+
+
+TRIGGER WORD: google
+
+TRIGGER WORD: facebook
+
+TRIGGER WORD: right
+	SENTENCE INDEX 21
+	BEFORE: 
+		The production of these exhibitions, with two of them manifesting both online and in physical Gallery and library exhibitions, has been a team effort involving everyone in our electronic literature research group.
+
+		Hannah Ackerman organized the poster sessions and workshops that are just ending today.
+
+	CONTAINING:
+		Full bright after being our sort of virtual almost full bright last year come due to the Pandemic, along with Claire Donato and Cap Mutate curating the performance program, a lot of Salvador as pulling together all the logistical pieces.
+
+	AFTER: 
+		I mean, Fabri working on the sites with Jason and Ashley Steel producing a documentary film as part of our COVID project.
+
+		Old Years Doll and Ronnie Norvik at the University of Burgan Library and many others have contributed to making this an extraordinary arts program that has been unfolding since March, and the ELO Community and Board have also been tremendous contributors.
+
+
+	SENTENCE INDEX 130
+	BEFORE: 
+		Yeah, definitely.
+
+		I'll also mention the important person behind the scene here.
+
+	CONTAINING:
+		And we'll come back in a second when soon Mark the slick car kite Coining Monk, who has helped a lot with the conference support and also our student assistance here, knows there are actually two sitting right there.
+
+	AFTER: 
+		You can see them, but they are helping a lot with the Zoom backstage.
+
+		And obviously in Bergen, Scott has mentioned all the great people.
+
+
+	SENTENCE INDEX 223
+	BEFORE: 
+		And one Yeah, it certainly feels like being here.
+
+		Is there any rain?
+
+	CONTAINING:
+		Ion is here, right?
+
+	AFTER: 
+		This is the end of the opening and he's in.
+
+		Well, who else do we need to invite in.
+
+
+	SENTENCE INDEX 237
+	BEFORE: 
+		The OS urban operating system says.
+
+		Thank you.
+
+	CONTAINING:
+		Alright.
+
+	AFTER: 
+		Hello.
+
+		We have a few attendees to promote.
+
+
+	SENTENCE INDEX 248
+	BEFORE: 
+		Do I have everyone, or is there another member of.
+
+		I think I promoted them.
+
+	CONTAINING:
+		Alright.
+
+	AFTER: 
+		Do we have everyone?
+
+		Great.
+
+
+	SENTENCE INDEX 299
+	BEFORE: 
+		Ellen, are you all set?
+
+		I think you just need to start your video.
+
+	CONTAINING:
+		Alright.
+
+	AFTER: 
+		I'm going to disappear.
+
+		Alan on time with no content.
+
+
+
+TRIGGER WORD: data
