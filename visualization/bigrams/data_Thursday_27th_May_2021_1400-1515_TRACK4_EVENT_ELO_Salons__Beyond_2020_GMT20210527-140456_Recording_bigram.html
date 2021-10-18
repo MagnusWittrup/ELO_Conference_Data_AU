@@ -1,0 +1,213 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+        #loadingBar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width: 100%;
+            height: 100%;
+            background-color:rgba(200,200,200,0.8);
+            -webkit-transition: all 0.5s ease;
+            -moz-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+            opacity:1;
+        }
+
+        #bar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width:20px;
+            height:20px;
+            margin:auto auto auto auto;
+            border-radius:11px;
+            border:2px solid rgba(30,30,30,0.05);
+            background: rgb(0, 173, 246); /* Old browsers */
+            box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+        }
+
+        #border {
+            position:absolute;
+            top:10px;
+            left:10px;
+            width:500px;
+            height:23px;
+            margin:auto auto auto auto;
+            box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+            border-radius:10px;
+        }
+
+        #text {
+            position:absolute;
+            top:8px;
+            left:530px;
+            width:30px;
+            height:50px;
+            margin:auto auto auto auto;
+            font-size:22px;
+            color: #000000;
+        }
+
+        div.outerBorder {
+            position:relative;
+            top:400px;
+            width:600px;
+            height:44px;
+            margin:auto auto auto auto;
+            border:8px solid rgba(0,0,0,0.1);
+            background: rgb(252,252,252); /* Old browsers */
+            background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+            border-radius:72px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+        }
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+<div id="loadingBar">
+    <div class="outerBorder">
+        <div id="text">0%</div>
+        <div id="border">
+            <div id="bar"></div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "reading", "label": "reading", "shape": "dot", "title": "\"reading\":28", "value": 280}, {"id": "group", "label": "group", "shape": "dot", "title": "\"group\":30", "value": 300}, {"id": "would", "label": "would", "shape": "dot", "title": "\"would\":96", "value": 960}, {"id": "like", "label": "like", "shape": "dot", "title": "\"like\":81", "value": 810}, {"id": "people", "label": "people", "shape": "dot", "title": "\"people\":80", "value": 800}, {"id": "electronic", "label": "electronic", "shape": "dot", "title": "\"electronic\":6", "value": 60}, {"id": "literature", "label": "literature", "shape": "dot", "title": "\"literature\":6", "value": 60}, {"id": "book", "label": "book", "shape": "dot", "title": "\"book\":17", "value": 170}, {"id": "launches", "label": "launches", "shape": "dot", "title": "\"launches\":8", "value": 80}, {"id": "think", "label": "think", "shape": "dot", "title": "\"think\":92", "value": 920}, {"id": "launch", "label": "launch", "shape": "dot", "title": "\"launch\":8", "value": 80}, {"id": "six", "label": "six", "shape": "dot", "title": "\"six\":10", "value": 100}, {"id": "good", "label": "good", "shape": "dot", "title": "\"good\":22", "value": 220}, {"id": "could", "label": "could", "shape": "dot", "title": "\"could\":65", "value": 650}, {"id": "maybe", "label": "maybe", "shape": "dot", "title": "\"maybe\":31", "value": 310}, {"id": "writing", "label": "writing", "shape": "dot", "title": "\"writing\":22", "value": 220}, {"id": "know", "label": "know", "shape": "dot", "title": "\"know\":94", "value": 940}, {"id": "groups", "label": "groups", "shape": "dot", "title": "\"groups\":17", "value": 170}, {"id": "yellow", "label": "yellow", "shape": "dot", "title": "\"yellow\":22", "value": 220}, {"id": "salon", "label": "salon", "shape": "dot", "title": "\"salon\":23", "value": 230}, {"id": "trying", "label": "trying", "shape": "dot", "title": "\"trying\":7", "value": 70}, {"id": "get", "label": "get", "shape": "dot", "title": "\"get\":27", "value": 270}, {"id": "second", "label": "second", "shape": "dot", "title": "\"second\":7", "value": 70}, {"id": "Tuesday", "label": "Tuesday", "shape": "dot", "title": "\"Tuesday\":4", "value": 40}, {"id": "three", "label": "three", "shape": "dot", "title": "\"three\":7", "value": 70}, {"id": "minutes", "label": "minutes", "shape": "dot", "title": "\"minutes\":8", "value": 80}, {"id": "five", "label": "five", "shape": "dot", "title": "\"five\":6", "value": 60}, {"id": "small", "label": "small", "shape": "dot", "title": "\"small\":12", "value": 120}, {"id": "yeah", "label": "yeah", "shape": "dot", "title": "\"yeah\":50", "value": 500}, {"id": "open", "label": "open", "shape": "dot", "title": "\"open\":16", "value": 160}, {"id": "MIC", "label": "MIC", "shape": "dot", "title": "\"MIC\":4", "value": 40}, {"id": "little", "label": "little", "shape": "dot", "title": "\"little\":6", "value": 60}, {"id": "bit", "label": "bit", "shape": "dot", "title": "\"bit\":8", "value": 80}, {"id": "also", "label": "also", "shape": "dot", "title": "\"also\":21", "value": 210}, {"id": "feel", "label": "feel", "shape": "dot", "title": "\"feel\":7", "value": 70}, {"id": "time", "label": "time", "shape": "dot", "title": "\"time\":40", "value": 400}, {"id": "work", "label": "work", "shape": "dot", "title": "\"work\":27", "value": 270}, {"id": "word", "label": "word", "shape": "dot", "title": "\"word\":5", "value": 50}, {"id": "hack", "label": "hack", "shape": "dot", "title": "\"hack\":4", "value": 40}, {"id": "first", "label": "first", "shape": "dot", "title": "\"first\":9", "value": 90}, {"id": "took", "label": "took", "shape": "dot", "title": "\"took\":3", "value": 30}, {"id": "us", "label": "us", "shape": "dot", "title": "\"us\":23", "value": 230}, {"id": "one", "label": "one", "shape": "dot", "title": "\"one\":37", "value": 370}, {"id": "join", "label": "join", "shape": "dot", "title": "\"join\":6", "value": 60}, {"id": "oh", "label": "oh", "shape": "dot", "title": "\"oh\":7", "value": 70}, {"id": "dedicated", "label": "dedicated", "shape": "dot", "title": "\"dedicated\":3", "value": 30}, {"id": "sounds", "label": "sounds", "shape": "dot", "title": "\"sounds\":4", "value": 40}, {"id": "love", "label": "love", "shape": "dot", "title": "\"love\":11", "value": 110}, {"id": "idea", "label": "idea", "shape": "dot", "title": "\"idea\":15", "value": 150}, {"id": "many", "label": "many", "shape": "dot", "title": "\"many\":12", "value": 120}, {"id": "something", "label": "something", "shape": "dot", "title": "\"something\":26", "value": 260}, {"id": "next", "label": "next", "shape": "dot", "title": "\"next\":8", "value": 80}, {"id": "year", "label": "year", "shape": "dot", "title": "\"year\":9", "value": 90}, {"id": "might", "label": "might", "shape": "dot", "title": "\"might\":16", "value": 160}, {"id": "help", "label": "help", "shape": "dot", "title": "\"help\":9", "value": 90}, {"id": "best", "label": "best", "shape": "dot", "title": "\"best\":5", "value": 50}, {"id": "practices", "label": "practices", "shape": "dot", "title": "\"practices\":3", "value": 30}, {"id": "childish", "label": "childish", "shape": "dot", "title": "\"childish\":3", "value": 30}, {"id": "questions", "label": "questions", "shape": "dot", "title": "\"questions\":9", "value": 90}, {"id": "go", "label": "go", "shape": "dot", "title": "\"go\":21", "value": 210}, {"id": "Friday", "label": "Friday", "shape": "dot", "title": "\"Friday\":3", "value": 30}, {"id": "always", "label": "always", "shape": "dot", "title": "\"always\":13", "value": 130}, {"id": "knew", "label": "knew", "shape": "dot", "title": "\"knew\":6", "value": 60}, {"id": "want", "label": "want", "shape": "dot", "title": "\"want\":37", "value": 370}, {"id": "session", "label": "session", "shape": "dot", "title": "\"session\":7", "value": 70}, {"id": "new", "label": "new", "shape": "dot", "title": "\"new\":13", "value": 130}, {"id": "salons", "label": "salons", "shape": "dot", "title": "\"salons\":26", "value": 260}, {"id": "really", "label": "really", "shape": "dot", "title": "\"really\":38", "value": 380}, {"id": "interested", "label": "interested", "shape": "dot", "title": "\"interested\":9", "value": 90}, {"id": "model", "label": "model", "shape": "dot", "title": "\"model\":11", "value": 110}, {"id": "official", "label": "official", "shape": "dot", "title": "\"official\":4", "value": 40}, {"id": "sponsorship", "label": "sponsorship", "shape": "dot", "title": "\"sponsorship\":5", "value": 50}, {"id": "breakout", "label": "breakout", "shape": "dot", "title": "\"breakout\":4", "value": 40}, {"id": "rooms", "label": "rooms", "shape": "dot", "title": "\"rooms\":3", "value": 30}, {"id": "space", "label": "space", "shape": "dot", "title": "\"space\":11", "value": 110}, {"id": "let", "label": "let", "shape": "dot", "title": "\"let\":8", "value": 80}, {"id": "Salon", "label": "Salon", "shape": "dot", "title": "\"Salon\":8", "value": 80}, {"id": "easiest", "label": "easiest", "shape": "dot", "title": "\"easiest\":3", "value": 30}, {"id": "thing", "label": "thing", "shape": "dot", "title": "\"thing\":20", "value": 200}, {"id": "ahead", "label": "ahead", "shape": "dot", "title": "\"ahead\":4", "value": 40}, {"id": "Hannah", "label": "Hannah", "shape": "dot", "title": "\"Hannah\":6", "value": 60}, {"id": "put", "label": "put", "shape": "dot", "title": "\"put\":4", "value": 40}, {"id": "emailed", "label": "emailed", "shape": "dot", "title": "\"emailed\":3", "value": 30}, {"id": "getting", "label": "getting", "shape": "dot", "title": "\"getting\":4", "value": 40}, {"id": "started", "label": "started", "shape": "dot", "title": "\"started\":2", "value": 20}, {"id": "host", "label": "host", "shape": "dot", "title": "\"host\":6", "value": 60}, {"id": "month", "label": "month", "shape": "dot", "title": "\"month\":8", "value": 80}, {"id": "charge", "label": "charge", "shape": "dot", "title": "\"charge\":2", "value": 20}, {"id": "planning", "label": "planning", "shape": "dot", "title": "\"planning\":4", "value": 40}, {"id": "meeting", "label": "meeting", "shape": "dot", "title": "\"meeting\":4", "value": 40}, {"id": "Oh", "label": "Oh", "shape": "dot", "title": "\"Oh\":9", "value": 90}, {"id": "several", "label": "several", "shape": "dot", "title": "\"several\":2", "value": 20}, {"id": "said", "label": "said", "shape": "dot", "title": "\"said\":4", "value": 40}, {"id": "look", "label": "look", "shape": "dot", "title": "\"look\":5", "value": 50}, {"id": "forward", "label": "forward", "shape": "dot", "title": "\"forward\":4", "value": 40}, {"id": "dance", "label": "dance", "shape": "dot", "title": "\"dance\":2", "value": 20}, {"id": "shut", "label": "shut", "shape": "dot", "title": "\"shut\":2", "value": 20}, {"id": "life", "label": "life", "shape": "dot", "title": "\"life\":3", "value": 30}, {"id": "amazing", "label": "amazing", "shape": "dot", "title": "\"amazing\":9", "value": 90}, {"id": "stuff", "label": "stuff", "shape": "dot", "title": "\"stuff\":11", "value": 110}, {"id": "going", "label": "going", "shape": "dot", "title": "\"going\":29", "value": 290}, {"id": "things", "label": "things", "shape": "dot", "title": "\"things\":29", "value": 290}, {"id": "Community", "label": "Community", "shape": "dot", "title": "\"Community\":6", "value": 60}, {"id": "need", "label": "need", "shape": "dot", "title": "\"need\":13", "value": 130}, {"id": "sorry", "label": "sorry", "shape": "dot", "title": "\"sorry\":5", "value": 50}, {"id": "guys", "label": "guys", "shape": "dot", "title": "\"guys\":14", "value": 140}, {"id": "keep", "label": "keep", "shape": "dot", "title": "\"keep\":9", "value": 90}, {"id": "come", "label": "come", "shape": "dot", "title": "\"come\":10", "value": 100}, {"id": "pretty", "label": "pretty", "shape": "dot", "title": "\"pretty\":7", "value": 70}, {"id": "well", "label": "well", "shape": "dot", "title": "\"well\":23", "value": 230}, {"id": "spearhead", "label": "spearhead", "shape": "dot", "title": "\"spearhead\":3", "value": 30}, {"id": "another", "label": "another", "shape": "dot", "title": "\"another\":6", "value": 60}, {"id": "lot", "label": "lot", "shape": "dot", "title": "\"lot\":17", "value": 170}, {"id": "wonderful", "label": "wonderful", "shape": "dot", "title": "\"wonderful\":7", "value": 70}, {"id": "everyone", "label": "everyone", "shape": "dot", "title": "\"everyone\":8", "value": 80}, {"id": "talking", "label": "talking", "shape": "dot", "title": "\"talking\":4", "value": 40}, {"id": "bottom", "label": "bottom", "shape": "dot", "title": "\"bottom\":3", "value": 30}, {"id": "even", "label": "even", "shape": "dot", "title": "\"even\":12", "value": 120}, {"id": "much", "label": "much", "shape": "dot", "title": "\"much\":14", "value": 140}, {"id": "cool", "label": "cool", "shape": "dot", "title": "\"cool\":6", "value": 60}, {"id": "set", "label": "set", "shape": "dot", "title": "\"set\":12", "value": 120}, {"id": "aside", "label": "aside", "shape": "dot", "title": "\"aside\":3", "value": 30}, {"id": "projects", "label": "projects", "shape": "dot", "title": "\"projects\":2", "value": 20}, {"id": "still", "label": "still", "shape": "dot", "title": "\"still\":6", "value": 60}, {"id": "great", "label": "great", "shape": "dot", "title": "\"great\":17", "value": 170}, {"id": "talk", "label": "talk", "shape": "dot", "title": "\"talk\":10", "value": 100}, {"id": "agree", "label": "agree", "shape": "dot", "title": "\"agree\":9", "value": 90}, {"id": "stephanie", "label": "stephanie", "shape": "dot", "title": "\"stephanie\":5", "value": 50}, {"id": "makes", "label": "makes", "shape": "dot", "title": "\"makes\":5", "value": 50}, {"id": "sense", "label": "sense", "shape": "dot", "title": "\"sense\":3", "value": 30}, {"id": "default", "label": "default", "shape": "dot", "title": "\"default\":3", "value": 30}, {"id": "part", "label": "part", "shape": "dot", "title": "\"part\":14", "value": 140}, {"id": "website", "label": "website", "shape": "dot", "title": "\"website\":2", "value": 20}, {"id": "New", "label": "New", "shape": "dot", "title": "\"New\":2", "value": 20}, {"id": "York", "label": "York", "shape": "dot", "title": "\"York\":4", "value": 40}, {"id": "transcript", "label": "transcript", "shape": "dot", "title": "\"transcript\":4", "value": 40}, {"id": "ask", "label": "ask", "shape": "dot", "title": "\"ask\":10", "value": 100}, {"id": "stupid", "label": "stupid", "shape": "dot", "title": "\"stupid\":2", "value": 20}, {"id": "strike", "label": "strike", "shape": "dot", "title": "\"strike\":2", "value": 20}, {"id": "balance", "label": "balance", "shape": "dot", "title": "\"balance\":2", "value": 20}, {"id": "hangout", "label": "hangout", "shape": "dot", "title": "\"hangout\":3", "value": 30}, {"id": "Google", "label": "Google", "shape": "dot", "title": "\"Google\":2", "value": 20}, {"id": "Doc", "label": "Doc", "shape": "dot", "title": "\"Doc\":2", "value": 20}, {"id": "workshop", "label": "workshop", "shape": "dot", "title": "\"workshop\":6", "value": 60}, {"id": "start", "label": "start", "shape": "dot", "title": "\"start\":12", "value": 120}, {"id": "January", "label": "January", "shape": "dot", "title": "\"January\":4", "value": 40}, {"id": "incredible", "label": "incredible", "shape": "dot", "title": "\"incredible\":6", "value": 60}, {"id": "present", "label": "present", "shape": "dot", "title": "\"present\":6", "value": 60}, {"id": "board", "label": "board", "shape": "dot", "title": "\"board\":7", "value": 70}, {"id": "make", "label": "make", "shape": "dot", "title": "\"make\":11", "value": 110}, {"id": "sure", "label": "sure", "shape": "dot", "title": "\"sure\":10", "value": 100}, {"id": "save", "label": "save", "shape": "dot", "title": "\"save\":3", "value": 30}, {"id": "chat", "label": "chat", "shape": "dot", "title": "\"chat\":13", "value": 130}, {"id": "check", "label": "check", "shape": "dot", "title": "\"check\":6", "value": 60}, {"id": "guns", "label": "guns", "shape": "dot", "title": "\"guns\":2", "value": 20}, {"id": "door", "label": "door", "shape": "dot", "title": "\"door\":2", "value": 20}, {"id": "Rio", "label": "Rio", "shape": "dot", "title": "\"Rio\":2", "value": 20}, {"id": "Grande", "label": "Grande", "shape": "dot", "title": "\"Grande\":2", "value": 20}, {"id": "got", "label": "got", "shape": "dot", "title": "\"got\":16", "value": 160}, {"id": "focus", "label": "focus", "shape": "dot", "title": "\"focus\":2", "value": 20}, {"id": "starting", "label": "starting", "shape": "dot", "title": "\"starting\":5", "value": 50}, {"id": "thank", "label": "thank", "shape": "dot", "title": "\"thank\":5", "value": 50}, {"id": "actually", "label": "actually", "shape": "dot", "title": "\"actually\":11", "value": 110}, {"id": "Actually", "label": "Actually", "shape": "dot", "title": "\"Actually\":2", "value": 20}, {"id": "every", "label": "every", "shape": "dot", "title": "\"every\":9", "value": 90}, {"id": "share", "label": "share", "shape": "dot", "title": "\"share\":15", "value": 150}, {"id": "write", "label": "write", "shape": "dot", "title": "\"write\":9", "value": 90}, {"id": "together", "label": "together", "shape": "dot", "title": "\"together\":11", "value": 110}, {"id": "important", "label": "important", "shape": "dot", "title": "\"important\":3", "value": 30}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "reading", "title": "reading \u27a1 group: 12", "to": "group", "value": 120}, {"arrows": "to", "from": "would", "title": "would \u27a1 like: 12", "to": "like", "value": 120}, {"arrows": "to", "from": "people", "title": "people \u27a1 would: 7", "to": "would", "value": 70}, {"arrows": "to", "from": "electronic", "title": "electronic \u27a1 literature: 6", "to": "literature", "value": 60}, {"arrows": "to", "from": "book", "title": "book \u27a1 launches: 6", "to": "launches", "value": 60}, {"arrows": "to", "from": "think", "title": "think \u27a1 think: 6", "to": "think", "value": 60}, {"arrows": "to", "from": "book", "title": "book \u27a1 launch: 5", "to": "launch", "value": 50}, {"arrows": "to", "from": "would", "title": "would \u27a1 would: 5", "to": "would", "value": 50}, {"arrows": "to", "from": "six", "title": "six \u27a1 people: 5", "to": "people", "value": 50}, {"arrows": "to", "from": "would", "title": "would \u27a1 good: 5", "to": "good", "value": 50}, {"arrows": "to", "from": "group", "title": "group \u27a1 could: 5", "to": "could", "value": 50}, {"arrows": "to", "from": "maybe", "title": "maybe \u27a1 could: 5", "to": "could", "value": 50}, {"arrows": "to", "from": "reading", "title": "reading \u27a1 writing: 5", "to": "writing", "value": 50}, {"arrows": "to", "from": "could", "title": "could \u27a1 could: 5", "to": "could", "value": 50}, {"arrows": "to", "from": "like", "title": "like \u27a1 know: 5", "to": "know", "value": 50}, {"arrows": "to", "from": "know", "title": "know \u27a1 think: 5", "to": "think", "value": 50}, {"arrows": "to", "from": "reading", "title": "reading \u27a1 groups: 5", "to": "groups", "value": 50}, {"arrows": "to", "from": "yellow", "title": "yellow \u27a1 salon: 5", "to": "salon", "value": 50}, {"arrows": "to", "from": "trying", "title": "trying \u27a1 get: 4", "to": "get", "value": 40}, {"arrows": "to", "from": "second", "title": "second \u27a1 Tuesday: 4", "to": "Tuesday", "value": 40}, {"arrows": "to", "from": "three", "title": "three \u27a1 minutes: 4", "to": "minutes", "value": 40}, {"arrows": "to", "from": "group", "title": "group \u27a1 would: 4", "to": "would", "value": 40}, {"arrows": "to", "from": "five", "title": "five \u27a1 people: 4", "to": "people", "value": 40}, {"arrows": "to", "from": "small", "title": "small \u27a1 groups: 4", "to": "groups", "value": 40}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 yeah: 4", "to": "yeah", "value": 40}, {"arrows": "to", "from": "people", "title": "people \u27a1 could: 4", "to": "could", "value": 40}, {"arrows": "to", "from": "open", "title": "open \u27a1 MIC: 4", "to": "MIC", "value": 40}, {"arrows": "to", "from": "people", "title": "people \u27a1 get: 4", "to": "get", "value": 40}, {"arrows": "to", "from": "little", "title": "little \u27a1 bit: 4", "to": "bit", "value": 40}, {"arrows": "to", "from": "also", "title": "also \u27a1 think: 4", "to": "think", "value": 40}, {"arrows": "to", "from": "could", "title": "could \u27a1 maybe: 4", "to": "maybe", "value": 40}, {"arrows": "to", "from": "think", "title": "think \u27a1 know: 4", "to": "know", "value": 40}, {"arrows": "to", "from": "feel", "title": "feel \u27a1 like: 4", "to": "like", "value": 40}, {"arrows": "to", "from": "time", "title": "time \u27a1 know: 4", "to": "know", "value": 40}, {"arrows": "to", "from": "work", "title": "work \u27a1 know: 4", "to": "know", "value": 40}, {"arrows": "to", "from": "word", "title": "word \u27a1 hack: 4", "to": "hack", "value": 40}, {"arrows": "to", "from": "like", "title": "like \u27a1 first: 3", "to": "first", "value": 30}, {"arrows": "to", "from": "took", "title": "took \u27a1 us: 3", "to": "us", "value": 30}, {"arrows": "to", "from": "one", "title": "one \u27a1 one: 3", "to": "one", "value": 30}, {"arrows": "to", "from": "join", "title": "join \u27a1 us: 3", "to": "us", "value": 30}, {"arrows": "to", "from": "oh", "title": "oh \u27a1 yeah: 3", "to": "yeah", "value": 30}, {"arrows": "to", "from": "dedicated", "title": "dedicated \u27a1 writing: 3", "to": "writing", "value": 30}, {"arrows": "to", "from": "minutes", "title": "minutes \u27a1 would: 3", "to": "would", "value": 30}, {"arrows": "to", "from": "sounds", "title": "sounds \u27a1 like: 3", "to": "like", "value": 30}, {"arrows": "to", "from": "love", "title": "love \u27a1 idea: 3", "to": "idea", "value": 30}, {"arrows": "to", "from": "many", "title": "many \u27a1 people: 3", "to": "people", "value": 30}, {"arrows": "to", "from": "think", "title": "think \u27a1 something: 3", "to": "something", "value": 30}, {"arrows": "to", "from": "next", "title": "next \u27a1 year: 3", "to": "year", "value": 30}, {"arrows": "to", "from": "might", "title": "might \u27a1 help: 3", "to": "help", "value": 30}, {"arrows": "to", "from": "best", "title": "best \u27a1 practices: 3", "to": "practices", "value": 30}, {"arrows": "to", "from": "think", "title": "think \u27a1 would: 3", "to": "would", "value": 30}, {"arrows": "to", "from": "childish", "title": "childish \u27a1 questions: 3", "to": "questions", "value": 30}, {"arrows": "to", "from": "could", "title": "could \u27a1 go: 3", "to": "go", "value": 30}, {"arrows": "to", "from": "first", "title": "first \u27a1 Friday: 3", "to": "Friday", "value": 30}, {"arrows": "to", "from": "always", "title": "always \u27a1 knew: 3", "to": "knew", "value": 30}, {"arrows": "to", "from": "would", "title": "would \u27a1 want: 3", "to": "want", "value": 30}, {"arrows": "to", "from": "next", "title": "next \u27a1 session: 3", "to": "session", "value": 30}, {"arrows": "to", "from": "new", "title": "new \u27a1 work: 3", "to": "work", "value": 30}, {"arrows": "to", "from": "yellow", "title": "yellow \u27a1 salons: 3", "to": "salons", "value": 30}, {"arrows": "to", "from": "salons", "title": "salons \u27a1 could: 3", "to": "could", "value": 30}, {"arrows": "to", "from": "think", "title": "think \u27a1 yellow: 3", "to": "yellow", "value": 30}, {"arrows": "to", "from": "really", "title": "really \u27a1 good: 3", "to": "good", "value": 30}, {"arrows": "to", "from": "interested", "title": "interested \u27a1 book: 3", "to": "book", "value": 30}, {"arrows": "to", "from": "salon", "title": "salon \u27a1 model: 3", "to": "model", "value": 30}, {"arrows": "to", "from": "would", "title": "would \u27a1 go: 3", "to": "go", "value": 30}, {"arrows": "to", "from": "official", "title": "official \u27a1 sponsorship: 3", "to": "sponsorship", "value": 30}, {"arrows": "to", "from": "breakout", "title": "breakout \u27a1 rooms: 3", "to": "rooms", "value": 30}, {"arrows": "to", "from": "writing", "title": "writing \u27a1 space: 3", "to": "space", "value": 30}, {"arrows": "to", "from": "maybe", "title": "maybe \u27a1 one: 3", "to": "one", "value": 30}, {"arrows": "to", "from": "let", "title": "let \u27a1 let: 3", "to": "let", "value": 30}, {"arrows": "to", "from": "writing", "title": "writing \u27a1 group: 3", "to": "group", "value": 30}, {"arrows": "to", "from": "model", "title": "model \u27a1 Salon: 3", "to": "Salon", "value": 30}, {"arrows": "to", "from": "easiest", "title": "easiest \u27a1 thing: 2", "to": "thing", "value": 20}, {"arrows": "to", "from": "go", "title": "go \u27a1 ahead: 2", "to": "ahead", "value": 20}, {"arrows": "to", "from": "Hannah", "title": "Hannah \u27a1 put: 2", "to": "put", "value": 20}, {"arrows": "to", "from": "us", "title": "us \u27a1 emailed: 2", "to": "emailed", "value": 20}, {"arrows": "to", "from": "getting", "title": "getting \u27a1 started: 2", "to": "started", "value": 20}, {"arrows": "to", "from": "host", "title": "host \u27a1 month: 2", "to": "month", "value": 20}, {"arrows": "to", "from": "charge", "title": "charge \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "planning", "title": "planning \u27a1 meeting: 2", "to": "meeting", "value": 20}, {"arrows": "to", "from": "Oh", "title": "Oh \u27a1 yeah: 2", "to": "yeah", "value": 20}, {"arrows": "to", "from": "first", "title": "first \u27a1 time: 2", "to": "time", "value": 20}, {"arrows": "to", "from": "several", "title": "several \u27a1 us: 2", "to": "us", "value": 20}, {"arrows": "to", "from": "said", "title": "said \u27a1 know: 2", "to": "know", "value": 20}, {"arrows": "to", "from": "look", "title": "look \u27a1 forward: 2", "to": "forward", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 dance: 2", "to": "dance", "value": 20}, {"arrows": "to", "from": "shut", "title": "shut \u27a1 life: 2", "to": "life", "value": 20}, {"arrows": "to", "from": "life", "title": "life \u27a1 work: 2", "to": "work", "value": 20}, {"arrows": "to", "from": "amazing", "title": "amazing \u27a1 stuff: 2", "to": "stuff", "value": 20}, {"arrows": "to", "from": "book", "title": "book \u27a1 going: 2", "to": "going", "value": 20}, {"arrows": "to", "from": "things", "title": "things \u27a1 Community: 2", "to": "Community", "value": 20}, {"arrows": "to", "from": "really", "title": "really \u27a1 need: 2", "to": "need", "value": 20}, {"arrows": "to", "from": "sorry", "title": "sorry \u27a1 guys: 2", "to": "guys", "value": 20}, {"arrows": "to", "from": "going", "title": "going \u27a1 get: 2", "to": "get", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 keep: 2", "to": "keep", "value": 20}, {"arrows": "to", "from": "people", "title": "people \u27a1 come: 2", "to": "come", "value": 20}, {"arrows": "to", "from": "pretty", "title": "pretty \u27a1 well: 2", "to": "well", "value": 20}, {"arrows": "to", "from": "love", "title": "love \u27a1 love: 2", "to": "love", "value": 20}, {"arrows": "to", "from": "want", "title": "want \u27a1 spearhead: 2", "to": "spearhead", "value": 20}, {"arrows": "to", "from": "spearhead", "title": "spearhead \u27a1 another: 2", "to": "another", "value": 20}, {"arrows": "to", "from": "help", "title": "help \u27a1 lot: 2", "to": "lot", "value": 20}, {"arrows": "to", "from": "really", "title": "really \u27a1 wonderful: 2", "to": "wonderful", "value": 20}, {"arrows": "to", "from": "time", "title": "time \u27a1 get: 2", "to": "get", "value": 20}, {"arrows": "to", "from": "get", "title": "get \u27a1 everyone: 2", "to": "everyone", "value": 20}, {"arrows": "to", "from": "want", "title": "want \u27a1 want: 2", "to": "want", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 talking: 2", "to": "talking", "value": 20}, {"arrows": "to", "from": "get", "title": "get \u27a1 bottom: 2", "to": "bottom", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 trying: 2", "to": "trying", "value": 20}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 know: 2", "to": "know", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 even: 2", "to": "even", "value": 20}, {"arrows": "to", "from": "salons", "title": "salons \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 salon: 2", "to": "salon", "value": 20}, {"arrows": "to", "from": "salon", "title": "salon \u27a1 dedicated: 2", "to": "dedicated", "value": 20}, {"arrows": "to", "from": "writing", "title": "writing \u27a1 book: 2", "to": "book", "value": 20}, {"arrows": "to", "from": "something", "title": "something \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 much: 2", "to": "much", "value": 20}, {"arrows": "to", "from": "cool", "title": "cool \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "set", "title": "set \u27a1 aside: 2", "to": "aside", "value": 20}, {"arrows": "to", "from": "aside", "title": "aside \u27a1 minutes: 2", "to": "minutes", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 new: 2", "to": "new", "value": 20}, {"arrows": "to", "from": "new", "title": "new \u27a1 projects: 2", "to": "projects", "value": 20}, {"arrows": "to", "from": "still", "title": "still \u27a1 keep: 2", "to": "keep", "value": 20}, {"arrows": "to", "from": "would", "title": "would \u27a1 one: 2", "to": "one", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 could: 2", "to": "could", "value": 20}, {"arrows": "to", "from": "well", "title": "well \u27a1 would: 2", "to": "would", "value": 20}, {"arrows": "to", "from": "groups", "title": "groups \u27a1 five: 2", "to": "five", "value": 20}, {"arrows": "to", "from": "would", "title": "would \u27a1 great: 2", "to": "great", "value": 20}, {"arrows": "to", "from": "going", "title": "going \u27a1 talk: 2", "to": "talk", "value": 20}, {"arrows": "to", "from": "people", "title": "people \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "small", "title": "small \u27a1 group: 2", "to": "group", "value": 20}, {"arrows": "to", "from": "group", "title": "group \u27a1 maybe: 2", "to": "maybe", "value": 20}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 agree: 2", "to": "agree", "value": 20}, {"arrows": "to", "from": "agree", "title": "agree \u27a1 stephanie: 2", "to": "stephanie", "value": 20}, {"arrows": "to", "from": "makes", "title": "makes \u27a1 sense: 2", "to": "sense", "value": 20}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 default: 2", "to": "default", "value": 20}, {"arrows": "to", "from": "go", "title": "go \u27a1 know: 2", "to": "know", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 part: 2", "to": "part", "value": 20}, {"arrows": "to", "from": "stuff", "title": "stuff \u27a1 well: 2", "to": "well", "value": 20}, {"arrows": "to", "from": "website", "title": "website \u27a1 would: 2", "to": "would", "value": 20}, {"arrows": "to", "from": "New", "title": "New \u27a1 York: 2", "to": "York", "value": 20}, {"arrows": "to", "from": "work", "title": "work \u27a1 well: 2", "to": "well", "value": 20}, {"arrows": "to", "from": "talking", "title": "talking \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 transcript: 2", "to": "transcript", "value": 20}, {"arrows": "to", "from": "well", "title": "well \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "ask", "title": "ask \u27a1 stupid: 2", "to": "stupid", "value": 20}, {"arrows": "to", "from": "stupid", "title": "stupid \u27a1 questions: 2", "to": "questions", "value": 20}, {"arrows": "to", "from": "ask", "title": "ask \u27a1 childish: 2", "to": "childish", "value": 20}, {"arrows": "to", "from": "strike", "title": "strike \u27a1 balance: 2", "to": "balance", "value": 20}, {"arrows": "to", "from": "balance", "title": "balance \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 great: 2", "to": "great", "value": 20}, {"arrows": "to", "from": "part", "title": "part \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "good", "title": "good \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "would", "title": "would \u27a1 reading: 2", "to": "reading", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "might", "title": "might \u27a1 good: 2", "to": "good", "value": 20}, {"arrows": "to", "from": "hangout", "title": "hangout \u27a1 space: 2", "to": "space", "value": 20}, {"arrows": "to", "from": "maybe", "title": "maybe \u27a1 people: 2", "to": "people", "value": 20}, {"arrows": "to", "from": "Google", "title": "Google \u27a1 Doc: 2", "to": "Doc", "value": 20}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "salons", "title": "salons \u27a1 really: 2", "to": "really", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 yeah: 2", "to": "yeah", "value": 20}, {"arrows": "to", "from": "MIC", "title": "MIC \u27a1 workshop: 2", "to": "workshop", "value": 20}, {"arrows": "to", "from": "want", "title": "want \u27a1 start: 2", "to": "start", "value": 20}, {"arrows": "to", "from": "could", "title": "could \u27a1 like: 2", "to": "like", "value": 20}, {"arrows": "to", "from": "start", "title": "start \u27a1 January: 2", "to": "January", "value": 20}, {"arrows": "to", "from": "get", "title": "get \u27a1 six: 2", "to": "six", "value": 20}, {"arrows": "to", "from": "guys", "title": "guys \u27a1 know: 2", "to": "know", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 incredible: 2", "to": "incredible", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 yeah: 2", "to": "yeah", "value": 20}, {"arrows": "to", "from": "year", "title": "year \u27a1 present: 2", "to": "present", "value": 20}, {"arrows": "to", "from": "present", "title": "present \u27a1 board: 2", "to": "board", "value": 20}, {"arrows": "to", "from": "make", "title": "make \u27a1 sure: 2", "to": "sure", "value": 20}, {"arrows": "to", "from": "save", "title": "save \u27a1 chat: 2", "to": "chat", "value": 20}, {"arrows": "to", "from": "check", "title": "check \u27a1 guns: 2", "to": "guns", "value": 20}, {"arrows": "to", "from": "guns", "title": "guns \u27a1 door: 2", "to": "door", "value": 20}, {"arrows": "to", "from": "Rio", "title": "Rio \u27a1 Grande: 2", "to": "Grande", "value": 20}, {"arrows": "to", "from": "Grande", "title": "Grande \u27a1 got: 2", "to": "got", "value": 20}, {"arrows": "to", "from": "going", "title": "going \u27a1 going: 2", "to": "going", "value": 20}, {"arrows": "to", "from": "going", "title": "going \u27a1 focus: 2", "to": "focus", "value": 20}, {"arrows": "to", "from": "session", "title": "session \u27a1 starting: 2", "to": "starting", "value": 20}, {"arrows": "to", "from": "thank", "title": "thank \u27a1 guys: 2", "to": "guys", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 interested: 2", "to": "interested", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 actually: 2", "to": "actually", "value": 20}, {"arrows": "to", "from": "Actually", "title": "Actually \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "every", "title": "every \u27a1 time: 2", "to": "time", "value": 20}, {"arrows": "to", "from": "actually", "title": "actually \u27a1 really: 2", "to": "really", "value": 20}, {"arrows": "to", "from": "share", "title": "share \u27a1 work: 2", "to": "work", "value": 20}, {"arrows": "to", "from": "write", "title": "write \u27a1 together: 2", "to": "together", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 important: 2", "to": "important", "value": 20}, {"arrows": "to", "from": "one", "title": "one \u27a1 thing: 2", "to": "thing", "value": 20}, {"arrows": "to", "from": "really", "title": "really \u27a1 really: 2", "to": "really", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 really: 2", "to": "really", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 idea: 2", "to": "idea", "value": 20}, {"arrows": "to", "from": "many", "title": "many \u27a1 things: 2", "to": "things", "value": 20}, {"arrows": "to", "from": "know", "title": "know \u27a1 maybe: 2", "to": "maybe", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 people: 2", "to": "people", "value": 20}, {"arrows": "to", "from": "people", "title": "people \u27a1 know: 2", "to": "know", "value": 20}, {"arrows": "to", "from": "amazing", "title": "amazing \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "like", "title": "like \u27a1 think: 2", "to": "think", "value": 20}, {"arrows": "to", "from": "think", "title": "think \u27a1 one: 2", "to": "one", "value": 20}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+        network.on("stabilizationProgress", function(params) {
+      		document.getElementById('loadingBar').removeAttribute("style");
+	        var maxWidth = 496;
+	        var minWidth = 20;
+	        var widthFactor = params.iterations/params.total;
+	        var width = Math.max(minWidth,maxWidth * widthFactor);
+
+	        document.getElementById('bar').style.width = width + 'px';
+	        document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+	    });
+	    network.once("stabilizationIterationsDone", function() {
+	        document.getElementById('text').innerHTML = '100%';
+	        document.getElementById('bar').style.width = '496px';
+	        document.getElementById('loadingBar').style.opacity = 0;
+	        // really clean the dom element
+	        setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+	    });
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

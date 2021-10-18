@@ -1,0 +1,213 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+        #loadingBar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width: 100%;
+            height: 100%;
+            background-color:rgba(200,200,200,0.8);
+            -webkit-transition: all 0.5s ease;
+            -moz-transition: all 0.5s ease;
+            -ms-transition: all 0.5s ease;
+            -o-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+            opacity:1;
+        }
+
+        #bar {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width:20px;
+            height:20px;
+            margin:auto auto auto auto;
+            border-radius:11px;
+            border:2px solid rgba(30,30,30,0.05);
+            background: rgb(0, 173, 246); /* Old browsers */
+            box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+        }
+
+        #border {
+            position:absolute;
+            top:10px;
+            left:10px;
+            width:500px;
+            height:23px;
+            margin:auto auto auto auto;
+            box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+            border-radius:10px;
+        }
+
+        #text {
+            position:absolute;
+            top:8px;
+            left:530px;
+            width:30px;
+            height:50px;
+            margin:auto auto auto auto;
+            font-size:22px;
+            color: #000000;
+        }
+
+        div.outerBorder {
+            position:relative;
+            top:400px;
+            width:600px;
+            height:44px;
+            margin:auto auto auto auto;
+            border:8px solid rgba(0,0,0,0.1);
+            background: rgb(252,252,252); /* Old browsers */
+            background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+            background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+            border-radius:72px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+        }
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+<div id="loadingBar">
+    <div class="outerBorder">
+        <div id="text">0%</div>
+        <div id="border">
+            <div id="bar"></div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "electronic", "label": "electronic", "shape": "dot", "title": "\"electronic\":429", "value": 4290}, {"id": "literature", "label": "literature", "shape": "dot", "title": "\"literature\":657", "value": 6570}, {"id": "little", "label": "little", "shape": "dot", "title": "\"little\":507", "value": 5070}, {"id": "bit", "label": "bit", "shape": "dot", "title": "\"bit\":385", "value": 3850}, {"id": "things", "label": "things", "shape": "dot", "title": "\"things\":1006", "value": 10060}, {"id": "like", "label": "like", "shape": "dot", "title": "\"like\":3391", "value": 33910}, {"id": "would", "label": "would", "shape": "dot", "title": "\"would\":1061", "value": 10610}, {"id": "social", "label": "social", "shape": "dot", "title": "\"social\":251", "value": 2510}, {"id": "media", "label": "media", "shape": "dot", "title": "\"media\":391", "value": 3910}, {"id": "Thank", "label": "Thank", "shape": "dot", "title": "\"Thank\":426", "value": 4260}, {"id": "much", "label": "much", "shape": "dot", "title": "\"much\":741", "value": 7410}, {"id": "know", "label": "know", "shape": "dot", "title": "\"know\":3100", "value": 31000}, {"id": "Conference", "label": "Conference", "shape": "dot", "title": "\"Conference\":128", "value": 1280}, {"id": "Admin", "label": "Admin", "shape": "dot", "title": "\"Admin\":112", "value": 1120}, {"id": "really", "label": "really", "shape": "dot", "title": "\"really\":1276", "value": 12760}, {"id": "interesting", "label": "interesting", "shape": "dot", "title": "\"interesting\":490", "value": 4900}, {"id": "something", "label": "something", "shape": "dot", "title": "\"something\":866", "value": 8660}, {"id": "one", "label": "one", "shape": "dot", "title": "\"one\":1450", "value": 14500}, {"id": "thing", "label": "thing", "shape": "dot", "title": "\"thing\":607", "value": 6070}, {"id": "yeah", "label": "yeah", "shape": "dot", "title": "\"yeah\":1072", "value": 10720}, {"id": "think", "label": "think", "shape": "dot", "title": "\"think\":2332", "value": 23320}, {"id": "gon", "label": "gon", "shape": "dot", "title": "\"gon\":79", "value": 790}, {"id": "na", "label": "na", "shape": "dot", "title": "\"na\":81", "value": 810}, {"id": "feel", "label": "feel", "shape": "dot", "title": "\"feel\":233", "value": 2330}, {"id": "share", "label": "share", "shape": "dot", "title": "\"share\":243", "value": 2430}, {"id": "screen", "label": "screen", "shape": "dot", "title": "\"screen\":268", "value": 2680}, {"id": "thank", "label": "thank", "shape": "dot", "title": "\"thank\":371", "value": 3710}, {"id": "kind", "label": "kind", "shape": "dot", "title": "\"kind\":1684", "value": 16840}, {"id": "say", "label": "say", "shape": "dot", "title": "\"say\":679", "value": 6790}, {"id": "look", "label": "look", "shape": "dot", "title": "\"look\":352", "value": 3520}, {"id": "even", "label": "even", "shape": "dot", "title": "\"even\":466", "value": 4660}, {"id": "though", "label": "though", "shape": "dot", "title": "\"though\":124", "value": 1240}, {"id": "want", "label": "want", "shape": "dot", "title": "\"want\":874", "value": 8740}, {"id": "last", "label": "last", "shape": "dot", "title": "\"last\":257", "value": 2570}, {"id": "year", "label": "year", "shape": "dot", "title": "\"year\":220", "value": 2200}, {"id": "storage", "label": "storage", "shape": "dot", "title": "\"storage\":55", "value": 550}, {"id": "space", "label": "space", "shape": "dot", "title": "\"space\":403", "value": 4030}, {"id": "years", "label": "years", "shape": "dot", "title": "\"years\":233", "value": 2330}, {"id": "ago", "label": "ago", "shape": "dot", "title": "\"ago\":85", "value": 850}, {"id": "right", "label": "right", "shape": "dot", "title": "\"right\":915", "value": 9150}, {"id": "sort", "label": "sort", "shape": "dot", "title": "\"sort\":1289", "value": 12890}, {"id": "different", "label": "different", "shape": "dot", "title": "\"different\":786", "value": 7860}, {"id": "ways", "label": "ways", "shape": "dot", "title": "\"ways\":321", "value": 3210}, {"id": "hyper", "label": "hyper", "shape": "dot", "title": "\"hyper\":73", "value": 730}, {"id": "card", "label": "card", "shape": "dot", "title": "\"card\":65", "value": 650}, {"id": "long", "label": "long", "shape": "dot", "title": "\"long\":174", "value": 1740}, {"id": "time", "label": "time", "shape": "dot", "title": "\"time\":1010", "value": 10100}, {"id": "make", "label": "make", "shape": "dot", "title": "\"make\":507", "value": 5070}, {"id": "sure", "label": "sure", "shape": "dot", "title": "\"sure\":240", "value": 2400}, {"id": "go", "label": "go", "shape": "dot", "title": "\"go\":600", "value": 6000}, {"id": "back", "label": "back", "shape": "dot", "title": "\"back\":373", "value": 3730}, {"id": "also", "label": "also", "shape": "dot", "title": "\"also\":1656", "value": 16560}, {"id": "let", "label": "let", "shape": "dot", "title": "\"let\":354", "value": 3540}, {"id": "see", "label": "see", "shape": "dot", "title": "\"see\":1021", "value": 10210}, {"id": "ahead", "label": "ahead", "shape": "dot", "title": "\"ahead\":63", "value": 630}, {"id": "looks", "label": "looks", "shape": "dot", "title": "\"looks\":69", "value": 690}, {"id": "else", "label": "else", "shape": "dot", "title": "\"else\":135", "value": 1350}, {"id": "first", "label": "first", "shape": "dot", "title": "\"first\":555", "value": 5550}, {"id": "love", "label": "love", "shape": "dot", "title": "\"love\":241", "value": 2410}, {"id": "good", "label": "good", "shape": "dot", "title": "\"good\":354", "value": 3540}, {"id": "Latin", "label": "Latin", "shape": "dot", "title": "\"Latin\":89", "value": 890}, {"id": "American", "label": "American", "shape": "dot", "title": "\"American\":67", "value": 670}, {"id": "five", "label": "five", "shape": "dot", "title": "\"five\":111", "value": 1110}, {"id": "minutes", "label": "minutes", "shape": "dot", "title": "\"minutes\":145", "value": 1450}, {"id": "um", "label": "um", "shape": "dot", "title": "\"um\":388", "value": 3880}, {"id": "lot", "label": "lot", "shape": "dot", "title": "\"lot\":674", "value": 6740}, {"id": "sense", "label": "sense", "shape": "dot", "title": "\"sense\":304", "value": 3040}, {"id": "many", "label": "many", "shape": "dot", "title": "\"many\":412", "value": 4120}, {"id": "people", "label": "people", "shape": "dot", "title": "\"people\":1180", "value": 11800}, {"id": "real", "label": "real", "shape": "dot", "title": "\"real\":202", "value": 2020}, {"id": "well", "label": "well", "shape": "dot", "title": "\"well\":852", "value": 8520}, {"id": "digital", "label": "digital", "shape": "dot", "title": "\"digital\":770", "value": 7700}, {"id": "open", "label": "open", "shape": "dot", "title": "\"open\":244", "value": 2440}, {"id": "source", "label": "source", "shape": "dot", "title": "\"source\":67", "value": 670}, {"id": "ask", "label": "ask", "shape": "dot", "title": "\"ask\":172", "value": 1720}, {"id": "question", "label": "question", "shape": "dot", "title": "\"question\":743", "value": 7430}, {"id": "important", "label": "important", "shape": "dot", "title": "\"important\":284", "value": 2840}, {"id": "culture", "label": "culture", "shape": "dot", "title": "\"culture\":162", "value": 1620}, {"id": "work", "label": "work", "shape": "dot", "title": "\"work\":1327", "value": 13270}, {"id": "going", "label": "going", "shape": "dot", "title": "\"going\":909", "value": 9090}, {"id": "compu", "label": "compu", "shape": "dot", "title": "\"compu\":31", "value": 310}, {"id": "serve", "label": "serve", "shape": "dot", "title": "\"serve\":69", "value": 690}, {"id": "mean", "label": "mean", "shape": "dot", "title": "\"mean\":466", "value": 4660}, {"id": "us", "label": "us", "shape": "dot", "title": "\"us\":764", "value": 7640}, {"id": "way", "label": "way", "shape": "dot", "title": "\"way\":907", "value": 9070}, {"id": "art", "label": "art", "shape": "dot", "title": "\"art\":263", "value": 2630}, {"id": "talk", "label": "talk", "shape": "dot", "title": "\"talk\":410", "value": 4100}, {"id": "video", "label": "video", "shape": "dot", "title": "\"video\":222", "value": 2220}, {"id": "games", "label": "games", "shape": "dot", "title": "\"games\":218", "value": 2180}, {"id": "creative", "label": "creative", "shape": "dot", "title": "\"creative\":163", "value": 1630}, {"id": "writing", "label": "writing", "shape": "dot", "title": "\"writing\":319", "value": 3190}, {"id": "America", "label": "America", "shape": "dot", "title": "\"America\":58", "value": 580}, {"id": "platforms", "label": "platforms", "shape": "dot", "title": "\"platforms\":402", "value": 4020}, {"id": "great", "label": "great", "shape": "dot", "title": "\"great\":286", "value": 2860}, {"id": "literacy", "label": "literacy", "shape": "dot", "title": "\"literacy\":61", "value": 610}, {"id": "United", "label": "United", "shape": "dot", "title": "\"United\":26", "value": 260}, {"id": "States", "label": "States", "shape": "dot", "title": "\"States\":27", "value": 270}, {"id": "humanities", "label": "humanities", "shape": "dot", "title": "\"humanities\":55", "value": 550}, {"id": "kinds", "label": "kinds", "shape": "dot", "title": "\"kinds\":168", "value": 1680}, {"id": "free", "label": "free", "shape": "dot", "title": "\"free\":113", "value": 1130}, {"id": "give", "label": "give", "shape": "dot", "title": "\"give\":231", "value": 2310}, {"id": "oh", "label": "oh", "shape": "dot", "title": "\"oh\":148", "value": 1480}, {"id": "sounds", "label": "sounds", "shape": "dot", "title": "\"sounds\":73", "value": 730}, {"id": "makes", "label": "makes", "shape": "dot", "title": "\"makes\":177", "value": 1770}, {"id": "thinking", "label": "thinking", "shape": "dot", "title": "\"thinking\":455", "value": 4550}, {"id": "interactive", "label": "interactive", "shape": "dot", "title": "\"interactive\":160", "value": 1600}, {"id": "fiction", "label": "fiction", "shape": "dot", "title": "\"fiction\":128", "value": 1280}, {"id": "pretty", "label": "pretty", "shape": "dot", "title": "\"pretty\":107", "value": 1070}, {"id": "wanted", "label": "wanted", "shape": "dot", "title": "\"wanted\":242", "value": 2420}, {"id": "could", "label": "could", "shape": "dot", "title": "\"could\":648", "value": 6480}, {"id": "get", "label": "get", "shape": "dot", "title": "\"get\":701", "value": 7010}, {"id": "fishnet", "label": "fishnet", "shape": "dot", "title": "\"fishnet\":23", "value": 230}, {"id": "stockings", "label": "stockings", "shape": "dot", "title": "\"stockings\":23", "value": 230}, {"id": "computer", "label": "computer", "shape": "dot", "title": "\"computer\":182", "value": 1820}, {"id": "generated", "label": "generated", "shape": "dot", "title": "\"generated\":91", "value": 910}, {"id": "host", "label": "host", "shape": "dot", "title": "\"host\":49", "value": 490}, {"id": "connect", "label": "connect", "shape": "dot", "title": "\"connect\":78", "value": 780}, {"id": "forward", "label": "forward", "shape": "dot", "title": "\"forward\":103", "value": 1030}, {"id": "looking", "label": "looking", "shape": "dot", "title": "\"looking\":237", "value": 2370}, {"id": "put", "label": "put", "shape": "dot", "title": "\"put\":277", "value": 2770}, {"id": "chat", "label": "chat", "shape": "dot", "title": "\"chat\":303", "value": 3030}, {"id": "said", "label": "said", "shape": "dot", "title": "\"said\":275", "value": 2750}, {"id": "San", "label": "San", "shape": "dot", "title": "\"San\":21", "value": 210}, {"id": "Francisco", "label": "Francisco", "shape": "dot", "title": "\"Francisco\":21", "value": 210}, {"id": "post", "label": "post", "shape": "dot", "title": "\"post\":172", "value": 1720}, {"id": "literary", "label": "literary", "shape": "dot", "title": "\"literary\":148", "value": 1480}, {"id": "point", "label": "point", "shape": "dot", "title": "\"point\":325", "value": 3250}, {"id": "view", "label": "view", "shape": "dot", "title": "\"view\":60", "value": 600}, {"id": "seems", "label": "seems", "shape": "dot", "title": "\"seems\":72", "value": 720}, {"id": "come", "label": "come", "shape": "dot", "title": "\"come\":275", "value": 2750}, {"id": "together", "label": "together", "shape": "dot", "title": "\"together\":233", "value": 2330}, {"id": "might", "label": "might", "shape": "dot", "title": "\"might\":373", "value": 3730}, {"id": "behind", "label": "behind", "shape": "dot", "title": "\"behind\":85", "value": 850}, {"id": "scenes", "label": "scenes", "shape": "dot", "title": "\"scenes\":33", "value": 330}, {"id": "maybe", "label": "maybe", "shape": "dot", "title": "\"maybe\":494", "value": 4940}, {"id": "hand", "label": "hand", "shape": "dot", "title": "\"hand\":146", "value": 1460}, {"id": "actually", "label": "actually", "shape": "dot", "title": "\"actually\":686", "value": 6860}, {"id": "narrative", "label": "narrative", "shape": "dot", "title": "\"narrative\":293", "value": 2930}, {"id": "floppy", "label": "floppy", "shape": "dot", "title": "\"floppy\":39", "value": 390}, {"id": "disk", "label": "disk", "shape": "dot", "title": "\"disk\":30", "value": 300}, {"id": "red", "label": "red", "shape": "dot", "title": "\"red\":31", "value": 310}, {"id": "riding", "label": "riding", "shape": "dot", "title": "\"riding\":21", "value": 210}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "electronic", "title": "electronic \u27a1 literature: 309", "to": "literature", "value": 3090}, {"arrows": "to", "from": "little", "title": "little \u27a1 bit: 239", "to": "bit", "value": 2390}, {"arrows": "to", "from": "things", "title": "things \u27a1 like: 140", "to": "like", "value": 1400}, {"arrows": "to", "from": "would", "title": "would \u27a1 like: 132", "to": "like", "value": 1320}, {"arrows": "to", "from": "social", "title": "social \u27a1 media: 127", "to": "media", "value": 1270}, {"arrows": "to", "from": "Thank", "title": "Thank \u27a1 much: 115", "to": "much", "value": 1150}, {"arrows": "to", "from": "like", "title": "like \u27a1 know: 112", "to": "know", "value": 1120}, {"arrows": "to", "from": "Conference", "title": "Conference \u27a1 Admin: 112", "to": "Admin", "value": 1120}, {"arrows": "to", "from": "Admin", "title": "Admin \u27a1 Conference: 108", "to": "Conference", "value": 1080}, {"arrows": "to", "from": "really", "title": "really \u27a1 interesting: 97", "to": "interesting", "value": 970}, {"arrows": "to", "from": "something", "title": "something \u27a1 like: 86", "to": "like", "value": 860}, {"arrows": "to", "from": "one", "title": "one \u27a1 thing: 85", "to": "thing", "value": 850}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 think: 80", "to": "think", "value": 800}, {"arrows": "to", "from": "gon", "title": "gon \u27a1 na: 79", "to": "na", "value": 790}, {"arrows": "to", "from": "know", "title": "know \u27a1 like: 79", "to": "like", "value": 790}, {"arrows": "to", "from": "like", "title": "like \u27a1 like: 75", "to": "like", "value": 750}, {"arrows": "to", "from": "feel", "title": "feel \u27a1 like: 72", "to": "like", "value": 720}, {"arrows": "to", "from": "think", "title": "think \u27a1 think: 68", "to": "think", "value": 680}, {"arrows": "to", "from": "know", "title": "know \u27a1 know: 64", "to": "know", "value": 640}, {"arrows": "to", "from": "share", "title": "share \u27a1 screen: 63", "to": "screen", "value": 630}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 yeah: 63", "to": "yeah", "value": 630}, {"arrows": "to", "from": "thank", "title": "thank \u27a1 much: 63", "to": "much", "value": 630}, {"arrows": "to", "from": "think", "title": "think \u27a1 know: 63", "to": "know", "value": 630}, {"arrows": "to", "from": "know", "title": "know \u27a1 kind: 63", "to": "kind", "value": 630}, {"arrows": "to", "from": "one", "title": "one \u27a1 things: 62", "to": "things", "value": 620}, {"arrows": "to", "from": "would", "title": "would \u27a1 say: 61", "to": "say", "value": 610}, {"arrows": "to", "from": "kind", "title": "kind \u27a1 like: 59", "to": "like", "value": 590}, {"arrows": "to", "from": "look", "title": "look \u27a1 like: 56", "to": "like", "value": 560}, {"arrows": "to", "from": "even", "title": "even \u27a1 though: 55", "to": "though", "value": 550}, {"arrows": "to", "from": "know", "title": "know \u27a1 think: 55", "to": "think", "value": 550}, {"arrows": "to", "from": "like", "title": "like \u27a1 kind: 54", "to": "kind", "value": 540}, {"arrows": "to", "from": "think", "title": "think \u27a1 really: 53", "to": "really", "value": 530}, {"arrows": "to", "from": "want", "title": "want \u27a1 say: 53", "to": "say", "value": 530}, {"arrows": "to", "from": "last", "title": "last \u27a1 year: 50", "to": "year", "value": 500}, {"arrows": "to", "from": "storage", "title": "storage \u27a1 space: 49", "to": "space", "value": 490}, {"arrows": "to", "from": "years", "title": "years \u27a1 ago: 47", "to": "ago", "value": 470}, {"arrows": "to", "from": "right", "title": "right \u27a1 like: 46", "to": "like", "value": 460}, {"arrows": "to", "from": "know", "title": "know \u27a1 sort: 45", "to": "sort", "value": 450}, {"arrows": "to", "from": "different", "title": "different \u27a1 ways: 44", "to": "ways", "value": 440}, {"arrows": "to", "from": "like", "title": "like \u27a1 think: 44", "to": "think", "value": 440}, {"arrows": "to", "from": "hyper", "title": "hyper \u27a1 card: 44", "to": "card", "value": 440}, {"arrows": "to", "from": "long", "title": "long \u27a1 time: 43", "to": "time", "value": 430}, {"arrows": "to", "from": "make", "title": "make \u27a1 sure: 43", "to": "sure", "value": 430}, {"arrows": "to", "from": "sort", "title": "sort \u27a1 like: 43", "to": "like", "value": 430}, {"arrows": "to", "from": "go", "title": "go \u27a1 back: 42", "to": "back", "value": 420}, {"arrows": "to", "from": "think", "title": "think \u27a1 something: 42", "to": "something", "value": 420}, {"arrows": "to", "from": "really", "title": "really \u27a1 really: 41", "to": "really", "value": 410}, {"arrows": "to", "from": "also", "title": "also \u27a1 like: 39", "to": "like", "value": 390}, {"arrows": "to", "from": "let", "title": "let \u27a1 see: 39", "to": "see", "value": 390}, {"arrows": "to", "from": "think", "title": "think \u27a1 kind: 39", "to": "kind", "value": 390}, {"arrows": "to", "from": "go", "title": "go \u27a1 ahead: 38", "to": "ahead", "value": 380}, {"arrows": "to", "from": "looks", "title": "looks \u27a1 like: 38", "to": "like", "value": 380}, {"arrows": "to", "from": "something", "title": "something \u27a1 else: 38", "to": "else", "value": 380}, {"arrows": "to", "from": "know", "title": "know \u27a1 really: 38", "to": "really", "value": 380}, {"arrows": "to", "from": "really", "title": "really \u27a1 like: 37", "to": "like", "value": 370}, {"arrows": "to", "from": "think", "title": "think \u27a1 also: 37", "to": "also", "value": 370}, {"arrows": "to", "from": "first", "title": "first \u27a1 time: 37", "to": "time", "value": 370}, {"arrows": "to", "from": "would", "title": "would \u27a1 love: 36", "to": "love", "value": 360}, {"arrows": "to", "from": "really", "title": "really \u27a1 good: 36", "to": "good", "value": 360}, {"arrows": "to", "from": "Latin", "title": "Latin \u27a1 American: 36", "to": "American", "value": 360}, {"arrows": "to", "from": "also", "title": "also \u27a1 think: 35", "to": "think", "value": 350}, {"arrows": "to", "from": "five", "title": "five \u27a1 minutes: 35", "to": "minutes", "value": 350}, {"arrows": "to", "from": "um", "title": "um \u27a1 yeah: 35", "to": "yeah", "value": 350}, {"arrows": "to", "from": "like", "title": "like \u27a1 really: 35", "to": "really", "value": 350}, {"arrows": "to", "from": "think", "title": "think \u27a1 lot: 34", "to": "lot", "value": 340}, {"arrows": "to", "from": "make", "title": "make \u27a1 sense: 34", "to": "sense", "value": 340}, {"arrows": "to", "from": "many", "title": "many \u27a1 people: 33", "to": "people", "value": 330}, {"arrows": "to", "from": "people", "title": "people \u27a1 know: 33", "to": "know", "value": 330}, {"arrows": "to", "from": "real", "title": "real \u27a1 time: 33", "to": "time", "value": 330}, {"arrows": "to", "from": "well", "title": "well \u27a1 know: 33", "to": "know", "value": 330}, {"arrows": "to", "from": "people", "title": "people \u27a1 like: 33", "to": "like", "value": 330}, {"arrows": "to", "from": "one", "title": "one \u27a1 one: 32", "to": "one", "value": 320}, {"arrows": "to", "from": "would", "title": "would \u27a1 would: 32", "to": "would", "value": 320}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 media: 32", "to": "media", "value": 320}, {"arrows": "to", "from": "many", "title": "many \u27a1 different: 32", "to": "different", "value": 320}, {"arrows": "to", "from": "think", "title": "think \u27a1 like: 32", "to": "like", "value": 320}, {"arrows": "to", "from": "know", "title": "know \u27a1 one: 32", "to": "one", "value": 320}, {"arrows": "to", "from": "open", "title": "open \u27a1 source: 32", "to": "source", "value": 320}, {"arrows": "to", "from": "think", "title": "think \u27a1 one: 31", "to": "one", "value": 310}, {"arrows": "to", "from": "ask", "title": "ask \u27a1 question: 31", "to": "question", "value": 310}, {"arrows": "to", "from": "think", "title": "think \u27a1 important: 31", "to": "important", "value": 310}, {"arrows": "to", "from": "like", "title": "like \u27a1 one: 31", "to": "one", "value": 310}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 culture: 31", "to": "culture", "value": 310}, {"arrows": "to", "from": "work", "title": "work \u27a1 know: 31", "to": "know", "value": 310}, {"arrows": "to", "from": "think", "title": "think \u27a1 would: 31", "to": "would", "value": 310}, {"arrows": "to", "from": "know", "title": "know \u27a1 people: 30", "to": "people", "value": 300}, {"arrows": "to", "from": "um", "title": "um \u27a1 think: 30", "to": "think", "value": 300}, {"arrows": "to", "from": "sort", "title": "sort \u27a1 know: 30", "to": "know", "value": 300}, {"arrows": "to", "from": "know", "title": "know \u27a1 going: 30", "to": "going", "value": 300}, {"arrows": "to", "from": "compu", "title": "compu \u27a1 serve: 30", "to": "serve", "value": 300}, {"arrows": "to", "from": "want", "title": "want \u27a1 thank: 29", "to": "thank", "value": 290}, {"arrows": "to", "from": "first", "title": "first \u27a1 one: 29", "to": "one", "value": 290}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 know: 29", "to": "know", "value": 290}, {"arrows": "to", "from": "people", "title": "people \u27a1 would: 29", "to": "would", "value": 290}, {"arrows": "to", "from": "yeah", "title": "yeah \u27a1 Thank: 28", "to": "Thank", "value": 280}, {"arrows": "to", "from": "work", "title": "work \u27a1 also: 28", "to": "also", "value": 280}, {"arrows": "to", "from": "say", "title": "say \u27a1 know: 28", "to": "know", "value": 280}, {"arrows": "to", "from": "mean", "title": "mean \u27a1 think: 28", "to": "think", "value": 280}, {"arrows": "to", "from": "think", "title": "think \u27a1 sort: 27", "to": "sort", "value": 270}, {"arrows": "to", "from": "know", "title": "know \u27a1 something: 27", "to": "something", "value": 270}, {"arrows": "to", "from": "um", "title": "um \u27a1 know: 27", "to": "know", "value": 270}, {"arrows": "to", "from": "us", "title": "us \u27a1 think: 27", "to": "think", "value": 270}, {"arrows": "to", "from": "way", "title": "way \u27a1 know: 27", "to": "know", "value": 270}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 art: 27", "to": "art", "value": 270}, {"arrows": "to", "from": "talk", "title": "talk \u27a1 little: 27", "to": "little", "value": 270}, {"arrows": "to", "from": "things", "title": "things \u27a1 think: 26", "to": "think", "value": 260}, {"arrows": "to", "from": "Thank", "title": "Thank \u27a1 thank: 26", "to": "thank", "value": 260}, {"arrows": "to", "from": "think", "title": "think \u27a1 interesting: 26", "to": "interesting", "value": 260}, {"arrows": "to", "from": "video", "title": "video \u27a1 games: 26", "to": "games", "value": 260}, {"arrows": "to", "from": "kind", "title": "kind \u27a1 know: 26", "to": "know", "value": 260}, {"arrows": "to", "from": "right", "title": "right \u27a1 know: 26", "to": "know", "value": 260}, {"arrows": "to", "from": "creative", "title": "creative \u27a1 writing: 26", "to": "writing", "value": 260}, {"arrows": "to", "from": "Latin", "title": "Latin \u27a1 America: 26", "to": "America", "value": 260}, {"arrows": "to", "from": "lot", "title": "lot \u27a1 people: 26", "to": "people", "value": 260}, {"arrows": "to", "from": "media", "title": "media \u27a1 platforms: 25", "to": "platforms", "value": 250}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 literature: 25", "to": "literature", "value": 250}, {"arrows": "to", "from": "really", "title": "really \u27a1 great: 25", "to": "great", "value": 250}, {"arrows": "to", "from": "like", "title": "like \u27a1 see: 25", "to": "see", "value": 250}, {"arrows": "to", "from": "know", "title": "know \u27a1 would: 25", "to": "would", "value": 250}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 literacy: 25", "to": "literacy", "value": 250}, {"arrows": "to", "from": "something", "title": "something \u27a1 know: 25", "to": "know", "value": 250}, {"arrows": "to", "from": "like", "title": "like \u27a1 sort: 25", "to": "sort", "value": 250}, {"arrows": "to", "from": "work", "title": "work \u27a1 think: 25", "to": "think", "value": 250}, {"arrows": "to", "from": "want", "title": "want \u27a1 talk: 25", "to": "talk", "value": 250}, {"arrows": "to", "from": "United", "title": "United \u27a1 States: 25", "to": "States", "value": 250}, {"arrows": "to", "from": "digital", "title": "digital \u27a1 humanities: 24", "to": "humanities", "value": 240}, {"arrows": "to", "from": "let", "title": "let \u27a1 say: 24", "to": "say", "value": 240}, {"arrows": "to", "from": "different", "title": "different \u27a1 things: 24", "to": "things", "value": 240}, {"arrows": "to", "from": "much", "title": "much \u27a1 time: 23", "to": "time", "value": 230}, {"arrows": "to", "from": "kinds", "title": "kinds \u27a1 things: 23", "to": "things", "value": 230}, {"arrows": "to", "from": "going", "title": "going \u27a1 share: 23", "to": "share", "value": 230}, {"arrows": "to", "from": "think", "title": "think \u27a1 going: 23", "to": "going", "value": 230}, {"arrows": "to", "from": "feel", "title": "feel \u27a1 free: 23", "to": "free", "value": 230}, {"arrows": "to", "from": "give", "title": "give \u27a1 us: 23", "to": "us", "value": 230}, {"arrows": "to", "from": "like", "title": "like \u27a1 oh: 23", "to": "oh", "value": 230}, {"arrows": "to", "from": "know", "title": "know \u27a1 mean: 23", "to": "mean", "value": 230}, {"arrows": "to", "from": "many", "title": "many \u27a1 ways: 23", "to": "ways", "value": 230}, {"arrows": "to", "from": "sounds", "title": "sounds \u27a1 like: 23", "to": "like", "value": 230}, {"arrows": "to", "from": "makes", "title": "makes \u27a1 sense: 23", "to": "sense", "value": 230}, {"arrows": "to", "from": "thinking", "title": "thinking \u27a1 like: 23", "to": "like", "value": 230}, {"arrows": "to", "from": "like", "title": "like \u27a1 ask: 22", "to": "ask", "value": 220}, {"arrows": "to", "from": "different", "title": "different \u27a1 way: 22", "to": "way", "value": 220}, {"arrows": "to", "from": "lot", "title": "lot \u27a1 time: 22", "to": "time", "value": 220}, {"arrows": "to", "from": "lot", "title": "lot \u27a1 work: 22", "to": "work", "value": 220}, {"arrows": "to", "from": "going", "title": "going \u27a1 back: 22", "to": "back", "value": 220}, {"arrows": "to", "from": "things", "title": "things \u27a1 know: 22", "to": "know", "value": 220}, {"arrows": "to", "from": "interactive", "title": "interactive \u27a1 fiction: 22", "to": "fiction", "value": 220}, {"arrows": "to", "from": "also", "title": "also \u27a1 something: 22", "to": "something", "value": 220}, {"arrows": "to", "from": "pretty", "title": "pretty \u27a1 much: 22", "to": "much", "value": 220}, {"arrows": "to", "from": "wanted", "title": "wanted \u27a1 say: 22", "to": "say", "value": 220}, {"arrows": "to", "from": "good", "title": "good \u27a1 question: 22", "to": "question", "value": 220}, {"arrows": "to", "from": "could", "title": "could \u27a1 get: 22", "to": "get", "value": 220}, {"arrows": "to", "from": "kind", "title": "kind \u27a1 thing: 22", "to": "thing", "value": 220}, {"arrows": "to", "from": "fishnet", "title": "fishnet \u27a1 stockings: 22", "to": "stockings", "value": 220}, {"arrows": "to", "from": "computer", "title": "computer \u27a1 generated: 22", "to": "generated", "value": 220}, {"arrows": "to", "from": "host", "title": "host \u27a1 connect: 22", "to": "connect", "value": 220}, {"arrows": "to", "from": "look", "title": "look \u27a1 forward: 21", "to": "forward", "value": 210}, {"arrows": "to", "from": "people", "title": "people \u27a1 want: 21", "to": "want", "value": 210}, {"arrows": "to", "from": "know", "title": "know \u27a1 could: 21", "to": "could", "value": 210}, {"arrows": "to", "from": "see", "title": "see \u27a1 screen: 21", "to": "screen", "value": 210}, {"arrows": "to", "from": "looking", "title": "looking \u27a1 forward: 21", "to": "forward", "value": 210}, {"arrows": "to", "from": "put", "title": "put \u27a1 chat: 21", "to": "chat", "value": 210}, {"arrows": "to", "from": "know", "title": "know \u27a1 work: 21", "to": "work", "value": 210}, {"arrows": "to", "from": "like", "title": "like \u27a1 said: 21", "to": "said", "value": 210}, {"arrows": "to", "from": "could", "title": "could \u27a1 could: 21", "to": "could", "value": 210}, {"arrows": "to", "from": "going", "title": "going \u27a1 go: 21", "to": "go", "value": 210}, {"arrows": "to", "from": "question", "title": "question \u27a1 like: 21", "to": "like", "value": 210}, {"arrows": "to", "from": "time", "title": "time \u27a1 know: 21", "to": "know", "value": 210}, {"arrows": "to", "from": "many", "title": "many \u27a1 things: 21", "to": "things", "value": 210}, {"arrows": "to", "from": "time", "title": "time \u27a1 like: 21", "to": "like", "value": 210}, {"arrows": "to", "from": "San", "title": "San \u27a1 Francisco: 21", "to": "Francisco", "value": 210}, {"arrows": "to", "from": "post", "title": "post \u27a1 literary: 21", "to": "literary", "value": 210}, {"arrows": "to", "from": "point", "title": "point \u27a1 view: 20", "to": "view", "value": 200}, {"arrows": "to", "from": "seems", "title": "seems \u27a1 like: 20", "to": "like", "value": 200}, {"arrows": "to", "from": "different", "title": "different \u27a1 kind: 20", "to": "kind", "value": 200}, {"arrows": "to", "from": "come", "title": "come \u27a1 together: 20", "to": "together", "value": 200}, {"arrows": "to", "from": "well", "title": "well \u27a1 think: 20", "to": "think", "value": 200}, {"arrows": "to", "from": "question", "title": "question \u27a1 think: 20", "to": "think", "value": 200}, {"arrows": "to", "from": "say", "title": "say \u27a1 like: 20", "to": "like", "value": 200}, {"arrows": "to", "from": "think", "title": "think \u27a1 yeah: 20", "to": "yeah", "value": 200}, {"arrows": "to", "from": "know", "title": "know \u27a1 might: 20", "to": "might", "value": 200}, {"arrows": "to", "from": "different", "title": "different \u27a1 kinds: 20", "to": "kinds", "value": 200}, {"arrows": "to", "from": "work", "title": "work \u27a1 well: 20", "to": "well", "value": 200}, {"arrows": "to", "from": "behind", "title": "behind \u27a1 scenes: 20", "to": "scenes", "value": 200}, {"arrows": "to", "from": "think", "title": "think \u27a1 maybe: 20", "to": "maybe", "value": 200}, {"arrows": "to", "from": "one", "title": "one \u27a1 hand: 20", "to": "hand", "value": 200}, {"arrows": "to", "from": "think", "title": "think \u27a1 could: 20", "to": "could", "value": 200}, {"arrows": "to", "from": "like", "title": "like \u27a1 well: 20", "to": "well", "value": 200}, {"arrows": "to", "from": "think", "title": "think \u27a1 actually: 20", "to": "actually", "value": 200}, {"arrows": "to", "from": "want", "title": "want \u27a1 make: 20", "to": "make", "value": 200}, {"arrows": "to", "from": "also", "title": "also \u27a1 want: 20", "to": "want", "value": 200}, {"arrows": "to", "from": "could", "title": "could \u27a1 talk: 20", "to": "talk", "value": 200}, {"arrows": "to", "from": "interactive", "title": "interactive \u27a1 narrative: 20", "to": "narrative", "value": 200}, {"arrows": "to", "from": "also", "title": "also \u27a1 know: 20", "to": "know", "value": 200}, {"arrows": "to", "from": "floppy", "title": "floppy \u27a1 disk: 20", "to": "disk", "value": 200}, {"arrows": "to", "from": "red", "title": "red \u27a1 riding: 20", "to": "riding", "value": 200}, {"arrows": "to", "from": "way", "title": "way \u27a1 think: 20", "to": "think", "value": 200}, {"arrows": "to", "from": "also", "title": "also \u27a1 kind: 19", "to": "kind", "value": 190}, {"arrows": "to", "from": "could", "title": "could \u27a1 see: 19", "to": "see", "value": 190}, {"arrows": "to", "from": "let", "title": "let \u27a1 let: 19", "to": "let", "value": 190}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+        network.on("stabilizationProgress", function(params) {
+      		document.getElementById('loadingBar').removeAttribute("style");
+	        var maxWidth = 496;
+	        var minWidth = 20;
+	        var widthFactor = params.iterations/params.total;
+	        var width = Math.max(minWidth,maxWidth * widthFactor);
+
+	        document.getElementById('bar').style.width = width + 'px';
+	        document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+	    });
+	    network.once("stabilizationIterationsDone", function() {
+	        document.getElementById('text').innerHTML = '100%';
+	        document.getElementById('bar').style.width = '496px';
+	        document.getElementById('loadingBar').style.opacity = 0;
+	        // really clean the dom element
+	        setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+	    });
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
