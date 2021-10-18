@@ -1,0 +1,178 @@
+00:27:29	Jeremy Hight:	go team re verb      happy to advising
+00:27:37	Jeremy Hight:	to be
+00:30:58	Andrew Klobucar:	You might be e-lit and not even know it…
+00:32:30	Anna Nacher:	you don’t know you spoke e-lit the whole life
+00:32:51	Jeremy Hight:	will be interested in also  works not under the specific umbrella but of its parameters....architecture, semiotics,  spatial study,  poetics
+00:33:01	Scott Rettberg:	Awesome!
+00:33:02	Melinda White (she/her):	Student work?
+00:33:05	Jeremy Hight:	e lit?  you are soaking in it
+00:33:11	Jeremy Hight:	yes student work absolutely
+00:33:18	Anna Nacher:	drenched in e-lit
+00:33:35	Melinda White (she/her):	immersed. Digitally swimming in it
+00:33:42	Sarah Ciston (she/they):	So thrilled to hear about this and to share this with select students and colleagues <3
+00:33:47	Johannah Rodgers:	I worked on a site-specific writing project in 2016 in a park in NE Brooklyn that I’d love to consider remixing and updating for reverb!
+00:34:11	Johannah Rodgers:	This is great!
+00:34:19	Siobhan O'Flynn:	Exciting!
+00:34:20	Davin Heckman:	Love this!  Very excited!
+00:34:21	Jeremy Hight:	johannah  that sounds amazing
+00:34:30	Melinda White (she/her):	Great, thank you!
+00:34:33	Anna Nacher:	thrilled to hear about this, right up my alley :-)
+00:35:07	Jeremy Hight:	excellent
+00:35:12	Andrew Klobucar:	Sounds like a great opportunity! Thanks AD and the reVerbers
+00:35:34	Scott Rettberg:	Yay!
+00:36:05	Jeremy Hight:	google map augmentations?
+00:36:13	Jeremy Hight:	yess
+00:39:24	Davin Heckman:	Never saw thinglink before…. Super fun
+00:40:17	Johannah Rodgers:	https://www.thinglink.com/
+00:40:45	Scott Rettberg:	I love all of thins innovative use of freely available and accessible tools. Wonderful way to do an e-lit class!
+00:41:14	Johannah Rodgers:	What is the name of the timeline tool?
+00:41:43	Inge van de Ven:	Amazing work, I loved reading your paper, esp the way Twine accommodates marginalized narratives.
+00:41:44	Siobhan O'Flynn:	thank you!
+00:41:55	Melinda White (she/her):	https://knightlab.northwestern.edu/
+00:42:00	Maria Mencia:	Melinda, can you add the link to the works again? I can’t see it in the chat
+00:42:00	Johannah Rodgers:	thank you!
+00:42:11	Melinda White (she/her):	It’s a knightlab tool
+00:42:46	Jeremy Hight:	uc santa Barbara  cool....near me ish    my friend just got his phd there
+00:43:03	Melinda White (she/her):	This should have links on the screenshots and links to all the platforms as well!
+00:43:10	Siobhan O'Flynn:	Nice!
+00:43:26	Maria Mencia:	Excellent! Great tools.
+00:47:59	Melinda White (she/her):	Great!
+00:48:38	Andrew Demirjian he/him:	Link to (RE)VERB call
+https://www.gesso.app/reverb
+
+email us if you have a question
+reverbAudioARzine@gmail.com
+00:49:03	Jeremy Hight:	Andrew how has the sense of space and sound first driven your proposal and evolved in the process thus far?
+00:50:04	Jeremy Hight:	I can read a novel in a few hours.. a blessing and a curse
+00:52:57	Scott Rettberg:	:  )
+00:54:33	Scott Rettberg:	Great comment though, Margie!
+00:54:44	Jeremy Hight:	my e lit and critical thinking students really respond to :  Garfield without Garfield, Nietzsche family circus and choose your own adventure books
+00:57:04	Andrew Klobucar:	Newark has quite a history!
+00:58:09	Jeremy Hight:	http://www.nietzschefamilycircus.com/
+00:58:30	Jeremy Hight:	randomly combines family circus cartoon and nietzsche
+00:59:00	Sarah Ciston (she/they):	would help write / would buy that collection, I’ll second that
+00:59:15	Anna Nacher:	Great idea indeed.
+01:00:40	Andrew Demirjian he/him:	Maybe something like this for Scott’s book
+01:00:43	Andrew Demirjian he/him:	https://www.penguinrandomhouse.com/books/669487/code-as-creative-medium-by-golan-levin-and-tega-brain/
+01:01:27	Jeremy Hight:	ah locative narrative  my baby
+01:01:28	Johannah Rodgers:	@andrewD That would be great!  It can be housed on the ELO website.
+01:02:38	Jeremy Hight:	great question...been interesting seeing locative works change since mine back in 2001  in the old days
+01:04:58	Jeremy Hight:	exactly  with  34 north  118 west we wanted a more gestural interface but was not possible...I called it the bowling alley conundrum
+01:05:15	Melinda White (she/her):	it’s so fun to see them take off with the branching narratives in Twine!
+01:09:20	Jennifer Dellner:	I wonder if Anna’s question also has to do with Inge’s paper: do students of print literature, even experimental literature, have a specific sense of attention modulation driven by an assumed, sub-conscious sense of rules of notice that they have absorbed over time?
+01:09:34	Sarah Ciston (she/they):	I love this question. With teaching beginning coders and hybrid lit, I try to share my own skepticism and fears; and then actually go deeper into that conversation, what is the criteria, what are the gatekeepers, what are the approaches that help lower the barriers, etc.
+01:09:51	Johannah Rodgers:	@Jennifer +1
+01:10:22	Patrick Lichty:	For my e-lit projects in the UAE, I only had Animation, Fine Art and Interior design majors
+01:10:30	Inge van de Ven:	interesting suggestion Jennifer! I actuallythink they do
+01:11:10	Patrick Lichty:	I just gave them different sorts of sotrytelling relevant to their majors. Went well.
+01:12:14	Anna Nacher:	Yes, Jennifer is spot on - it may be more difficult to unteach them literary than teach e-lit
+01:12:31	Melinda White (she/her):	The narrative arc is strongly ingrained
+01:13:01	Anna Nacher:	so to reconfigure the question: do we have any tools so that students could unlearn better :-)
+01:13:30	Johannah Rodgers:	@Anna your question makes me wonder if may be best not to separate elit from print-based literature that is “media aware”
+01:14:06	Anna Nacher:	but their whole training is based on such a separation
+01:14:08	Jeremy Hight:	perhaps  to unlearn  purely external complication as narrative
+01:14:13	Andrew Demirjian he/him:	My thought on Anna’s question is that if you can use examples from games or situations that they can relate to and then show how an e-lit experimental idea can be seen in contemporary texts
+01:14:17	Anna Nacher:	that’s why I’m saying about unteaching and unlearning
+01:14:18	Andrew Klobucar:	Very interesting question: does interactivity as a narrative component play into this question: Gamers tend to say the works don’t play as well as they are used to; while literary students say they are too interactive…
+01:14:40	Jennifer Dellner:	@Andrew K: yes, exactly. I think it does
+01:14:46	Jeremy Hight:	my students increasingly have ingrained a sense of quest as narrative
+01:15:04	Jeremy Hight:	it is problematic
+01:15:08	Jennifer Dellner:	Yes, Jeremy: they are flummoxed without a quest!
+01:15:12	Andrew Klobucar:	I’ve had better success by making interactivity a focus to be analyzed
+01:15:24	Patrick Lichty:	What is your favorite color?
+01:15:35	Jeremy Hight:	mauve
+01:15:41	Anna Nacher:	fuchsia
+01:15:53	Andrew Klobucar:	brown
+01:15:59	Patrick Lichty:	You may pass!
+01:16:46	Anna Nacher:	Pass for what?
+01:17:40	Johannah Rodgers:	@Anna certainly, but that is based on a specific cultural narrative around what literary study is; if you started the course with Aarseth’s “cybertext” as a frame, you could potentially alter the cultural narrative around literature as a print based discipline or around interactivity as the domain of electronic media
+01:19:04	Anna Nacher:	I eventually did that; my questions are also rhetoric to some extent - I think we too often assume the students would be necessarily thrilled by e-lit :-)
+01:19:05	talia devanadero:	re: Andrew's comment on making interactivity a focus to be analyzed:i'm an undergrad, but my high school English curriculum was very traditionalwe did, however, talk about reader-response theory and interactivity, and it was very helpful in distancing our analysis from things like the hero's journey and metaphor into how medium shapes our takeaways
+01:19:18	Johannah Rodgers:	lol
+01:20:36	Carlota Salvador Megias:	@agnieszka, i really like the way you set up your course! (esp. the idea of tracing how we get from “traditional” literary uses of maps to the ways we use maps to storytell in elit)
+01:20:40	Anna Nacher:	And the funniest outcome of this problematic class was their final project - a wonderful Twine interactive story that could be published, no doubt about it :-)
+01:20:47	Davin Heckman:	That is helpful, Johanna, Anna, Talia…
+01:21:21	Agnieszka Przybyszewska:	@thanks Carlota!
+01:21:22	Andrew Demirjian he/him:	context collapse - Danah Boyd I believe
+01:21:27	Johannah Rodgers:	@anna fascinating!
+01:21:50	Agnieszka Przybyszewska:	@Anna - and it is a wonderful text :-)
+01:21:52	Anna Nacher:	I guess my point is we don’t talk about problems often enough - the reaction of the class came as a surprise to me and to my guests :-) which in the end proved to be a very creative situation
+01:22:57	Jeremy Hight:	my friend years ago in her ma  in creative writing taught  a course that was boot camp for young writers...  was controversial but was basically why why why    before ok go
+01:23:07	Melinda White (she/her):	My students love The Fall because they can swipe
+01:23:20	Anna Nacher:	as creativity is often strongly connected to a bit of tension in the classroom :-) I just realized how we tend to stick to the comfortable, even when teaching uncomfortable avant-garde :-)
+01:23:21	talia devanadero:	i feel very called out as one of these gen z students with split screen tabs open
+01:23:33	Andrew Klobucar:	I agree… Anna; it’s a ripe area for exploration…
+01:23:47	Jennifer Dellner:	So true
+01:24:00	Johannah Rodgers:	@talia fear not!  I would imagine just about everyone in this seminar has more than 20 tabs open.
+01:24:04	Melinda White (she/her):	Yes, they need to be a bit uncomfortable/vulnerable
+01:24:12	Inge van de Ven:	but even in  browsing social media there must be some rhythm, and maybe some kind of 'Punctum' where your eye lands on a certain snippet of info and you get sucked in?
+01:24:26	Jeremy Hight:	I have twenty tabs open in each of two browsers right now
+01:24:28	Anna Nacher:	and we need to be a bit vulnerable/uncomfortable I guess :-)
+01:24:47	Jennifer Dellner:	@Inge: Concept of a “punctum” seems important here; agreed
+01:24:48	Melinda White (she/her):	haha yes. always
+01:25:00	Andrew Klobucar:	In the 1990s, I always closed my tabs… now it’s gone to hell…
+01:25:15	Davin Heckman:	I do think that question of vulnerability is very important!
+01:25:27	Agnieszka Przybyszewska:	@Anna, students of Polish literature link e-lit to blogs and Shuty's "Blok". If they are studing literature and prefer literary storytelling that games/movies you need to start with showing how literariness can still exist in new media environment. Otherway they will say "no" to everything. It is also problem of lack of good "literary" e-lit examples you can use in class.
+01:26:33	Anna Nacher:	@Agnieszka, the problem is not about the lack of “literary” e-lit but about the very concept of what counts as “literary” as you know all too well
+01:26:53	Christopher C. Odom (He/Him/His♂️):	Engagement = [Audience x Desire] / [Creative Intent x Design]
+01:27:24	Andrew Klobucar:	Close vs distant reading was a popular discussion topic in the aughts…
+01:27:39	Jeremy Hight:	I had students tell me  story of an hour  by kate chopin was too long...our copy was two pages
+01:28:54	Johannah Rodgers:	Re: this topic of reading and distraction, I always find Hayle’s 2010 essay “How We Read: Close, Hyper, Machine”: https://www.ade.mla.org/bulletin/article/ade.150.62
+01:29:16	Jeremy Hight:	as  a young multimedia prof I had my class watch koyanasqatsi in full no breaks  in a bungalow in july with no a.c   I should send them sympathy cards
+01:29:52	Inge van de Ven:	well said
+01:30:06	Davin Heckman:	I think a lot of attention is being channelled into conspiracy….
+01:30:23	Davin Heckman:	If only people read Pynchon or something.
+01:30:26	Jennifer Dellner:	I didn’t mean to suggest that Oh, kids these days, no attention. I was more interested in how print  (any kind of print) modulates attention/presents different rules of notice than  e-lit, any kind of elit.
+01:30:27	Jeremy Hight:	this is becoming a very therapeutic discussion
+01:30:46	Jeremy Hight:	in the best way
+01:30:50	Jennifer Dellner:	Lol, David, Pynchon
+01:30:57	Jennifer Dellner:	*Davin
+01:31:12	Davin Heckman:	;)
+01:31:40	Laura Hyunjhee Kim (she/her):	+1 @Jeremy “therapeutic” — also have held a similar @koyanasqatsi exercise in class before lol
+01:31:41	Jeremy Hight:	gravity's rainbow to be read by day one and performed with puppets
+01:31:51	Johannah Rodgers:	http://www.stephaniestrickland.com/vniverse
+01:31:53	Jeremy Hight:	lol  nice
+01:32:30	Melinda White (she/her):	My favorite class I taught in grad school was pomo and e-lit structure, all Pynchon and Cortazar alongside the e-lit.
+01:32:47	Andrew Klobucar:	Finnegans wake with non-stop Irish Whiskey
+01:32:56	Anna Nacher:	<3 Stephanie
+01:32:57	Laura Hyunjhee Kim (she/her):	“Honors different languages that resonate with you” — love <3
+01:33:03	Jeremy Hight:	cortazar  that sounds amazing
+01:33:36	Jennifer Dellner:	@Andrew K: you’re on. There is also a Finnegan’s wake Twitter and it is so odd to experience it chopped up that way
+01:34:07	Johannah Rodgers:	https://w.itch.io/end-of-the-world
+01:34:16	talia devanadero:	my class also looked at queers in love at the end of the world, it certainly left an impression
+01:34:18	Davin Heckman:	To reflect on your comment Stephanie…. I’d be interested in knowing how many print writers are also very open to how people might read their work.  So many reading habits that people have.
+01:34:31	Jeremy Hight:	my friend tim wright places Joyce in a google map of Dublin....forget the link now
+01:34:56	Anna Nacher:	Thank you, all for such an interesting discussion, gotta go!
+01:34:59	Melinda White (she/her):	digital Dubliners?
+01:35:08	Johannah Rodgers:	Bye @Anna!  Great to see you!!!!!
+01:35:11	Siobhan O'Flynn:	https://philome.la/Twinegames2017U/sirens-song/index.html
+01:35:22	Anna Nacher:	Bye @JOhannah, likewise!
+01:35:23	Andrew Klobucar:	See you @Anna. Very good to see you
+01:35:36	Anna Nacher:	Great to see you, @Andrew
+01:35:41	Agnieszka Przybyszewska:	See you @Anna. Good to see you
+01:37:17	Andrew Klobucar:	Reminds me of that YouTube video where a monk tries to make sense of a print book, not knowing how to “work it”
+01:37:50	Johannah Rodgers:	It is too bad that George is not here since I believe he was going to present on Netflix as elit?
+01:38:00	Jennifer Dellner:	Yes, he was.
+01:38:10	Christopher C. Odom (He/Him/His♂️):	I was looking forward to George’s presentation.
+01:38:17	Melinda White (she/her):	Yes! I watched that Kimmy Scmidt show. haha
+01:38:27	Astrid:	Me too, @Christopher
+01:38:33	Johannah Rodgers:	I like to think of Netflix as a 21st c. recreation of serialized fiction in the 19th c.
+01:39:08	talia devanadero:	https://nickm.com/laufer_montfort/the_bug/index.html
+01:39:39	Siobhan O'Flynn:	Melinda - we look at Cortazar, “A Continuity of Parks”
+01:39:41	Inge van de Ven:	excellent point Talia! I think there's something to experiences that are not 'on demand' that can be very powerful
+01:39:43	Andrew Klobucar:	Good insights, Talia.
+01:40:02	Jennifer Dellner:	Thank you, Talia!
+01:40:02	Melinda White (she/her):	Siobhan, I love that one! I taught Hopscotch a couple of times, I love it!
+01:40:08	Siobhan O'Flynn:	Nice!
+01:40:41	Jennifer Dellner:	I am laughing, though, @Talia, because you only think you can watch whatever you want when you want: so much disappears from streaming suddenly and then there is a scramble to find it elsewhere
+01:40:55	Johannah Rodgers:	Thanks everyone!
+01:40:56	Amanda Hodes:	Thanks everyone! This was great
+01:40:57	Agnieszka Przybyszewska:	wonderful pane, thanks for the discusion!
+01:41:00	talia devanadero:	@jennifer that's the case with fanfic ;)
+01:41:04	Andrew Demirjian he/him:	thank you devin
+01:41:13	Melinda White (she/her):	Thank you Devin and everyone!
+01:41:18	Jeremy Hight:	I made a free nft of Kafka's metamorphosis as a conversation with alexa
+01:41:28	Siobhan O'Flynn:	I have ti jump into a meeting!
+01:41:35	Siobhan O'Flynn:	Thank you!
+01:41:37	Davin Heckman:	Thank you, everyone!
+01:41:45	Jennifer Dellner:	Thank you!

@@ -1,0 +1,1166 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.000
+Yeah, we already know
+
+00:00:00.000 --> 00:00:00.000
+this year.
+
+00:00:00.000 --> 00:00:00.000
+Yeah. Let's start.
+
+00:00:00.000 --> 00:00:04.000
+Are you ready, they're asking to us.
+
+00:00:04.000 --> 00:00:13.000
+Cool.
+
+00:00:13.000 --> 00:00:41.000
+Okay, so now we need to be shown the genome.
+
+00:00:41.000 --> 00:00:50.000
+Are we still waiting for the jingle, or did it already. It already happened. Okay, sorry.
+
+00:00:50.000 --> 00:00:54.000
+Okay, I'm going to stop sharing my screen then.
+
+00:00:54.000 --> 00:00:57.000
+Sorry about that.
+
+00:00:57.000 --> 00:01:07.000
+Okay, I'm gonna start presenting.
+
+00:01:07.000 --> 00:01:10.000
+Okay.
+
+00:01:10.000 --> 00:01:16.000
+So, can everybody see my presentation now without the speaker notes.
+
+00:01:16.000 --> 00:01:31.000
+Yeah. Okay, good. Um, so yes hello everybody welcome to this session. Thank you all for being here. I know it's not self evident on the afternoon of the third day of a conference.
+
+00:01:31.000 --> 00:01:39.000
+We will try to make it as interesting as we can. And it's much appreciated that you are all here.
+
+00:01:39.000 --> 00:01:51.000
+We are going to have a roundtable discussion, a virtual round table discussion on the design of CO creative online workshops.
+
+00:01:51.000 --> 00:02:15.000
+And just a brief introduction. My name is Steven, and my co presenters actually the main presenters are Karina admin and Venus US market, who are both game designers interaction designers performers designers in a general sense, we are all associated
+
+00:02:15.000 --> 00:02:24.000
+with Lucas School of Arts in Belgium. At the interactions. Research Unit.
+
+00:02:24.000 --> 00:02:47.000
+Practically, we will be discussing a number of online activities, events, workshops that we've been organizing throughout the covert year and discuss the design of these workshops, some techniques that we use to make the online communication as engaging
+
+00:02:47.000 --> 00:03:02.000
+as possible, and also some narrative techniques, interactive storytelling techniques, this will become much more clear and specific once we need shoes and Kareena start presenting themselves.
+
+00:03:02.000 --> 00:03:05.000
+Before we get started with that.
+
+00:03:05.000 --> 00:03:28.000
+I think it can be useful to give a bit of introduction on what we do at our school because I feel like we might be a bit, an odd one out in a conference on electronic literature, we are a School of Arts, which means that the main goal of our programs,
+
+00:03:28.000 --> 00:03:41.000
+is to teach people, students how to make films, how to make animation films, and in the case of the three of us how to design and develop games.
+
+00:03:41.000 --> 00:03:47.000
+And in that sense, these students, they have a bit of
+
+00:03:47.000 --> 00:03:50.000
+tier theoretical costs.
+
+00:03:50.000 --> 00:04:08.000
+Digital, I'm a bit of psychology a bit of sociology a bit of semiotics a bit of artistry, but a lot of the courses that they receive are practical artistic courses, and the research that we do is also our based research, which might be a bit different
+
+00:04:08.000 --> 00:04:21.000
+from other types of research that have been are being presented at this conference and therefore, I just wanted to briefly mention that, so as to sketch the context bit.
+
+00:04:21.000 --> 00:04:25.000
+and the sketch a bit where we come from.
+
+00:04:25.000 --> 00:04:55.000
+And maybe just shortly. I'll show you a trailer of what's been going on at our school in the past year and the goal with you. Just so. To give you an idea and make it more tangible.
+
+00:05:50.000 --> 00:06:06.000
+Yeah, it goes on like that for a bit longer, but this just some examples, and to show a bit what we do with our students in everyday life, that actually the artistic practice is at the heart of what we do.
+
+00:06:06.000 --> 00:06:16.000
+And at the heart of our research, and that also is very much the case in the presentation that Kareena and initiatives will be given in a few minutes.
+
+00:06:16.000 --> 00:06:36.000
+Before we start on that. I'll just give a bit of methodological background on the research to design approach that characterizes our work, which means that the artistic creation artistic experimentation artistic innovation prototyping testing evaluation
+
+00:06:36.000 --> 00:07:02.000
+is a foundation of our research and is it core essential element of our research, research results are informative on both a theoretical and artistic practical level so we hope to give some insight into how he literature works in practice, and maybe also
+
+00:07:02.000 --> 00:07:23.000
+on the theory building regarding interactive digital narratives, and it is our goal to be informative for both the theoretical and the practical level, but probably with more of a practical implication, then, then, for instance, researchers who have a
+
+00:07:23.000 --> 00:07:27.000
+background in semiotics or cultural studies.
+
+00:07:27.000 --> 00:07:43.000
+What is also very important is that our research results are communicated in a verbal, and an artistic form. In our case your verbal form is what we're doing now we're talking about it, we're writing about it, artistic forms the workshops that we organize
+
+00:07:43.000 --> 00:07:56.000
+themselves, the games did we create themselves are also a vital part of communication about our research because a lot of information is contained within the artifacts that we create.
+
+00:07:56.000 --> 00:08:14.000
+So, in this round table or In this session we will spend quite a bit of time and energy just discussing the artistic form. The game rules that we developed and showing how it goes in practice.
+
+00:08:14.000 --> 00:08:31.000
+And later on, reflecting upon it, and it kind of mirrors the iterative approach that was proposed for instance by Donald chin, as a core element of design research.
+
+00:08:31.000 --> 00:08:49.000
+We proceeding in an iterative cycle consisting of three stages to seeing is a phase of reflection on beforehand, there are some theories that we read on community building on game design, and based on that we reflect on how we are going to make something.
+
+00:08:49.000 --> 00:09:05.000
+And then the second phase, moving is the actual process of creating doing an artistic experiment. And once we created something we tested. And there is another phase of reflection on behind it.
+
+00:09:05.000 --> 00:09:10.000
+And based on that we adjust and we start from the beginning again.
+
+00:09:10.000 --> 00:09:19.000
+And this is the cycle that we go through. Quite often when we do this type of research.
+
+00:09:19.000 --> 00:09:40.000
+And so, we could say that both Vinny and Karina are now in the stage of. They have a first phase of creation behind them, and are in the stage of now, reflecting upon that on behind side or on hand side.
+
+00:09:40.000 --> 00:10:01.000
+And I think the panel discussion, we will be having will include one, a description that both give about what they've been doing about their artistic practice, and then do guided by some of the design questions that we have a reflection upon what they
+
+00:10:01.000 --> 00:10:13.000
+have been doing, which takes the form of, sort of an informal dialogue, we have among one another as moderated by me.
+
+00:10:13.000 --> 00:10:24.000
+So, that as a sort of introduction I just briefly read on the chat that people are most people are familiar with the artistic approach, so maybe it took.
+
+00:10:24.000 --> 00:10:29.000
+I spent too much time doing this, my apologies for that.
+
+00:10:29.000 --> 00:10:35.000
+But, yes, I will, I will leave it to this as for the introduction.
+
+00:10:35.000 --> 00:10:39.000
+And
+
+00:10:39.000 --> 00:10:43.000
+I'm still wide well done.
+
+00:10:43.000 --> 00:11:03.000
+So for the next 20 minutes of each each market will discuss two series of workshops that he's been organizing, after which Kareena will discuss the symposium that she's been organizing in the past month, and that's actually still ongoing at the moment.
+
+00:11:03.000 --> 00:11:16.000
+And after which we will have a discussion with the two of them, and most likely there will be questions from you, that we can discuss at the end of the session.
+
+00:11:16.000 --> 00:11:28.000
+So, yes, I hope that makes for a bit of context of a bit of a frame.
+
+00:11:28.000 --> 00:11:32.000
+I am glad to give the words to VCs.
+
+00:11:32.000 --> 00:11:48.000
+Now, hi. Hi everybody. thanks for all these a description, it's really helpful for us as well. Good morning.
+
+00:11:48.000 --> 00:12:02.000
+I am really close to the airport, and so please don't be surprised if any kind of noise appears on the ground or around, I cannot really control my apologize for that.
+
+00:12:02.000 --> 00:12:17.000
+And I also will appreciate the. If you want also to open your cameras and to interact in a face conversation. If you want and if it's possible. I really appreciate it.
+
+00:12:17.000 --> 00:12:29.000
+And, well, I am going to start just with the presentation. When I mean, I need to share my screen.
+
+00:12:29.000 --> 00:12:33.000
+Okay.
+
+00:12:33.000 --> 00:12:40.000
+Okay, I guess, now you see the presentation is Nick,
+
+00:12:40.000 --> 00:12:51.000
+you. Hi. are you are you watching the presentation. Sorry.
+
+00:12:51.000 --> 00:12:53.000
+Yes, it looks good.
+
+00:12:53.000 --> 00:12:55.000
+Thank you.
+
+00:12:55.000 --> 00:13:14.000
+Well, let's start with the beta. So, what's VIERA was a series of online of brief online workshops and and our presentation or our performance. That was targeting for the Spanish community audience.
+
+00:13:14.000 --> 00:13:25.000
+At the beginning of 2020. It is a really beautiful project and really nice project that I really like it has emerged as an independent.
+
+00:13:25.000 --> 00:13:39.000
+Will you know to to share knowledge and techniques and to also to, to put the outdoors, from all the places of the Spanish community, but also from different parts of the world.
+
+00:13:39.000 --> 00:13:55.000
+I mean, anybody who speak Spanish we're Welcome to jump it out. And it is also it is a project that it was linked strongly with a lot with the community of a low so if I mean, thanks for that.
+
+00:13:55.000 --> 00:14:14.000
+Thanks a lot. I really appreciate it. The, it is started by a conversation between the community Sally me to laugh a year Dan and Leo, you're not the florist, that's the first speed all that happens in the April the 32,020 so it was just, when the pandemic
+
+00:14:14.000 --> 00:14:30.000
+all the global pandemic to start So in a way, all the project and how it has been evolving. It has been coming from the emergency. It has been moving week a week, and I have been learning a lot from that.
+
+00:14:30.000 --> 00:14:32.000
+Back in those days.
+
+00:14:32.000 --> 00:14:47.000
+I was also applying for for a PhD study in Belgium. That was accepted but I didn't know so when I sold to the opportunity to release workshops and to do workshops, I thought it was a deal.
+
+00:14:47.000 --> 00:14:53.000
+And, but I already have like some kind of previous experience.
+
+00:14:53.000 --> 00:15:01.000
+My researching and I found this quote you know that the stage the workshop.
+
+00:15:01.000 --> 00:15:12.000
+As an arrangement, or by a group of people learn acquire new knowledge perform creative problem solving, or innovate relation of to a domain, in a specific issue.
+
+00:15:12.000 --> 00:15:22.000
+This is given by your green and Levison twist, also a pedagogue and academic here at the art to university, please.
+
+00:15:22.000 --> 00:15:27.000
+Sorry if I'm pronouncing drunker the Danish.
+
+00:15:27.000 --> 00:15:42.000
+And well, like, I think this is a really open the definition of the workshop because it is not really meaning about the time is not really meaning about this space is not about the, what kind of knowledge you are providing or or acquiring.
+
+00:15:42.000 --> 00:16:00.000
+So from that perspective I really, I really like it. And, but also I think it's it's really important to look at the history of the workshops itself, you know like, like since the medieval times you know the workshop was a place to have like a collaborative
+
+00:16:00.000 --> 00:16:19.000
+before you know it was not only a place to share knowledge, you know, it was also a place to produce knowledge, and to produce objects. So, since that perspective they worship always has been working as in some lean tool, you know, for society.
+
+00:16:19.000 --> 00:16:24.000
+So way to put the people together and to make things happen.
+
+00:16:24.000 --> 00:16:35.000
+And that's also whoa whoa I was a motivated to start with the beetle by instance or with this research.
+
+00:16:35.000 --> 00:16:50.000
+And yeah, of course also there are some other previous experience van instances, we went down some separate or project you know that I started to realize about these potential to for the workshop itself, or with my passenger vehicles.
+
+00:16:50.000 --> 00:17:02.000
+But anyway, so this is the diagram of how this is how he was assigned. So a brief workshop is a workshop that last 15 minutes. So he was conditioned by time.
+
+00:17:02.000 --> 00:17:07.000
+I didn't have any necessary necessary and mold, so you have been one, two, and three.
+
+00:17:07.000 --> 00:17:26.000
+The main idea is to have like certain kind of holistic experience. So, each series was created in a way that the discourse were joining. I mean, this is something that they, I was learning, you know, like the first series of all, they were not created,
+
+00:17:26.000 --> 00:17:44.000
+you know, but as a time you start to pass or you start to realize the importance to create those lines you know to try to make a discourse. and the main idea of their performance, it was not only to show the people about the different kind of practice
+
+00:17:44.000 --> 00:18:04.000
+of electronic later to or out of our language practice. It was also about the idea of create a symbolic element that can make a you know like someplace to remember, you know, so you remember these results area where it was here.
+
+00:18:04.000 --> 00:18:14.000
+Oh yeah, a guy, she was talking about ultimate the ultimate decision of language and language and the writer and song song song.
+
+00:18:14.000 --> 00:18:19.000
+So that was the idea of the our performance.
+
+00:18:19.000 --> 00:18:35.000
+And the main objectives of the project was to create human interactions during the global pandemic to bring electronic literature and detail control concepts and techniques for the Spanish speaking audience to explore online workshop as associate to,
+
+00:18:35.000 --> 00:18:46.000
+and social in sample and somewhere. By bringing people from developers cultural backgrounds together and construct for a small period of time, they feel of togetherness.
+
+00:18:46.000 --> 00:18:58.000
+And those are the main goals of people. And I will come back to this once. At the end of the presentation.
+
+00:18:58.000 --> 00:19:12.000
+I think also that is really important as he was an independent band, American project to show like the financial plan, and especially the case that it was strongly support by the yellow community.
+
+00:19:12.000 --> 00:19:33.000
+So it was basically like 25 years the the cost of House of Syria, with a 50% of discount for all the students with no matter No he doesn't matter where they were coming from which kind of institutions, they only have to send their ID or any kind of proof
+
+00:19:33.000 --> 00:19:39.000
+proof that show they were students and that was enough to give them like a 50% of discount.
+
+00:19:39.000 --> 00:19:58.000
+And then, all this one was divided to the workshops leaders, and to the artists to want to the organizer and one to the project itself to continue you know like to put ads on Facebook to pay the hosting and all those kind of things.
+
+00:19:58.000 --> 00:20:09.000
+You can check all those accounts. here is the same exactly that has been for for all the, all the yeah for the, for the worship leaders or since ever.
+
+00:20:09.000 --> 00:20:21.000
+And, well, it was by the, by the way, it was based on the My experience in rock bands venues will in rock places you know we're basically they do the same.
+
+00:20:21.000 --> 00:20:40.000
+They just shared exactly what they got that day. They were a minimum of participants that was five and a maximum of participants that were 2018 sorry. So, only one only one scenario of without was counsel, because we couldn't achieve them.
+
+00:20:40.000 --> 00:20:47.000
+The minimum of participants, and I still feel sorry, I hope I can come back with that one.
+
+00:20:47.000 --> 00:21:02.000
+And will like this are the artists that play like this dynamic dynamics, I just can't say thanks a lot for for this great experience.
+
+00:21:02.000 --> 00:21:25.000
+I invite to all the different artists and academics to perform a workshop where the dynamics, the social dynamics were articulating their discourse, we're trying to assemble so the topic was open, you know, all the facilitators were open to propose a
+
+00:21:25.000 --> 00:21:26.000
+topic.
+
+00:21:26.000 --> 00:21:36.000
+Everybody was also open to or invited to propose any kind of social dynamic, I will be just like I was there just to help them.
+
+00:21:36.000 --> 00:21:42.000
+And the only condition was 15 minutes, like the time.
+
+00:21:42.000 --> 00:21:48.000
+So, for that I can say thanks a lot for that for this 15 minutes.
+
+00:21:48.000 --> 00:21:56.000
+And we got different kind of practice, or pedagogic practices.
+
+00:21:56.000 --> 00:22:15.000
+One of those ones were coming from the most traditional ones, you know like somebody talking and people listening. Some other were really practical and really hands on, you know, and some other were really symbolic, in a way, You know, I think I have
+
+00:22:15.000 --> 00:22:25.000
+found like really interesting and diverse way how people interact, or try to perform worship here on the, on the web.
+
+00:22:25.000 --> 00:22:28.000
+And so thanks for that as well.
+
+00:22:28.000 --> 00:22:32.000
+And here comes also like the idea of the third room.
+
+00:22:32.000 --> 00:22:47.000
+That is mutually share feeling of closeness, that he's been doing something together in a individually mentally construct merging a new and remote location through a beautiful conference mediation.
+
+00:22:47.000 --> 00:23:00.000
+It was also given by academic ladies in, and the rain here, and they pay that Bobby to school here in the in the in the RR to university.
+
+00:23:00.000 --> 00:23:15.000
+And it's quite similar also to the third space that piece of sociological turn red is the talk about, and the. And this is basically what we're we are, we're trying on where we are trying to interact.
+
+00:23:15.000 --> 00:23:26.000
+This is where all the dynamics are happening in a way that besides that we are remotely so far, we can construct something together and in a way possible.
+
+00:23:26.000 --> 00:23:45.000
+We can feel together in the same room that in a way that was the main challenge. So the main question during all this time for readout was how to break into the room and which kind of dynamics can I apply you know to to create this feeling of togetherness,
+
+00:23:45.000 --> 00:23:51.000
+between the people that are coming, not only from different kinds of
+
+00:23:51.000 --> 00:24:02.000
+countries, or from different kinds of cultures, also from different kind of language. So it's, it was all the time in a way like a challenge.
+
+00:24:02.000 --> 00:24:10.000
+And so what I have been doing with all those
+
+00:24:10.000 --> 00:24:21.000
+videos are record self of beetle. It's trying to start in those ones and mapping the social interactions that were happening between humans and non humans actors.
+
+00:24:21.000 --> 00:24:39.000
+So by this I also understand the social as a fluid and momentary association between the human and non human agents that is basically what Bruno Latour sets also in the actual network theory, you know, so in this perspective you you can see also how the
+
+00:24:39.000 --> 00:24:52.000
+interface by instance is playing a strong role in all the experience and how we are interacting, like right now I can see that the dean and Stephen, and Rebecca were talking in the chat room.
+
+00:24:52.000 --> 00:25:09.000
+And so all this kind of elements that besides that are not completely well they are not human at all. You know they are playing a strong role in all this kind of experience and, and I think we have to try to start to follow the different kind of interaction
+
+00:25:09.000 --> 00:25:21.000
+is sometimes more blurry, it's actually the start to happen what happened in this drawing that you can see on your screen you know that you start to make the follow one line and to follow the conversation between people.
+
+00:25:21.000 --> 00:25:38.000
+And then something that was completely a non human act or you could be like an allegory Murray could be a day interface to start to take a role also also to make to to uncover, who was they really the actor who was behind.
+
+00:25:38.000 --> 00:25:50.000
+And I'm really fascinated by this idea so often of Bruno Latour, but it's something they still continue studying and well.
+
+00:25:50.000 --> 00:26:01.000
+For that I just have to say that they, I will come up with some studies or about the mappings of the diverse workshops that happen Cindy doll.
+
+00:26:01.000 --> 00:26:12.000
+And then I also have to say that from this perspective beetle has generate an archive of social pedagogic dynamics conditioning by time.
+
+00:26:12.000 --> 00:26:31.000
+And, and that the, maybe the objective, at the beginning of the beetle workshops was really basic of our focus in electronic literature, but I think it has to open to a broader sense you know, and I it was something really organic in a way.
+
+00:26:31.000 --> 00:26:51.000
+I mean to start to find people from base and from concrete poetry also from book back these books or dancers that we're really aiming to join and to come into, and they were invited like I'm thinking earlier, dancing in search on inquiries is a Dutch,
+
+00:26:51.000 --> 00:27:06.000
+French video artist videographer, an artist in an experimental side, I'm thinking also about the people who were, who were performing about the, the book artists books.
+
+00:27:06.000 --> 00:27:21.000
+A Martin LaRoche or Vanessa Lopez. So, in a way, I found that the beyond that the project we're asking for some other audience as well, and it has to be opening a broader sense.
+
+00:27:21.000 --> 00:27:27.000
+And there's so yeah I just want to mention that.
+
+00:27:27.000 --> 00:27:41.000
+The second project briefly I wanted to say is solution that is basically like a little bit like the, the starting point of my research, like in here. No way.
+
+00:27:41.000 --> 00:27:53.000
+So together with the Stephen will be still in Mali that would release sandwiches, at the beginning of September 2020. So solutions is a platform from online workshops.
+
+00:27:53.000 --> 00:28:07.000
+The main objective was to create social interactions between the students of Lucas school or of the arts income to see mine, and researchers and also with people from reanimate program so that people from brownie my program is people that are spread all
+
+00:28:07.000 --> 00:28:25.000
+So the people from brownie my program is people that are spread all around the globe in different parts of the globe. And that, because of the Colby circumstances they couldn't join, or they couldn't go to Belgium or, in general, to Europe.
+
+00:28:25.000 --> 00:28:40.000
+So, we start activities with them in workshops activities in a way to make them to come together and to socialize and to build team and to make a community in a way.
+
+00:28:40.000 --> 00:28:55.000
+And that also we invite people from the local community so sandwiches workshops always post on the Facebook, and everybody's open to come there is no cost, and everybody's welcome to join up any moment.
+
+00:28:55.000 --> 00:29:07.000
+By the moment we have members from Taiwan Tehran Karachi, at least, least one port Oberlin Rome lovin Bruce's voters are Paolo do general Monterrey, Mexico City.
+
+00:29:07.000 --> 00:29:24.000
+And as you can imagine when we do like our home we try to achieve to everybody at the same time, it has been really interesting experiment, you know like, some people is drinking a beer in Belgium some other people he's having launched in Mexico and some
+
+00:29:24.000 --> 00:29:37.000
+other people he's waking up, and having that breakfast in Taiwan. So from that perspective, I think the community of sandwiches is really a collective and really International.
+
+00:29:37.000 --> 00:29:40.000
+And I, a really, really, really like that.
+
+00:29:40.000 --> 00:29:54.000
+And so as Steven mentioned we use the workshop as a methodology that is also something that the 32nd me say, I mentioned the young wrote about it.
+
+00:29:54.000 --> 00:30:06.000
+And we iterate the workshops and during that iteration we start to change the game rules that can be applied in that workshop.
+
+00:30:06.000 --> 00:30:16.000
+And it's something also really quite sensorial, in a way that you start to feel the workshop and to feel the dynamics that are happening.
+
+00:30:16.000 --> 00:30:34.000
+And how can you modify those ones to get received that it's better for the concept of the workshop itself, but also better for, for all the participants, an offer for the same idea.
+
+00:30:34.000 --> 00:30:51.000
+So for this I think there are some elements maintenance like game rooms game rules, sorry, or perform magic elements that play as really strong role. Every time you play a walker.
+
+00:30:51.000 --> 00:31:06.000
+At the moment we have released like this, three lines of workshops, without pastiche tricky I meanwhile the other for this talk, I will, I will only talk about pastiche and tracking.
+
+00:31:06.000 --> 00:31:23.000
+And so pastiche pastiche is an eclectic workshop that creates collaborative knowledge. So basically we asked the participants to arrive with some sort of knowledge, we consider everything could be a knowledge.
+
+00:31:23.000 --> 00:31:31.000
+So you only have to write with a knowledge, and during the workshop we both for what kind of knowledge we want to acquire.
+
+00:31:31.000 --> 00:31:43.000
+And the main idea behind this is a spade Paul afraid to mention is whoever teach learned in the act of teaching, and whoever learns teach in the act of learning.
+
+00:31:43.000 --> 00:31:47.000
+So everybody at this workshop is a teacher itself.
+
+00:31:47.000 --> 00:31:57.000
+It has been quite difficult. In the sense that it's of course it's it's sometimes it can be even like karate.
+
+00:31:57.000 --> 00:32:13.000
+But what I'm trying to say with this is that at the beginning we were asking, two people to come with certain kind of knowledge, or with any kind of knowledge for these people is really difficult to some people it's really difficult to realize that they
+
+00:32:13.000 --> 00:32:21.000
+do have knowledge, and that they do have something to teach to somebody, you know, and that they have the potential as well to do it.
+
+00:32:21.000 --> 00:32:38.000
+And to make them realize and to bring breach breach ago to jump, this mental block is quite difficult sometimes. So we realized by instance that by using wonders.
+
+00:32:38.000 --> 00:32:52.000
+It was much more easier for the people to arrive with certain kind of knowledge. So nowadays instead of asking for the sort of knowledge, we asked them for wonders.
+
+00:32:52.000 --> 00:33:06.000
+So you for this workshop, you have to arrive with a wonder, you know, and he was inspired by the song of Sixto Diaz Rodriguez, about the wonders you know that this is strongly beautiful song, I really love it.
+
+00:33:06.000 --> 00:33:31.000
+And when I was making the call for participant and say okay let's. Why don't we ask for a wonder, and it's it's really weird. By the way, because I think in Spanish.
+
+00:33:31.000 --> 00:33:46.000
+speaker, and I'm sure people that speak English and my feeling completely different, but I think in in Spanish, there is no really completely or similar work anyway.
+
+00:33:46.000 --> 00:34:06.000
+This is the diagram for for pastiche. So, those ones are the different participants that arrived with a wonder during the workshop we make a boating, and we also create the workshop or we realize we can create them.
+
+00:34:06.000 --> 00:34:24.000
+So at the beginning we were asking them to come with any kind of knowledge about any kind of topic. That was really cool. You know, because we can come with sometimes with that really talks about politics talks about the video games, different kinds of
+
+00:34:24.000 --> 00:34:26.000
+knowledge and.
+
+00:34:26.000 --> 00:34:42.000
+And then we also start to create them in a, in a sense, to place a topic, you know, so to write with a wonder about politics to arrive with a wonder about foot, you know, but this, it has to be really open also you know for the people also to just show
+
+00:34:42.000 --> 00:34:45.000
+up and come with a natural wonder.
+
+00:34:45.000 --> 00:35:04.000
+And we also place like this, this element that we call it the mysteries, or the random, random out to make their of languish that's that, it's basically about them that is takes all the wonders and mix and create some phrases in a really easy going our
+
+00:35:04.000 --> 00:35:05.000
+way.
+
+00:35:05.000 --> 00:35:20.000
+And this is done, when the people doesn't know what to say or doesn't know what to ask, you know that's the main idea behind. So far, nobody has using this in a way I'm happy for that.
+
+00:35:20.000 --> 00:35:26.000
+All these experiences, what I call, pastiche.
+
+00:35:26.000 --> 00:35:29.000
+This is a little bit like the last.
+
+00:35:29.000 --> 00:35:36.000
+How you call it the interface that we have been using in in the washer.
+
+00:35:36.000 --> 00:35:43.000
+Have a nickname, email, title, what you wonder for today, and try to develop your idea.
+
+00:35:43.000 --> 00:35:53.000
+And so we have different kinds of rooms. Thank you. Yes, Maria minister was mentioned that I was thinking with this picture.
+
+00:35:53.000 --> 00:36:03.000
+So, Anyway, so we have different kinds of rooms, repeat back to the participants can go by themselves to the rooms.
+
+00:36:03.000 --> 00:36:09.000
+And we have also like here, the program, so they know what is going to happen.
+
+00:36:09.000 --> 00:36:12.000
+This is the suggestion board.
+
+00:36:12.000 --> 00:36:24.000
+And I know this is connected, also to system both in the, in the, in Google, we are using right now Google but I hope we can change that.
+
+00:36:24.000 --> 00:36:35.000
+And, and while that's pastiche. The other one is tracking that this is another workshop, that means exchange your currency.
+
+00:36:35.000 --> 00:36:52.000
+During this workshop we're changed digital objects, digital services, and if they're real objects, I call it the theory of objects in the idea of ideas, you know like dreams, or like gossips, and stuff like that.
+
+00:36:52.000 --> 00:37:08.000
+So, this is also the ground for for for cricket. So during this workshop with trade, it's really open it's like a market like going to any kind of market to the people who arrived there the main role of the workshop is just to certificate the trade.
+
+00:37:08.000 --> 00:37:29.000
+So people are arrived, and they arrived with memes, or with your favorite picture, or with your favorite document or your mp3 collections from, I don't know who or somebody might arrive with digital services such as digital marketing coding graphic design,
+
+00:37:29.000 --> 00:37:40.000
+and so on and so on, and some other people might say, Okay, I will arrive with idea object and idea. You know, I might arrive with a Garcia with a dream with a thought.
+
+00:37:40.000 --> 00:37:54.000
+AR we arrived with a performance, I will arrive to play guitar. And you can also change it. And then the main role is to all this is by the way, close by their creative common activity so participants.
+
+00:37:54.000 --> 00:37:59.000
+Choose previously, what kind of license they want to have in their object.
+
+00:37:59.000 --> 00:38:06.000
+And at the end of the workshop, basically, I just certificate. Each trade.
+
+00:38:06.000 --> 00:38:12.000
+It's. It is really funny really Karthik as well sometimes.
+
+00:38:12.000 --> 00:38:15.000
+It depends also how many people is inside the room.
+
+00:38:15.000 --> 00:38:23.000
+And this is the interface so you have like a nickname, email, title, what kind of category you want to play.
+
+00:38:23.000 --> 00:38:38.000
+You choose a category but that doesn't mean that you cannot exchange with the other categories. You have also a license. So all those licenses are coming from Creative Commons so please check all those ones because they changed a lot.
+
+00:38:38.000 --> 00:38:49.000
+And I think by the way that they license, really complete his trunk.
+
+00:38:49.000 --> 00:38:56.000
+And then we have, what kind of things you want to trade. And what are you looking for.
+
+00:38:56.000 --> 00:38:59.000
+So you don't want people to know what you are looking for.
+
+00:38:59.000 --> 00:39:11.000
+Denise you like the program. We have different kinds of rooms. Also, in the case of ethereal objects, if people ask me for a room to have a natural exchange.
+
+00:39:11.000 --> 00:39:23.000
+At that moment, I create a room for them. All this is done in GC platform, by the way, like oh we are based in open source technologies and stuff like that.
+
+00:39:23.000 --> 00:39:35.000
+And this is what the participants do this is like, we can check the title with the license that they have the object. And what is the are looking for.
+
+00:39:35.000 --> 00:39:41.000
+And what this is part of the community, and so far. Thanks a lot.
+
+00:39:41.000 --> 00:39:47.000
+I will come will come with some questions I hope I didn't look.
+
+00:39:47.000 --> 00:39:50.000
+Oh,
+
+00:39:50.000 --> 00:40:13.000
+yeah, I think it's sort of Kareena.
+
+00:40:13.000 --> 00:40:18.000
+Hello.
+
+00:40:18.000 --> 00:40:29.000
+Yes, I will just give the word to Kadena, I don't know if I, if people can hear me Still I was trying to interrupt finishes, but apparently didn't hear me.
+
+00:40:29.000 --> 00:40:35.000
+Yeah, we're going a bit out of time but I think we're still okay so yes Kareena go on.
+
+00:40:35.000 --> 00:40:38.000
+Alright, then I will go on.
+
+00:40:38.000 --> 00:40:55.000
+I will also switch to present turbo.
+
+00:40:55.000 --> 00:40:56.000
+That's funny.
+
+00:40:56.000 --> 00:41:05.000
+Erica. Could you give me a quick.
+
+00:41:05.000 --> 00:41:11.000
+Yeah, just let me know what you see, actually,
+
+00:41:11.000 --> 00:41:22.000
+but also like the. Yeah, address, I have not. I have not really figured out how to change that.
+
+00:41:22.000 --> 00:41:37.000
+But I think it's okay because when I do it full screen then I cannot look at my own notes anymore. And I think you would prefer to see the screen and you know See also this other window.
+
+00:41:37.000 --> 00:41:40.000
+No.
+
+00:41:40.000 --> 00:41:48.000
+You don't see the other, the other window that you just see the presentation. Yeah, the browser window.
+
+00:41:48.000 --> 00:41:55.000
+Yeah, just the presentation. Okay, not the other window that is now layering on top. Okay.
+
+00:41:55.000 --> 00:41:58.000
+Good. good. Thank you.
+
+00:41:58.000 --> 00:42:05.000
+Okay yeah so thanks so much goodness Yes, was really cool.
+
+00:42:05.000 --> 00:42:09.000
+And yeah thanks all so far, and writing me.
+
+00:42:09.000 --> 00:42:26.000
+So, I will go through the symposium Lenten Pete, which is a basically a bit of a kickoff for myself, to start the PhD research distant bodies and accomplices.
+
+00:42:26.000 --> 00:42:41.000
+Which researchers hybrids of online gaming and performance and this part of the Luca, see mine, and research cluster meaningful play and.
+
+00:42:41.000 --> 00:42:42.000
+Yes.
+
+00:42:42.000 --> 00:42:59.000
+I'll tell you a bit more about some concepts around that later but first, it doesn't work, it doesn't work. Yeah so Blanton bleat is an online Symposium on trends reality and progressive play.
+
+00:42:59.000 --> 00:43:02.000
+And it.
+
+00:43:02.000 --> 00:43:20.000
+Yeah, basically can drawers synergies you could say between different fields. So it's artistic research but it's also large performance game interaction design and I'm mostly interested in the crossovers actually so that's also why you can see in the,
+
+00:43:20.000 --> 00:43:39.000
+I mean I will go through all of this No, no worries. But you can see maybe a little bit in the programming here, that it is generally two people who are brought together for for a session that is running.
+
+00:43:39.000 --> 00:43:53.000
+So every every week basically every weekend there was one session. And it brought together always to practitioners to give an interactive workshop or sometimes a lecture, but most of the works really focused on interactivity.
+
+00:43:53.000 --> 00:44:04.000
+And in some cases, people were just doing this as a good neighbor, so to say, but in many cases and this was really great also for me.
+
+00:44:04.000 --> 00:44:16.000
+People actually decided to work together on that and so merging basically, in the spirit of the symposium itself, blending their own practices. Also, and this was.
+
+00:44:16.000 --> 00:44:20.000
+Yeah, really a beautiful process in many cases.
+
+00:44:20.000 --> 00:44:27.000
+And so, yeah, you can see this is the.
+
+00:44:27.000 --> 00:44:41.000
+These are the 12 days that most of them lie in the past. There's two more that one is happening this weekend and next weekend that of course you're welcome to join.
+
+00:44:41.000 --> 00:45:01.000
+And it really is been a series of playful experiments around digital presence and embodiment and also ways of relating, and it reflected on the psychological but also social or political implications of distance and.
+
+00:45:01.000 --> 00:45:05.000
+Yeah, it,
+
+00:45:05.000 --> 00:45:22.000
+it, it really was also, for me, sort of, a way of of going thinking through a certain, certain topics and also methodologies and seeing, seeing what worked and how it worked on people.
+
+00:45:22.000 --> 00:45:25.000
+Yes, This is an invitation to conspire.
+
+00:45:25.000 --> 00:45:45.000
+That was the invitation that people got to inspire means to breathe together. This is was pointed out for me to me by Stephen to send to you who else was part of the symposium, and who had it actually from another friend artist Eleonora Weber, who side
+
+00:45:45.000 --> 00:45:53.000
+on an Andy Warhol post. And I actually think that it means to let each other brief.
+
+00:45:53.000 --> 00:46:14.000
+And so, just before I go into the symposium itself I just want to really briefly go through a few of sort of accomplices I could even say so custom concepts that have been a confident, being me a bit throughout this whole start of the research and the
+
+00:46:14.000 --> 00:46:20.000
+research, the PhD itself is called distant bodies and accomplices.
+
+00:46:20.000 --> 00:46:27.000
+Because accomplices in that sense, and that case meant the avatars
+
+00:46:27.000 --> 00:46:37.000
+In remotes game situations remote life. Real Life game situations so basically a bit like an alarm itself.
+
+00:46:37.000 --> 00:46:44.000
+And, but yeah so basically real life avatars that worse.
+
+00:46:44.000 --> 00:47:02.000
+When I say, let's instead of having an avatar, that is this obedient creature that just shoots if you say shoot or dies if you fail to play the game really well, that you would have there's some, some other subject that also can maybe disagree but also
+
+00:47:02.000 --> 00:47:09.000
+you have to then enter into a specific relation with that person and
+
+00:47:09.000 --> 00:47:16.000
+the relationship between this interacting bodies.
+
+00:47:16.000 --> 00:47:23.000
+This young people who play together is a conservative attitude.
+
+00:47:23.000 --> 00:47:39.000
+And I like to think that the accomplices a little bit of has a little bit of the notion of the trickster. So there's also maybe in the idea of the complex test maybe also bit this idea that maybe not all the rules have to be followed some rules can be
+
+00:47:39.000 --> 00:47:44.000
+broken, which can also apply Of course two rules of the game.
+
+00:47:44.000 --> 00:47:54.000
+And they are bound by a common goal, which I think is also important, they're not the same. They, they are just simply on the same.
+
+00:47:54.000 --> 00:47:57.000
+Yeah. In the same game.
+
+00:47:57.000 --> 00:48:17.000
+And they have an enduring neutral relatedness that carries consequences, which is another really important, leading to a really important part of this whole research I think for me, that is the idea of critical empathy, which does not refer to the process
+
+00:48:17.000 --> 00:48:32.000
+of imagining, not only at least to the process of imagining another person's point of view, or emotional state, but also to an awareness that the limitations that there's limitations to this empathy and complications.
+
+00:48:32.000 --> 00:48:39.000
+So I really love I'm sorry for according to the Harvard, I know it's been done so much, but I love this
+
+00:48:39.000 --> 00:48:51.000
+quote by her in. If you take anybody seriously, one of the things you learn is not knowing. And, yeah, I think it's really smart.
+
+00:48:51.000 --> 00:49:09.000
+And it brings me quite well as a segue to speaking about worlds, because a big part of the symposium but also of the practice of creating large is world building collective world building and.
+
+00:49:09.000 --> 00:49:16.000
+So, first I want to say that world, a welding.
+
+00:49:16.000 --> 00:49:34.000
+For me, really takes the theory of multiple worlds as a point of departure, which is a theory that dissolves the illusion of worlds in common that are already appears co opted by satisfying hegemonic claims for some order or its order.
+
+00:49:34.000 --> 00:49:56.000
+And so this this is really more about understanding that we don't live in the same world, necessarily, but we can come together and, and, and try to sort of communicate through this and create temporary collective spaces in which we to share maybe a world
+
+00:49:56.000 --> 00:50:01.000
+or. Yeah. So building as a practice.
+
+00:50:01.000 --> 00:50:18.000
+Yeah. What as an activity has there's different ideas but that can be can really range from the imagination and fostering of fantastical cosmology is utopias are simply futures that, you, you, you want to believe in or that you can believe in even, so
+
+00:50:18.000 --> 00:50:24.000
+it can also be very practical talking about the future.
+
+00:50:24.000 --> 00:50:28.000
+Okay, so a lot of talk about worlds.
+
+00:50:28.000 --> 00:50:35.000
+Now, the title bleed, and maybe we should also say what is that, because not everyone may be as familiar with the term.
+
+00:50:35.000 --> 00:50:46.000
+And it is a term used in large to come to describe this gray zone between fiction and reality so where the border between player and character dissolves.
+
+00:50:46.000 --> 00:51:02.000
+I have a little schema here you can see this because when we speak of games we speak of the magic circle that they can, yeah, that they happen and that it's an imaginary reality we we enroll play we have not fictional character.
+
+00:51:02.000 --> 00:51:11.000
+And then there's the real world, so to say, where we are ourselves, whatever that is, and we have a physical reality that has specific.
+
+00:51:11.000 --> 00:51:16.000
+Yeah, just hard, hard consequences if you cut ourselves we bleed.
+
+00:51:16.000 --> 00:51:30.000
+And then there's this gray zone in between where these two worlds actually bleed into each other, and where these boundaries become a little bit blurry, and this is not always comfortable because when.
+
+00:51:30.000 --> 00:51:46.000
+Yeah, it can also happen that may be very strong emotions come up in a game and then we find that after game when back in our real world but still they they hang on and they they work on us and this can be perceived as nice but it can also in some cases
+
+00:51:46.000 --> 00:51:54.000
+be of course distressing or, or just some something hard to to on.
+
+00:51:54.000 --> 00:52:06.000
+So there's there's definitely a lot of sort of carefulness that, that also happens around that or maybe it is really good to have for example debriefing sessions.
+
+00:52:06.000 --> 00:52:24.000
+After such workshops that helped people to understand how to deal with these emotions but I would say that the people who I have invited for the symposium are in many cases interested in that specific moment where these things, inform each other also
+
+00:52:24.000 --> 00:52:27.000
+where they
+
+00:52:27.000 --> 00:52:37.000
+are yeah where we take something like and learning from from from the imaginary world, to the so called real world.
+
+00:52:37.000 --> 00:52:39.000
+Yes.
+
+00:52:39.000 --> 00:52:48.000
+Yeah, just very quickly, maybe why am I even interested in all this like why remote games or remote.
+
+00:52:48.000 --> 00:52:54.000
+Yeah, So I think it's really thinking through
+
+00:52:54.000 --> 00:53:06.000
+this almost a bit like I was really interested in creating connecting worlds, also to so to say and creating portals and.
+
+00:53:06.000 --> 00:53:35.000
+So, the physical and the imagined is are. In this case, definitely really helpful to go to to connect and imagination can change our perception of reality on a neuro level actually so it's really a very imagination is actually the strongest technology,
+
+00:53:35.000 --> 00:53:38.000
+I think, so it's.
+
+00:53:38.000 --> 00:53:59.000
+Yeah, that's maybe just something to keep in mind and I also why I'm interested in. This is not just to create some kind of fantastical things but also to actually, let's say, learn how the cake is made in some cases to understand that we already are
+
+00:53:59.000 --> 00:54:18.000
+that has so much of the bleed already and where the blurring of fiction and fact is already all around us actually so we in contemporary media or politics for example and and and this was also something that was very important to me in the, in the symposium,
+
+00:54:18.000 --> 00:54:20.000
+so there was also.
+
+00:54:20.000 --> 00:54:22.000
+This came also up.
+
+00:54:22.000 --> 00:54:40.000
+Talk about, like for example, we're talking about conspiracy theories. Um, yes and the physical and virtual I mean we're probably all of us a bit sick of hearing about it because lately it's been so much about this, These these things but they also still
+
+00:54:40.000 --> 00:55:04.000
+are really kind of a bone to chew and I think what is interesting, me, there is really the kind of almost materiality of that also because, well, to, to, to, to understand also how can we, it feels also virtual but actually the there's very much material
+
+00:55:04.000 --> 00:55:22.000
+consequences also that are we if we talk about raw raw materials, the server farms that are hanging out somewhere, it's not all, it's not all in the cloud, it's actually, it exists somewhere also physically, and this is for the data, but also of course
+
+00:55:22.000 --> 00:55:35.000
+for humans on the other end. and so the spaces, physically connected and we have a responsibility towards the real and embody person so here is like an image.
+
+00:55:35.000 --> 00:55:42.000
+When you Google cyberbullying then you get this Frankenstein temporary monster.
+
+00:55:42.000 --> 00:55:51.000
+And while what you see up there. Probably an image you also have seen before it's a drone operator inside of control cabin, where.
+
+00:55:51.000 --> 00:56:16.000
+Yeah, you know, property that people are killed in these kind of game like setups. And so the question here really is, how does distance contributes to behavior and also, and how can we make, create a sense of responsibility towards digital virtual beings
+
+00:56:16.000 --> 00:56:17.000
+and.
+
+00:56:17.000 --> 00:56:31.000
+So yes, remote life games, this is basically the, the core, I would say of my research and. Simply put, it involves a group of performers participants interacting in real time through video and voice call.
+
+00:56:31.000 --> 00:56:44.000
+I'm really interested also in continuously using more of, of movement and really going away just from simply sitting in front of the screen. But for this year.
+
+00:56:44.000 --> 00:56:59.000
+For this symposium, you will see that there was really many different techniques that were explored. That sort of informed a bit the research behind what these kind of what that could be.
+
+00:56:59.000 --> 00:57:11.000
+And what I'm interested in what we can learn from the collective fictions that are mine produce this and, also, most importantly, from the choices that we make in, when we play them.
+
+00:57:11.000 --> 00:57:14.000
+So,
+
+00:57:14.000 --> 00:57:26.000
+one thing that is part of the. So now I'm going to go a bit through the methodologies and I'm actually going to have some more graspable hard facts factual examples of the symposium.
+
+00:57:26.000 --> 00:57:39.000
+So first of all, let's think about structures, enabling structures, I think that's been something that actually has been interesting to me for a long time already.
+
+00:57:39.000 --> 00:57:44.000
+Really also, when I was working more with performance.
+
+00:57:44.000 --> 00:57:46.000
+I was interested in.
+
+00:57:46.000 --> 00:58:04.000
+Also with firms I was interested in creating structures in which other people's could speak or to create a space that enabled, other people to speak or to have conversations or two, but also in a way almost seducing them to, to become active to or to
+
+00:58:04.000 --> 00:58:15.000
+be critical. And to always have a bit also this balance, of course, how much structure you need and hold it.
+
+00:58:15.000 --> 00:58:26.000
+And the conversation tools. Yeah, that help the improvisation and can guide and explore new ways of communication specifically Lee were interesting for me.
+
+00:58:26.000 --> 00:58:45.000
+I mean an example in the race of lies I think because it's a really simple algorithm, but it really make people open up and share their most intimate things because of how it was asking questions and I think this could be an interesting.
+
+00:58:45.000 --> 00:58:49.000
+Yeah, way to think more.
+
+00:58:49.000 --> 00:58:57.000
+So human algorithms, this was. Now, one of the, one of the sessions.
+
+00:58:57.000 --> 00:59:10.000
+That was the Wonder machine. It was an interactive performance which was led by the interactions and experiment with emergence at the level of collective intuitive intuition.
+
+00:59:10.000 --> 00:59:26.000
+So, I must admit this is their post, like that posted, so to say. It's not a real zoom call. So, what they actually did, is I but it's a nice picture and there's not really an interesting picture of the zoom call itself, because what they did is basically
+
+00:59:26.000 --> 00:59:42.000
+being with a group of people in, zoom call, and then having you hadn't an order. So, in order to speak and then people just always started the sentence with, I wonder, and then you wondered what you wonder it in that moment.
+
+00:59:42.000 --> 00:59:49.000
+But as you would cycle through the different ones, you would more and more of course start to wonder about what the other peoples were wondering about.
+
+00:59:49.000 --> 01:00:04.000
+So it started to really be become a very beautiful. It's super simple. And in a way, very restricting you can't just talk about anything, but still it was a really beautiful way to collectively think anyway.
+
+01:00:04.000 --> 01:00:10.000
+And, yeah, it's in a way something you really have to experience.
+
+01:00:10.000 --> 01:00:13.000
+But maybe you get a bit of an idea.
+
+01:00:13.000 --> 01:00:16.000
+Then performance scores.
+
+01:00:16.000 --> 01:00:33.000
+Yeah, these kind of systems almost I would say could also be used to really think about scientific things, scientific, trying to grapple with very hard to understand things that are hard to understand, like for example how delusion forms in our brain.
+
+01:00:33.000 --> 01:00:51.000
+And prediction error was a workshop by Brody Condon, which was held in yet, together with, well not together with, but with the help of the neuroscientist Philip Colette, and also he to style of us.
+
+01:00:51.000 --> 01:00:53.000
+Therefore conversation afterwards.
+
+01:00:53.000 --> 01:01:01.000
+And it yeah was basically the the. As you can see here the participants.
+
+01:01:01.000 --> 01:01:08.000
+They were playing neural nodes in the brain that are.
+
+01:01:08.000 --> 01:01:25.000
+It's a quite complicated process, I'm not going to go into explaining it now, but they have to pass on information and as it becomes more and more complicated and there's sort of a yak I kind of an prediction arrow added, then the infamous, you can see
+
+01:01:25.000 --> 01:01:46.000
+how the information derails and, of course, this was really a way also to talk about.
+
+01:01:46.000 --> 01:01:51.000
+societies, and the level of societies, which related really.
+
+01:01:51.000 --> 01:02:00.000
+Yeah. Interestingly with another session we had about it, conspiracy theories and where you could actually make your own conspiracy theory.
+
+01:02:00.000 --> 01:02:02.000
+With the game designer.
+
+01:02:02.000 --> 01:02:20.000
+Read berkovitz who wrote about it, also a lot lately and, yeah, where we were trying to think, to understand basically how how this works and how how appealing it is I think that was what he really wanted to, to present.
+
+01:02:20.000 --> 01:02:29.000
+That's how it functions on us how it functions and how triggering it is because it is essentially a game.
+
+01:02:29.000 --> 01:02:50.000
+And, yeah, another one that it's no it's like I'm really going through the different methods that people used another method would be to use movement to really use the body to that to dance, but also to actually go outside, go outside using location based
+
+01:02:50.000 --> 01:02:56.000
+mapping location based technology, not mapping for.
+
+01:02:56.000 --> 01:03:16.000
+So hotel Bardo was actually a workshop by on Social Club, who does do a lot of laps by the way really wonderful laps, or real gameplay that's how they would call it and because it's a bit different sensors on a journey outdoors and into the analog technology
+
+01:03:16.000 --> 01:03:32.000
+of mythmaking to reconsider the social socialization of technology so you were basically sent out with an app, which is called random now you can you can see here kind of a I don't know it's not even a meme I think it's actually just a video.
+
+01:03:32.000 --> 01:03:51.000
+So there's a huge traffic around this render not to get up in the internet because people think that that it's it's very scary because when you go to this location that this app tells you which is supposedly quantum get generated, then people often find
+
+01:03:51.000 --> 01:03:55.000
+I think bottles of this actually is very strange.
+
+01:03:55.000 --> 01:03:59.000
+So there's a huge mythology.
+
+01:03:59.000 --> 01:04:20.000
+And then the internet and Omsk was a little bit maybe taking that also with it, this this idea of charging almost, you know, all of a sudden you go through a space which you would maybe either never go or randomly go but all of a sudden you had, you have
+
+01:04:20.000 --> 01:04:37.000
+a goal, you have you have you, you sort of, you have almost a fiction, around it, and you start to see signs you start to see different things. And, yeah, for example this is no one photo that people shared afterwards, and this was a picture of a son
+
+01:04:37.000 --> 01:04:54.000
+and there was a whole story about what she thought about the sun and what I found really beautiful about is like yes we all went out to separately and we had our own experiences, all over the world, in different places but then afterwards we were sharing
+
+01:04:54.000 --> 01:04:57.000
+this together and and it was in a way.
+
+01:04:57.000 --> 01:05:16.000
+It really was time so we were all doing the same thing at the same time in different places and it really created a feeling of being connected, even though we were apart and erotic sociability for webcam was a workshop by Isabel Lewis, who shared tears
+
+01:05:16.000 --> 01:05:29.000
+around sociology and embodiment based on feminist sociologist Rosalynn h bolo, who wrote about erotic social ability which is kind of
+
+01:05:29.000 --> 01:05:41.000
+an idea that that really sees erotics, not necessarily as purely sexual but as a way of of relating to each other.
+
+01:05:41.000 --> 01:05:50.000
+Yeah, outside of question and and competition but really kind of seeing each other.
+
+01:05:50.000 --> 01:06:06.000
+Also as others, and being being actually seduced by each other's differences, and instead of trying to overpower each other but trying liking, being in love with each other's differences.
+
+01:06:06.000 --> 01:06:23.000
+And so here, people were dancing in front of the camera and really yeah in a way flirting with each other, although this was not necessarily again sexual it was more about revealing themselves to each other also getting in a bit.
+
+01:06:23.000 --> 01:06:32.000
+Maybe, as we would say maybe embarrassing situations but actually not because we were all sort of really there.
+
+01:06:32.000 --> 01:06:40.000
+Yeah, we were really open to each other and sharing this a bit goofy situation of of dancing in front of a camera.
+
+01:06:40.000 --> 01:06:42.000
+And,
+
+01:06:42.000 --> 01:06:49.000
+yeah, the census we're also often really a big part in these workshops.
+
+01:06:49.000 --> 01:06:59.000
+So, touching smelling also of course, hearing, in a more concentrated way even tasting.
+
+01:06:59.000 --> 01:07:09.000
+And, yeah, so, so my tech is was a workshop by Susan poets who.
+
+01:07:09.000 --> 01:07:28.000
+Yeah, actually extensive Lee works with a large that focused on the somatic so on the physical experiences and she explored embodied extrasensory techniques inside the fictional framing of a speculative institution, founded in a time of crisis.
+
+01:07:28.000 --> 01:07:50.000
+So actually what people were doing here after almost guided meditation, in which people were crafting it on on character future character from which they could speak or send, actually, rather, and then they would basically be sending each other images
+
+01:07:50.000 --> 01:08:01.000
+via telepathic means, and then draw what they received and it was quite uncanny that people attacking. but
+
+01:08:01.000 --> 01:08:08.000
+yeah, strange that people seem to actually did receive a lot of through this practice.
+
+01:08:08.000 --> 01:08:10.000
+Yes.
+
+01:08:10.000 --> 01:08:34.000
+And then, yeah, also relating to the idea of the senses I think that what was also explored in the situation of have a zoom call basically or life call that you can actually create almost cinematic effects wish for each other using light and camera.
+
+01:08:34.000 --> 01:08:43.000
+Go, for example, by going close to the camera with your hands, you create some sort of. Yeah, I don't know.
+
+01:08:43.000 --> 01:08:47.000
+New landscapes and
+
+01:08:47.000 --> 01:09:00.000
+this was something that people explored quite extensively even having some props and how can this experience be more
+
+01:09:00.000 --> 01:09:17.000
+more kind of attuned to our senses and this was part of a workshop theatre as laboratory, experimenting with non human partners in experiment, expanding dramatic Geez, which was a workshop by Rebecca Ross and Ashley Pharaoh Murray.
+
+01:09:17.000 --> 01:09:30.000
+And actually, who you see here is you know SM drop, who was also part of the symposium, and she had already previously also done a workshop.
+
+01:09:30.000 --> 01:09:46.000
+Playing with methods were also these kind of effects were really yeah explored and she did a video now for for the theater, a celebratory workshop that we can see, see here.
+
+01:09:46.000 --> 01:09:55.000
+So yes, collective world. This is been, as I said, really core of the symposium.
+
+01:09:55.000 --> 01:10:16.000
+And so one of the, one of the workshops was magical materialism, world factory. It was a wealth building workshop by Takhar that takes its cues from psycho analysis and post socially list perspective of Android platforms concept of the literature, literature,
+
+01:10:16.000 --> 01:10:18.000
+factory.
+
+01:10:18.000 --> 01:10:23.000
+So, it was the kind of perseverance, was building and that's it.
+
+01:10:23.000 --> 01:10:36.000
+But, ya know, it was, I'm really a bit sad because I couldn't find the mirror port anymore, which he had developed this incredibly beautiful mirror board.
+
+01:10:36.000 --> 01:10:46.000
+That was really leading us through different steps, and I could, I would have liked to show it to you but now you can just see one small, not enough of it.
+
+01:10:46.000 --> 01:10:57.000
+Because I, because you are talking for half an hour now and if we still want to do.
+
+01:10:57.000 --> 01:11:02.000
+Thanks a lot. Yeah, that's great I will just yeah.
+
+01:11:02.000 --> 01:11:12.000
+Yeah, I think I'm also almost done, executive so this is world building. Another one was the Congress of future love and connection, it was a fictional Congress.
+
+01:11:12.000 --> 01:11:21.000
+It was also using a card game, actually, to, to create fictional characters and to create fictional world really quickly.
+
+01:11:21.000 --> 01:11:36.000
+And then, yeah, the memory weaving. I will maybe just jump through. It is on, I will actually skip it I think maybe then we have more talk, it is the two upcoming workshops, though.
+
+01:11:36.000 --> 01:11:49.000
+So actually I don't have to talk about the maybe just come and maybe I should also say thank you to all the people who supported me in this endeavor so you can see who it is.
+
+01:11:49.000 --> 01:11:52.000
+And I think you. Yeah.
+
+01:11:52.000 --> 01:11:56.000
+Okay.
+
+01:11:56.000 --> 01:12:00.000
+Okay. um, apparently we have to stop.
+
+01:12:00.000 --> 01:12:05.000
+I thought we still have 20 minutes for discussion.
+
+01:12:05.000 --> 01:12:11.000
+But apparently the session has to stop in a few minutes.
+
+01:12:11.000 --> 01:12:21.000
+Yeah, otherwise I would have been more strict on the time to do stop you. So, yeah, I had quite a bit of questions.
+
+01:12:21.000 --> 01:12:34.000
+And I think, yeah, that you had such interesting talks that could result in a lot of discussions and conversations and I would have been really curious what others have to say about it.
+
+01:12:34.000 --> 01:12:39.000
+Maybe I will just quickly share my, my own screen again.
+
+01:12:39.000 --> 01:12:51.000
+So I can show you the email addresses that I included on the first slide.
+
+01:12:51.000 --> 01:12:57.000
+So this is where you can design the email addresses can reach us.
+
+01:12:57.000 --> 01:13:26.000
+I also posted a link to the symposium of Kareena the brand and leads to the program so you can use it to contact, all the Harper's and all the performers, and maybe Vinnie, you can also post a link to the sandwiches there
+
+01:13:26.000 --> 01:13:33.000
+sandwiches.
+
+01:13:33.000 --> 01:13:46.000
+Yes, thank you all for staying on I'm really sorry that we don't have time for questions anymore I was really looking forward to that. But one way or another, I had it in my head that we had diamond to for 15.
+
+01:13:46.000 --> 01:13:55.000
+So I just let him talk with a student one more strict than sorry.
+
+01:13:55.000 --> 01:13:58.000
+Yeah, sorry. Thanks a lot.
+
+01:13:58.000 --> 01:14:28.000
+Thank you. Yes, thank you very much for listening and for all the nice remarks on the chat and hope to get touching soon as they get in touch soon with all of you.
+

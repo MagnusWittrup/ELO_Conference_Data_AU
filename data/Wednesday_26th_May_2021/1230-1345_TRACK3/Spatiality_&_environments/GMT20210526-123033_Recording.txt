@@ -1,0 +1,98 @@
+00:07:50	Richard Carter:	*Timed mine for about 5.30/45!
+00:14:49	Mark Marino:	applause
+00:15:08	Piotr (he/him) London:	applause
+00:15:13	Leonardo Flores:	I agree! Thank you for sharing this project with us!
+00:15:25	Daria Petrova:	Sorry I was late, is it work in progress?
+00:15:33	Andréa Catrópa:	Very nice! Beautiful project
+00:15:39	Daria Petrova:	It looks very interesting
+00:15:51	Leonardo Flores:	This is awesome.
+00:16:16	Leonardo Flores:	No
+00:16:20	Mark Marino:	improv with robots!!!
+00:16:30	Shanmuga priya:	Thank you, yes, it is working in progress
+00:16:33	Leonardo Flores:	Improv with robots. As one should!
+00:20:01	Mark Marino:	where do we audition?
+00:21:52	Alessia Pannese:	Thank you!
+00:21:53	Mark Marino:	bravo
+00:23:46	Helen Burgess:	These diffraction images are beautiful
+00:25:01	Mark Marino:	just wow
+00:25:02	Vinícius UFMT:	These diagrams are so beautiful!
+00:25:26	Daria Petrova:	Breathtaking
+00:25:44	Jennifer Dellner:	Love this
+00:27:12	Mark Marino:	i call it ccs
+00:28:07	Alessia Pannese:	Thank you!
+00:28:18	Piotr (he/him) London:	Applause
+00:33:31	Andréa Catrópa:	https://www.andreacatropa.com/oneirografia
+00:33:40	Mark Marino:	applause
+00:33:41	Piotr (he/him) London:	Applause
+00:33:46	Shanmuga priya:	Interesting! thank you
+00:33:48	Alessia Pannese:	applause
+00:33:55	Vinícius UFMT:	Applause!
+00:34:08	Andrew Demirjian he/him:	great work everyone!
+00:34:08	rodcoover:	Applause!
+00:34:09	Zach Whalen (He|Him):	amazing work all around
+00:34:14	Andréa Catrópa:	Thank you!
+00:34:15	Søren Bro Pold:	The piece is also part of the Platforming Utopias exhibition.
+00:34:19	Improv Media & Performance Lab:	Applause!
+00:34:39	Jennifer Dellner:	Applause! + @Andréa - is the 3-D environment for VR?
+00:34:55	Mark Marino:	great question
+00:35:30	Vinícius UFMT:	Q @Andrea: Did you get inspiration from other navigatable environments by Brazilian artists, such as Alckmar Santos or Chico Marinho
+00:35:32	Andréa Catrópa:	Jennifer, not yet...just because of the pandemic. We couldn´t try it now in VR...but, maybe, we will try it on VR later
+00:36:29	Jennifer Dellner:	Thank you
+00:36:45	Leonardo Flores:	I think the immersive aspect of the environment would work nicely.
+00:36:48	Leonardo Flores:	In VR.
+00:37:02	Andréa Catrópa:	Yes, Leonardo!
+00:37:06	Leonardo Flores:	Reinforcing the dreamlike quality.
+00:37:10	Jennifer Dellner:	Agree
+00:38:01	Søren Bro Pold:	Q
+00:38:27	Andréa Catrópa:	We´ll have a virtual vernissage on June 19th to test some possibilities with users. I will discuss this VR idea with Felipe and with the "audience"
+00:39:45	Leonardo Flores:	At the same time, don’t feel pressured to raise the technical stakes of your creative work. VR development is a whole other level of technical production and expertise.
+00:39:47	Jeremy Hight:	was on a panel in silicon alley once on future ar...still gives me the willies   this is fascinating work
+00:40:07	Andrew Demirjian he/him:	Q for Boyd and Piotr, is there documentation of any of the performances you can send us a link to?
+00:40:13	Richard Carter:	Indeed! Thank you
+00:40:54	Mark Marino:	q:Richard can u talk more about the esolang u have created?
+00:40:54	Piotr (he/him) London:	Yes! Thank you. Our website is https://improbotics.org
+00:40:58	Improv Media & Performance Lab:	Here is one of our shows: https://www.youtube.com/watch?v=_QePlDFR09o&t=1031s
+00:41:25	Improv Media & Performance Lab:	More about us: https://improbotics.org/
+00:42:00	Alessia Pannese:	Q please for Andréa
+00:43:41	Daria Petrova:	Thanks for links!
+00:47:26	Jeremy Hight:	yes in design theory   it has been called the surface fetish
+00:48:07	Scott Rettberg:	A drop in the ocean is one more drop than it had before.
+00:48:29	Richard Carter:	Absolutely
+00:48:35	Søren Bro Pold:	Thanks, great answers!
+00:50:06	Helen Burgess:	richard do you have a public repo for the code?
+00:52:30	Richard Carter:	Not yet! It's currently still being tweaked and worked on, but once it is compiled into a finished artist's book, the code will be featured
+01:02:16	Stephanie Strickland:	https://theaterofwar.com/about
+01:04:09	Stephanie Strickland:	theater of war very creative adjustment to Zoom performance    esp.  way large live audience interacts and film actors do theater work  in Zoom upclose shots from their homes
+01:05:56	Daria Petrova:	Rimini Protokoll stager a zoom version of this peace: https://www.rimini-protokoll.de/website/en/project/call-cutta-at-home
+01:06:01	Daria Petrova:	staged
+01:06:57	Piotr (he/him) London:	I was going to ask! :-D
+01:07:08	Daria Petrova:	Very excited with Improbotics project
+01:09:28	Helen Burgess:	Q: is there a Turing test for art?
+01:09:43	Richard Carter:	*Now that is a question!
+01:10:09	Zach Whalen (He|Him):	Leo makes a great point about bot's working because of brevity. One related challenge to longer computer-generated text is its weaknesses in recalling and building on information already established within a narrative.
+01:12:44	Daria Petrova:	Are you allowing the audience to take part in improvisation, or is it just for the actors?
+01:13:35	Leonardo Flores:	That’s a neat way of addressing Zach’s comment on continuity.
+01:13:37	Zach Whalen (He|Him):	@Piotr is that GPT-2?
+01:14:09	Mark Marino:	thinking also of netprov and malthes performance last night
+01:14:21	Leonardo Flores:	Cyborg generation. Love it!
+01:14:49	Mark Marino:	q: since audience feedback is so important in improv comedy esp., how do u provide actors with that?
+01:15:21	Leonardo Flores:	Thank you!
+01:17:40	Piotr (he/him) London:	Yes, GPT-2 was a huge leap for us. We started using GPT-3 recently, which. enables “one-shot” learning on the spot of specific relationships between concepts at runtime, e.g., “Joke: … Punchline: ...“
+01:18:32	Piotr (he/him) London:	@Daria: we allow the audience to select lines, by inviting them on stage or sharing a tablet with line suggestions generated by the AI.
+01:19:03	Piotr (he/him) London:	@Daria: we also managed to get 1-minute exchanges b/w audience members and ELIZA (1966)!
+01:19:19	Andrew Demirjian he/him:	This is a project that may be of interest related to the AI robotic conversations: https://www.stephaniedinkins.com/conversations-with-bina48.html
+01:19:30	Vinícius UFMT:	Great presentations! Congrats to all panelists!
+01:19:35	Piotr (he/him) London:	Thank you @Andrew!
+01:19:36	Leonardo Flores:	Thank you all!
+01:19:36	Andréa Catrópa:	I am very curious to see all the Works!
+01:19:39	Daria Petrova:	@Piotr, thank you. ELIZA is great!
+01:19:39	Andrew Demirjian he/him:	Thank you!!
+01:19:40	Leonardo Flores:	Great presentations!
+01:19:44	Alessia Pannese:	Thank you all!
+01:19:45	Piotr (he/him) London:	Thank you so much!
+01:19:46	Daria Petrova:	It was great!
+01:19:56	Jennifer Dellner:	Lovely panel: thank you all!
+01:20:02	Shanmuga priya:	Thanks to everyone, moderator, organizers and all others!
+01:20:15	K:	Fantastic discussion and presentations :) 
+01:20:22	Zach Whalen (He|Him):	thanks everyone!
+01:20:27	Chris Arnold:	Thank you!

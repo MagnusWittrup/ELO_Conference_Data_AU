@@ -1,0 +1,337 @@
+00:10:02	Sarah Laiola (she/her):	Oh wow
+00:11:07	Carlota Salvador Megias:	that’s such a cute dog, leo…
+00:11:44	Leonardo Flores:	Pepper is a cutie. :-)
+00:14:52	Jennifer Dellner:	LOl
+00:16:01	Stuart Moulthrop:	Not Safe for Court
+00:16:05	Siobhan O'Flynn:	the loss of Philome.la!
+00:16:12	Brian Kelly:	this does harken back to the Chris Klimas talk earlier this conference on liability for content (a one person company is as responsible as a multi billion dollar company.)
+00:16:46	Sarah Laiola (she/her):	@siobhan FOR REAL!!!
+00:18:19	Stuart Moulthrop:	Back in the Olden Daze, Robert Coover used to run a literary reading series called UNSPEAKABLE PRACTICES (stolen from the title of a Barthelme collection).  The series hosted some of the first e-lit readings, before ELO.
+00:18:20	Daniel Cox:	Keep in mind Philoma.la was supported by one person. You can regret its loss, but it was _one_ person maintaining that service for many years alone. The fact that there is not a replacement should point to the hidden labor involved in hosting such services.
+00:19:29	Brian Kelly:	Exactly Daniel!
+00:19:38	Brian Kelly:	thank you
+00:20:29	Siobhan O'Flynn:	Absolutely Daniel. I’m thinking of Archive of Our Own and the value of hosting sites created from within communities to support those communities..
+00:20:37	Anastasia Salter:	Impossible for your remarks to be outdated! :-D
+00:20:58	Leonardo Flores:	A parallel case to philome.la is Cheap Bots Done Quick! (A one, maybe two, person platform that is thankfully still active.
+00:21:21	Brian Kelly:	Hooray for Twine focused courses.
+00:21:31	Leonardo Flores:	But that fragility wakes me up at night, sometimes.
+00:21:44	Anastasia Salter:	Our editor wrote me last night saying they might still meet the May deadline / today, so watch Twitter / Discord for news :-P
+00:22:09	Brian Kelly:	When you invite people in, you invite everyone in
+00:22:11	Lai-Tze Fan:	Feel free to type questions in the chat; I’m keeping a list to return to in case it gets pushed up!
+00:22:23	Melinda White (she/her):	Excited to read it!
+00:22:37	Daniel Cox:	(I hear the book is really good!)
+00:23:01	Brian Kelly:	https://www.patreon.com/klembot
+00:23:39	Mark Marino:	dislexia-ic
+00:23:40	Anastasia Salter:	Pretty sure I just talked way too fast :-P
+00:24:04	Leonardo Flores:	Like listening to a podcast at 1.5 speed.
+00:24:08	Leonardo Flores:	;-)
+00:24:09	Anastasia Salter:	hahahaha
+00:24:24	Serge BOUCHARDON:	When my students create with Twine (wonderful tool), what they miss is a synchronous collaborative mode (compared to the Unity Collab mode for instance)
+00:25:17	Anastasia Salter:	One of these days I've got to try the cool talk - as Twine approach, love the links.
+00:26:09	Mark Marino:	That’s this: https://twinery.org/cookbook/cycling/harlowe/harlowe_cycling.html?
+00:26:11	Mark Marino:	https://twinery.org/cookbook/cycling/harlowe/harlowe_cycling.html
+00:26:13	Daniel Cox:	There is interesting in making Twine a collaborative tool! But, as Chris shared in an earlier roundtable, sometimes it is just him and people submitting code fixes some days. That is very hard to maintain. However, just because Twine itself does not solve this problem, that doesn't mean someone else with money + coding support could not do the same thing.
+00:26:18	Sarah Laiola (she/her):	I also need to try out this format of Twine that stuarts working with
+00:26:38	Brian Kelly:	How are students engaging with link types such as cycling link? How do students plan and understand links.
+00:26:46	Serge BOUCHARDON:	I love the transcript : the paratactic => "the Parrot tactics"
+00:27:09	Brian Kelly:	Yeah, Johannah Drucker was rendered as a hundred ducks
+00:27:21	Sarah Laiola (she/her):	Low-key goals though
+00:27:27	Carlota Salvador Megias:	oh i love that
+00:27:31	Carlota Salvador Megias:	a text in which every word is a cycling link
+00:27:31	Mark Marino:	Related to that question of whether scrolling is analogous to jumping to a link
+00:27:48	Leonardo Flores:	I think the move towards single HTML page hypertexts also subverts the traditional notion of linking between different documents. Instead it’s about revealing different parts of the same.
+00:28:16	Mark Marino:	@leo aka most Undum works
+00:28:20	Siobhan O'Flynn:	Parrot tactics is great….
+00:28:40	Leonardo Flores:	Yep. And Twine (last time I looked).
+00:28:57	Leonardo Flores:	The Lit(e)Lat Collection is a single HTML file.
+00:29:16	Leonardo Flores:	Plus assets.
+00:29:56	Mark Marino:	Leo: doesn’t it depend on the general twine template being used?
+00:30:27	Leonardo Flores:	Maybe. Isn’t the compiled version a single HTML file?
+00:30:28	Erin Kathleen Bahl:	9but please that too!)
+00:30:56	Leonardo Flores:	I haven’t worked on Twine for a bit, so my info may be old.
+00:31:21	Daniel Cox:	It's really cool to hear that Twine is being used so much!
+00:31:38	Brian Kelly:	IT would be interesting to see Twine in other disciplines (STEAM) courses to see interconnections
+00:31:40	Ambika:	Yes it’s one single HTML
+00:31:43	Lai-Tze Fan:	Thanks so much for sharing your curriculum overview of Twine too!
+00:31:45	Daniel Cox:	(I don't tend to hear about classroom usages.)
+00:31:57	Mark Marino:	Sarah is an award winning professor!
+00:32:18	Stuart Moulthrop:	Pretty sure twines are always scumbled into a single page.  But since 2.x, those files are openable in the Twine application, so structure is always accessible.
+00:32:30	Mark Marino:	Ah, got it @Leo
+00:32:46	Leonardo Flores:	*whew!*
+00:32:48	Anastasia Salter:	Yep, but many Twine projects rely on external assets (images / music) which makes it tricky for submission to course management systems, etc.
+00:32:52	Mark Marino:	thanks @Stuart
+00:33:28	Mark Marino:	thanks @anastasia
+00:34:30	Lai-Tze Fan:	“Co-laboration.” :D
+00:34:37	Caleb A Milligan:	noice
+00:34:46	Carlota Salvador Megias:	omg lai-tze i stopped myself from making a similar joke… “code-laboration”
+00:34:47	Zach Whalen (he/him):	I really miss teaching in that kind of lab.
+00:35:06	Lai-Tze Fan:	@carlota ;) Pursue, pursue!
+00:35:23	Stuart Moulthrop:	Weirdly, Chris Klimas says he and I talked about Twine as a collaborative tool in 2008.  If he says so.
+00:36:04	Jennifer Dellner:	We “gathered around” shared screens as students worked and switched off and that worked pretty well, with people putting snippets of their Twines in the cat (WebEx was our remote platform)
+00:36:19	Daniel Cox:	To anticipate a question: It is possible to _make_ Twine an online collaborative. Chris cannot support that on his own, nor can the Twine Committee. However, the code is open source and there are frameworks for adding collaborative functionality to existing projects like Twine. It *is* possible, but it would require dedicated time and resources Chris himself does not have.
+00:36:35	Jennifer Dellner:	@Sarah: YES!
+00:36:35	Deena Larsen:	Those detailed instructions are so valuable!!
+00:36:48	Anastasia Salter:	There's also the other side of this, collaborative play of Twine - not sure this demo still works but it's something people have explored: https://twinemulti.herokuapp.com/
+00:36:57	Deena Larsen:	It would be great to have a repository of these so people don't have to keep reinventing the instructions.
+00:37:06	Stuart Moulthrop:	@Dan: Good point.
+00:37:28	Zach Whalen (he/him):	I agree. It’s a challenge for some students, but a good teachable moment as it were
+00:37:29	Lai-Tze Fan:	@Stuart: ontology and philosophy are coming in!
+00:37:32	Erin Kathleen Bahl:	@Deena: yes!!
+00:37:41	Deena Larsen:	a pistol lab?
+00:37:47	Sarah Laiola (she/her):	epistolab
+00:37:48	Caleb A Milligan:	epistolab
+00:37:54	Daniel Cox:	There used to be a page on the Twine Wiki for pedagogy resources related to Twine. It was lost when the Wiki was absorbed into the Cookbook because the Wiki was not being maintained.
+00:37:56	Erin Kathleen Bahl:	i am on board with this
+00:37:59	Deena Larsen:	epistolary lab ok
+00:38:04	Lillian-Yvonne Bertram:	epistolary as in letter sending/writing
+00:38:24	Lillian-Yvonne Bertram:	interesting to think of Twine as "missives"
+00:38:30	Leonardo Flores:	You can’t have “epistolab” without “pistola” (and pistol)
+00:38:41	Leonardo Flores:	The puns write themselves.
+00:38:48	Leonardo Flores:	Shoot that file over.
+00:38:53	Lai-Tze Fan:	;P
+00:38:55	Caleb A Milligan:	do it for the pun (TM)
+00:39:17	Leonardo Flores:	That choice backfired on you.
+00:39:35	Siobhan O'Flynn:	nice!
+00:39:42	Deena Larsen:	thank you
+00:39:56	Sarah Laiola (she/her):	LOL Leo! “Shoot that file” I love it
+00:39:59	Stuart Moulthrop:	Please don't tell the NRA about the Pistol Lab.
+00:40:08	Deena Larsen:	(We need a panel "Check your guns at the door")
+00:40:10	Mark Marino:	I don’t want to follow any of you
+00:40:11	Sarah Laiola (she/her):	This is NOT where we do 3D printing
+00:40:13	Hannah Ackermans:	IS the Epistolab for Twine specifically or for other digital writing (plat)forms as well?
+00:40:45	Lillian-Yvonne Bertram:	the epistolary also seems to imply a kind of intimacy and connection, sending and receiving, expectations of response vs sending missives into a endless online space, etc.
+00:40:58	Sarah Laiola (she/her):	@Hannah I think it could expand…for instance I also teach w Cheap Bots Done Quick (which Leo mentioned earlier) and that similarly would require an episto-lab model of shared coding
+00:41:27	Lai-Tze Fan:	I’m gonna note Hannah’s question for the Q&A, but if it feels like it’s over later, that’s ok (:
+00:41:28	Hannah Ackermans:	@Sarah Thank you, it sounds like a great approach
+00:42:02	Sarah Laiola (she/her):	@Lai-Tze awesome! I think it could stand some discussion for sure :) esp re: your notes of intimacy and closeness created in a letter writing
+00:43:02	Stuart Moulthrop:	From Caleb's mouth to the AWP's ears.
+00:43:20	Serge BOUCHARDON:	When I hear “Epistol Lab”, I think of the epistolary French novel “Liaisons dangereuses” => “Dangerous links”, that’s what Twine is ?
+00:44:00	Agnieszka Przybyszewska:	definitevly, Serge :D
+00:44:01	Leonardo Flores:	From an elit perspective, I find digital literacy often misused, meaning information literacy.
+00:44:27	Anastasia Salter:	@Serge ahhh where were you when we were looking for book subtitles?
+00:44:46	Deena Larsen:	yes, the skills you get are problem solving, making connections, seeing an overall world--new ways of thinking period.
+00:44:53	Anastasia Salter:	going to need to write something called "Dangerous Links" now.
+00:44:56	Sarah Laiola (she/her):	@Serge I love that!
+00:45:06	Mark Marino:	ha ha
+00:45:08	Mark Marino:	I know that fealing
+00:45:11	Mark Marino:	feeling
+00:45:31	Deena Larsen:	thinking as playing. Playing as writing. games of life.
+00:46:03	Leonardo Flores:	That would lead to aporia
+00:46:03	Deena Larsen:	Espen! I just got ELO bingo!
+00:46:04	Melinda White (she/her):	it’s so early for shots…
+00:46:07	Stuart Moulthrop:	The Finns always win that game.
+00:46:14	Deena Larsen:	I just need Vannevar Bush!
+00:46:16	Mark Marino:	Cybershots
+00:46:27	CLARA CHETCUTI:	copyright the Espen Aarseth drinking game or I will! :P
+00:46:32	Sarah Laiola (she/her):	Time for espresso shots in the cafe?
+00:46:36	Leonardo Flores:	ELO Bingo: we need to make this a thing.
+00:46:37	Lillian-Yvonne Bertram:	The transcription made a hash of that name, could someone post it?
+00:46:45	Sarah Laiola (she/her):	That is some dangerous links for sure
+00:46:46	Lillian-Yvonne Bertram:	Oh wait just saw it--nvr mind
+00:46:46	Anastasia Salter:	awww that book was named by consensus at an ELO conference, thanks for citing that :-)
+00:46:58	Deena Larsen:	...hands out Twine ELO bingo cards to all... or at least we make them for 2022
+00:47:06	Leonardo Flores:	Right!?
+00:47:31	Clara Fernandez-Vara:	DiGRA has run bingo games as part of the conference, and people find ways to get upset about what gets included. the joys of academic politics
+00:48:15	Leonardo Flores:	We used to watch TNG and bet on trekkisms. “On screen.” “Subspace anomaly” Riker tucking his uniform.
+00:48:26	Sarah Laiola (she/her):	I think 4Cs does one too? There was. Practice version of it floating around Computers & Writing a couple years ago
+00:48:27	Siobhan O'Flynn:	Is there a running list on Discord of all the links shared? That would be so brilliant - works & tools / platforms?
+00:48:34	Mark Marino:	But there is a stretch text in Twine
+00:48:47	Mark Marino:	it’s a different kind of link, right
+00:49:08	Deena Larsen:	transclusions.
+00:49:15	Daniel Cox:	QUESTION: ALL - I was asked in 2017 "What will Twine look like in 10 years?" I now pose that to the panel: what will Twine -- or even just teaching with Twine -- look like in the next 10 years?
+00:49:54	Zach Whalen (he/him):	See also https://www.telescopictext.org/ for different link types (similar to stretch)
+00:49:59	Lai-Tze Fan:	Mark Marino
+00:50:02	Lai-Tze Fan:	Daniel Cox
+00:51:22	Mark Marino:	“I’m too fond of my fetishes”
+00:51:27	Deena Larsen:	links need to have meaning.
+00:51:32	Mark Marino:	put that on the t-shirt
+00:51:35	Melinda White (she/her):	Add Landow to the bingo, Deena!
+00:52:38	Deena Larsen:	Yes, we really need that low barrier to entry and the complexity later on
+00:53:29	Deena Larsen:	Ok, we need the drinking/twining game.
+00:53:29	Caleb A Milligan:	the drink or the card game?
+00:53:42	Daniel Cox:	That is not Twine. That is Harlowe.
+00:53:43	Sarah Laiola (she/her):	@Lai-Tze I was just gonna speak about this lol!
+00:54:00	Sarah Laiola (she/her):	Yes this is the new Harlowe format
+00:54:02	Deena Larsen:	Hooray for toolbars!
+00:54:11	Jennifer Dellner:	Tool bar was so disorienting. Anyone else feel that?
+00:54:11	Deena Larsen:	And for looking like all other softwares!
+00:54:18	Leonardo Flores:	WYSIWYG all the way
+00:54:21	Daniel Cox:	(And Leon is breaking the story format specification to do it!)
+00:55:16	Leonardo Flores:	My university used Drupal for its websites, but they disable HTML editing, which frustrates me.
+00:55:45	Stuart Moulthrop:	I'm on Canvas and it causes serious trouble with code examples.  But so does everything.
+00:55:49	Leonardo Flores:	Access to code is so important.
+00:55:55	Anastasia Salter:	Yes, this is the fragmentation I mentioned - story formats moving towards more specialized usages, and a less unified Twine, as Dan points out.
+00:56:05	Sarah Laiola (she/her):	I like that this WYSIWYG is like a WYSIWYG lite, in that it doesn’t show the output it shows the code
+00:56:23	Deena Larsen:	Need to be able to drive the car and to lift the hood--need to accommodate all skill levels.
+00:56:26	Melinda White (she/her):	Yes, mine too, Leo. Students can’t upload un-templated projects any more.
+00:56:32	Zach Whalen (he/him):	Is that toolbar only available if you’re using the Harlowe format?
+00:56:34	Anastasia Salter:	There are definitely consequences, but as long as there are other formats the toolbar is still a choice that can be in turn resisted :)
+00:56:45	Stuart Moulthrop:	Stephanie and David have hands up!
+00:56:47	Lai-Tze Fan:	Zach — not sure, actually!
+00:56:53	Caleb A Milligan:	@zach yeah think so
+00:56:57	Stephanie Strickland:	Deena, no one can lift the hood any more!
+00:57:01	Lai-Tze Fan:	I think Stephanie’s hand is from before. David Wright next!
+00:57:05	Mark Marino:	I think another question is how you are empowering your students
+00:57:19	Leonardo Flores:	I always think about how MySpace invited so many people to learn coding.
+00:57:27	Mark Marino:	I like to show them Twine and INK so they can see different approaches
+00:57:34	Caleb A Milligan:	@leo yes!
+00:57:37	Mark Marino:	I suppose you could also show different versions of Twine
+00:57:42	Mark Marino:	Harlow, SugarCube, etc.
+00:57:46	Stuart Moulthrop:	@Mark: I need to get into INK.
+00:58:00	Anastasia Salter:	Judith Pintar is talking about the 90s web in the next session block, and this discussion makes me think of that: GeoCities had a WYSIWIG but all of us moved past it quickly because of the desire to do more.
+00:58:00	Mark Marino:	But I do like to give them something that feels and acts a little more codey
+00:58:03	Daniel Cox:	There is an internal tension many people may not be aware of internally. There was a great deal of work to organize how story formats work within the Twine Committee to document everything. However, while Harlowe added the interface, it was against the standard. This may seem like a great thing -- oh, WYSIWYG! Great! -- but it created more work for those documenting such things.
+00:58:07	Mark Marino:	You’ll love it, Stuart
+00:58:13	Mark Marino:	It is big fun with markdown
+00:58:14	Erin Kathleen Bahl:	concerning accessibility from a disability standpoint: does the current twine wysiwyg interface offer options for building in alt text on links, images, media, etc., or is it primarily on the author to include those tags?
+00:58:15	David Wright:	I am curious as to how Twine correlates to ‘traditional’ creative writing programs.
+00:58:23	Deena Larsen:	@Mark, I want to be there when you show Stuart Ink, please. Make it a workshop.
+00:58:35	Mark Marino:	Anytime
+00:58:38	Caleb A Milligan:	@erin I love that question!
+00:58:39	Mark Marino:	Maybe a salon
+00:58:40	Lai-Tze Fan:	For teachers to be students!
+00:58:47	Leonardo Flores:	That’s the think with WYSIWYG interfaces, they’re like training wheels on a bicycle.
+00:59:23	Stuart Moulthrop:	Dan Cox has written the greatest software compendium ever, in the Twine Cookbook.  The way he maps across the story formats is, like, Macarthur Grant level work.
+00:59:27	Deena Larsen:	Ok, we can do a writing salon...
+01:00:40	Mark Marino:	BTW, strong recommend on the book Video Games for Humans for these courses
+01:00:53	Daniel Cox:	Or a strong recommend against.
+01:01:24	Lai-Tze Fan:	I just realized I didn’t give Caleb or Stuart a chance to answer to Daniel Cox’s question, so maybe if they want to add to that, they can? Otherwise, Agnieszka is next!
+01:01:31	Daniel Cox:	The collection is great, but there are some concerns around some of its contributors.
+01:01:42	Lai-Tze Fan:	answer Daniel***
+01:02:23	Anastasia Salter:	I have an example of a syllabus using Twine for interactive storytelling if it's helpful - https://hcommons.org/deposits/item/hc:33883/ - an annotated discussion of it is coming up in a Well Played collection on games pedagogy.
+01:02:38	Mark Marino:	I have a creative writing syllabus for this if you need it — so does Jeremy Douglass
+01:03:10	Lillian-Yvonne Bertram:	I plan to teach Twine in a CW context @Mark so I would be interestedin seeing that syllabus
+01:03:17	Stuart Moulthrop:	Also, half of _Twining_ is exercises intended for class use.
+01:03:29	Lai-Tze Fan:	^ Amazing!
+01:05:06	Mark Marino:	Dad-work Caleb rocks
+01:05:26	Sarah Laiola (she/her):	I was gonna say I will be super impressed is she sits w you and chills for the rest of this conversation :)
+01:05:53	Erin Kathleen Bahl:	cheers for elo kiddos <3
+01:05:54	Stuart Moulthrop:	Also on my list of Great Works of Genius, along with the Twine Cookbook, is 80 Days (Inkle, Meg Jayanth & co.).  Talking of literary crossingover.
+01:06:30	Mark Marino:	Hear hear!!!
+01:06:36	Hannah Ackermans:	@Caleb, yes, great point on the ""feels literary""
+01:06:47	Mark Marino:	And keep going away
+01:07:00	Caleb A Milligan:	thanks Hannah!
+01:07:39	Leonardo Flores:	I think the “feels literary” point is an important bridge for students and people who haven’t experienced much elit.
+01:07:51	Deena Larsen:	Open source certainly helps Twine grow, divide, come back and be used as a construction tool.
+01:08:01	Lai-Tze Fan:	Agnieszka is next!
+01:08:27	Daniel Cox:	Yes, please keep that in mind. We are not paid for the labor behind things like the Twine Cookbook.
+01:08:28	Leonardo Flores:	For me, “Thoughts Go” by David Knoebel (in ELC3) is a very poemy poem that literary and creative types respond well to.
+01:08:35	Siobhan O'Flynn:	Really good point Anastasia
+01:08:48	Mark Marino:	And because of Apple
+01:09:14	CLARA CHETCUTI:	I always keep coming back to WHY With All Those We Love Alive "feels literary" in a way that Anna Anthropy's Queers in Love at the End of the World or her The Hunt for the GAy Planet
+01:09:14	Siobhan O'Flynn:	AO3!
+01:09:31	CLARA CHETCUTI:	*doesn't
+01:09:36	Deena Larsen:	So much dependson a few peopleand their dedicated websits
+01:09:36	Anastasia Salter:	Yaaay A03! :-D
+01:09:38	Leonardo Flores:	Maybe we need to invest in platforms. Specifically indie platforms.
+01:10:01	Carlota Salvador Megias:	+1
+01:10:10	Deena Larsen:	throws out red wheelbarrows just to confuse people
+01:10:13	Leonardo Flores:	Twine, CBDQ, and others.
+01:10:13	Anastasia Salter:	Casey Fiesler's work is incredible for thinking about building platforms / investing back kin this type of effort if a community wants to avoid reliance on commercial infrastructure: https://caseyfiesler.com/2016/02/09/an-archive-of-their-own-a-case-study-of-feminist-hci-and-values-in-design-chi-2016/
+01:10:36	Mark Marino:	If platforms lived forever, we’d all still be writing on Deena’s shower curtain
+01:10:54	Anastasia Salter:	I still show Deena's shower curtain in week one of every hypertext / IF class! :-D
+01:11:15	Mark Marino:	Didn’t Jason Shuga use one, too?
+01:11:21	Stuart Moulthrop:	Deena's Shower Curtain is a product of Aperture Fixtures.  (Sorry, _Portal_ in-joke.)
+01:11:34	Leonardo Flores:	Speaking of shower curtains, I better hustle, if I want to look decent for later panels.
+01:11:41	Leonardo Flores:	;-)
+01:11:49	Sarah Laiola (she/her):	2nd person narration is a great point!
+01:11:49	Mark Marino:	just get a filter, Leo
+01:11:59	Leonardo Flores:	You can’t filter the stubble away.
+01:12:08	Leonardo Flores:	I guess you can.
+01:12:15	Siobhan O'Flynn:	Lol….. I have images of the post-it string branching path intersecting path walls from an interactive feature film years ago
+01:12:15	Zach Whalen (he/him):	@Leo A tangent, but I wonder if there’s a role ELO to help preserve/document/backup CBDQ?
+01:12:18	Mark Marino:	sure, it’s called a beard
+01:12:29	Leonardo Flores:	Let’s explore that Zack.
+01:12:36	Leonardo Flores:	It’s such an important platform.
+01:12:38	Sarah Laiola (she/her):	@Zack & Leo yes please
+01:12:43	Mark Marino:	Remember how upset we used to get when people called hypertext CYOA?
+01:12:46	Caleb A Milligan:	yeah I love the point about showing students print interactive texts, because I like to teach students 1) what they can do in Twine that authors have already done in print, and then 2) what they can do in Twine that authors can't quite do in print
+01:12:51	Deena Larsen:	Embrace the mad lib (it)eration of it all
+01:12:59	Leonardo Flores:	And supporting Tracery too
+01:13:06	Leonardo Flores:	Those are the two foundations.
+01:13:15	Zach Whalen (he/him):	indeed!
+01:13:40	Deena Larsen:	Yes, in the end, we are all depending on our odd obsessions with this to keep it going--we all have to pay for our own platforms, use our time--and thank you Dan Cox, Chris Kliems and all for your dedication!
+01:13:41	Stuart Moulthrop:	CBDQ always reminds me of that other CBD.
+01:13:49	Daniel Cox:	Yeah... Twitter keeps changing the dev rules, is why.
+01:13:51	Leonardo Flores:	Not that we have much of it, but I want to throw money at these developers.
+01:14:02	Anastasia Salter:	Yep, Twitter is a vicious platform for content.
+01:14:14	Leonardo Flores:	You can’t have CBDQ without CBD. ;-)
+01:14:15	Mark Marino:	Dara!
+01:14:53	Leonardo Flores:	We’re hackeurs
+01:15:03	Leonardo Flores:	Hacker auteurs
+01:15:07	Deena Larsen:	If you want to throw money, use the Patreon link?
+01:15:23	Leonardo Flores:	Yes, but I’m thinking ELO money.
+01:15:38	Leonardo Flores:	I support things on a personal level.
+01:15:40	Zach Whalen (he/him):	Yeah, Dan has it. I think there’s a space for some sort of server/service to support e.g. Python bots that CBDQ can’t support with Tracery. (working with API data, for example).
+01:15:51	Deena Larsen:	https://www.patreon.com/klembot
+01:15:53	Mark Marino:	Labr-adore
+01:15:54	Zach Whalen (he/him):	I mean, there are various things.
+01:16:09	Daniel Cox:	Something I have been thinking about is the need for a repository for pedagogical resources related to Twine (and other tools!). Learning Markdown is relatively easy, and websites can be created on platforms like GitHub to host resources for free where different people could contribute things.
+01:16:24	Deena Larsen:	We definitely need that repository, Dan!
+01:16:31	Anastasia Salter:	The IFTF Education committee has been working on that, but I confess it fell behind.
+01:16:32	Stuart Moulthrop:	^^^^
+01:16:38	Zach Whalen (he/him):	+1
+01:16:54	Daniel Cox:	I am not volunteering to do that, I'll note.
+01:17:00	Anastasia Salter:	haha
+01:17:11	Jennifer Dellner:	Ha, this is really cool: for lack of a better term, I had small projects in my elit class (community college; no students experienced in elit) called “Tinkering Projects”
+01:17:16	Siobhan O'Flynn:	Daniel - yes - I posted different Twine html files on my website that I made for students to demo macros
+01:17:28	Anastasia Salter:	I might be, but folks who are interested feel free to reach out and I can talk to IFTF folks about maybe revisiting that plan.
+01:17:29	Leonardo Flores:	Let’s make sure NaNoGenMo doesn’t go down with GitHub, if/when it ever goes down.
+01:17:38	Leonardo Flores:	Doesn’t everything go down?
+01:17:53	Stuart Moulthrop:	No, Leo, everything *gets* down.
+01:18:02	Leonardo Flores:	Yeah
+01:18:16	Zach Whalen (he/him):	@Leo I’ve got a pretty thorough record/backup of everyhing up through NNGM 2019
+01:18:47	Lai-Tze Fan:	People could check out the forthcoming The Lab Book (Lori Emerson, Jussi Parikka, Darren Wershler), on humanities labs!
+01:18:52	Mark Marino:	I love when they share the online twine link to their editing interface
+01:18:57	Mark Marino:	and you can’t see anything
+01:19:02	Caleb A Milligan:	so excited for that book, Lai-Tze!
+01:19:04	Anastasia Salter:	I also get links to their C:/
+01:19:05	Leonardo Flores:	Whenever some service or system goes down, I’m reminded of this great Frank O’Hara poem: https://poets.org/print/poem/a7bc1115-88ec-484e-aeae-328cc5c8f81c
+01:19:07	Jennifer Dellner:	@Mark Yes, omg
+01:19:07	Daniel Cox:	Big same, Sarah. Nine long years of "the value of the variable."
+01:19:27	Jennifer Dellner:	@Mark: they do this with google docs, too, so it’s not just Twine
+01:19:46	Mark Marino:	I know. And Step.Works
+01:19:58	Melinda White (she/her):	Yes, I made a Twine story with meta-steps/code for various things in it.
+01:19:59	Leonardo Flores:	Yes!
+01:20:02	Lai-Tze Fan:	My colleague Marcel O’Gorman distinguishes products from critical making of “objects to think with."
+01:20:43	Melinda White (she/her):	Also yes to Mark lol
+01:20:52	Lillian-Yvonne Bertram:	I'm curious, maybe, about who the pedagogical aspects of Twine and teaching Twine are reaching. I'm always concerned about the hidden and obvious racial dynamics of questions of "digital literacy", creative writing, creative coding--who are these practices reaching, what are they focusing on? Could you speak to how you might be integrating anti-racist pedagogies into Twine teaching and pedagogy, or particularly effective resources you've found that address these questions?
+01:20:52	Leonardo Flores:	Ok. Gotta go. Thank you for a great panel!!
+01:20:57	Lai-Tze Fan:	Bye Leo!
+01:21:00	Zach Whalen (he/him):	The things that students demonstrate they don’t know when they share a “C:/“ are the things that OSs have gradually and strategically hidden from user’s experience
+01:21:13	CLARA CHETCUTI:	@Lai-Tze, does Marcel theorise that anywhere?
+01:21:27	Jennifer Dellner:	@Zach: agreed. It’s actually a great teaching moment, to tell you the truth
+01:21:33	Leonardo Flores:	Dang, and I’m leaving after Yvonne’s bombshell question.
+01:21:36	Lai-Tze Fan:	@CLARA Yes, https://cjc-online.ca/index.php/journal/article/view/2519
+01:21:43	Lai-Tze Fan:	“Broken Tools and Misfit Toys: Adventures in Applied Media Theory” (2012)
+01:21:44	Leonardo Flores:	I’m gonna have to return to the video for answers.
+01:21:46	CLARA CHETCUTI:	Awesome, thanks for the link!
+01:21:53	Caleb A Milligan:	@Lillian-Yvonne, that is a super question and one I am still wrestling with tbh
+01:22:34	Caleb A Milligan:	a lot of my focus so far has been on queer approaches to Twine
+01:23:13	CLARA CHETCUTI:	This has been such an eye-opening panel! Thans you so much for everything :)
+01:23:14	Caleb A Milligan:	but wrestling with the anti-racist implications of the software is something I am doing the research to be more mindful of
+01:23:47	Lillian-Yvonne Bertram:	I will backchannel you re: auditing the institute, than kyou!
+01:23:53	Anastasia Salter:	I try to approach this in part by whose work I center as exemplars - this one's not Twine but it's great to teach: https://hairnah.com/
+01:24:00	Hannah Ackermans:	Thanks to all of you, this was a great panel!
+01:24:02	Zach Whalen (he/him):	+1
+01:24:10	Carlota Salvador Megias:	i think that’s wonderful, anastasia
+01:24:14	Siobhan O'Flynn:	Hairnah is fantastic
+01:24:23	Jennifer Dellner:	Wonderful panel; so appreciate you all!
+01:24:33	Daniel Cox:	Yes, exactly. Who we center for our students as examples is a great way to start to address that!
+01:24:35	Stuart Moulthrop:	Thanks everybody!
+01:24:36	Melinda White (she/her):	That looks great, I need help with this as well
+01:24:39	Deena Larsen:	Great panel thank you
+01:25:01	Lai-Tze Fan:	I just want to add that I like teaching Twine in other languages, bc a non-Latin alphabet can be used in the basic code.
+01:25:08	Sarah Laiola (she/her):	For me its what texts I bring into the class (oh Anastasia is literally saying this), and I also de-prioritize the coding skills, to help students focus on process / reflection / creative ideas that may not be executed (yet)
+01:25:12	Lai-Tze Fan:	I’ve taught it in Traditional Chinese and Korean.
+01:25:45	Erin Kathleen Bahl:	thank you all for an excellent panel!
+01:25:50	Jennifer Dellner:	Off to a quick shower…
+01:25:57	Zach Whalen (he/him):	thanks everyone!
+01:26:01	Maria Mencia:	Thanks everybody!
+01:26:04	Melinda White (she/her):	Thank you all, great panel!
+01:26:05	Agnieszka Przybyszewska:	thanks for the inspiring discussion
+01:26:07	Carlota Salvador Megias:	thank you so much for this! i had no idea you could use twine in languages other than english, that’s super great
+01:26:16	Christine Wilks:	Thank you all. Great discussion
+01:26:37	Lillian-Yvonne Bertram:	than you everyone!
+01:26:39	Sarah Laiola (she/her):	Thanks everyone!!
+01:26:41	Siobhan O'Flynn:	Thanks! Great sharing!

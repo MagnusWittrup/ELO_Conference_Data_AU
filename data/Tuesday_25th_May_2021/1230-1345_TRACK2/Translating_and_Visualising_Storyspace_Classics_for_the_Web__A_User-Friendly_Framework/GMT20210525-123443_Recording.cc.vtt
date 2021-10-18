@@ -1,0 +1,1037 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Hello and welcome everyone. Welcome to translating and visualizing storage space classics for the web, and an evolving user friendly
+
+00:00:04.000 --> 00:00:08.000
+user friendly framework. This is a presentation and workshop.
+
+00:00:08.000 --> 00:00:27.000
+My name is Manish Pisarski, and we've missed me how for ago. We both affiliated in university of information technology in the management and the rational, but also when I'm research.
+
+00:00:27.000 --> 00:00:46.000
+at Washington State State University Vancouver, where we are working for some time now on this on this framework, which has three, three names of free tags I'm getting to it.
+
+00:00:46.000 --> 00:00:53.000
+Firstly, I'm calling it an automated DIY storage space exporter.
+
+00:00:53.000 --> 00:01:00.000
+A hypertext archaeology toolkit. And then it translators toolkit.
+
+00:01:00.000 --> 00:01:22.000
+And as such, the tool, we are developing is targeted towards translators of electronic literature for authors who have written their works and in on old systems in the storage space, and other early web platforms for researchers and for publishers who
+
+00:01:22.000 --> 00:01:38.000
+would want to take the old files from old platforms and presented within modern open with languages, what is important to say, of the beginning is that this is not a tool for readers.
+
+00:01:38.000 --> 00:01:47.000
+As such, this is a tool for those who will then present a reading experience for for the audience.
+
+00:01:47.000 --> 00:02:02.000
+day result of our work on on this particular project will be Michael Joyce's Twilight Symphony, an online version that is planned to be premiered in July 2021.
+
+00:02:02.000 --> 00:02:18.000
+And let me guys show you just some screenshots of how it looks like and where we are at the moment.
+
+00:02:18.000 --> 00:02:23.000
+Okay.
+
+00:02:23.000 --> 00:02:27.000
+is the screenshot of Twilight visible.
+
+00:02:27.000 --> 00:02:31.000
+Yes.
+
+00:02:31.000 --> 00:02:44.000
+This is a one of the, one of the possible screens for Michaels over 320 likes Yes.
+
+00:02:44.000 --> 00:03:01.000
+What we present or what what functionalities are being ported from storage space is a bit changed from whatever we have done previously with storage space classics was translating the words from storage space.
+
+00:03:01.000 --> 00:03:03.000
+We want to have.
+
+00:03:03.000 --> 00:03:23.000
+Apart from a link menu or roadmap, we want to have for the first time, storage space maps ported to the online platform, a relational map or logical connection smart or something that I call the network neighborhood mob also implemented.
+
+00:03:23.000 --> 00:03:30.000
+Apart from conditional linking and random linking present in Twilight.
+
+00:03:30.000 --> 00:03:39.000
+We want these functionalities to work completely on full throttle without any compromises.
+
+00:03:39.000 --> 00:04:04.000
+And the idea of the tool, we want to present to you guys is that all these functionalities will not be bound to a twilight Symphony, but will be given to translators to altars and to anyone who has written the work, 30 2020 years ago on these platforms
+
+00:04:04.000 --> 00:04:17.000
+and who is interested in presenting it today to their audience, which, which, of course, have grown exponentially from from that time.
+
+00:04:17.000 --> 00:04:31.000
+So, the point of this workshop is first to just give a quick background but with, with this audience that we have here I don't think much of the background is needed
+
+00:04:31.000 --> 00:04:34.000
+some technical introduction.
+
+00:04:34.000 --> 00:04:48.000
+A short, short workflow of something that I called the platform bridge workflow, and then demonstrate to the framework in action, and give some time for questions
+
+00:04:48.000 --> 00:05:03.000
+at the end of the workshop hopefully we will have some more or less vague idea on how to extract out stories by style to where new software and hardware environment, how to prepare.
+
+00:05:03.000 --> 00:05:20.000
+Such file for an automated reporting and how to upload the input zip to their web or Java app, and how to get the output zip from the exporter or from that Java app.
+
+00:05:20.000 --> 00:05:28.000
+In order to further, modify it, and publish it yourself.
+
+00:05:28.000 --> 00:05:29.000
+A.
+
+00:05:29.000 --> 00:05:42.000
+Since the since play like will be debuting in. In July, we still not there yet, there is some CSS styling needed some more work on stories base map.
+
+00:05:42.000 --> 00:06:01.000
+They will also be some procedures for manual overwriting of the automated output, and also will be will be presenting the finished toolkit, with a conditional link forms for anyone of the ultra, especially, who used conditional linking and storage space
+
+00:06:01.000 --> 00:06:15.000
+to be able to fine tune for his hypertext, an ED conditional links to the places where it is. It has been implemented
+
+00:06:15.000 --> 00:06:27.000
+our platform, or our, our place so window for the world will be on the storage space export their online website.
+
+00:06:27.000 --> 00:06:46.000
+And today will be working on the two examples of autism pass by Colin grey matter Patreon Michael Joyce the published in 1991 in the writing on the edge and then republished on the CD ROM in the new media reader.
+
+00:06:46.000 --> 00:07:02.000
+And also, as an example, as a secondary example on. Whoo, by Michael Joyce published on the same issue of New River. And in the same CD ROM that combine it, new media.
+
+00:07:02.000 --> 00:07:05.000
+And this is the set background.
+
+00:07:05.000 --> 00:07:07.000
+I just want to tell.
+
+00:07:07.000 --> 00:07:18.000
+For those who don't know, but I guess everyone knows that we are not inventing anything, anything from scratch, we are not opening the doors that has been already open.
+
+00:07:18.000 --> 00:07:23.000
+Some porting examples have appeared earlier.
+
+00:07:23.000 --> 00:07:31.000
+Specifically, one on not an anthology of postmodern fiction, the which published an afternoon a story.
+
+00:07:31.000 --> 00:07:55.000
+Online expert, that, that was advertised and combining the print the printed apology. Then there was the Robert candles word connection news, a very nice JavaScript framework for porting, the basic concept of storage space to the online environment.
+
+00:07:55.000 --> 00:08:08.000
+And of course there were the web versions of of storage space works, such as Victory Garden and marvelous things on his gates website.
+
+00:08:08.000 --> 00:08:24.000
+And another prominent very important example of of a web version is Dina Larson's wiki version of marble springs in terms of these gates demos. These were of course the abridged additions.
+
+00:08:24.000 --> 00:08:44.000
+In terms of the Dina's version of marble springs. This is a full encyclopedic project, and basically we can say that, but many, many functionalities and basically all of the free versions of marble springs are present.
+
+00:08:44.000 --> 00:08:49.000
+online within this project.
+
+00:08:49.000 --> 00:08:53.000
+We are also building on our own shoulders.
+
+00:08:53.000 --> 00:09:02.000
+In, in 2012, we have published in Poland, a Polish version of afternoon the story.
+
+00:09:02.000 --> 00:09:20.000
+This was made in XML and XSLT transformer for the browser experience not online yet because of his dates limitations or licensing connected to two after me.
+
+00:09:20.000 --> 00:09:31.000
+Afternoon story. Then we've got the full green lights to publish online Twilight the symphony in Polish in 2015.
+
+00:09:31.000 --> 00:09:38.000
+This was a first fully functioning gate is the work
+
+00:09:38.000 --> 00:09:39.000
+on the line.
+
+00:09:39.000 --> 00:10:00.000
+And for many many readers, even American audience. It was the first time they could actually access Twilight, and Symphony, because by that time it was, it was already something of a abandon where because it really was not the readers were not really
+
+00:10:00.000 --> 00:10:05.000
+able to open it on any modern platform for for many years.
+
+00:10:05.000 --> 00:10:07.000
+And then the latest.
+
+00:10:07.000 --> 00:10:29.000
+The latest project in this line of porting migrating and translating of these great classics, his fingers get fit for an acid, which has been just published in the by the team on electronic digital literature lab, and it's a it's a fantastic publishing
+
+00:10:29.000 --> 00:10:39.000
+project with contemporary edition and Classic Edition, and lots of functionalities mapping.
+
+00:10:39.000 --> 00:10:45.000
+Also present
+
+00:10:45.000 --> 00:10:48.000
+on all of these.
+
+00:10:48.000 --> 00:11:14.000
+In all of these publications that we supervise in Poland, the, the main premise was to preserve the basic story space concepts of conditional links, basically motor links random links and link buffs, which was not not always easy.
+
+00:11:14.000 --> 00:11:25.000
+And many of these were preserved, but we have never made a storage space map possible in online versions.
+
+00:11:25.000 --> 00:11:33.000
+Just to make you aware of how these previous projects were made.
+
+00:11:33.000 --> 00:11:58.000
+There was a lot of manual work on translating translating conditional links into the online versions as simple JavaScript. Part of my basic condition on the link a basic God fee which which which,
+
+00:11:58.000 --> 00:12:06.000
+which was telling the reader to go to a certain place only under a condition.
+
+00:12:06.000 --> 00:12:11.000
+A form of simple equation. few equals v.
+
+00:12:11.000 --> 00:12:30.000
+And then these stood for visitors. And then it was the god feet of a place that a leader must have must have not visited before activating the link and then a simple, simple logical of yes or no.
+
+00:12:30.000 --> 00:12:37.000
+If visitor if reader visited a place called weather report.
+
+00:12:37.000 --> 00:12:53.000
+Visit David went to place number one, if not the reader, went to place. Number, the number zero, and a single link in this online version.
+
+00:12:53.000 --> 00:13:16.000
+a single link, a single a talk of HTML used to have from one to 12, sometimes to 25, different trips, and they were numbered. Jeff one was number 021 for free TF to free to, etc.
+
+00:13:16.000 --> 00:13:21.000
+Sometimes, in order to do a
+
+00:13:21.000 --> 00:13:42.000
+god fields for a complicated link. I had to manually write that long equation. In order for JavaScript to correctly interpret what what Michael Joy's plan for a given link and it will.
+
+00:13:42.000 --> 00:13:54.000
+The work on these conditions and testing of these conditions lasted for months.
+
+00:13:54.000 --> 00:14:14.000
+These other those other concepts of storage space that we're only on the harmfully have automated in the previous previous online parts, and that's that new on the map of connections that we want to implement in the 28% for the English online.
+
+00:14:14.000 --> 00:14:29.000
+We also want to implement a breath cramp. This is just a simple navigational tool but quite important for users for readers who might feel lost within the network.
+
+00:14:29.000 --> 00:14:34.000
+But the basic navigational tool, would be map, and that roadmap.
+
+00:14:34.000 --> 00:14:38.000
+Link manga.
+
+00:14:38.000 --> 00:15:02.000
+So, I would go in this in this project was to automate the manual labor. into into have two key objectives to manipulate those basic objects of storage space on the temporal and spatial axis, the temporal is a work on the history of reading, and the spatial
+
+00:15:02.000 --> 00:15:09.000
+is is a work on the logic of connections of conditional linking.
+
+00:15:09.000 --> 00:15:32.000
+And I think this would be a good time for me to introduce you to me how, and perhaps show how some of these basic concepts of storage space, such as link menu or roadmap, and map of the network neighborhood, have been implemented in the Java exporter
+
+00:15:32.000 --> 00:15:36.000
+that we are developing.
+
+00:15:36.000 --> 00:15:40.000
+So me how if you could take.
+
+00:15:40.000 --> 00:15:43.000
+Now,
+
+00:15:43.000 --> 00:15:48.000
+I wish I knew the source codes, when the parts of the source codes.
+
+00:15:48.000 --> 00:15:55.000
+Right,
+
+00:15:55.000 --> 00:15:57.000
+my screen visible.
+
+00:15:57.000 --> 00:15:58.000
+Yes.
+
+00:15:58.000 --> 00:16:20.000
+Alright, so here we are. The other part of the whole exporter. I think the most important unreadable part from all the whole big algorithm is the, this HTML presentation of input file, which just as many many fields which are present the life of the reference
+
+00:16:20.000 --> 00:16:33.000
+profile the contents dyslexia, which was, which is read by the algorithm from the input files.
+
+00:16:33.000 --> 00:16:42.000
+Just iterate through every file inside the input folder and products for certain.
+
+00:16:42.000 --> 00:17:04.000
+Look, and looks for HTML files and reads reads from the HTML under estimating inbound and outbound links Alexa from this input files.
+
+00:17:04.000 --> 00:17:27.000
+And so, what is really good about this representation is that we kind of convert it into any other visual form if we have the, we can get the data from the hypertext then we can convert it into other HTML files or even into Android, Windows or Mac applications
+
+00:17:27.000 --> 00:17:44.000
+applications are some kinds of ebooks which can be used by readers, or creators of hypertext, if I may.
+
+00:17:44.000 --> 00:18:02.000
+Just to remind our participants, those basic concepts of inbound inbound connection, and outbound connection of all the segments of the work that are that are leading to the place we are currently reading, and those segments of work that that will lead
+
+00:18:02.000 --> 00:18:08.000
+to go where we currently are is actually enough, the information about these two.
+
+00:18:08.000 --> 00:18:21.000
+Two types of objects is enough to create, to generate a tree structure of the whole work. And we have a saying now that cutting down a tree structure.
+
+00:18:21.000 --> 00:18:40.000
+But basic variety of files within folders and have connections incoming and upcoming is enough to give us link menu to give us maps to give us any other imaginable structure that we want to visualize for the reader.
+
+00:18:40.000 --> 00:18:51.000
+And one of those examples, is that the hypertext, a neighborhood map that we will be shipping, a twilight with.
+
+00:18:51.000 --> 00:18:52.000
+Yes.
+
+00:18:52.000 --> 00:19:10.000
+One important thing is that we are not just cutting the text parts from the HTML file by using kind of the so called or regular regular expressions and once we are actually traversing the DM structure of HTML file and looking for interesting elements.
+
+00:19:10.000 --> 00:19:40.000
+So, the very, think about this way of solving this problem by traveling to the HTML notes, is that the the input files can can be can have different infrastructures and and look only for things but we are interested in and, like, like the inbound and
+
+00:19:46.000 --> 00:19:47.000
+Interesting.
+
+00:19:47.000 --> 00:19:50.000
+Think that we can show.
+
+00:19:50.000 --> 00:20:05.000
+It will be the JavaScript files for the creation of math, and women's, so the JavaScript files from up and links now or later, experts.
+
+00:20:05.000 --> 00:20:15.000
+Yes, we can we can show JavaScript that that are responsible for display on the map as well.
+
+00:20:15.000 --> 00:20:18.000
+I will have to export now.
+
+00:20:18.000 --> 00:20:20.000
+The.
+
+00:20:20.000 --> 00:20:23.000
+I will have to use the exported to.
+
+00:20:23.000 --> 00:20:25.000
+Okay. All right.
+
+00:20:25.000 --> 00:20:31.000
+So, I think, maybe like maybe we'll do it in the later part of the world.
+
+00:20:31.000 --> 00:20:45.000
+All right. Thank you very much. Thank you very much me how, and let me continue with the next part of the,
+
+00:20:45.000 --> 00:20:46.000
+of our presentation.
+
+00:20:46.000 --> 00:20:52.000
+our presentation. This is once again.
+
+00:20:52.000 --> 00:21:08.000
+Turning back for some history, just wanted to tell you that the origin of this particular project that we are doing now, it took place during Michael Joyce's reading.
+
+00:21:08.000 --> 00:21:17.000
+Last year, that happened to celebrate the two years of afternoon a story, and smart move dropped.
+
+00:21:17.000 --> 00:21:36.000
+Maybe this suggestion, why we don't use the already existing tools that were used in Polish translations, to help authors who work with studies with storage space to help them with their own works to be presented online and, and this is something that
+
+00:21:36.000 --> 00:21:40.000
+I truly believe will will serve.
+
+00:21:40.000 --> 00:21:56.000
+We serve date otters community, and everyone will be able to actually get the old files from our computers, upload to our web application.
+
+00:21:56.000 --> 00:22:11.000
+And then I had to put an output that is already fully functional. And the only thing left for for an outdoor would be to just style it according to his own needs.
+
+00:22:11.000 --> 00:22:37.000
+And it also informative for for our goals, was the experience of hypertext travel sells for for authors such as you john for Dina for Catherine cram for Richard Colleton when we, when we see the traverse all of the work that has been.
+
+00:22:37.000 --> 00:22:52.000
+It has been recorded us after the original publication, we can see that the photos are still fascinated that by the storytelling possibilities of that classical platform or storage space.
+
+00:22:52.000 --> 00:23:13.000
+This is something that this is still meaningful, in terms of the history of storytelling of narrative devices and, hopefully, tools, as, as this will will carry the torch and will will
+
+00:23:13.000 --> 00:23:28.000
+will present these works to new audiences, because we've also seen during the trap ourselves that that young, young audiences are attracted to these forms of
+
+00:23:28.000 --> 00:23:51.000
+narrative structures, especially now. The hurts when we see the emergence of the new software from to making or personnel writing management such as obsidian, who, who promotes heavy linking any relation of structures.
+
+00:23:51.000 --> 00:24:08.000
+So hopefully, hopefully, this, this tool is also on the wave of written management interest in the network. Writing in the, in the mainstream
+
+00:24:08.000 --> 00:24:15.000
+mainstream but still it's still a bit of them
+
+00:24:15.000 --> 00:24:18.000
+and
+
+00:24:18.000 --> 00:24:32.000
+see we have a bit of the diagram that Nico is presenting in his poster for the conference where we
+
+00:24:32.000 --> 00:24:40.000
+where we have visually presents, what is happening on a more abstract level with our part.
+
+00:24:40.000 --> 00:24:43.000
+There's an input processor written in Java.
+
+00:24:43.000 --> 00:25:01.000
+That takes it takes information from HTML source, and that HTML source initiative initially has been for us, Polish version of play the symphony.
+
+00:25:01.000 --> 00:25:14.000
+But then, for January, reading of Michael Joyce Twilight to for the electronic future laptop so Nicole has abstracted.
+
+00:25:14.000 --> 00:25:18.000
+All those functionalities present in the Polish Twilight.
+
+00:25:18.000 --> 00:25:39.000
+In order for it to be something completely autonomous and connect to the processor written in Java, which then processes the inbound links and outbound links, along with the text content and outputs it in, in a completely fresh, but functionality HTML.
+
+00:25:39.000 --> 00:25:44.000
+HTML file.
+
+00:25:44.000 --> 00:25:57.000
+The next section, I would like to discuss is is also something probably very basic and quite well known to those of you present.
+
+00:25:57.000 --> 00:26:19.000
+Both Dina and john AF old max probably of their homes and and try to sometimes collect but these old maps to a to a new software. I don't know if you have some old Macs, at home.
+
+00:26:19.000 --> 00:26:21.000
+You don't. Okay.
+
+00:26:21.000 --> 00:26:45.000
+So basically, the idea of anyone to get out of this old file and closed in this old exotic software like Macintosh classic 7.5 or eight or nine is to, in this case, to find a platform bridge.
+
+00:26:45.000 --> 00:26:59.000
+The closest. The closest the software or hardware bridge that can connect our new machine with that old machine.
+
+00:26:59.000 --> 00:27:17.000
+And we are quite lucky, as, as readers and authors who worked with storage space, because this is a software that is being developed since 1987 published in 1989.
+
+00:27:17.000 --> 00:27:21.000
+And then,
+
+00:27:21.000 --> 00:27:25.000
+Then around 2001 2002.
+
+00:27:25.000 --> 00:27:41.000
+When storage space was in its version two and President on both Macs and Windows. It's the center and software called tinderbox appear tend to be state started shipping in developing heavily.
+
+00:27:41.000 --> 00:28:03.000
+The tinderbox platform, who, which borrows quite a bit of functionalities from a storage space, such as maps and outline view and inbound outbound export macros, for exporting the HTML.
+
+00:28:03.000 --> 00:28:22.000
+And because what would follow it was a was a decade of developing tinderbox to be a modern tool for not making an improved for managing your own writing, sort of a personal
+
+00:28:22.000 --> 00:28:27.000
+writing, Assistant.
+
+00:28:27.000 --> 00:28:39.000
+These concepts out concepts of storage space preserved and were and are actually still developed and present on modern platforms.
+
+00:28:39.000 --> 00:28:58.000
+In the end, in around 2016 storage storage storage space free came out and was was being shipped by East Gate but what is very interesting story space free is is a descendant of tinderbox.
+
+00:28:58.000 --> 00:29:23.000
+So as circle, sort of close tinderbox came from storage space, but then the new storage space came out of the Tinder box, which, which makes a very interesting and complex ecosystem of the same or similar family of platforms.
+
+00:29:23.000 --> 00:29:32.000
+and this gives an older a translator and researcher, a good opportunity to,
+
+00:29:32.000 --> 00:29:50.000
+to, to transfer those old functionalities of conditional linking of storage space maps from from the platforms that are 15 to 25 or 30, years old, to modern path.
+
+00:29:50.000 --> 00:29:57.000
+This is something that mark Bernstein, is proud of. And I have to give it to him that.
+
+00:29:57.000 --> 00:30:07.000
+Because of because of his tending of Tinder box, which was a descendant of storage space. We have now.
+
+00:30:07.000 --> 00:30:26.000
+We have now a platform family that is able to accommodate those old classical hypertext and to form a bridge between old and the new.
+
+00:30:26.000 --> 00:30:41.000
+But sadly, started space free, stop supporting HTML export, and this was probably a very commercially oriented decision on the art of these gates.
+
+00:30:41.000 --> 00:30:54.000
+So, if we, if we manage to open an old story space file in storage space free, we won't be even able to make this simple HTML part of that old file.
+
+00:30:54.000 --> 00:31:21.000
+That's why, in order for us to have a more fully functional hypertext classic in the online version for example, we need to use a software bridge, which in my case is stylish place to start is going to was probably the most developed and, and web ready
+
+00:31:21.000 --> 00:31:37.000
+application by these games, and unfortunately, this is, it is now not supported by modern mark.
+
+00:31:37.000 --> 00:32:00.000
+So, the workflow, I recommend for any of us who who used to work in an old storage space windows or in storage space two or three space. One is to is to have default files, open in storage space to, and then export the storage space to file to a mother
+
+00:32:00.000 --> 00:32:14.000
+machine via USB internet cable or, or a CD ROM, and then open it is in tinderbox, and from tinderbox, we are ready to go.
+
+00:32:14.000 --> 00:32:24.000
+And we are ready to present our file in to a two hour Java export.
+
+00:32:24.000 --> 00:32:31.000
+I'm sure that it is, it's sort of in, it can seem a bit complicated.
+
+00:32:31.000 --> 00:32:48.000
+But in fact, it is it is really not in terms of isn't the past and Whoo, which are freely available for anyone who buys the new media either handbook.
+
+00:32:48.000 --> 00:32:52.000
+We can just insert the CD into.
+
+00:32:52.000 --> 00:33:02.000
+into old mark that runs, let's say,
+
+00:33:02.000 --> 00:33:13.000
+let's say, Mako is Tiger or Mako is snow light bars, which is able to run storage space to.
+
+00:33:13.000 --> 00:33:31.000
+Then we opened the file if you're in the past and iPhones, we open it in storage space to. And as soon as we open in disperse those those two. We just need to save it.
+
+00:33:31.000 --> 00:33:48.000
+And that safe file needs to be transported to modern machine, and then open in a storage space. Once it's done, we are, we are good to go. We are good to give create an export folder.
+
+00:33:48.000 --> 00:34:14.000
+zip folder and. And then our server application of Java transformer Java export them can put can can input can pull this zip into it and export the desired HTML.
+
+00:34:14.000 --> 00:34:18.000
+In tinderbox. This procedure is quite, quite simple.
+
+00:34:18.000 --> 00:34:29.000
+We just make sure that we have a preview of HTML experts on each of the files that are open from the old hypertext.
+
+00:34:29.000 --> 00:34:46.000
+Then we then we generate an HTML template within tinderbox by file HTML template. In this HTML template we enter the export macro inbound links.
+
+00:34:46.000 --> 00:35:09.000
+And this is a game for us to get this basic story space objects of inbound and outbound links to give us the nodes that precede our current legacy up, and to those that are unbound and will follow from our current space, then our preview in Kindle books
+
+00:35:09.000 --> 00:35:16.000
+works okay and we, we have a list of inbound and outbound connections.
+
+00:35:16.000 --> 00:35:23.000
+We export that hypertext for that work into HTML.
+
+00:35:23.000 --> 00:35:28.000
+And then we exhibit a folder,
+
+00:35:28.000 --> 00:35:46.000
+our age in the boat Kindle Kindle books, export file can look us on this illustration. These are just the basic HTML, Americans have of cadence.
+
+00:35:46.000 --> 00:36:06.000
+And within that, under the heading text links, we have outbound basically outbound text links, and then inbound basic things about text is, this is, this is enough for a single segment of the storage space.
+
+00:36:06.000 --> 00:36:21.000
+Classic hypertext to be ready to be a further process for the modern web languages.
+
+00:36:21.000 --> 00:36:34.000
+Do we have any questions at the moment, because now is the time when, when we will just presume that that zip was already export that the folder is exported visit is created.
+
+00:36:34.000 --> 00:36:49.000
+And now this zip is being passed food to meet how who will work with the zip on the, on the Java application.
+
+00:36:49.000 --> 00:37:11.000
+I was wondering, you talked about having to do these by hand. Do you have to reprogram every single Alexia and every single link into this HTML by hand or is this done in some automatic sense and then you have to check everything.
+
+00:37:11.000 --> 00:37:29.000
+Thank you. Thank you, Dina, this is, this is all automated. So, after, after you, you are able away when we're able to import that original story space file, like in the past and move.
+
+00:37:29.000 --> 00:37:33.000
+In our example, into a story space to.
+
+00:37:33.000 --> 00:38:00.000
+And then after you are able to open that storage space to save file in tinderbox, then it is just a question of following this few steps presented on this slides to make an HTML export of of your hypertext that will already each single segment will already
+
+00:38:00.000 --> 00:38:12.000
+have a list of inbound links and outbound links that that are related to it. So this this is already automated on the level of that Tinder box export.
+
+00:38:12.000 --> 00:38:25.000
+And then on the Java application, this will be further automated. And what you will receive. In the end, will be an updated.
+
+00:38:25.000 --> 00:38:34.000
+html structure. html folder that will have these functionalities, such as link menu.
+
+00:38:34.000 --> 00:38:40.000
+Reading history, and the hypertext neighborhood map.
+
+00:38:40.000 --> 00:38:56.000
+When you say hypertext meant neighborhood map is that the actual map of the Alexia where they're placed within the screen and then you have in storage space you could click on Alexia in the map, and then go down and to the next level and see the Lexi
+
+00:38:56.000 --> 00:39:07.000
+of that were there so you had some spaces you had a horizontal as well as vertical map, almost three dimensions, if you will.
+
+00:39:07.000 --> 00:39:11.000
+Our idea is to have.
+
+00:39:11.000 --> 00:39:19.000
+If you are able to see this map that that comes straight from a d3.
+
+00:39:19.000 --> 00:39:21.000
+js framework.
+
+00:39:21.000 --> 00:39:40.000
+This map is just showing lecture called memory, and it's a outbound connections on the export of these new paths, we will be able to see the same sort of structure but also with inbound connections.
+
+00:39:40.000 --> 00:40:02.000
+So this is an overlay of that network neighborhood, but our intention is to actually give you a reader an option of showing it, either as a logical relation inbound outbound or within the old story space karate of folders within folders, so they will
+
+00:40:02.000 --> 00:40:14.000
+be two members of this map. Okay, so there will be the hierarchy of folders within folders. Thank you. That's so important. Thank you. I really wanted to implement this and.
+
+00:40:14.000 --> 00:40:28.000
+And this will be. This is crucial difficult, because once, once we have that three of the hypertext three mapped within the Java, that we have is developing.
+
+00:40:28.000 --> 00:40:39.000
+Then, The Karate karate is already there, the structure folders is already done is just a question of, of presenting it as such.
+
+00:40:39.000 --> 00:40:51.000
+And here we start with that relational map, because this is the default default map of the d3. js framework that we use.
+
+00:40:51.000 --> 00:41:09.000
+Okay. So know that Dr. One addition to that tree structure, we do, we do actually have an algorithm, which is creating that structure and converting it into abstract data structure inside of Java.
+
+00:41:09.000 --> 00:41:13.000
+However,
+
+00:41:13.000 --> 00:41:32.000
+but yes, we do have that progress and we will plan to use it in the future, too, because for this moment, we are visualizing visualizing a map with inbound and outbound links but what with the data we currently have.
+
+00:41:32.000 --> 00:41:38.000
+We could make a lot more advanced visualization of
+
+00:41:38.000 --> 00:41:57.000
+that that's why that's why Dina is really spot on, off of that alters point of view, because both john and Dina and anyone who work to storage space are used to those karate Karl Marx,
+
+00:41:57.000 --> 00:42:05.000
+is the this high Korea that example.
+
+00:42:05.000 --> 00:42:20.000
+My English is not very good, especially the best we could make this additional types of mathematics, we would need, we would need additional time to progress and it's not a trivial task.
+
+00:42:20.000 --> 00:42:25.000
+Make a prototype of every of this map, but to make a more professional product with three reusable components.
+
+00:42:25.000 --> 00:42:36.000
+product with three reusable components. It's hard work to do for one for me for for one program.
+
+00:42:36.000 --> 00:42:42.000
+So, manage I think we can proceed to the demo with the exported.
+
+00:42:42.000 --> 00:42:48.000
+So I will just share my screen.
+
+00:42:48.000 --> 00:42:54.000
+So actually, on this side story space I support online.
+
+00:42:54.000 --> 00:43:09.000
+I have placed the button which, which can redirect you to the directory, with zip file containing a jar file and example input files is me as well.
+
+00:43:09.000 --> 00:43:19.000
+So, Mr file would work perfectly fine on Windows, I don't think it will work on Mac.
+
+00:43:19.000 --> 00:43:25.000
+So, I will present it on my system on Windows. I have downloaded already.
+
+00:43:25.000 --> 00:43:28.000
+And we unzip it.
+
+00:43:28.000 --> 00:43:36.000
+And what we get is to input files, and I says, export an email program.
+
+00:43:36.000 --> 00:43:41.000
+After launching the program we get some simple interface and it's within button.
+
+00:43:41.000 --> 00:43:52.000
+And after pressing this button or label points folder, we can specify Kairos directory which we've HTML files.
+
+00:43:52.000 --> 00:44:16.000
+Let's say, for example, I want to copy this directory places here and select this directory which we've paid HTML files, and the program will interprets all the inputs and outputs in JavaScript files will only the stuff to into the output folder, the
+
+00:44:16.000 --> 00:44:33.000
+output for the we will appear directly near the assist export to demo, the file, and to. This is the content of the directory, there are some images from libraries, many many HTML.
+
+00:44:33.000 --> 00:44:41.000
+HTML files, some CSS files files. We can open any of this file.
+
+00:44:41.000 --> 00:44:50.000
+We can see the visual representation of the data which we gather this visual representation.
+
+00:44:50.000 --> 00:45:03.000
+Has the map in science window, you can look up, see where we are in regards to the inbound and outbound links. So,
+
+00:45:03.000 --> 00:45:11.000
+and also we, what we get is the link money, which we can use to.
+
+00:45:11.000 --> 00:45:17.000
+Well, which I just had hyperlinks to other fragments inside this folder.
+
+00:45:17.000 --> 00:45:34.000
+Well, the important thing is, but we don't necessarily, we don't really need to represent the whole hypertext in this in this bunch of HTML files.
+
+00:45:34.000 --> 00:45:56.000
+We can we've that we've had data we can represent an immediate media. We have just chosen to do it in HTML away for, for the sake of the presentation on the demo and show that works and all of these fighters could be just copied and paste that somewhere
+
+00:45:56.000 --> 00:46:17.000
+on the external server and travels, like some other people that are still sometimes some features. Not features some links may be missing, but most of them is present me How could you could use zoom in on the, on the map.
+
+00:46:17.000 --> 00:46:19.000
+Yes.
+
+00:46:19.000 --> 00:46:27.000
+So for me, who, who is not a technical guy really, this is all already something very exciting. We have.
+
+00:46:27.000 --> 00:46:48.000
+We've been we've been few minutes we were able to get that rose zipped from storage space to that Java, the program and then Java already explored something that that is fully functioning, although of course it does not look as we would want it to look.
+
+00:46:48.000 --> 00:47:01.000
+But as you can see we have inbound and outbound connection to the current fragment, we have link titles, something that Dina mentions here in the chat that she also wants to see.
+
+00:47:01.000 --> 00:47:13.000
+And we are really going. I hope we are really going in the in the right direction in the twilight would be a demonstration of what is possible within this framework.
+
+00:47:13.000 --> 00:47:36.000
+And also, we want to make you guys for you guys to be able to to tweak your own templates to to implement your own aesthetics, in that template that serves for the generation of the HTML.
+
+00:47:36.000 --> 00:47:49.000
+So here's another example, we can drag this now, is fully automated we're using decree is my birthday to visualize your allies, all the notes and connection between them.
+
+00:47:49.000 --> 00:47:57.000
+What else could I show manage maybe the JavaScript file which connects the notes and creates these notes.
+
+00:47:57.000 --> 00:48:06.000
+Yes. Yeah, Let's see now how the JavaScript looks, this would be that structure.
+
+00:48:06.000 --> 00:48:08.000
+Grabbing.
+
+00:48:08.000 --> 00:48:14.000
+js right.
+
+00:48:14.000 --> 00:48:21.000
+I think the most important part is the part where we create them committed enough.
+
+00:48:21.000 --> 00:48:42.000
+I don't really think it's something amazing it's just a for loop, which creates nodes pushes these notes into a graph and then comics is no so it's just a plain simple algorithm, which uses the data, because it into the graph, which then is used by the
+
+00:48:42.000 --> 00:48:56.000
+different as differently as library to visualize the nodes which we can see inside this window. The same library, could be used for the, for other kinds of maps.
+
+00:48:56.000 --> 00:49:00.000
+So,
+
+00:49:00.000 --> 00:49:11.000
+and other dogs good fire would be the links that they as
+
+00:49:11.000 --> 00:49:14.000
+this JavaScript spiral.
+
+00:49:14.000 --> 00:49:19.000
+Swan coat function
+
+00:49:19.000 --> 00:49:32.000
+well. Also, there is an automated algorithm, which procedure, it creates the elements and pushes the title of the bench.
+
+00:49:32.000 --> 00:49:39.000
+The hyperlinks to the window and.
+
+00:49:39.000 --> 00:49:42.000
+Well, it's how it is how it looks like.
+
+00:49:42.000 --> 00:49:58.000
+I don't know if any of you is a programmer or even ever had an experience with programming, that's just a vague idea of how it all looks like on the interesting side.
+
+00:49:58.000 --> 00:50:06.000
+Once again the concept of just these few basic concepts of inbound and outbound applause, the Ref.
+
+00:50:06.000 --> 00:50:19.000
+Title, which is the title of the incoming incoming segment of of hypertext, could we do the same me how we've.
+
+00:50:19.000 --> 00:50:20.000
+Whoo.
+
+00:50:20.000 --> 00:50:21.000
+Yes.
+
+00:50:21.000 --> 00:50:28.000
+So how how fast this, this is going to go listen again.
+
+00:50:28.000 --> 00:50:37.000
+Also an interesting, interesting data here is how many automated operations have succeeded.
+
+00:50:37.000 --> 00:50:40.000
+So if if he's in the past.
+
+00:50:40.000 --> 00:50:56.000
+Let's say 300 300 segments. Look, all of them would be would be perfectly translated right perfectly migrated.
+
+00:50:56.000 --> 00:51:02.000
+So let's try with the world, and the program again.
+
+00:51:02.000 --> 00:51:14.000
+Let's enter the father of the half points to the root for the ice, select and is done already sounds finished.
+
+00:51:14.000 --> 00:51:21.000
+That will be fast, less than one second.
+
+00:51:21.000 --> 00:51:26.000
+You can open the open.
+
+00:51:26.000 --> 00:51:28.000
+Mandela.
+
+00:51:28.000 --> 00:51:33.000
+Nice.
+
+00:51:33.000 --> 00:51:39.000
+Mandela segment. Oh, this is one bad vendor management.
+
+00:51:39.000 --> 00:51:46.000
+Oh, yes.
+
+00:51:46.000 --> 00:52:03.000
+Of course we will we will try to have it as rectangles. And at some point, also have some control over how many of the connections of a visible, because this this is intended as an iPad and iPhone experience even.
+
+00:52:03.000 --> 00:52:11.000
+So, we don't want our readers to get completely,
+
+00:52:11.000 --> 00:52:14.000
+completely overwhelmed by the.
+
+00:52:14.000 --> 00:52:19.000
+And that's interesting that Mandela had so many connections.
+
+00:52:19.000 --> 00:52:24.000
+But yes, this is, this is something
+
+00:52:24.000 --> 00:52:29.000
+to remember how it looks. And, of course, it's still a work in progress.
+
+00:52:29.000 --> 00:52:51.000
+Thank you very much, me how the, this was a great presentation of of this EADS of the engine that gets, who's the input of the old story space or old HTML file and outputs it in a, in an environment that preserves those old functionalities.
+
+00:52:51.000 --> 00:52:55.000
+And some
+
+00:52:55.000 --> 00:53:08.000
+manual so I think it's important that it's really important to note that this is just a core framework which allows you to do all of these things it's not like one are going to create bunch of HTML files.
+
+00:53:08.000 --> 00:53:27.000
+The whole complex ongoing, which is the data, but puts it into an abstract object structures, and then we can do anything that you want with the structures is like an abstract representation of the hypertext, which is Earth from the inner books and computer
+
+00:53:27.000 --> 00:53:39.000
+in future can be passed from any other HTML files or forums or other sources. So you can recognize your hypertext.
+
+00:53:39.000 --> 00:53:59.000
+You could, I think I hope in the future when the algorithm is fully finished you could integrate your for work with just one fleet by copying and pasting some into files and manually filling in any, any vote spaces like missing links.
+
+00:53:59.000 --> 00:54:08.000
+but at this moment the algorithm can export most of the fragments like more than 70% of the exported properly.
+
+00:54:08.000 --> 00:54:14.000
+So, that's the one thing I would like. I wanted to add.
+
+00:54:14.000 --> 00:54:36.000
+So, yes, we will work towards a situation that that input file that we serve to the, to the engine is is not dependent on Tinder box so this will be in a case for anyone who created works outside of storage space, platform.
+
+00:54:36.000 --> 00:54:39.000
+And hopefully this will already be.
+
+00:54:39.000 --> 00:54:42.000
+This will already be.
+
+00:54:42.000 --> 00:54:45.000
+This will be quite, quite soon.
+
+00:54:45.000 --> 00:55:00.000
+I just want to finalize this section just by mentioning a few points about the future future of this, of this project.
+
+00:55:00.000 --> 00:55:14.000
+So far, we've been working on it under the umbrella of electronically literature lap and that final product of this phase would be Twilight the symphony.
+
+00:55:14.000 --> 00:55:26.000
+But then the next phase arrives, and whatever we can build here will be then further developed under the research ground, Daniel Pl.
+
+00:55:26.000 --> 00:55:52.000
+For the next two, two or three years, and hopefully this will turn into a tool, a writing tool, a collaborative platform that will use the, the maps, and the concept of storage space in this in this new environment, and beyond, 2003, I think.
+
+00:55:52.000 --> 00:55:58.000
+This project will branch into, into some,
+
+00:55:58.000 --> 00:56:11.000
+some flagship flagship products of that will be then promoted within the electronic literature center that is being founded in Poland, as we speak.
+
+00:56:11.000 --> 00:56:35.000
+So it all loops that anything we do at the moment, anything we do towards publication of Twilight and towards building this tool for translators and outros will then live on, and and inspire both authors and readers and researchers of electronic literature.
+
+00:56:35.000 --> 00:56:41.000
+Thank you very much and it's time for questions.
+
+00:56:41.000 --> 00:56:49.000
+And thank you very much for the chat, because it's, it's the, thank you for all the suggestions on the chart
+
+00:56:49.000 --> 00:57:02.000
+from Dina and john Roberta Marsh I came back late but I was wondering if you could tell you a little bit more about the plans for the electronic literature center in Poland.
+
+00:57:02.000 --> 00:57:16.000
+Is that going to be Cracow based project or who's involved, the base of the moment is other misgivings University in Paul's nine, but a.
+
+00:57:16.000 --> 00:57:29.000
+The plans are for it to be a truly, truly, a wider project not bound to any university so we would like the
+
+00:57:29.000 --> 00:57:47.000
+the center to be placed in different universities have different times, the board will stay the same and the board will be comprised of people from all over Poland, but we also plan to have, have some boards, from the International
+
+00:57:47.000 --> 00:58:10.000
+area so we really we really just starting, I'm at the moment at the position of Secretary of the, of the research center of that center and as retiring it's gone from other mysterious University is leading the, the whole, the whole initiative and hopefully
+
+00:58:10.000 --> 00:58:24.000
+by the end of this month we will be able to announce that the center has been created and will be inviting people to join in for the, for the bar to advise us how we can then operate.
+
+00:58:24.000 --> 00:58:33.000
+Right, you should probably also get in touch with Joe Tabby about the Consortium for electronic literature.
+
+00:58:33.000 --> 00:58:50.000
+Yes. And we talked a little bit about stuff like this but it would be good for whatever sort of database or archive that you end up developing out of it for to go out of the box, be able to work with the cell search engine.
+
+00:58:50.000 --> 00:58:51.000
+Absolutely.
+
+00:58:51.000 --> 00:59:07.000
+The Polish repository of unit will be one of the first first products that center will come up
+
+00:59:07.000 --> 00:59:11.000
+when you have this as a writing tool which will be amazing.
+
+00:59:11.000 --> 00:59:29.000
+It's going to help story space has really been the only way to visualize the relationships between notes and Alexia I think for students, and that horizontal vertical as john mccain was saying 2.5 reality.
+
+00:59:29.000 --> 00:59:38.000
+2.5 dimension reality is going to be huge. When you have that writing space and thank you for it, how will that be distributed.
+
+00:59:38.000 --> 00:59:42.000
+How will people know about it,
+
+00:59:42.000 --> 00:59:44.000
+be able to use.
+
+00:59:44.000 --> 01:00:00.000
+Thank you. Thank you very much, Dean and the goals of the Daria PL research grant is to is to present the tools that are ready to use open source and are used in in a classroom.
+
+01:00:00.000 --> 01:00:20.000
+So this will be something that is completely open not not behind a paywall, and the collaborative, collaborative potential of the tool will be tested on a group of authors who created a Polish online collaborative fiction because really, A few years ago,
+
+01:00:20.000 --> 01:00:36.000
+published by heart. And now the same group of people will be creating a pixels do 2.0, and they will be already working on that on this new platform.
+
+01:00:36.000 --> 01:00:56.000
+So we can, we have funding for this, and hopefully this will be this will be one of the main results of the whole research grant says an amazing opportunity to actually carry the idea of that we've developed and storage space, further into the, into the
+
+01:00:56.000 --> 01:00:57.000
+future.
+
+01:00:57.000 --> 01:01:04.000
+That'll be wonderful. I'm wondering if there's going to be any connections with twine
+
+01:01:04.000 --> 01:01:11.000
+twine at the moment is used as a prototype.
+
+01:01:11.000 --> 01:01:15.000
+but I'm not sure about the connectivity.
+
+01:01:15.000 --> 01:01:17.000
+Maybe.
+
+01:01:17.000 --> 01:01:23.000
+Maybe the, we might implement some input options.
+
+01:01:23.000 --> 01:01:37.000
+That might be good and I noticed, and I put this in the chat as well. The way did you have the vision with the circular and the links is so very similar to what America hand off he did with the dictionary of the revolution.
+
+01:01:37.000 --> 01:01:50.000
+It's beautiful work. And I was in touch with America and she was like yeah I programmers would be happy to help provide that type of JavaScript so
+
+01:01:50.000 --> 01:01:56.000
+if you that connection, that would be great cool because that would be a really nice interface.
+
+01:01:56.000 --> 01:02:14.000
+Thank you. Thank you. This is a very important work, normal globally and if we can cooperate with the programmers that would be fantastic. Because actually, we have already fields are at times, feels the pressure of being the only programmer on the job,
+
+01:02:14.000 --> 01:02:34.000
+and definitely someone who would prove some ideas or a helping hand, give a helping hand would be very welcome. Great, thank you very much. I'll be I'll be in touch with this, if you guys ever when you get it, you know, In the next few years, hopefully
+
+01:02:34.000 --> 01:02:39.000
+we'll have the second Tuesday. Yellow salon going forever.
+
+01:02:39.000 --> 01:02:42.000
+If you want to demo it then.
+
+01:02:42.000 --> 01:02:45.000
+Feel free to get a spot, you know, just email me for that.
+
+01:02:45.000 --> 01:02:47.000
+Absolutely.
+
+01:02:47.000 --> 01:02:53.000
+We.
+
+01:02:53.000 --> 01:02:56.000
+It's amazing work that you're doing.
+
+01:02:56.000 --> 01:03:07.000
+Thank you. I have actually one questions for you. One question for you about the, The path, objects in storage space.
+
+01:03:07.000 --> 01:03:17.000
+This is something that has been used in in storage space one and in storage space to, there was, there wasn't an object.
+
+01:03:17.000 --> 01:03:20.000
+think path right.
+
+01:03:20.000 --> 01:03:42.000
+Apart from link title, there was a category of links that you could actually subscribe to or name that link that you are creating or, or put it under the umbrella of a specific path.
+
+01:03:42.000 --> 01:03:48.000
+Yeah, I actually never used, I don't think I ever used that tool particularly.
+
+01:03:48.000 --> 01:03:52.000
+And this is something I gave up on.
+
+01:03:52.000 --> 01:04:02.000
+But you know who did do it. Bill Bligh build lie use that object for me to send you got to get in touch with him.
+
+01:04:02.000 --> 01:04:06.000
+Exactly, yes
+
+01:04:06.000 --> 01:04:10.000
+yeah oh yeah he was talking to me about that one time.
+
+01:04:10.000 --> 01:04:24.000
+So use that object to distinguish between the characters, and if you had read a juris path, then use that objects that you could get on to the ancients.
+
+01:04:24.000 --> 01:04:31.000
+Yeah, I'm giving you a very smothered recollections so please get directly with Bill he's wonderful.
+
+01:04:31.000 --> 01:04:47.000
+Thank you. Thank you. That's a very, very good. Good idea, because we are thinking about recreating the box, but I still did not have any idea how to start but be wills work would have been a great, great thing.
+
+01:04:47.000 --> 01:05:00.000
+Yeah, he you know he's got we descend completely in tinderbox, as well as on the web, man he is going to kill you guys because he could have saved himself a lot of work.
+
+01:05:00.000 --> 01:05:02.000
+Yes.
+
+01:05:02.000 --> 01:05:08.000
+I'll be in touch with me then. Thank you, but
+
+01:05:08.000 --> 01:05:24.000
+he had to tediously do that all by hand.
+

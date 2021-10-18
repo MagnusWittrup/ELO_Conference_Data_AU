@@ -9,17 +9,6 @@
 #           create div with class after
 #               concatanate all strings in after
 
-import json
-import re
-import os
-from os import listdir
-from os.path import isfile, join
-from os import listdir
-
-
-def capitalize(string):
-    return string[0].upper() + string[1:]
-
 
 def build_html(tag, data, attributes):
     attribute_string = ""
@@ -40,36 +29,13 @@ def build_html(tag, data, attributes):
 
 def build_sentence_html(build_html, file_name, trigger_word, sentece_index, data, order):
     return build_html(
-        "div",
-        '<p class="sentence-text">'
-        + data.replace(trigger_word, '<span class="trigger-word-highlight">' + trigger_word + "</span>")
-        + "</p>"
-        # + '<button class="sentence-button button is-small is-custom-secondary "><span>Show Sentiment</span><span class="icon is-small"><i class="fas fa-chart-pie"></i></span></button>',
+        "p",
+        data.replace(trigger_word, '<span class="trigger-word-highlight">' + trigger_word + "</span>"),
         [
             ["class", "sentence " + order],
             [
                 "id",
                 clean_file_name + "-" + trigger_word + "-" + str(sentece_index) + "-" + order,
-            ],
-            [
-                "data-sentiment-source",
-                "./sentiment/"
-                + clean_file_name.replace("_concordance", "")
-                + "/"
-                + trigger_word
-                + "/"
-                + sentece_index
-                + ".svg",
-            ],
-            [
-                "data-sentiment-header-text",
-                ""
-                + capitalize(clean_file_name.replace("_", " ").replace(" concordance", ""))
-                + " / "
-                + capitalize(trigger_word)
-                + " / "
-                + sentece_index
-                + " | Sentiment",
             ],
         ],
     )
@@ -79,38 +45,26 @@ def build_html_card(card_title, card_content, card_attributes, card_id):
     attribute_string = ' id="' + card_id + '" '
     for attr in card_attributes:
         attribute_string += " " + attr[0] + '="' + attr[1] + '" '
-    card_type = card_title.replace("</b>", "").replace("<b>", "").split(":")[0].lower()
 
-    if card_type == "file":
-        return (
-            '<div class="card" '
-            + attribute_string
-            + " >"
-            + '<header class="card-header">'
-            + '<p class="card-header-title">'
-            + card_title
-            + "</p>"
-            # + '<button class="file-sentiment-button button is-rounded is-small "><span>Show Sentiment for File</span><span class="icon is-small"><i class="fas fa-chart-pie"></i></span></button>'
-            + '<button class="card-header-icon" aria-label="more options"><span class="icon"><i class="fas fa-angle-down" aria-hidden="true"></i></span></button></header><div class="card-content"><div class="content">'
-            + card_content
-            + "</div></div></div>"
-        )
+    return (
+        '<div class="card" '
+        + attribute_string
+        + " >"
+        + '<header class="card-header">'
+        + '<p class="card-header-title">'
+        + card_title
+        + "</p>"
+        + '<button class="card-header-icon" aria-label="more options"><span class="icon"><i class="fas fa-angle-down" aria-hidden="true"></i></span></button></header><div class="card-content"><div class="content">'
+        + card_content
+        + "</div></div></div>"
+    )
 
-    if card_type == "trigger word":
-        return (
-            '<div class="card" '
-            + attribute_string
-            + " >"
-            + '<header class="card-header">'
-            + '<p class="card-header-title">'
-            + card_title
-            + "</p>"
-            # + '<button class="trigger-word-sentiment-button button is-rounded is-small"><span>Show Sentiment for Trigger Word</span><span class="icon is-small"><i class="fas fa-chart-pie"></i></span></button>'
-            + '<button class="card-header-icon" aria-label="more options"><span class="icon"><i class="fas fa-angle-down" aria-hidden="true"></i></span></button></header><div class="card-content"><div class="content">'
-            + card_content
-            + "</div></div></div>"
-        )
 
+import json
+import re
+import os
+from os import listdir
+from os.path import isfile, join
 
 dirname = os.path.dirname(__file__)
 dirname_split = dirname.split("\\")
@@ -146,16 +100,14 @@ for file_name in only_files:
             containing_string = data[trigger_word][sentece_index]["containing"]
             after_string = " ".join(data[trigger_word][sentece_index]["after"])
 
-            before_span = ""
-            for before_sentence in data[trigger_word][sentece_index]["before"]:
-                before_span += build_sentence_html(
-                    build_html,
-                    file_name,
-                    trigger_word,
-                    sentece_index,
-                    before_sentence,
-                    "before",
-                )["full"]
+            before_span = build_sentence_html(
+                build_html,
+                file_name,
+                trigger_word,
+                sentece_index,
+                before_string,
+                "before",
+            )
 
             containing_span = build_sentence_html(
                 build_html,
@@ -166,38 +118,18 @@ for file_name in only_files:
                 "containing",
             )
 
-            after_span = ""
-            for after_sentence in data[trigger_word][sentece_index]["after"]:
-                after_span += build_sentence_html(
-                    build_html,
-                    file_name,
-                    trigger_word,
-                    sentece_index,
-                    after_sentence,
-                    "after",
-                )["full"]
-
-            # before_span = build_sentence_html(
-            #     build_html,
-            #     file_name,
-            #     trigger_word,
-            #     sentece_index,
-            #     before_string,
-            #     "before",
-            # )
-            # after_span = build_sentence_html(
-            #     build_html,
-            #     file_name,
-            #     trigger_word,
-            #     sentece_index,
-            #     after_string,
-            #     "after",
-            # )
+            after_span = build_sentence_html(
+                build_html,
+                file_name,
+                trigger_word,
+                sentece_index,
+                after_string,
+                "after",
+            )
 
             sentece_index_div = build_html(
                 "div",
-                # before_span["full"] + " " + containing_span["full"] + after_span["full"],
-                before_span + " " + containing_span["full"] + after_span,
+                before_span["full"] + " " + containing_span["full"] + after_span["full"],
                 [
                     ["data-sentence-index", str(sentece_index)],
                     ["data-trigger-word", trigger_word],
@@ -228,7 +160,7 @@ for file_name in only_files:
             ],
             card_id=clean_file_name + "-" + trigger_word,
             card_content=sentece_index_string_builder,
-            card_title="<b>Trigger Word: </b> " + capitalize(trigger_word),
+            card_title="<b>Trigger Word: </b> " + trigger_word,
         )
 
         trigger_word_div = build_html(
@@ -251,8 +183,7 @@ for file_name in only_files:
         ],
         card_id=clean_file_name,
         card_content=trigger_word_string_builder,
-        card_title="<b>File: </b>  "
-        + capitalize(clean_file_name.replace("_", " ").replace("concordance", "Concordance")),
+        card_title="<b>File: </b>  " + clean_file_name,
     )
 
     all_files_div = build_html(
@@ -281,7 +212,7 @@ for trigger_word in trigger_words:
         + '"><label class="trigger-word-checkbox checkbox" data-trigger-word-toggle="'
         + trigger_word
         + '">'
-        + capitalize(trigger_word)
+        + trigger_word
         + '<input type="checkbox" checked></label></div>'
     )
 
@@ -303,43 +234,8 @@ trigger_word_dropdown = (
     + """
     </div>
   </div>
-</div>
 """
 )
-
-
-dirname = os.path.dirname(__file__)
-dirname_split = dirname.split("\\")
-dirname_cleaned = "/".join(dirname_split)
-dirname_input = dirname_cleaned + "/bigrams"
-
-bigram_options = ""
-
-only_files = [f for f in listdir(dirname_input) if isfile(join(dirname_input, f))]
-for file_name in only_files:
-    clean_file_name = file_name.replace(".html", "").replace("bigram", "").replace("_", " ")
-    bigram_options += '<option value="./bigrams/' + file_name + '" >' + capitalize(clean_file_name) + "</option>"
-
-bigram_div = (
-    """
-<div id="bigram-container block">
-    <div id="bigram-select" class="select block">
-        <select>
-        <option value="">Choose bigram to show</option>
-            """
-    + bigram_options
-    + """
-        </select>
-    </div>
-    <div id="bigram-button" class="control block">
-        <button class="button is-primary">
-            Open Chosen Bigram
-        </button>
-    </div>
-</div>
-    """
-)
-
 
 final_html = (
     """<!DOCTYPE html>
@@ -352,39 +248,20 @@ final_html = (
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles.css">
     <script src="app.js"></script>
 </head>
 <body>
 
-<section class="" id="header-section">
+<section class="section is-primary" id="header-section">
 <div class="container box">
 """
     + trigger_word_dropdown
-    + bigram_div
     + """
-    <div id="header-text" class="tag is-info is-large is-light">ELO Conference | Data Analysis </div>
 </div>
-
+<div id="header-text" class="tag is-info is-large is-light">ELO Conference | Data Analysis </div>
 </section>
-<div id="modal-overlay">
-</div>
-<div id="modal-content">
-
-    <div id="modal-header-container" class="block">
-        <div id="modal-header-text" class="tag is-light is-primary is-large">
-            Modal Header
-        </div>
-        
-        <a class="button is-danger" id="modal-header-close">
-            <span class="icon is-large">
-                <i class="far fa-times-circle"></i>
-            </span>
-        </a>
-        
-    </div>
-</div>
-<section class="" id="concordance-section">
+<section class="section" id="concordance-section">
 <div class="container box">
 """
     + all_files_string_builder
@@ -395,7 +272,7 @@ final_html = (
 </html>"""
 )
 
-with open(dirname_cleaned + "/index.html", "w") as f:
+with open(dirname_cleaned + "/visualization/index.html", "w") as f:
     f.write(final_html)
 
 

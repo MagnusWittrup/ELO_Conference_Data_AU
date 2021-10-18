@@ -1,0 +1,1830 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.750
+Davin Heckman: we're missing.
+
+2
+00:00:03.000 --> 00:00:04.950
+Davin Heckman: All right, and then I get we get the Jingle.
+
+3
+00:00:06.690 --> 00:00:07.799
+as well, so.
+
+4
+00:00:13.230 --> 00:00:16.980
+Davin Heckman: Okay, and the first step is Andrew demerge yet.
+
+5
+00:00:18.690 --> 00:00:24.300
+Davin Heckman: So you can just take it away Andrew in the interest to schedule yeah okay.
+
+6
+00:00:25.620 --> 00:00:26.730
+Andrew Demirjian he/him: Let me just get my.
+
+7
+00:00:32.760 --> 00:00:34.560
+Andrew Demirjian he/him: face it Okay, if I share my screen.
+
+8
+00:00:35.070 --> 00:00:36.870
+Davin Heckman: Oh, please do okay.
+
+9
+00:00:40.440 --> 00:00:41.700
+Andrew Demirjian he/him: OK so.
+
+10
+00:00:43.710 --> 00:00:52.380
+Andrew Demirjian he/him: Today i'm going to be talking about remember my name is Andrew merchant and I teach at Humber College and the artist and work with.
+
+11
+00:00:52.980 --> 00:01:10.920
+Andrew Demirjian he/him: computational poetry, but today we're going to be talking about lever and eager is part of the yellows emerging spaces for creations initiative, so this was something that we were really, really excited about and.
+
+12
+00:01:12.450 --> 00:01:33.450
+Andrew Demirjian he/him: The editorial board consists of myself john Barber JEREMY hype dahlia i'll say it and Hannah Wang and what reserve is is an audio augmented reality seeing dedicated to spatially conceived creative literary projects and so.
+
+13
+00:01:34.590 --> 00:01:46.230
+Andrew Demirjian he/him: The theme is a it's a mobile APP where livery sonic artworks are publicly available and written specifically for locations determined by the writers and artists and it's across the globe.
+
+14
+00:01:47.460 --> 00:01:59.370
+Andrew Demirjian he/him: We explore the aesthetic possibilities of sonically delivered literature that engages with the physical experience of the environment, part of the motivation for.
+
+15
+00:02:00.690 --> 00:02:02.760
+Andrew Demirjian he/him: This project was.
+
+16
+00:02:03.810 --> 00:02:15.060
+Andrew Demirjian he/him: You know in thinking about public space in digital space and how it's been increasingly kind of under surveillance, we were interested in creating an environment to problem, the ties the corporate.
+
+17
+00:02:15.390 --> 00:02:23.880
+Andrew Demirjian he/him: Commercial in unsustainable vision of neoliberal power and its dominance over public space and also mental space.
+
+18
+00:02:24.690 --> 00:02:38.220
+Andrew Demirjian he/him: And so we're interested in trying to construct the platform that lets allows people to kind of engage in that in in interceding that i'm.
+
+19
+00:02:39.120 --> 00:02:52.560
+Andrew Demirjian he/him: Creating a platform to highlight work that connects important literary traditions that engage with the human voice or acknowledging and voice, I should add up with the ordinances of writing for people in specific physical spaces.
+
+20
+00:02:53.730 --> 00:02:54.360
+Andrew Demirjian he/him: So.
+
+21
+00:02:55.770 --> 00:03:01.530
+Andrew Demirjian he/him: quick word about our partner jess oh is helping to make this all happened and they're.
+
+22
+00:03:02.370 --> 00:03:17.280
+Andrew Demirjian he/him: The mobile APP that we're using for audio er and they've collaborated with lots of great museums in New York Sydney and you know all over and lots of different arts institutions so we're really happy to be working with them and not having to.
+
+23
+00:03:17.670 --> 00:03:22.440
+Andrew Demirjian he/him: Create all the code ourselves because we all do, that enough in our own work.
+
+24
+00:03:23.640 --> 00:03:24.870
+Andrew Demirjian he/him: um so.
+
+25
+00:03:26.100 --> 00:03:37.590
+Andrew Demirjian he/him: The thing that we're announcing here at yellow is our call for proposals for our inaugural issue um and we what we really are interested in is.
+
+26
+00:03:38.700 --> 00:03:46.800
+Andrew Demirjian he/him: We want to expand the reach of email it to connect with pretty into communities and kind of like minded artists who work with.
+
+27
+00:03:47.610 --> 00:04:01.950
+Andrew Demirjian he/him: You know, like people that are working with text in place in the art field or merging get practitioner doing cool stuff with no tk or Ai who might not identify as a person and might not even be aware of it.
+
+28
+00:04:03.060 --> 00:04:03.600
+Andrew Demirjian he/him: and
+
+29
+00:04:04.890 --> 00:04:17.910
+Andrew Demirjian he/him: Experimental nonfiction or sound art and sound poetry these different fields that are that share all these kind of interesting cross sections are often just kind of artificially you know silo.
+
+30
+00:04:18.480 --> 00:04:28.920
+Andrew Demirjian he/him: So we want to bridge some of those gaps and being hope to provide you with audiences outside of our yellow community and vice versa.
+
+31
+00:04:31.020 --> 00:04:34.230
+Andrew Demirjian he/him: So when one quick thing I wanted to say here was also that.
+
+32
+00:04:38.340 --> 00:04:50.790
+Andrew Demirjian he/him: yeah these so thinking about the the kind of sensorial experience of a place the psychological experience will face the material experience and also the infrastructure, I think.
+
+33
+00:04:51.900 --> 00:05:03.240
+Andrew Demirjian he/him: is something that is also you know that what's going on behind the scenes of what we can't see when we're thinking about spaces, is a really interesting aspects of this project as well, so.
+
+34
+00:05:04.020 --> 00:05:14.070
+Andrew Demirjian he/him: They really it can be up to whatever kind of area you're interested in, they can do you know poems or poetic pieces these kind of micro narratives or.
+
+35
+00:05:14.430 --> 00:05:23.430
+Andrew Demirjian he/him: collaboration with sound artist be heard so many great sound pieces sound playing such an important role in the performances at two o'clock.
+
+36
+00:05:24.480 --> 00:05:33.750
+Andrew Demirjian he/him: and experimental spoken word perform you know people working in performance alternative, you could have a performance that lingers in a in an intersection.
+
+37
+00:05:34.530 --> 00:05:49.920
+Andrew Demirjian he/him: Alternative histories Ai generated text screen texts read by synthetic voices or a yet to be classified utterance so the key is just coming up with something that we would never expect and.
+
+38
+00:05:51.030 --> 00:05:55.860
+Andrew Demirjian he/him: So it's super easy the deadline is June 30 and then you don't have to have a finished.
+
+39
+00:05:56.400 --> 00:06:13.110
+Andrew Demirjian he/him: sonic piece by that time just a proposal for the idea that you'd like to do with the location your bio and then don't worry if you don't have any experience working in audio ar before that's totally no problem it's super easy to just.
+
+40
+00:06:13.950 --> 00:06:21.990
+Andrew Demirjian he/him: All you need are a way to record the your your texts and the locations for for where we wanted to go.
+
+41
+00:06:23.280 --> 00:06:36.150
+Andrew Demirjian he/him: But for the proposal, all you need to do is just send us some links to some of your work disappear previous work on, so we can get an idea about the kinds of voice, you know your artistic voice.
+
+42
+00:06:37.500 --> 00:06:50.790
+Andrew Demirjian he/him: So, in a perfect world, if I had more time I played some some pieces by people that have been invited to participate in the novel issue, but we don't have time for that meeting in the in the teenagers.
+
+43
+00:06:52.230 --> 00:06:54.930
+Andrew Demirjian he/him: So some final thoughts.
+
+44
+00:06:56.280 --> 00:06:57.030
+Andrew Demirjian he/him: um.
+
+45
+00:06:58.320 --> 00:07:14.100
+Andrew Demirjian he/him: In addition to submitting work that you're interested in if you, if this is exciting to you we'd love to have you considered being on the editorial board if you want to suggest a guest curator we really want this to be a global and inclusive.
+
+46
+00:07:15.930 --> 00:07:21.870
+Andrew Demirjian he/him: space to work in so we'd love to partner with people that are deeply connected with.
+
+47
+00:07:22.800 --> 00:07:37.230
+Andrew Demirjian he/him: Different local communities that if you think you have people that do pull together some amazing pieces come across the globe, we We have examples from France la and Tokyo, right now, as our initial kind of.
+
+48
+00:07:38.490 --> 00:07:48.390
+Andrew Demirjian he/him: sampling, but I really hope we get a whole bunch of free things for the initial one so and look forward to speaking with you more in the Q amp a and I hope that's close to five minutes.
+
+49
+00:07:51.510 --> 00:07:53.190
+Andrew Demirjian he/him: So, how did I do Devon.
+
+50
+00:07:54.150 --> 00:07:57.360
+Davin Heckman: You were pretty close just a little over.
+
+51
+00:07:57.390 --> 00:07:58.650
+Andrew Demirjian he/him: But it's over okay.
+
+52
+00:07:58.920 --> 00:08:06.690
+Davin Heckman: um Thank you very much i'm excited about this um is George so George Cox here we make it here yet.
+
+53
+00:08:07.410 --> 00:08:13.050
+Davin Heckman: um alright well skipping ahead Melinda are you ready to to go.
+
+54
+00:08:13.440 --> 00:08:15.450
+Davin Heckman: Sorry okay Melinda.
+
+55
+00:08:17.160 --> 00:08:21.330
+Melinda White (she/her): I have to warn you my brain might have been a bit reprogrammed.
+
+56
+00:08:21.390 --> 00:08:23.310
+Davin Heckman: In the art session earlier.
+
+57
+00:08:25.530 --> 00:08:45.030
+Melinda White (she/her): i'll do my best i'll try to stay with five minutes to um so i'm just going to give a brief outline overview of some of the platforms and that my students have been using in the two I teach to electronic to digital creative writing courses nonfiction.
+
+58
+00:08:46.380 --> 00:08:55.290
+Melinda White (she/her): Open education and one electronic literature course where we use Scott Roberts electronic literature text.
+
+59
+00:08:56.490 --> 00:09:04.530
+Melinda White (she/her): at the University of new Hampshire and so just just kind of an overview um I find that.
+
+60
+00:09:05.730 --> 00:09:11.310
+Melinda White (she/her): Lower stakes technology platforms for introducing electronic literature and digital writing.
+
+61
+00:09:12.150 --> 00:09:19.080
+Melinda White (she/her): kind of take the intimidation factor out a little bit for them and I found it can heighten their creative self expression.
+
+62
+00:09:19.530 --> 00:09:34.980
+Melinda White (she/her): Where they can focus on topics and content and take more risks and so to introduce them I start, we start with video essays usually very linear but to explore non linearity and fragmentation and we start with a map essay.
+
+63
+00:09:36.210 --> 00:09:49.380
+Melinda White (she/her): Google my maps still very linear someone my students even number these down the side, but you can hop around in a nonlinear way you'll see night lab story map.
+
+64
+00:09:50.460 --> 00:10:01.350
+Melinda White (she/her): And we'll be able to move move things with the sidebar and is pretty linear but still introduces fragmentation and combining visuals.
+
+65
+00:10:02.370 --> 00:10:06.270
+Melinda White (she/her): Obviously i'm we do place essays for these.
+
+66
+00:10:07.560 --> 00:10:18.510
+Melinda White (she/her): This one is about Colvin which a lot of my students essays are about this past year as probably everyone's familiar with twine great open source software.
+
+67
+00:10:19.350 --> 00:10:36.930
+Melinda White (she/her): Limited coding i'm they don't see copy and pasting as coding so it's a great one for starting branching narrative texts also just a natural you know accessible easily disseminated so natural for.
+
+68
+00:10:39.180 --> 00:10:54.030
+Melinda White (she/her): marginalized voices and a lot of my students have have used it for things like that I am and I teach kind of a little bit of the history right, and so this is a text my I had an honors thesis students, so this is actually fiction.
+
+69
+00:10:56.070 --> 00:11:03.660
+Melinda White (she/her): His twine piece uses second person, as do many of them, but a gender neutral.
+
+70
+00:11:05.670 --> 00:11:23.670
+Melinda White (she/her): Second person reader player character um and the topic is about discrimination against a high school student of color and kind of these moral quandary is it puts the reader in and kind of an ultimate like futility of moral decision making.
+
+71
+00:11:24.810 --> 00:11:29.400
+Melinda White (she/her): On a flawed system this done in and has a very creepy video play like a second.
+
+72
+00:11:30.930 --> 00:11:49.830
+Melinda White (she/her): Are you willing to sacrifice for success show me your truth free yourself of expectation and act authentically will be judged like there's entered this world before you.
+
+73
+00:11:52.320 --> 00:12:00.450
+Melinda White (she/her): it's kind of cool i'm put it i'll put the PDF with the links to the student projects in the chat and the one that doesn't have the links to it.
+
+74
+00:12:01.800 --> 00:12:12.630
+Melinda White (she/her): say also started using think on the suggestion of a colleague in the art department last spring, when we had to go online because I kind of lost adobe access.
+
+75
+00:12:13.410 --> 00:12:25.170
+Melinda White (she/her): So I found it's actually better than I thought for hypertext projects it's truly multimodal environment, and you can see it's like a blank slate, which is what I want when I teach final essays.
+
+76
+00:12:25.920 --> 00:12:36.150
+Melinda White (she/her): So they have total control the design, this is an original art project, basically, and also a beautiful essay on nature and the environment.
+
+77
+00:12:37.680 --> 00:12:43.380
+Melinda White (she/her): We also read my body of under calmer in class, so I have several students who've done.
+
+78
+00:12:44.520 --> 00:12:51.870
+Melinda White (she/her): Body type essays this one is about her hands and vulnerability don't stare at it too long.
+
+79
+00:12:53.070 --> 00:12:55.890
+Melinda White (she/her): i'm thing links also great for.
+
+80
+00:12:57.450 --> 00:13:00.450
+Melinda White (she/her): 360 environments, so a little intro.
+
+81
+00:13:13.980 --> 00:13:26.610
+Melinda White (she/her): Also used Google earth for some like dipping our toes into the 360 world your own 360 images or other peoples and also night lab seen.
+
+82
+00:13:28.080 --> 00:13:32.640
+Melinda White (she/her): This one is panoramic but she have a 360 camera.
+
+83
+00:13:33.990 --> 00:13:41.730
+Melinda White (she/her): kind of cool night lab has a bunch of free storytelling tools, I tried out most of them.
+
+84
+00:13:42.360 --> 00:14:01.920
+Melinda White (she/her): This semester I introduced timeline into a kind of intermediate nonfiction class as their first intro into digital writing this one is the timeline on coven so it's very linear obviously it's a timeline but we're studying memoir so kind of makes sense.
+
+85
+00:14:04.980 --> 00:14:18.240
+Melinda White (she/her): And it's multimodal you can put news clips and tweets and things like that, so of course there are other options i'm had students remediate trickle orange.
+
+86
+00:14:18.660 --> 00:14:30.090
+Melinda White (she/her): i'm excited to you step works in the fall, I went to that workshop and I love that we were talking a lot in the sessions, I went to you today about preservation obviously and kind of html and.
+
+87
+00:14:30.420 --> 00:14:38.250
+Melinda White (she/her): javascript as the only safe bets really and video, so I like that you can export it i'm also twine.
+
+88
+00:14:40.290 --> 00:14:41.730
+Melinda White (she/her): Is an html based.
+
+89
+00:14:42.780 --> 00:14:57.000
+Melinda White (she/her): i'm so I just find that students are really expressing themselves through these platforms, you can read more about it um I quote Devon in there, so it looks like a long paper but it's mostly screenshots I promise.
+
+90
+00:15:01.680 --> 00:15:03.120
+Melinda White (she/her): Did I go way over five minutes.
+
+91
+00:15:03.450 --> 00:15:04.200
+Davin Heckman: Oh, not at all.
+
+92
+00:15:06.750 --> 00:15:10.980
+Davin Heckman: That was a wonderful presentation and learned a lot of new little things that it tricks and.
+
+93
+00:15:12.120 --> 00:15:19.110
+Davin Heckman: So I appreciate that it's George George showed up yet no Okay, then.
+
+94
+00:15:21.000 --> 00:15:27.210
+Davin Heckman: Are you in a van van is up next, and there are you ready to go yeah.
+
+95
+00:15:27.270 --> 00:15:28.440
+Inge van de Ven: I think, so thank you.
+
+96
+00:15:28.890 --> 00:15:29.400
+Davin Heckman: you're welcome.
+
+97
+00:15:29.430 --> 00:15:36.540
+Inge van de Ven: I did not think to prepare slides for an electronic literature Conference, and now it occurs to me that that's weird but I thought is only five minutes.
+
+98
+00:15:37.050 --> 00:15:51.030
+Inge van de Ven: So, my name is Yvonne van thanks for having me here i'm an assistant professor at tilbrook university school of humanities and digital sciences and i'm currently Marie Curie fellow at uc Santa Barbara.
+
+99
+00:15:52.290 --> 00:15:58.470
+Inge van de Ven: Or the title of my paper was a platform based rules of notice or unnoticed.
+
+100
+00:15:58.710 --> 00:16:01.200
+Inge van de Ven: Digital literature and attentional modulation.
+
+101
+00:16:01.620 --> 00:16:10.110
+Inge van de Ven: And I still think that sounds very promising, to be honest, but i'm afraid that the ID was a little bit underdeveloped or poorly executed in the draft that I submitted.
+
+102
+00:16:10.950 --> 00:16:19.470
+Inge van de Ven: To me now it seems that it's too long and too short, at the same time, so it's a bit too long to make this provocative statement that I might have had in mind, but it's also a bit too.
+
+103
+00:16:20.520 --> 00:16:30.360
+Inge van de Ven: Short to actually fully develop the points that I want to be making in the future so i'm very happy to get this chance to very briefly elucidate the idea that I had in mind.
+
+104
+00:16:31.980 --> 00:16:41.880
+Inge van de Ven: My research interest very broadly revolves around ideas of attentional modulation and how different techniques and different media objects kind of invite but also manipulate.
+
+105
+00:16:42.090 --> 00:16:50.160
+Inge van de Ven: A whole range of modes of attention from deep to hyper attention, and how does also create certain rhythms of reading and viewing and play.
+
+106
+00:16:50.790 --> 00:17:00.660
+Inge van de Ven: And this is not particularly an electronic literature project, but this would be one of the cases the cases so far have included very traditional short stories but also.
+
+107
+00:17:01.380 --> 00:17:08.280
+Inge van de Ven: Direct address in TV series full motion video games, as Mr and also tech talk to vcs.
+
+108
+00:17:08.880 --> 00:17:21.780
+Inge van de Ven: And now, electronic literature, so I understand or I try to understand these manipulations of attention as a way in which media objects themselves kind of demonstrate an awareness of being part of an attention economy.
+
+109
+00:17:22.830 --> 00:17:37.290
+Inge van de Ven: Now a platform ization of media culture in general but electronic literature, in particular, I think influences such attentional modes in important and yet under research plays important because.
+
+110
+00:17:38.010 --> 00:17:48.840
+Inge van de Ven: The technological but also social ordinances and constraints of these platforms clearly feed into the way that this works pretty structured ways we attend to them, so to speak.
+
+111
+00:17:49.590 --> 00:17:58.380
+Inge van de Ven: And under research, because I feel that there is yet to be a lot to be done in developing notions of platform literacy beyond kind of the buzzwords stage.
+
+112
+00:17:59.010 --> 00:18:05.160
+Inge van de Ven: So platform studies in electronic literature and focus more on the production side and the creation side of things.
+
+113
+00:18:05.850 --> 00:18:12.480
+Inge van de Ven: So there was, in a nutshell, the intervention I was hoping to me but i'd also somewhat leave open at this stage.
+
+114
+00:18:13.050 --> 00:18:23.070
+Inge van de Ven: So what I do do in my paper is a introduced this idea of rules of notice, and that was coined in the late 1887 by Peter rabinovich.
+
+115
+00:18:23.670 --> 00:18:36.150
+Inge van de Ven: And it refers to the way in which arthur's kind of structure their narrative in a hierarchical way to guide the reader's attention towards important plot points so certain elements are foreground is.
+
+116
+00:18:36.810 --> 00:18:45.660
+Inge van de Ven: Creating a heightened awareness and others are background it nudging the reader to process and read them in a more superficial a shallow manner.
+
+117
+00:18:46.710 --> 00:18:54.570
+Inge van de Ven: And then I go on to acknowledge that, of course, a lot has changed since the late 80s, on the one hand, we might say that.
+
+118
+00:18:55.560 --> 00:19:04.500
+Inge van de Ven: skill skills in our present the attention economy skills like cognitive flexibility or attentional modulation are arguably more important than ever before.
+
+119
+00:19:04.770 --> 00:19:14.760
+Inge van de Ven: But on the other hand, the rules of notice often seem to be missing, especially when we're reading online we don't always get this very clear sense of hierarchical structuring anymore.
+
+120
+00:19:15.120 --> 00:19:25.710
+Inge van de Ven: No one is telling us when to pay attention and when we can comfortably skin or well, people are telling us, but when they're telling us often this leads to kind of hermeneutics of suspicion edited.
+
+121
+00:19:26.250 --> 00:19:34.320
+Inge van de Ven: So we don't always know beforehand what will be important, and this creates is common feeling of being in gold and at the same time, always missing a lot.
+
+122
+00:19:35.490 --> 00:19:44.760
+Inge van de Ven: So I look at how experiences like these are inactive and reflected in words of electronic literature and, if anything, comes to mind now I would be very happy to.
+
+123
+00:19:45.300 --> 00:19:56.550
+Inge van de Ven: receive tips at the end of this so in the paper I just simply look at for texts that display a whole range of different devices like expanding and contracting stretch text.
+
+124
+00:19:57.180 --> 00:20:06.210
+Inge van de Ven: dynamic and streaming text rapid serial visual presentation, but also all kinds of forms who close reading and for immersive devices.
+
+125
+00:20:07.050 --> 00:20:18.480
+Inge van de Ven: And, in some cases I feel like this absence of rules of notice is really part of the procedural rhetoric of these words and words and our overall meaning, this is, for instance, the case with pray by tender claws.
+
+126
+00:20:19.680 --> 00:20:25.560
+Inge van de Ven: And, in other cases, deep attention and immersion are also a guided in very novel ways.
+
+127
+00:20:25.920 --> 00:20:38.400
+Inge van de Ven: and not so much by the narrative characteristics of the world, but more by media and platform specific audiences, for instance in loaders an iPhone or iPad novella by Nielsen all the Dutch author.
+
+128
+00:20:38.760 --> 00:20:50.400
+Inge van de Ven: That offers an immersive experience to a color using white noise using animation and sense scape as the other calls them or apartment i'm charity high escape.
+
+129
+00:20:51.120 --> 00:21:02.550
+Inge van de Ven: With those who love alive, I was also referenced in melinda's paper which combines textual fluidity with very explicit prompts very explicit invitations to start close reading.
+
+130
+00:21:03.390 --> 00:21:20.010
+Inge van de Ven: So as said I didn't try to also account for how the specific audiences and constraints of twine or adobe flash would feed into the way in which these words manipulate our attention, and that is how far i've gotten with this plan, thank you.
+
+131
+00:21:22.530 --> 00:21:23.160
+Davin Heckman: Thank you.
+
+132
+00:21:24.570 --> 00:21:29.910
+Davin Heckman: Okay, so let's let's make some time for some questions so.
+
+133
+00:21:31.080 --> 00:21:34.830
+Davin Heckman: If George has not arrived, so I think George will never arrive.
+
+134
+00:21:36.690 --> 00:21:39.090
+Davin Heckman: But yeah so go ahead and.
+
+135
+00:21:41.820 --> 00:21:43.530
+Davin Heckman: If you have questions let's hear them.
+
+136
+00:21:47.670 --> 00:22:02.310
+Melinda White (she/her): I kind of have a question for the whole group but mostly for England, I was thinking a lot about closure and the idea of cognitive patients that you talked about and how do we get our students to.
+
+137
+00:22:03.420 --> 00:22:19.740
+Melinda White (she/her): find that right i've had students say that they read half a passage in my body and they clicked on something else so they're distracted but i've also had them say, like the interactivity keeps them engaged, and so they would rather do that then read.
+
+138
+00:22:21.150 --> 00:22:22.200
+Melinda White (she/her): A print text.
+
+139
+00:22:23.790 --> 00:22:33.180
+Melinda White (she/her): But I also like stop watching some of the young hating heavy industries, because I think there may be infinite.
+
+140
+00:22:34.350 --> 00:22:35.820
+Melinda White (she/her): But then I can.
+
+141
+00:22:37.560 --> 00:22:40.470
+Melinda White (she/her): stay on a whole video essay so.
+
+142
+00:22:43.440 --> 00:22:46.140
+Melinda White (she/her): Or, I can read and reread afternoon.
+
+143
+00:22:51.870 --> 00:23:01.890
+Davin Heckman: I don't I wanted to also yeah tack on to mel's comment in Question two is and other people in this room could talk about their different.
+
+144
+00:23:02.550 --> 00:23:13.140
+Davin Heckman: Reading strategies, I guess you know is you know the desire to read something completely or to speed through things I mean this is also an issue with gaming is how.
+
+145
+00:23:14.310 --> 00:23:24.840
+Davin Heckman: You know how important is it to know every nook and cranny of a game that you enjoy versus finishing it quickly and completely in gaining a sense of it.
+
+146
+00:23:26.280 --> 00:23:33.150
+Davin Heckman: I don't know if other people also you know might have some thing to add to this conversation it's an important one.
+
+147
+00:23:39.780 --> 00:23:50.190
+Inge van de Ven: to know, I think it also kind of depends on the meaning of the word what the world wants to say, because these experiences of being frustrated in your room in your activities or.
+
+148
+00:23:50.760 --> 00:23:56.160
+Inge van de Ven: goals can also be very informative in another sense, if that is the like the pri.
+
+149
+00:23:56.970 --> 00:24:06.090
+Inge van de Ven: novella think that is what it wants to bring across that you need this feeling of being almost illiterate or not knowing what is going on, for the work to be successful.
+
+150
+00:24:06.420 --> 00:24:10.740
+Inge van de Ven: And then your closure I think it's very interesting because the narrative everything is about closure.
+
+151
+00:24:11.070 --> 00:24:17.940
+Inge van de Ven: Know feel like in some ways we're also kind of bored with it and moving beyond closure in a very traditional sense, maybe also even students.
+
+152
+00:24:18.480 --> 00:24:27.990
+Inge van de Ven: But then you have other boundaries within as well, so it doesn't have to be the traditional rounded of narrative to have certain event boundaries that at least structure, the experience and.
+
+153
+00:24:28.380 --> 00:24:42.570
+Inge van de Ven: i'm also interested in individual differences in this in this like with me when I discuss its kind of text with students like what the one finds boring, the other finds an enormous challenge and it's also interesting, would you agree question.
+
+154
+00:24:45.360 --> 00:24:59.160
+Andrew Klobucar: That I found I taught prior a couple times in in my English in a live class elite class, and it was always a very successful i've had to give it up, because not enough students at ios devices.
+
+155
+00:24:59.640 --> 00:25:08.400
+Andrew Klobucar: And I found that that was one constraint, I wasn't prepared to deal with, I would scour around for for ipads that could play it and just give them out.
+
+156
+00:25:08.910 --> 00:25:14.490
+Andrew Klobucar: But I couldn't couldn't do it in the end, and the students were more frustrated, but I found that was.
+
+157
+00:25:15.030 --> 00:25:30.270
+Andrew Klobucar: They loved actually it was a gaming sensibility that they had more than I had that allowed them to to fall into, especially the chapter, where you had to unfold, the the text and the text kept on changing that that blew them away was really successful.
+
+158
+00:25:35.580 --> 00:25:37.530
+Davin Heckman: Margie I see your hand is raised.
+
+159
+00:25:38.100 --> 00:25:50.490
+Marjorie Luesebrink: Thank you devin um it looks like my video isn't on my video Okay, now it is so I want to first of all thank Thank you devin and to thank the entire panel.
+
+160
+00:25:50.940 --> 00:25:58.080
+Marjorie Luesebrink: i'm very interesting discussions and Melinda white it's really good to see you, I remember you from a long time back and.
+
+161
+00:25:58.590 --> 00:26:15.840
+Marjorie Luesebrink: And i'm happy to have you here and thank you for this that present presentation, you know i'm thinking here about the issue of engagement and eager to hear, of course, how students are engaging oh my God there goes my yard lower people.
+
+162
+00:26:16.950 --> 00:26:28.290
+Marjorie Luesebrink: symbol but, but I wanted to say this, you know electronic literature might have been seen to have matured into some kind of mainstream.
+
+163
+00:26:28.830 --> 00:26:38.040
+Marjorie Luesebrink: In 25 or 30 years but, but I think that that what we're seeing is that experimental literature continues to be experimental.
+
+164
+00:26:38.520 --> 00:26:48.750
+Marjorie Luesebrink: No matter how long you do it, so the things that were experimental in in the early 20th century, if we take something like.
+
+165
+00:26:49.230 --> 00:26:57.060
+Marjorie Luesebrink: The sound and the fury I would teaching literature, I would still find students who couldn't quite get what was happening with benji.
+
+166
+00:26:57.570 --> 00:27:13.620
+Marjorie Luesebrink: And the fact that that that that we're going to be these four different voices um and and the same thing with much, much of the experimental literature that I would teach in print and, of course, electronic literature is not only experimental.
+
+167
+00:27:15.480 --> 00:27:24.390
+Marjorie Luesebrink: Experimental in so many ways that students are even though they're savvy about the mainstream applications.
+
+168
+00:27:26.700 --> 00:27:28.830
+Marjorie Luesebrink: Most of the most of the really good.
+
+169
+00:27:29.880 --> 00:27:41.580
+Marjorie Luesebrink: pieces that we have take our regular expectations and ask us to do some kind of other imagining and i'm just i'm so pleased to see the people that are working with.
+
+170
+00:27:42.660 --> 00:27:45.720
+Marjorie Luesebrink: i'll have to go now it's going to be too noisy by.
+
+171
+00:27:53.010 --> 00:27:56.130
+Davin Heckman: JEREMY has a question in the chat and he asked.
+
+172
+00:27:58.020 --> 00:28:04.350
+Davin Heckman: To Andrew how has the sense of space and sound first driven your proposal and involved in the process, thus far.
+
+173
+00:28:06.540 --> 00:28:07.110
+Okay.
+
+174
+00:28:09.150 --> 00:28:16.050
+Andrew Demirjian he/him: Thanks JEREMY that's that's an interesting question I you know at the Orlando.
+
+175
+00:28:19.260 --> 00:28:34.680
+Andrew Demirjian he/him: yellow conference last year I did a I had a presentation, I was trying to look for the link to it to plug in there, I did a sonic monument on the records campus not too far from where Andrew works across the street and it's a.
+
+176
+00:28:35.850 --> 00:28:36.900
+Andrew Demirjian he/him: it's a kind of.
+
+177
+00:28:39.240 --> 00:28:46.410
+Andrew Demirjian he/him: Experimental nonfiction piece in a way, where you hear it's using an archive of interviews of the from the.
+
+178
+00:28:47.070 --> 00:28:57.930
+Andrew Demirjian he/him: Black organization and students in something that we did collaboratively with a bunch of graduate students in some upper level undergrads and it was a it was an amazing project and we.
+
+179
+00:28:58.980 --> 00:29:15.870
+Andrew Demirjian he/him: excerpted these you know, like nine cubic meters of cassette tapes and we listened to them and use different Python scripts to kind of pour over these texts and then pulled out these interesting kind of ways of categorizing the thinking about.
+
+180
+00:29:16.950 --> 00:29:19.410
+Andrew Demirjian he/him: that the differences between.
+
+181
+00:29:20.910 --> 00:29:24.960
+Andrew Demirjian he/him: The perspectives within this group that was a hugely influential.
+
+182
+00:29:26.130 --> 00:29:32.640
+Andrew Demirjian he/him: Really transformed new jersey's higher education from that from 1969 to like.
+
+183
+00:29:33.720 --> 00:29:37.560
+Andrew Demirjian he/him: By 30 years later, the school is one of the most diverse schools.
+
+184
+00:29:38.880 --> 00:29:50.730
+Andrew Demirjian he/him: In the country long story short, so it is through that through experimenting with that project that really started to make me think about what this was really.
+
+185
+00:29:51.390 --> 00:29:59.730
+Andrew Demirjian he/him: I loved listening to it and listening to the voices and seeing the architecture, it was almost like wherever you were became a movie.
+
+186
+00:30:00.090 --> 00:30:11.250
+Andrew Demirjian he/him: And in what without the screen like your existence was the screen and it was amazing and I thought it's such a rich area for people to work with and I.
+
+187
+00:30:11.940 --> 00:30:19.350
+Andrew Demirjian he/him: started to get excited about the possibility, so that was like the one of the germs, and I know you've been in this field, for a long time and.
+
+188
+00:30:20.430 --> 00:30:37.380
+Andrew Demirjian he/him: Can maybe recommend other you know pieces that that if we had more time as a complete panel, I would say, Jeremy was going to do a thing about the history of location or contexts of location of sound and texting in space and.
+
+189
+00:30:38.520 --> 00:30:39.120
+Andrew Demirjian he/him: quickly.
+
+190
+00:30:41.460 --> 00:30:45.330
+Andrew Demirjian he/him: I had some questions for the rest of the panel, but i'll hold off and.
+
+191
+00:30:49.650 --> 00:30:50.970
+Davin Heckman: Go ahead and ask him who.
+
+192
+00:30:51.990 --> 00:30:59.280
+Andrew Demirjian he/him: I saw that Scott, or like scott's one one version of Scott, which is here, and I, and I saw that in.
+
+193
+00:31:01.320 --> 00:31:05.550
+Andrew Demirjian he/him: The the first in melinda's.
+
+194
+00:31:07.740 --> 00:31:19.590
+Andrew Demirjian he/him: Presentation she was referring to scott's book and I thought it'd be really interesting you know the what you're kind of doing Melinda is is kind of putting together a kind of a set of tools for.
+
+195
+00:31:19.710 --> 00:31:23.040
+Andrew Demirjian he/him: Ways of actively engaging with the ideas that are in.
+
+196
+00:31:23.250 --> 00:31:34.080
+Andrew Demirjian he/him: scott's book and I thought it might be really interesting to have like a you know, like like the creator version in the field of like new media where you know I kind of.
+
+197
+00:31:34.770 --> 00:31:42.450
+Andrew Demirjian he/him: come from you like you have these there's like the theory and the practice book, you know any mean, and so I thought it would be kind of cool to have a.
+
+198
+00:31:43.260 --> 00:31:54.360
+Andrew Demirjian he/him: You know tools for the practice part of that and to develop like exercises based on chapters, or something I don't know if other people have thoughts on that or i've been trying to figure out.
+
+199
+00:31:54.840 --> 00:31:57.210
+Scott Rettberg: I was just gonna say it was so exciting to.
+
+200
+00:31:57.210 --> 00:32:16.380
+Scott Rettberg: me melinda's presentation, just to see sort of taking the concepts and actually using them, especially with you know, using accessible tools that students could get hooks into very quickly so i'm i'm really delighted to see that.
+
+201
+00:32:18.000 --> 00:32:35.610
+Scott Rettberg: yeah and, certainly, I mean the, the only way that I think we sort of do this right now is with the down said knowledge base, where you know the the references from melendez talk will will cross reference on the on you know the book side and.
+
+202
+00:32:36.840 --> 00:32:39.240
+Scott Rettberg: People will be able to access it that way.
+
+203
+00:32:40.260 --> 00:32:50.910
+Scott Rettberg: But yeah it's it's been it's been really cool to see the different approaches that people are taking to both some things that people.
+
+204
+00:32:51.330 --> 00:33:09.870
+Scott Rettberg: That are described within the book but but also just take the concepts into you know new uses of the technology now you know four or five years on, so so thanks a lot Melinda really, really great to see those and i'll i'll be thinking about some of those meditation as well.
+
+205
+00:33:10.710 --> 00:33:22.860
+Melinda White (she/her): Thank you it's a great it's a great book obviously i'm actually in the elite class I do weekly play assignments um where we just play with each genre.
+
+206
+00:33:24.690 --> 00:33:34.620
+Melinda White (she/her): That we're reading about so we do a little practice generative things and we make collages and stuff like that so it's been really fun.
+
+207
+00:33:37.080 --> 00:33:38.430
+Sarah Ciston (she/they): I want to take that class it.
+
+208
+00:33:38.430 --> 00:33:39.510
+Sarah Ciston (she/they): sounds so fun.
+
+209
+00:33:41.310 --> 00:33:49.350
+Sarah Ciston (she/they): This question is, I think, primarily for Andrew but i'm starting to see threads that connect I someone who has.
+
+210
+00:33:49.920 --> 00:33:58.890
+Sarah Ciston (she/they): tried to do audio pieces, starting in one location and walking to another, I was super excited about the the feature of.
+
+211
+00:33:59.370 --> 00:34:13.650
+Sarah Ciston (she/they): Jesse with that I saw on the website that will use machine learning to predict, like the length of though walk or prepare like a voiceover to help like kind of have dummy texted to work with.
+
+212
+00:34:13.830 --> 00:34:17.940
+Sarah Ciston (she/they): To start taping you know tools for the creators.
+
+213
+00:34:19.050 --> 00:34:26.040
+Sarah Ciston (she/they): And i'm curious what your experience has been working with these tools or how its shaped.
+
+214
+00:34:27.150 --> 00:34:37.350
+Sarah Ciston (she/they): If you're the people that have been making have talked about how it's changed the practice of making locomotive media.
+
+215
+00:34:37.740 --> 00:34:46.680
+Sarah Ciston (she/they): And I guess this for Melinda to like how do students talk about how it's changed their writing to have to kind of write into a form.
+
+216
+00:34:47.010 --> 00:34:55.380
+Sarah Ciston (she/they): Because I think that something like a locomotive piece, where you have this very this constraint of its site specific or, it has to be.
+
+217
+00:34:55.740 --> 00:35:03.900
+Sarah Ciston (she/they): From this end of the block to this end of the block, you know i'm right with their with you, Jeremy is very like very close to my heart.
+
+218
+00:35:04.320 --> 00:35:20.190
+Sarah Ciston (she/they): um you know, and I think that for inca to it's like I started thinking about like well how do I write for a reader who's got like I do 200 tabs open right now, and this is between between them like how do I write fragmented text or right into a.
+
+219
+00:35:20.850 --> 00:35:35.310
+Sarah Ciston (she/they): text box in a form field, so I guess i'm thinking about that relationship performing content, and how are your creators responding to that relationship, now that the form is changing.
+
+220
+00:35:41.760 --> 00:35:44.250
+Andrew Demirjian he/him: Well then, did you want to take that one first and then all.
+
+221
+00:35:45.300 --> 00:35:47.820
+Andrew Demirjian he/him: By myself time to think of something smart to say.
+
+222
+00:35:48.990 --> 00:35:49.440
+you're saying.
+
+223
+00:35:50.760 --> 00:36:04.620
+Melinda White (she/her): And they seem to they loosen up a little and they go right and they start kind of tied to linearity and they really like the map essay because it's like the first time they've done anything like that, where they can.
+
+224
+00:36:05.040 --> 00:36:15.420
+Melinda White (she/her): Put in images, but it's also very the mat the themes get more loose as we go on to so that is a place or travel essay which just makes sense.
+
+225
+00:36:16.140 --> 00:36:34.050
+Melinda White (she/her): So I think they like the constraints and the oh I get to tag a place or I can write about a road trip or one girl is semester wrote about different paths like she's taken like a walk to school and she was little and then a hike or and it was all like really cool lines.
+
+226
+00:36:35.250 --> 00:36:36.960
+Melinda White (she/her): Say think they like having.
+
+227
+00:36:38.160 --> 00:36:47.220
+Melinda White (she/her): A form they don't really have to worry about too much of the visual design at first, but they can play with.
+
+228
+00:36:48.540 --> 00:37:13.410
+Melinda White (she/her): lexi is and and fragments and maybe make it a little nonlinear they often want like a conclusion, you know um so, but then they get to play with design or when they get to twine or thing link and then that's a lot of freedom and some of them panic little but it's good for that.
+
+229
+00:37:19.650 --> 00:37:25.830
+Andrew Demirjian he/him: So my thoughts on your your question Sarah or i've been really kind of thinking.
+
+230
+00:37:27.180 --> 00:37:34.230
+Andrew Demirjian he/him: As far as you know, working with the gesture folks to try to understand you know what if someone wants it to be.
+
+231
+00:37:34.590 --> 00:37:40.620
+Andrew Demirjian he/him: read you know something when people are walking this way in something else, when people are going this other way, you know, like.
+
+232
+00:37:40.800 --> 00:37:55.320
+Andrew Demirjian he/him: What are the things, what can we break and fix it, you know and, what is this is just has how it has to be so I think there's I because I come from the like the art school of doing everything yourself and making the thing I want to see.
+
+233
+00:37:55.950 --> 00:38:05.670
+Andrew Demirjian he/him: But that's I also know the downside of that which is things take three years, and you know, by the time you finish it you can't stand it um the the.
+
+234
+00:38:06.360 --> 00:38:10.020
+Andrew Demirjian he/him: The thing that with JESSICA is it's really kind of meant to.
+
+235
+00:38:10.500 --> 00:38:22.800
+Andrew Demirjian he/him: Maybe, to some degree limit every possible way, you can do something if you have that urge you might just need to code it yourself, but hopefully sometimes within the constraints system, it can generate some.
+
+236
+00:38:23.580 --> 00:38:35.430
+Andrew Demirjian he/him: Creativity, that is fun and unexpected and I think that's more along the lines of what we're we're aiming for is to make this kind of super easy threshold of how you can participate in this.
+
+237
+00:38:35.880 --> 00:38:38.580
+Andrew Demirjian he/him: it's really about getting voices that I just.
+
+238
+00:38:39.240 --> 00:38:54.870
+Andrew Demirjian he/him: That will stun you that you know and you're like oh my God that's that's really a genius idea that approach, I would never have come up with that, and those are the kinds of things that we're we're hoping to see just really getting a diverse set of set of approaches so.
+
+239
+00:38:56.310 --> 00:39:01.890
+Andrew Demirjian he/him: i'm hoping that i'm just trying to understand how the software is used.
+
+240
+00:39:03.240 --> 00:39:06.930
+Andrew Demirjian he/him: So I can communicated clearly to anyone that has some kind of like.
+
+241
+00:39:08.070 --> 00:39:11.670
+Andrew Demirjian he/him: Something that's slightly outside of what the website says.
+
+242
+00:39:12.810 --> 00:39:15.000
+Andrew Demirjian he/him: The the other kind of part of that is.
+
+243
+00:39:16.020 --> 00:39:28.230
+Andrew Demirjian he/him: I forgot the other part two of my my thoughts are but i'm a big fan of your work just as a side note I curious to see what you're what you're working on um but if it comes to me all added in.
+
+244
+00:39:28.590 --> 00:39:32.280
+Sarah Ciston (she/they): Absolutely same I owe you an email from like four yellows.
+
+245
+00:39:34.530 --> 00:39:35.340
+Andrew Demirjian he/him: yeah.
+
+246
+00:39:37.980 --> 00:39:41.130
+Davin Heckman: Sorry, I was going to call on Anna she's been waiting with her hand up.
+
+247
+00:39:41.400 --> 00:39:42.810
+Davin Heckman: Sorry that's okay.
+
+248
+00:39:43.800 --> 00:39:53.550
+Anna Nacher: no problem at all i'm enjoying this question, but I probably asked the question, that will be maybe a bit uncomfortable.
+
+249
+00:39:53.940 --> 00:40:07.920
+Anna Nacher: And it comes from the fact that my students made me uncomfortable So my question is basically to Melinda and to those of you who would like to share their experience with teaching students so.
+
+250
+00:40:09.030 --> 00:40:27.030
+Anna Nacher: Do you have any tools for the students who are less than enthusiastic, to put it mildly, or even outright skeptical about electronic literature, because you know if it if it was only me then I would thought, maybe I would have thought, maybe it's my.
+
+251
+00:40:28.110 --> 00:40:39.960
+Anna Nacher: Lack of skills, you know or not enough productively but this semester I invited millions pisarski and mark Marino and run with it.
+
+252
+00:40:41.250 --> 00:40:44.400
+Anna Nacher: From a class on electronic literature and.
+
+253
+00:40:45.660 --> 00:40:54.870
+Anna Nacher: Actually, the class is traditional literary studies on students so maybe that also is the problem, but anyway.
+
+254
+00:40:55.860 --> 00:41:12.450
+Anna Nacher: You most of you probably know, mark and rob and the way they teach net profit right, so my students who are like now, this is not real literature it's not the real stuff or stir literature in it, you know.
+
+255
+00:41:13.020 --> 00:41:27.780
+Anna Nacher: he's kind of question so so that that's where my question comes from and i'm and the discussion with managed wysocki who is who designed the the really successful Polish collaborative novel.
+
+256
+00:41:29.400 --> 00:41:42.000
+Anna Nacher: was even more interesting because the students started attacking him even you know where is the real stuff in here, this is not good retoucher right so after like 30 minutes of this discussion.
+
+257
+00:41:43.140 --> 00:41:48.030
+Anna Nacher: With notice with marriage that actually the students may may have a pint you know.
+
+258
+00:41:49.170 --> 00:41:52.830
+Anna Nacher: and actually I think i'm i'm.
+
+259
+00:41:54.090 --> 00:42:06.990
+Anna Nacher: steering towards the question about the generation change, do you notice some changes, you know within the last several years when it comes to how students see.
+
+260
+00:42:07.710 --> 00:42:24.270
+Anna Nacher: What the electronic reader is what it can offer and like I said in the beginning, do we have any tools to teach their reluctance students in the class the one that's not enchanted with electronic literature at all, it doesn't even see.
+
+261
+00:42:26.100 --> 00:42:29.190
+Anna Nacher: what's the point in teaching it, you know, so to speak.
+
+262
+00:42:34.380 --> 00:42:34.890
+Melinda White (she/her): I can go.
+
+263
+00:42:36.630 --> 00:42:47.370
+Melinda White (she/her): And I am skeptics every semester my intro class fulfills a fine and performing arts requirement, so I don't even have English majors in my class.
+
+264
+00:42:49.020 --> 00:42:56.640
+Melinda White (she/her): But I kind of ease them into it like we start with print text and express stick as essays.
+
+265
+00:42:57.480 --> 00:43:05.340
+Melinda White (she/her): We go to the art museum and talk about art and the visual rhetoric and then we do a video essay and then we go to maps and hypertext.
+
+266
+00:43:05.730 --> 00:43:21.870
+Melinda White (she/her): I feel like I kind of ease them into it and, at the beginning, I sneak some I start sneaking the 11 to the map section and the plastic section and, at the end we're looking at things like the bafflement fires and they're like whoa.
+
+267
+00:43:22.890 --> 00:43:39.810
+Melinda White (she/her): um but this semester we did like i'm in the new river journal that infinite worries bash I think that's what it's called and moto I O, which is a mobile of collaborative piece, and they really like the kind of collaborative voices around.
+
+268
+00:43:41.160 --> 00:43:41.880
+Melinda White (she/her): Stress.
+
+269
+00:43:43.590 --> 00:44:03.330
+Melinda White (she/her): And things like that that were I tried to make it really relevant to the pandemic things and, obviously, anyone who teaches knows this past year has been really stressful for students and say think they kind of have fun with it, I get I get a mix that like this is crazy and.
+
+270
+00:44:04.500 --> 00:44:10.380
+Melinda White (she/her): This is really fun right and they've never a lot of them i've never made anything like this, too, so.
+
+271
+00:44:11.370 --> 00:44:27.570
+Melinda White (she/her): they're exploring my more advanced class this semester was mostly journalism majors and and they were pretty skeptical too, but I just kind of said, like how these tools like timeline and things can be used for literary journalism and.
+
+272
+00:44:29.160 --> 00:44:29.610
+Melinda White (she/her): yeah.
+
+273
+00:44:31.740 --> 00:44:32.250
+Davin Heckman: I.
+
+274
+00:44:33.090 --> 00:44:33.630
+Andrew Demirjian he/him: Know sorry.
+
+275
+00:44:34.410 --> 00:44:50.100
+Davin Heckman: I just there is Jennifer makes a nice comment and question in the chat and it says she has to students have print literature even experimental literature, have a specific sense of attention modulation, driven by an assumed subconscious sense of rules.
+
+276
+00:44:50.340 --> 00:44:57.930
+Davin Heckman: of notice that they have absorbed over time and i'm wondering if Jennifer you could you could elaborate on that or if if Ingo or.
+
+277
+00:44:59.160 --> 00:45:06.060
+Davin Heckman: Melinda might want to or any of our guests might want to speak to that comment because I think it's a good one.
+
+278
+00:45:06.150 --> 00:45:09.510
+Jennifer Dellner: Or, I can try i'm sorry my camera's not on on.
+
+279
+00:45:11.250 --> 00:45:15.240
+Jennifer Dellner: I, I guess, I wonder if just going back to what you said about.
+
+280
+00:45:16.290 --> 00:45:17.580
+Jennifer Dellner: The sense of.
+
+281
+00:45:20.550 --> 00:45:22.680
+Jennifer Dellner: Sorry, let me just look back at my own question.
+
+282
+00:45:24.810 --> 00:45:35.700
+Jennifer Dellner: about the rules of notice that traditional literature students have been picking up those cues and if they were literature students they're good at it and if they're coming into a literature.
+
+283
+00:45:36.810 --> 00:45:46.170
+Jennifer Dellner: For the first time they're really greeted by a set of procedures and maybe even an absence of roles of notice as Ingo was talking about.
+
+284
+00:45:46.770 --> 00:46:01.260
+Jennifer Dellner: That would suggest even aesthetically that this is not literature and I can say from my own intro to he lit class, we had a big fight, for example, over how to rob a bank I don't know if people know that it's about a guy who.
+
+285
+00:46:02.340 --> 00:46:14.400
+Jennifer Dellner: And how to rob a bank on his phone which, in a very Meta way kind of suggested this to me that here's somebody in sense, he doesn't have much of an attention span, you know googling things every every bit of the way.
+
+286
+00:46:15.420 --> 00:46:17.010
+Jennifer Dellner: So there isn't a kind of.
+
+287
+00:46:18.870 --> 00:46:29.490
+Jennifer Dellner: set of rules of notice it's shifted so we did have those arguments and I guess that is my question or my speculation and I hope that's clear.
+
+288
+00:46:33.030 --> 00:46:40.020
+Inge van de Ven: yeah Thank you so much for this suggestion I think that makes a lot of sense actually i'm thinking back on my own experiences with teaching.
+
+289
+00:46:40.350 --> 00:46:46.770
+Inge van de Ven: And I think about almost on the other end of the device because I used to teach at a more traditional literary studies department.
+
+290
+00:46:47.190 --> 00:46:57.690
+Inge van de Ven: And now we're an online culture department and most students really prefer doing research on instagram and YouTube and and if you give them electronic literature as opposed to.
+
+291
+00:46:58.140 --> 00:47:06.840
+Inge van de Ven: A traditional novel or short story I think they get kind of excited and relief like okay it's literature, but it's still it's still playful you can still do stuff with it.
+
+292
+00:47:07.320 --> 00:47:17.580
+Inge van de Ven: And the same with instagram poetry, for instance, they kinda like felt so much more alive, when we started to discuss that because it's still it has layers there is still more to analyze and discovered and meets the eye.
+
+293
+00:47:17.940 --> 00:47:32.280
+Inge van de Ven: But it doesn't feel so oh my God they're going to tell me what is important now, this is clearly a metaphor for something, and now I have to maybe look it up, or like, so I think it's definitely uncultured and and trained in a way yeah.
+
+294
+00:47:34.260 --> 00:47:40.500
+Inge van de Ven: And now i'm wondering about new kinds of objects like what the sticks up do with this, for instance, or do all these other possibilities.
+
+295
+00:47:43.410 --> 00:47:55.830
+Davin Heckman: i'm if I if I could interject I think because it's kind of come up a few times in in this session, you know, one of the things I think, is that question of for me.
+
+296
+00:47:56.370 --> 00:48:03.000
+Davin Heckman: I think about sort of the impact that semiotics has had on our understanding of literature right that there's this process of like.
+
+297
+00:48:03.450 --> 00:48:15.990
+Davin Heckman: decoding something that's grammatically constructed and, yes, of course, like grammar is a huge part of language and and the sort of instruction in grammar is a huge motivation for the teaching of literature, but.
+
+298
+00:48:16.500 --> 00:48:22.230
+Davin Heckman: You know there's this whole other area of sort of literary practice that is.
+
+299
+00:48:23.730 --> 00:48:44.940
+Davin Heckman: Is a symbolic or you know is representational but not in a you know, in the way that semiotics is you know I mean we could think maybe like more Mimetic practices, you know these kinds of ad hoc sort of gestural moments of of language that.
+
+300
+00:48:46.950 --> 00:48:56.820
+Davin Heckman: I think are actually quite manifest in a lot of works of electronic literature like I think of like what Judd morrissey does you know, for instance.
+
+301
+00:48:58.350 --> 00:49:04.020
+Davin Heckman: You know how to make sense of that through some kind of rigid you know structured decoding practice.
+
+302
+00:49:05.190 --> 00:49:12.060
+Davin Heckman: You know, is is offensive, I think, but then it's also then maybe it's offensive to treat any work.
+
+303
+00:49:12.480 --> 00:49:25.200
+Davin Heckman: Purely you know, like it's something that can be decoded and I think that's what a lot of literary criticism you know is is focused on I mean just a comment I think that's runs through a lot of these.
+
+304
+00:49:27.840 --> 00:49:34.380
+Davin Heckman: comments that i've seen here, and I think I saw somebody hand go up if you could hand when somebody can unmute.
+
+305
+00:49:36.330 --> 00:49:37.020
+Davin Heckman: yeah okay.
+
+306
+00:49:38.130 --> 00:49:58.500
+Agnieszka Przybyszewska: I would like to add something to the discussion and especially towards another sad because I know this story from her and from from from mario's i'm ticket the University of foods and i'm also called of creative writing studies program and in the new version of this program with good.
+
+307
+00:50:00.630 --> 00:50:12.450
+Agnieszka Przybyszewska: Great accent of on electronic literature and transmedia writing so i'm mostly literary based and I had a lot of experience, speaking with.
+
+308
+00:50:13.620 --> 00:50:26.520
+Agnieszka Przybyszewska: Prince literary students about electronic literature and, of course, there are always some skeptics fault, but what I discovered, they are really.
+
+309
+00:50:28.110 --> 00:50:32.610
+Agnieszka Przybyszewska: accustomed to talking about kind of narrative about.
+
+310
+00:50:34.920 --> 00:50:38.430
+Agnieszka Przybyszewska: Construction of the protagonist about very classical.
+
+311
+00:50:39.570 --> 00:50:48.690
+Agnieszka Przybyszewska: concept of literature and we can adopt that talking about electronic literature and when I start with that it helped.
+
+312
+00:50:50.340 --> 00:50:52.080
+Agnieszka Przybyszewska: A lot those students.
+
+313
+00:50:53.340 --> 00:51:10.290
+Agnieszka Przybyszewska: Instead of speaking about electronic poetry, starting with coding, you can just explain how to expand the category of metaphor, instead of speaking about located narratives.
+
+314
+00:51:11.520 --> 00:51:29.970
+Agnieszka Przybyszewska: Just starting with coding or even Google maps, you can start with the history of using maps in literature and going, step by step, I am also mostly based in material richer, I mean that extra material is so we also.
+
+315
+00:51:31.980 --> 00:51:37.500
+Agnieszka Przybyszewska: Put the specific order in our creative writing classes, we start with.
+
+316
+00:51:39.060 --> 00:51:53.460
+Agnieszka Przybyszewska: Another look transmedia literature every kind of visual literature and then after that we go to the electronic one so and I really found it it really helpful.
+
+317
+00:51:53.910 --> 00:52:04.050
+Agnieszka Przybyszewska: But of course there are students, which really say I don't like it i'm very excited because we are planning the cost with vr and ar next.
+
+318
+00:52:04.500 --> 00:52:22.380
+Agnieszka Przybyszewska: semester, and there are students, which said no, we don't want that, but it was only one person this year so it's it's better, so it was will be kind of my advice what to do, but I don't know it, if it is a little hard for.
+
+319
+00:52:35.910 --> 00:52:41.940
+Andrew Demirjian he/him: I had a something I wanted to ask about attention and.
+
+320
+00:52:44.970 --> 00:52:57.960
+Andrew Demirjian he/him: Your your your paper, and this is term called the content collapse, I don't know if you're familiar with it i'm sure some of the folks that I forget if it's like Captain Davidson it's one of the.
+
+321
+00:52:58.800 --> 00:53:06.600
+Andrew Demirjian he/him: People that that have been i'm sure if you just Google content collapse, it will come up the author's mean, but it is this idea how.
+
+322
+00:53:06.900 --> 00:53:13.470
+Andrew Demirjian he/him: Like in your Facebook school or instagram you just go from like something about the Palestinian.
+
+323
+00:53:13.800 --> 00:53:27.150
+Andrew Demirjian he/him: You know, suffer in to like someone talking about their child's birthday to someone new I mean it says there's no context, between one thing, and the next kind of this is the kind of basic idea and i'm wondering you like are are these.
+
+324
+00:53:28.320 --> 00:53:47.040
+Andrew Demirjian he/him: You know the conditions set by the behaviors kind of setup from social media influencing these the kind of thing that you're talking about in your attention kind of focus and maybe that could be something to bring into your your research.
+
+325
+00:53:50.940 --> 00:54:02.700
+Inge van de Ven: yeah Thank you, I was thinking something similar with a question before that I had no answer to about from the artistic side like How would you cater to someone who has opened all the other tabs and you know that you are just being.
+
+326
+00:54:03.000 --> 00:54:11.850
+Inge van de Ven: Just just making up one little window or one tab in someone's media feed or whatever or on someone's interface at the moment.
+
+327
+00:54:12.330 --> 00:54:22.680
+Inge van de Ven: And I don't know what to do with it, I think it would be far more interesting if I would develop some kind of theory that accounts for that may be also when writing about art or literature, because I have a feeling that most creators.
+
+328
+00:54:22.980 --> 00:54:28.560
+Inge van de Ven: Who not really have that sense and that they do ideally want your full attention with everything they do.
+
+329
+00:54:29.220 --> 00:54:41.040
+Inge van de Ven: In a sense, and I was writing about, as Mr before because I find it so fascinating this was a paper vote as our girlfriends, and these are women who pretend to be your partner there's also men but it's a bit different.
+
+330
+00:54:41.460 --> 00:54:47.010
+Inge van de Ven: And they pretend, especially in covert times to kind of calm their viewers by pretending to be their partner and.
+
+331
+00:54:47.430 --> 00:54:55.380
+Inge van de Ven: Everything about their journey is so much focused on i'm going to have your full attention now and it's not really possible to look at different tabs at the same time, so I wonder.
+
+332
+00:54:55.800 --> 00:55:04.500
+Inge van de Ven: If there are examples in literature like they're like new and I mentioned the more like immersive reading experience, where everything from the outside world is kind of blocked and.
+
+333
+00:55:04.680 --> 00:55:12.690
+Inge van de Ven: The sense Cape is created, which for me worked really well, to be honest, I was feeling like being completely gone for a while and being underwater reading.
+
+334
+00:55:13.080 --> 00:55:28.140
+Inge van de Ven: So I wonder about different strategies or maybe doing the opposite having like a hyper immediate answer to that and accounting for the fact that you are literally one little little window a little thing so that's not an answer at all, but.
+
+335
+00:55:30.270 --> 00:55:36.240
+Inge van de Ven: I guess i'm just looking for interesting and kind of radical answers to this from the artistic side as well.
+
+336
+00:55:46.800 --> 00:55:48.540
+Jennifer Dellner: And I follow up just quickly.
+
+337
+00:55:49.980 --> 00:55:56.520
+Jennifer Dellner: What you just said, well what wait a minute who's just said it about scrolling and social media.
+
+338
+00:55:58.080 --> 00:56:05.340
+Jennifer Dellner: That again reminds me that, in a way, if you have a work of Isla demands some serious scrolling pay attention to it.
+
+339
+00:56:06.900 --> 00:56:15.750
+Jennifer Dellner: sort of attention modulation that's out there on social media says don't pay attention to it just keep scrolling so I wonder if there is.
+
+340
+00:56:16.230 --> 00:56:24.360
+Jennifer Dellner: And I don't want to hammer this point, but I wonder if there's a kind of aesthetic clash there where the students in a sense, can't.
+
+341
+00:56:25.170 --> 00:56:32.160
+Jennifer Dellner: read a serious piece as serious because the way that their attention has been trained and directed.
+
+342
+00:56:32.700 --> 00:56:39.510
+Jennifer Dellner: Particularly through some forms of social media says if you're hopping around you're kind of not serious i'm not demanding your full attention.
+
+343
+00:56:39.840 --> 00:56:49.560
+Jennifer Dellner: Open up all the tabs and bounce between them and then, if there's a quote unquote serious work that says, open up all the tabs and bounce between them and pay total attention to everything i'm doing here.
+
+344
+00:56:50.670 --> 00:56:56.550
+Jennifer Dellner: there's there's a conflict of aesthetic or even procedural rules.
+
+345
+00:56:58.860 --> 00:57:08.100
+Davin Heckman: You know I thinking about that, like, and this is a comment i'm sure many other people have made it but i've heard like rob wittek is is made this.
+
+346
+00:57:09.360 --> 00:57:26.460
+Davin Heckman: pointed this out is that you know we also live in a time of binge watching where like our students have no trouble watching like 12 hours of something like without any kind of break or interruption in a very focused way, and sometimes even watching and re watching favorite shows.
+
+347
+00:57:27.990 --> 00:57:39.330
+Davin Heckman: And I think you know that this ingredient is you know desire is you know this huge part of it and that's the the one like, how do you you.
+
+348
+00:57:40.920 --> 00:57:44.880
+Davin Heckman: sucker someone in you know how does that seduction work with.
+
+349
+00:57:46.380 --> 00:57:50.550
+Davin Heckman: A work of literature in any in any context you know.
+
+350
+00:57:56.460 --> 00:58:12.510
+Andrew Demirjian he/him: yeah in a way it's like it's it's a kind of third book to our discussion of like the creative coding book that that runs parallel to scotts it's like the the examples of artwork that I get what he's got plenty actually in there, right now, but I think it's.
+
+351
+00:58:13.500 --> 00:58:21.270
+Andrew Demirjian he/him: Having these ones that have things that have worked well in each of our classes, that that bring people in that suck people in um.
+
+352
+00:58:22.530 --> 00:58:26.760
+Andrew Demirjian he/him: that's also, I think a valuable resource to share, you know.
+
+353
+00:58:28.470 --> 00:58:30.810
+Andrew Demirjian he/him: i'm seeing some good suggestions in the chat.
+
+354
+00:58:35.520 --> 00:58:49.050
+Johannah Rodgers: I don't know if if Margie or stephanie might talk a little bit about I mean some of the some of our discussions It made me think about the extent to which distraction has to be.
+
+355
+00:58:50.580 --> 00:59:03.900
+Johannah Rodgers: Considered in any work of 11 and or has been traditionally and if that, if that is you know if they see any changes happening over time, in terms of.
+
+356
+00:59:04.410 --> 00:59:22.740
+Johannah Rodgers: I mean, I think particularly of Stewart mouth drops work as being so focused on distraction, and the impossibility of attending to the various threads, not just in the code, but even since orally in a in a multimedia art piece.
+
+357
+00:59:24.780 --> 00:59:34.500
+Marjorie Luesebrink: You know, is is definitely on she might want to respond, but if not a Joanna, I would like to um you know this question as we're discussing it is.
+
+358
+00:59:35.130 --> 00:59:48.150
+Marjorie Luesebrink: Is perpetual and I guess the question might be, is it is it worse now than it was at the beginning, because we we many of the practitioners early on, were very aware of the fact that.
+
+359
+00:59:49.020 --> 01:00:00.000
+Marjorie Luesebrink: The tendency in reading, both in print and then much, much, much more so as the Web became a dominant reading place.
+
+360
+01:00:01.470 --> 01:00:09.720
+Marjorie Luesebrink: The tendency was to want things to go faster, I think we became so aware of this, you know by the turn of the century that people had.
+
+361
+01:00:10.230 --> 01:00:21.690
+Marjorie Luesebrink: At that time, less intent in staying on a particular piece of text for any period of time, you could even tell that in our early conferences and I used to watch it because.
+
+362
+01:00:23.400 --> 01:00:27.120
+Marjorie Luesebrink: There were works that would be shown that it would have a.
+
+363
+01:00:28.440 --> 01:00:35.820
+Marjorie Luesebrink: page of text on the screen Johanna and and you would see people start looking away almost after the fourth or fifth word.
+
+364
+01:00:36.150 --> 01:00:41.460
+Marjorie Luesebrink: That they weren't going to read it through that they were going to hope that they could catch whatever was going on some other way.
+
+365
+01:00:41.940 --> 01:00:54.330
+Marjorie Luesebrink: And when I wrote Columbia, I actually knew that when when I was looking at something like 300 screens and probably 500 words of work that.
+
+366
+01:00:54.810 --> 01:00:59.040
+Marjorie Luesebrink: Very few people would look at it, all the way through, it was what I wanted to write.
+
+367
+01:00:59.460 --> 01:01:08.220
+Marjorie Luesebrink: But I had kids in the neighborhood that like to come over and watch the progress and they had learned very quickly to skip to the music they liked.
+
+368
+01:01:08.730 --> 01:01:18.600
+Marjorie Luesebrink: And and and just go to the places they wanted to go to which you go anywhere in Colombia in a keystroke or two, and then they looked at the new parts i'm.
+
+369
+01:01:19.290 --> 01:01:36.000
+Marjorie Luesebrink: Kate hales has written a lot about deep attention and and various reading styles Now the question is, for me, when we think about the pandemic and people binge watching, as was just mentioned.
+
+370
+01:01:37.140 --> 01:01:45.300
+Marjorie Luesebrink: What is the difference in the kind of attention that might be required let's say to look at a piece.
+
+371
+01:01:46.920 --> 01:01:55.680
+Marjorie Luesebrink: That requires that deep attention, as opposed to looking at something which is entirely linear and self controlled, such as.
+
+372
+01:01:56.610 --> 01:02:11.100
+Marjorie Luesebrink: a string of TV sitcoms which are very repetitive, and almost hypnotic in their pattern repetition so um I think we've always been aware of the fact that.
+
+373
+01:02:11.580 --> 01:02:22.020
+Marjorie Luesebrink: There are going to be various classes of readers and that's why I started out by mentioning that experimental experimental literature always requires.
+
+374
+01:02:22.530 --> 01:02:36.480
+Marjorie Luesebrink: A different kind of attention from let's say reading a typical romance novel well written and entertaining and so forth, but, following what we call a genre better um I don't think that.
+
+375
+01:02:39.090 --> 01:02:59.430
+Marjorie Luesebrink: blessedly enough I don't think that he let has gotten into a place where we have excluded any of those readings feeds and attention levels, some of the work requires a terrible amount of attention and some of the work really is perfectly entertaining on its own, so I think that.
+
+376
+01:03:00.600 --> 01:03:15.930
+Marjorie Luesebrink: I think that we can embrace the fact that students will vary in how they approach our works and that they, and that they have a perfect right to do so and that we have a perfect right to offer them a real variety.
+
+377
+01:03:18.360 --> 01:03:19.860
+Stephanie Strickland: And i'd say.
+
+378
+01:03:20.970 --> 01:03:32.850
+Stephanie Strickland: On the first place, I wrote poetry, which is completely different in the way you approach it then all this narrative of the week, the way different narrative lines are chosen.
+
+379
+01:03:33.390 --> 01:03:44.580
+Stephanie Strickland: I also always for almost everything I wrote, there were books, sometimes two books on the same material, as well as various.
+
+380
+01:03:45.720 --> 01:03:53.580
+Stephanie Strickland: Digital implementations and what was interesting to me, was what could happen in each of those and what each of those was doing better than the other.
+
+381
+01:03:54.120 --> 01:04:05.790
+Stephanie Strickland: But, for instance, one way that certain things were changed was when when I first did the universe, which was a sky full of these things that look like constellations was spontaneously read his constellations.
+
+382
+01:04:06.960 --> 01:04:22.920
+Stephanie Strickland: The people could reveal them by their own movement there's a lot of touch hovering sort of touched that revealed layers of things people would say to me, or what a good way to organize information, I mean they didn't necessarily associated with a.
+
+383
+01:04:24.090 --> 01:04:35.610
+Stephanie Strickland: You know, artistic or say and but always within that you could read it by number or you could read it by shape there was, I always had several ways of going into it.
+
+384
+01:04:36.120 --> 01:04:44.520
+Stephanie Strickland: So when now the text for that, when that was first written it was written in one long set of scrolling corsets, but that was so.
+
+385
+01:04:44.880 --> 01:04:54.480
+Stephanie Strickland: unacceptable and printed the time that they were made into what I call waves on its which didn't exactly end and punctuation they would follow through but.
+
+386
+01:04:54.990 --> 01:05:09.690
+Stephanie Strickland: Later in a second edition when I also made a new digital edition I returned, it is to the wave of tourists it's because people were so used to scrolling by that time online that you think could scroll forever didn't bother anybody anymore.
+
+387
+01:05:10.620 --> 01:05:17.730
+Stephanie Strickland: Because they weren't tied to print, but when we made the iPad version of the universe.
+
+388
+01:05:19.080 --> 01:05:20.460
+Stephanie Strickland: People could draw their own.
+
+389
+01:05:21.540 --> 01:05:23.550
+Stephanie Strickland: constellations and we had a.
+
+390
+01:05:25.620 --> 01:05:34.110
+Stephanie Strickland: an oracle we had different things that were more in tune with what people at that moment we're doing, even though it was very much the same.
+
+391
+01:05:35.970 --> 01:05:50.970
+Stephanie Strickland: Certainly recognizably the same piece and there's all together about six different instantiate of this space and each one of them, does the one thing, better than the other, and I, so I to me that's one of the main things about the literature really is.
+
+392
+01:05:52.590 --> 01:06:13.470
+Stephanie Strickland: That it really honors the fact that people come from different languages, different neural organizations or whatever, and so it's possible to find something that resonates with you and it's not our goal have everybody read something in the same way that's not met Michael anyway.
+
+393
+01:06:15.510 --> 01:06:16.230
+Davin Heckman: I love that.
+
+394
+01:06:17.400 --> 01:06:19.350
+Davin Heckman: I love that comment stephanie I.
+
+395
+01:06:20.940 --> 01:06:29.520
+Davin Heckman: I siobhan and talia had been waiting very patiently to ask questions I don't want to cut you either of you also Javan you want to.
+
+396
+01:06:30.360 --> 01:06:40.110
+Siobhan O'Flynn: Sure hi Thank you everybody um, and this is this is such an interesting conversation to be you know sort of immersed in because I have a digital text class coming up.
+
+397
+01:06:40.830 --> 01:06:53.130
+Siobhan O'Flynn: In six weeks and thinking about what i'm going to be doing and playing with, and I think I think going back to some of the comments around how interactivity changes and changes the relationship with the text.
+
+398
+01:06:54.330 --> 01:07:01.650
+Siobhan O'Flynn: Something that I start my classes, but the digital texts and the video games class which is in an English department.
+
+399
+01:07:02.460 --> 01:07:08.610
+Siobhan O'Flynn: I have them play queers and love at the end of the world first that's, the first thing that they encounter.
+
+400
+01:07:08.970 --> 01:07:16.410
+Siobhan O'Flynn: And then we talk about it in terms of the limits of sort of literary theory the limits of what we can talk about.
+
+401
+01:07:16.950 --> 01:07:25.740
+Siobhan O'Flynn: As an interactive text when you have the inclusion of a timer so, then we have to talk about the game newness of that text and the game mechanic.
+
+402
+01:07:26.100 --> 01:07:39.300
+Siobhan O'Flynn: And that then starts opening up the discussion that runs through the entire course around intention and the cues to intention, what the what the you know sort of the he lit or the story game.
+
+403
+01:07:40.110 --> 01:07:43.470
+Siobhan O'Flynn: intention is in its relationship with you.
+
+404
+01:07:44.160 --> 01:07:51.840
+Siobhan O'Flynn: As the reader or the player and how you craft that and so like a touch point for that which is really useful in the video games course.
+
+405
+01:07:52.080 --> 01:08:02.310
+Siobhan O'Flynn: is like the Stanley parable where you are being spoken to in the game and manipulated in the game, and then you know where students take that understanding.
+
+406
+01:08:02.760 --> 01:08:12.060
+Siobhan O'Flynn: is like sort of really extraordinary because they start thinking about the interactive text then whether it's It is like story or memoir.
+
+407
+01:08:12.450 --> 01:08:22.740
+Siobhan O'Flynn: Or you know sort of getting into kind of critical territory in terms of addressing documentary topics and things are crafted with an eye to that relationship.
+
+408
+01:08:23.310 --> 01:08:33.930
+Siobhan O'Flynn: And, and that is like this distinctive component in that space for them, so I have i'll just like drop it into check, because this is open on the web, but.
+
+409
+01:08:35.100 --> 01:08:36.240
+Siobhan O'Flynn: Let me go up here.
+
+410
+01:08:37.620 --> 01:08:49.680
+Siobhan O'Flynn: This this twine story game was you know, the first digital work that the student had created this was the first thing ever and it's extraordinarily beautiful and concise.
+
+411
+01:08:50.220 --> 01:08:59.400
+Siobhan O'Flynn: and emotional and well crafted in terms of how it kind of modulates different moments, and the kind of the aesthetics, of the piece.
+
+412
+01:08:59.790 --> 01:09:12.060
+Siobhan O'Flynn: So to me that you know the sort of the many, many points in here that are worth much deeper thought kind of prison for me around this question of of.
+
+413
+01:09:12.660 --> 01:09:17.760
+Siobhan O'Flynn: signaling the intention of the work in terms of how it is positioning you.
+
+414
+01:09:18.210 --> 01:09:29.010
+Siobhan O'Flynn: And because this is, you know books don't require us to do, like in all of the things that book just do books are thoroughly naturalized artifacts we know what to do with them.
+
+415
+01:09:29.460 --> 01:09:39.180
+Siobhan O'Flynn: Whereas we land on a screen and we have to figure it out so that's where we also talked an awful lot about mental models and how the mental models that we bring to it.
+
+416
+01:09:39.480 --> 01:09:53.460
+Siobhan O'Flynn: The gamer see one thing that straight lit students see something else, so we have those conversations as to how people are seeing differently and how their responses are being cute differently, because of them, the mental models that they're working with.
+
+417
+01:09:58.140 --> 01:09:58.620
+Davin Heckman: Thank you.
+
+418
+01:09:59.040 --> 01:09:59.640
+Siobhan O'Flynn: To on.
+
+419
+01:09:59.910 --> 01:10:00.540
+Davin Heckman: tell you.
+
+420
+01:10:04.200 --> 01:10:14.970
+talia devanadero: hi can you hear me yes awesome alright, so this has been a very interesting conversation, for me, because all of you, it seems, like many of your professors and I just finished my first year of undergrad.
+
+421
+01:10:16.080 --> 01:10:28.770
+talia devanadero: So i've been thinking about um I wanted to focus mostly on people's comments on social media and also like like to the two ends of the spectrum.
+
+422
+01:10:29.250 --> 01:10:39.120
+talia devanadero: For like my generation in terms of attention there's social media, and then we have been watching 12 hours of whatever show just got released on netflix and.
+
+423
+01:10:40.770 --> 01:10:48.810
+talia devanadero: The comments that were made on intentionality like the signaling what amount of attention you're supposed to pay I think that's something that.
+
+424
+01:10:49.530 --> 01:10:58.980
+talia devanadero: Is that a lot of my generation have trouble with because we hook into social media we do scroll Twitter or instagram or reddit.
+
+425
+01:10:59.400 --> 01:11:15.360
+talia devanadero: Because it feels like a necessity, and then we spread our attention to sin, so we almost have to try and distance ourselves from the content we're consuming, otherwise it would hit us like too far too fast, like and but, and when we, but when we want to.
+
+426
+01:11:17.370 --> 01:11:34.470
+talia devanadero: escape ourselves and the stress that were put like under in our lives that's when you'll have a lot of people go binge watch or like read 300 K a fanfic in like five hours things like that and I thought of two particular.
+
+427
+01:11:36.600 --> 01:11:43.320
+talia devanadero: pieces of Isla that I think like broke the like that, like shocked people out of there.
+
+428
+01:11:44.400 --> 01:11:53.130
+talia devanadero: Like like default i'm just going to scroll social media like state um I someone mentioned careers at in love at the end of the world.
+
+429
+01:11:53.610 --> 01:12:02.370
+talia devanadero: was really attention grabbing for a lot of the seniors and juniors in my class because it's so it's so thoroughly i'm.
+
+430
+01:12:02.970 --> 01:12:16.920
+talia devanadero: Like twisted her expectations like like and like caught her attention and like but we didn't have the time to explore everything that was going on, and I think that was something that.
+
+431
+01:12:17.550 --> 01:12:26.790
+talia devanadero: A lot of people I haven't heard mentioned yet is that we're used to having like like being able to control everything have the choice on what to consume.
+
+432
+01:12:27.330 --> 01:12:34.890
+talia devanadero: and under what circumstances most most people like we don't have the vrs anymore we're not we don't have we can watch anything anytime we want.
+
+433
+01:12:35.910 --> 01:12:44.940
+talia devanadero: So, but there's also a Nick Mon for its recent work the bug, which is based on the metamorphosis like I clicked on it, and it was visceral and intense.
+
+434
+01:12:45.600 --> 01:12:53.370
+talia devanadero: um but, like, I think a lot of students my age like we just we're so desensitized to everything.
+
+435
+01:12:53.970 --> 01:13:03.090
+talia devanadero: And somebody has to shock this out of that or we have to make the choice to immerse all of ourselves into something or it's just not going to work we're not going to be receptive.
+
+436
+01:13:03.660 --> 01:13:15.210
+talia devanadero: Because like if we if we were we paid attention to everything all the time, like it would really hurt us like we can't do that, where there's there's too much news too much too much of everything.
+
+437
+01:13:16.710 --> 01:13:26.250
+talia devanadero: So that's what I wanted to say uh I will I will probably talk to my Professor by he let Professor about what I heard from this conference tomorrow, so thank you very much.
+
+438
+01:13:28.380 --> 01:13:40.350
+Davin Heckman: Thanks and that's I mean it's got me thinking about something that I might one of my sons is been over for over a year now he's been taking the Sam raimi editor man movie.
+
+439
+01:13:40.860 --> 01:13:55.410
+Davin Heckman: and making a line, a lot of meme every day from every single word every single line of that movie and it's bananas way to do a very close reading of a film to mean the entire film but.
+
+440
+01:13:56.490 --> 01:14:01.050
+Davin Heckman: it's just a different you know what gets what attracts somebody to do something like that I don't know.
+
+441
+01:14:02.460 --> 01:14:04.290
+Davin Heckman: But it's the attention is there, you know.
+
+442
+01:14:06.810 --> 01:14:12.360
+Davin Heckman: Why, I don't know if anybody has a closing comment, I really want to thank our panelists for for.
+
+443
+01:14:13.950 --> 01:14:19.140
+Davin Heckman: For your presentations this was lovely and I wish we had another half hour to go.
+
+444
+01:14:20.490 --> 01:14:26.340
+Davin Heckman: But I want to thank everyone, so you could unmute and give them a round of applause, and I think we know how to get through each other so.
+
+445
+01:14:27.510 --> 01:14:29.430
+Davin Heckman: I encourage you to read the papers and.
+
+446
+01:14:30.330 --> 01:14:32.640
+Stephanie Strickland: i'd also like to ask tell you about the.
+
+447
+01:14:33.960 --> 01:14:42.060
+Stephanie Strickland: she's expressing in this danger really informational danger of being assaulted you know, in a certain way, but the thing, and I believe that.
+
+448
+01:14:42.060 --> 01:14:47.700
+Stephanie Strickland: We really should pay a lot more attention to that and i'd like to hear much more from her about that some some point.
+
+449
+01:14:49.260 --> 01:14:53.910
+talia devanadero: will be in the cast, I will be in the CAFE if anyone wants to ask me questions after the panel.
+
+450
+01:14:56.040 --> 01:15:04.050
+Stephanie Strickland: Last, I will not get another appointment, but no I please write something send it publish it, let us know.
+
+451
+01:15:08.280 --> 01:15:08.580
+Davin Heckman: bye.
+
+452
+01:15:08.910 --> 01:15:09.900
+Thank you bye.
+
+453
+01:15:11.250 --> 01:15:12.810
+Marjorie Luesebrink: Thanks Devon thanks so.
+
+454
+01:15:13.830 --> 01:15:15.030
+Inge van de Ven: Thank you so much.
+
+455
+01:15:15.210 --> 01:15:16.080
+Melinda White (she/her): Thanks Dan.
+
+456
+01:15:16.650 --> 01:15:17.640
+Davin Heckman: Thank you, everybody.
+
+457
+01:15:25.980 --> 01:15:26.280
+Davin Heckman: hey mark.
+

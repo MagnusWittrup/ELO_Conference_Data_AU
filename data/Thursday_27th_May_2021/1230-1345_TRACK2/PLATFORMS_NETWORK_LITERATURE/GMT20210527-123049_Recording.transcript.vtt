@@ -1,0 +1,1746 @@
+WEBVTT
+
+1
+00:00:50.280 --> 00:00:52.200
+ASUN LOPEZ-VARELA AZCARATE: Hello good afternoon.
+
+2
+00:00:55.980 --> 00:00:56.790
+ASUN LOPEZ-VARELA AZCARATE: think we.
+
+3
+00:00:57.360 --> 00:01:02.670
+ASUN LOPEZ-VARELA AZCARATE: can start now and welcome everybody to this a session.
+
+4
+00:01:03.840 --> 00:01:11.670
+ASUN LOPEZ-VARELA AZCARATE: One night seven platforms network and literature and we have three wonderful presentations.
+
+5
+00:01:14.040 --> 00:01:37.530
+ASUN LOPEZ-VARELA AZCARATE: I will start with Hartmut coconuts a million I love Harry sandy low her and frank knocked and they will be presenting solving the Babylonian confusion and encyclopedia for interactive digital narrative so whenever you like, the floor is yours.
+
+6
+00:02:55.260 --> 00:02:55.680
+Hartmut Koenitz: Hello.
+
+7
+00:02:58.860 --> 00:02:59.340
+ASUN LOPEZ-VARELA AZCARATE: Hello.
+
+8
+00:03:02.460 --> 00:03:08.520
+ASUN LOPEZ-VARELA AZCARATE: I already presented the first speakers and having some problems.
+
+9
+00:03:09.270 --> 00:03:12.330
+Hartmut Koenitz: I think we're having some connection problems can you hear me.
+
+10
+00:03:14.700 --> 00:03:15.570
+Hartmut Koenitz: Can you hear me now.
+
+11
+00:03:16.290 --> 00:03:26.970
+Hartmut Koenitz: Yes, okay all right so i'm hopping units, and I think i'm representing before speakers of his paper that i'm representing.
+
+12
+00:03:28.380 --> 00:03:31.710
+Hartmut Koenitz: And let me share my screen with you.
+
+13
+00:03:39.210 --> 00:03:41.100
+Hartmut Koenitz: Okay, can you now see my screen.
+
+14
+00:03:41.790 --> 00:03:51.840
+Hartmut Koenitz: Yes, okay wonderful Thank you okay so i'm talking about the encyclopedia project for interactive digital narratives.
+
+15
+00:03:53.040 --> 00:04:00.270
+Hartmut Koenitz: And this this project basically came out of basically an analysis of the fields that are under to be with.
+
+16
+00:04:01.500 --> 00:04:09.060
+Hartmut Koenitz: me um and I heard it a couple years ago of something that we understood as being the Babylonian confusion.
+
+17
+00:04:09.420 --> 00:04:16.470
+Hartmut Koenitz: The leg offer shared vocabulary in a very interdisciplinary context, so I mean if we think of.
+
+18
+00:04:16.830 --> 00:04:23.520
+Hartmut Koenitz: The field of electronic literature and and other wider sort of a of a field of interactive digital narratives.
+
+19
+00:04:23.910 --> 00:04:37.320
+Hartmut Koenitz: And what we see is that this is a very interdisciplinary enterprise and made means many people from different fields pedagogy game studies narrow ology literary studies film studies.
+
+20
+00:04:37.830 --> 00:04:44.130
+Hartmut Koenitz: complexity studies might be engaged with it um and this interdisciplinary is, of course.
+
+21
+00:04:44.700 --> 00:04:52.440
+Hartmut Koenitz: A clear indication of the richness of kind of his field, basically, but of course it's all split uses all kinds of problems.
+
+22
+00:04:52.770 --> 00:05:09.150
+Hartmut Koenitz: In space, specifically in terms of vocabulary and so MIA you and I, to be offers a face paper talked about that in 2019 as a challenge as of interactive fiction narrative research and teaching.
+
+23
+00:05:09.660 --> 00:05:16.020
+Hartmut Koenitz: And we identified five major changes is basically the dependency and legacy analytical frameworks.
+
+24
+00:05:16.560 --> 00:05:22.380
+Hartmut Koenitz: which we call the Groundhog day black or shared vocabulary, which we call the Babylonian confusion.
+
+25
+00:05:22.830 --> 00:05:30.660
+Hartmut Koenitz: And missing institutional memory of a field where it leads to you know sort of a reinventing the wheel, something that you understood this amnesia.
+
+26
+00:05:31.200 --> 00:05:46.590
+Hartmut Koenitz: And then, an absence of established benchmarks so of a lack of a yardstick and overworked auction of tools were many, many people in the field constantly make your own tools which are the newest once or twice and unfortunately abandoned and forgotten.
+
+27
+00:05:47.640 --> 00:05:54.420
+Hartmut Koenitz: And Miriam is with amazing artists, she made it his creations for all of these five topics so again.
+
+28
+00:05:54.900 --> 00:06:03.240
+Hartmut Koenitz: These five major challenges Groundhog day I mean we really need to start looking at to investigate the limitations of existing and other instruments.
+
+29
+00:06:03.570 --> 00:06:12.930
+Hartmut Koenitz: and basically seize the opportunity to introduce specific frameworks to understand interactive and digital forms of narration.
+
+30
+00:06:13.650 --> 00:06:23.490
+Hartmut Koenitz: The second challenge is really the lack of a shared vocabulary when somebody uses a return like narrative or plot or anything related to that.
+
+31
+00:06:23.790 --> 00:06:28.950
+Hartmut Koenitz: depending on where they come from, they might have a very different understanding of what that actually means.
+
+32
+00:06:29.250 --> 00:06:38.130
+Hartmut Koenitz: And if you look at it sounds from other fields such as robotics their behalf being you know successful base and creating something that is much more shift over a sustainable.
+
+33
+00:06:38.700 --> 00:06:48.090
+Hartmut Koenitz: vocabulary and another challenge is is really this missing institutional memory, we have so many things that already have been created.
+
+34
+00:06:48.420 --> 00:06:58.770
+Hartmut Koenitz: And, and so we felt there was a need to build a library of pointers for a chef cannon and especially since we have you sort of born digital works may is a real problem of.
+
+35
+00:06:59.220 --> 00:07:04.200
+Hartmut Koenitz: losing some of his memory of it or some of these great books that we have and.
+
+36
+00:07:04.890 --> 00:07:16.830
+Hartmut Koenitz: There are some reasons are, for example, efforts by the British Library to to to to help out in this regard and, of course, yellow has undertaken some steps to help in this regard but.
+
+37
+00:07:17.490 --> 00:07:28.920
+Hartmut Koenitz: there's much more that's needed and another big problem is, of course, the absence of established benchmarks and and here bb need to think what can we do.
+
+38
+00:07:29.220 --> 00:07:36.000
+Hartmut Koenitz: In this regard, to establish benchmarks for example for computation of creation of narratives and things like that.
+
+39
+00:07:36.750 --> 00:07:46.680
+Hartmut Koenitz: And and and finally we have these you know age old problem of somebody once said to me a cheap altar everybody in the field, wants to have their own tool.
+
+40
+00:07:47.460 --> 00:08:00.780
+Hartmut Koenitz: And I think there is a need here for critical offering tool studies, but let's go back to the particular challenge, I want to talk about today, but by building the confusion of the field Mitch, has a lot to do with.
+
+41
+00:08:01.680 --> 00:08:12.930
+Hartmut Koenitz: You know the deck is basically described with the lack of a shared vocabulary So what can be done about that basically automatically a shared bank which has not.
+
+42
+00:08:13.680 --> 00:08:32.130
+Hartmut Koenitz: emerged in the last over 30 years of nearly 40 years by now of research in interactive forms of narration and and i'm going back to her and first PhD thesis is here, in the field from 85 and 86 bobo Brenda Laurel and.
+
+43
+00:08:33.510 --> 00:08:38.520
+Hartmut Koenitz: I thought it would be everyone so right now what what's from 85.
+
+44
+00:08:39.120 --> 00:08:49.950
+Hartmut Koenitz: And, and of course we have private and competing meanings that are norm, unfortunately sometimes it's just us much of our vocabulary before actually defining what they actually mean.
+
+45
+00:08:50.550 --> 00:08:58.380
+Hartmut Koenitz: Right, we see sometimes really sort of yeah somebody frozen verse like narrative but never, never really see what they actually mean vibrant.
+
+46
+00:09:00.210 --> 00:09:09.180
+Hartmut Koenitz: And let is really an impediment for evaluation and collaboration also towards you know scholars from more like outside this particular field.
+
+47
+00:09:10.740 --> 00:09:16.440
+Hartmut Koenitz: And, and so we need to really made a collaborative effort, and how can something like this organized basically.
+
+48
+00:09:17.130 --> 00:09:39.090
+Hartmut Koenitz: So I proposed and and but eventually granted European plus with Burke in for is concerned with interactive narrative designed for complexity representations, you can find more at in for you and actually presently i'm in the middle, often in core a cost meeting.
+
+49
+00:09:40.260 --> 00:09:48.480
+Hartmut Koenitz: Maybe our colleagues are just working on different aspects and and so in in defining this action with actions.
+
+50
+00:09:48.810 --> 00:10:04.380
+Hartmut Koenitz: program and i'm not sure if you heard of cost cost is basically it's a networking a measure by the EU, a bit you can apply for and it's one of these wonderful instruments that that are available and.
+
+51
+00:10:05.580 --> 00:10:11.160
+Hartmut Koenitz: It is also something that can grow over time, which is a particular aspect of course here.
+
+52
+00:10:11.880 --> 00:10:19.890
+Hartmut Koenitz: And so, currently the network represents 47 country and has more than 160 members.
+
+53
+00:10:20.190 --> 00:10:34.950
+Hartmut Koenitz: And so we identified, and of course we as Members come from all kinds of different disciplines, so we identified an acute need to create a shared vocabulary, in order to even enable work for this diverse group of scholars.
+
+54
+00:10:35.580 --> 00:10:42.960
+Hartmut Koenitz: And so we started thinking about and we had our first Liberals talking to create such a thing.
+
+55
+00:10:43.950 --> 00:10:51.180
+Hartmut Koenitz: and be a viable business of press representation scholars, with better included come from right now.
+
+56
+00:10:51.930 --> 00:11:01.950
+Hartmut Koenitz: And so we divided work out in four different groups, one that is concerned, essentially if design aspects of interactive dictionary cities.
+
+57
+00:11:02.700 --> 00:11:24.360
+Hartmut Koenitz: In relation to complexity were approved to is a constant beef from the conceptual development work for free is concerned with evaluation purple evaluation and workbook for is concerned with the societal impact of such artifacts.
+
+58
+00:11:25.830 --> 00:11:36.660
+Hartmut Koenitz: And so, so we started discussing how can we pray to shampoo vocabulary and in the end we decided, we need to base it on one consistent model and and and here.
+
+59
+00:11:37.110 --> 00:11:42.000
+Hartmut Koenitz: We are yours, basically, the model that I have been developing for a number of years.
+
+60
+00:11:42.390 --> 00:11:56.580
+Hartmut Koenitz: And it's based on an understanding of the difference between traditional forms of narrative and interactive additional narratives which you can see here and the understanding is here, but we, you know, have, of course.
+
+61
+00:11:57.720 --> 00:12:04.020
+Hartmut Koenitz: The Creator, or we offer behalf of process of creation of designing of programming of writing.
+
+62
+00:12:04.890 --> 00:12:15.150
+Hartmut Koenitz: But we have been we think of print literature or movies, we about about is the output is is it's a fixed product basically it's a printed book it's it's a final.
+
+63
+00:12:15.870 --> 00:12:18.690
+Hartmut Koenitz: cut and fanatical live release of a movie.
+
+64
+00:12:19.260 --> 00:12:31.080
+Hartmut Koenitz: And, in contrast, if you think about what we have in British for Iran what you're really creating and these are the elements that do not exist in traditional forms of media is to create a digital computational artifact.
+
+65
+00:12:31.500 --> 00:12:34.500
+Hartmut Koenitz: And this computation artifact is made for interaction.
+
+66
+00:12:35.190 --> 00:12:50.340
+Hartmut Koenitz: And only if we van van go on to record play through his through his experiences we produce an output, a fixed stable steady output that might be comparable to something like a movie or a book.
+
+67
+00:12:50.760 --> 00:12:56.730
+Hartmut Koenitz: And so, really, but you know, but a model is needed that takes into account these additional elements.
+
+68
+00:12:58.470 --> 00:13:11.010
+Hartmut Koenitz: And, and another important thing to understand a thing about interactive digital forms of narration is when we have a system basically a baby's computation system that we go through, I mean we have to go.
+
+69
+00:13:11.970 --> 00:13:29.160
+Hartmut Koenitz: through a process of interaction in order to create outputs and, of course, we can have an interaction bond, which creates an output von we can have an extract action to betray it's not put to be can have an interaction and methods and output N and.
+
+70
+00:13:30.540 --> 00:13:47.790
+Hartmut Koenitz: load red means is is from the same system many different outputs can be generated and, if you think of procedural generation and can go towards infinity and, if you think of things like no man's Sky, which can produce several trillion different planets why we fly to them.
+
+71
+00:13:49.020 --> 00:13:58.320
+Hartmut Koenitz: So this is what's captured in in the spp model that I created, which I understand story is something that exists in the product in the sense and the output.
+
+72
+00:13:58.710 --> 00:14:05.640
+Hartmut Koenitz: And what we have in the system, but creating but but make one for test ones for potential narratives that's what's in the system.
+
+73
+00:14:06.120 --> 00:14:24.450
+Hartmut Koenitz: And the trading floor, the process of instantiate instantiated narratives products basically we can skip this essay to go from design over the performance of the interaction to a recorded output and where we might identify sort of traditional narrative structures.
+
+74
+00:14:26.010 --> 00:14:37.110
+Hartmut Koenitz: So, from that point on, we took that in because to action as a basic analytical perspective and have to develop that further into a full taxonomy.
+
+75
+00:14:37.650 --> 00:14:51.510
+Hartmut Koenitz: of interactive digital narratives and you'll see the conversation of the taxonomy here, and this is version 1.0 of those we are, we are still making you know we will make additions to that.
+
+76
+00:14:52.410 --> 00:15:08.460
+Hartmut Koenitz: But we trying to cover sort of a fair amount of terminology here in relate to each ever trade really taxonomic relations here and it's not done here is the second page.
+
+77
+00:15:10.140 --> 00:15:13.560
+Hartmut Koenitz: We are in the process of course of improving.
+
+78
+00:15:14.370 --> 00:15:33.090
+Hartmut Koenitz: This taxonomy and we now have they'll start a process of writing these entries by from authorial teams of members of the cost action, but we also plan to reach out beyond two additional scholars for for input and we have put in.
+
+79
+00:15:33.810 --> 00:15:38.670
+Hartmut Koenitz: place and editorial board and these things will be peer reviewed.
+
+80
+00:15:39.150 --> 00:15:46.950
+Hartmut Koenitz: And i'm sort of i'm very happy to now and now owns behalf and now a secured a contract with rutledge.
+
+81
+00:15:47.250 --> 00:15:57.630
+Hartmut Koenitz: So rutledge will publish his work as a rutledge encyclopedia for interactive degenerative it will be an open access publication, supported by the Cross brand.
+
+82
+00:15:57.990 --> 00:16:11.520
+Hartmut Koenitz: And again, it will be a peer review which Community driven output and again, we are not in the startup phase getting all of us on actually doing a two floors up for me right now, our colleagues are in a writing workshop.
+
+83
+00:16:12.120 --> 00:16:24.240
+Hartmut Koenitz: And we're really starting to write these entries that we really aim to also reach out to provide a wider community, for us, I mean several.
+
+84
+00:16:25.290 --> 00:16:31.410
+Hartmut Koenitz: Also, prominent Ian or Member actually serve and and and Scott are both members of the pulse network.
+
+85
+00:16:32.910 --> 00:16:40.620
+Hartmut Koenitz: So there is a clear connection here and yeah, so this is what we're currently working on wrapping up.
+
+86
+00:16:41.430 --> 00:16:49.980
+Hartmut Koenitz: This is posting for business, one of the things might be working on, you will hear more from us and I talked about what.
+
+87
+00:16:50.460 --> 00:17:01.080
+Hartmut Koenitz: I have to find, together with Neil young fella hardiest for five minutes and major challenges beer are addressing von provolone Ian confusion wi fi and sicko pedia.
+
+88
+00:17:01.740 --> 00:17:18.960
+Hartmut Koenitz: goals this much more to work to be done it's working together and also if you're interested with RD in an organization which i'm President of it organizes guys the ideas fun friends and pursuit same conference and look at what we're doing if you're interested.
+
+89
+00:17:20.580 --> 00:17:26.310
+Hartmut Koenitz: And that's it from me, and thank you from sandy frank Miriam and me questions.
+
+90
+00:17:27.870 --> 00:17:39.060
+ASUN LOPEZ-VARELA AZCARATE: Thank you very much for fascinating presentation very ambitious ambitious project and, yes, we have a few minutes for questions from the audience, thank you.
+
+91
+00:17:47.130 --> 00:17:51.450
+Mona Ulrich: And I just unmute myself and start asking yeah of.
+
+92
+00:17:51.720 --> 00:17:53.820
+ASUN LOPEZ-VARELA AZCARATE: course very welcome to.
+
+93
+00:17:54.120 --> 00:17:55.590
+Mona Ulrich: You thanks so.
+
+94
+00:17:56.850 --> 00:18:14.940
+Mona Ulrich: We will later in this panel present our tools for extracting link structures, so I have a question you mentioned at in the fifth point of your said there's a overproduction of tools and do you mean such tools like for.
+
+95
+00:18:16.950 --> 00:18:24.180
+Mona Ulrich: yeah for analyzing the and interactive digital natives and.
+
+96
+00:18:26.520 --> 00:18:28.110
+Mona Ulrich: yeah our tool.
+
+97
+00:18:29.190 --> 00:18:45.420
+Mona Ulrich: is developed for websites and I was just wondering, are there so many tools to analyze narrators of computer games, for example, that they are also like yeah I don't know automatically analyst.
+
+98
+00:18:46.740 --> 00:18:50.010
+Hartmut Koenitz: No, I mean what i'm talking about is offering tools.
+
+99
+00:18:51.210 --> 00:18:58.500
+Hartmut Koenitz: I mean, I think, analytical tools are super welcome beat me i'm looking really forward to your talk and hear more about that.
+
+100
+00:18:59.190 --> 00:19:21.510
+Hartmut Koenitz: But even when it comes to offering tools, I mean so a while ago a master students of mine started looking into tools and within about a month six weeks, he found about 300 tools, unfortunately, many of them sort of described in like one paper and maybe use twice and then quickly forgotten.
+
+101
+00:19:23.310 --> 00:19:33.810
+Hartmut Koenitz: And bed is is is a bit of a shame right, I mean we have a boss wants an attempt, many years ago in the iris project to create sort of an you know open.
+
+102
+00:19:34.500 --> 00:19:45.570
+Hartmut Koenitz: source model is easily accessible to all the everybody can contribute unfortunately it didn't work out for a number of reasons, but I mean I think if we could move to.
+
+103
+00:19:46.050 --> 00:19:56.670
+Hartmut Koenitz: I mean, first of all, we need to have a better understanding what are the tools doing that exist and actually the paper that your tongue road for for it it's 2018 gives you.
+
+104
+00:19:57.330 --> 00:20:04.650
+Hartmut Koenitz: A starting point or for classification for that, and he actually continues meant for presently in because the action.
+
+105
+00:20:05.100 --> 00:20:15.030
+Hartmut Koenitz: And we actually have now so for a new, more extensive classification system and actually the task force impossible present tonight.
+
+106
+00:20:15.690 --> 00:20:27.900
+Hartmut Koenitz: And tomorrow we will have an extra session, where people will put additional tools in there and it's a classification system if I think I have right now I think about 59 categories.
+
+107
+00:20:29.070 --> 00:20:37.200
+Hartmut Koenitz: In order to understand, offering tools so yeah that's what I was talking about, I think, analytical tools yay great I want to hear more about it.
+
+108
+00:20:39.480 --> 00:20:39.960
+Mona Ulrich: Thank you.
+
+109
+00:20:43.320 --> 00:20:45.450
+ASUN LOPEZ-VARELA AZCARATE: I don't know if there are any more questions.
+
+110
+00:20:46.500 --> 00:20:49.680
+Mona Ulrich: And I would have another maybe so.
+
+111
+00:20:51.660 --> 00:20:55.140
+Mona Ulrich: I don't know how how I don't.
+
+112
+00:20:57.090 --> 00:21:13.410
+Mona Ulrich: I don't have a picture of this, what I can do with this vocabulary, is it because, like in the archive on the library, where we have our our works of literature and they have.
+
+113
+00:21:16.080 --> 00:21:21.690
+Mona Ulrich: descriptive metadata like author title URL and.
+
+114
+00:21:22.950 --> 00:21:23.790
+Mona Ulrich: Then.
+
+115
+00:21:24.960 --> 00:21:31.500
+Mona Ulrich: The ID n taxonomy Is it also describing is it on the level of the work.
+
+116
+00:21:32.520 --> 00:21:36.720
+Mona Ulrich: And describing what the whole work.
+
+117
+00:21:37.890 --> 00:21:46.800
+Mona Ulrich: is capable of, or what what is possible with the interaction, or is it like really describing step by step, what interaction.
+
+118
+00:21:48.030 --> 00:21:57.180
+Mona Ulrich: Real like really like okay there's interaction a, and this makes this is the input of the interaction is the output of the interaction and like really drawing.
+
+119
+00:21:59.100 --> 00:22:06.240
+Mona Ulrich: yeah narrative narrative with this with this meter data, you understand.
+
+120
+00:22:06.690 --> 00:22:15.390
+Hartmut Koenitz: I think I do understand, I mean so right now there are three big categories basically and ronnie is really sort of offering one is.
+
+121
+00:22:15.660 --> 00:22:25.020
+Hartmut Koenitz: The artifact itself and one is societal impact is the server free super top level categories of the taxonomy That means the S word is described here and it's.
+
+122
+00:22:25.590 --> 00:22:45.030
+Hartmut Koenitz: Also, a means to an alliance works basically and and and in mandri guard, I mean we're working actually with the British Library and and if we're British Library metadata team to make it put a useful for them to categorize interactive narrative works.
+
+123
+00:22:47.580 --> 00:22:48.060
+Mona Ulrich: cool.
+
+124
+00:22:49.590 --> 00:22:50.310
+Mona Ulrich: And I think thanks.
+
+125
+00:22:53.580 --> 00:22:54.750
+ASUN LOPEZ-VARELA AZCARATE: I don't know if there are any more.
+
+126
+00:22:54.750 --> 00:22:56.580
+Siebe Bluijs: Questions yeah.
+
+127
+00:22:57.990 --> 00:23:07.020
+Siebe Bluijs: If I may so in your paper you mentioned the project which i'm very excited about, but the project dresses in inspiration from the living handbook of nanotechnology.
+
+128
+00:23:08.220 --> 00:23:12.780
+Siebe Bluijs: Which is very useful to them in their intelligence myself I.
+
+129
+00:23:13.860 --> 00:23:15.750
+Siebe Bluijs: visit the website regularly.
+
+130
+00:23:17.610 --> 00:23:27.240
+Siebe Bluijs: And the living in Google narrative here and preach together some of the most common concept within this field and every article has a similar structure, so it provides the.
+
+131
+00:23:27.600 --> 00:23:46.320
+Siebe Bluijs: definition and then it gives you the historical overview of the discussions among just on this topic, and it ends with some prospectus for further research Is this how you envision the media as well, or do you different approaches so i'll be interested to hear more about that.
+
+132
+00:23:47.460 --> 00:23:53.340
+Hartmut Koenitz: Well, I mean it's quite it's it's it's similar I think you know, the end of our paper which you should.
+
+133
+00:23:53.610 --> 00:24:02.580
+Hartmut Koenitz: be able to see basically has the overall structure so if I mean the form that we use, and we have to develop the form will be Hello have developed.
+
+134
+00:24:03.180 --> 00:24:13.530
+Hartmut Koenitz: An entry structure and actually if you Google for eight, you will find the right paper version of it, which has a full example entry attached to it.
+
+135
+00:24:15.330 --> 00:24:22.620
+Hartmut Koenitz: Right, I mean and to same time we have also identifying to add more top level entries little probably be shorter.
+
+136
+00:24:24.930 --> 00:24:31.560
+Hartmut Koenitz: Because I mean if your finger for top level entry if that would define everything there's not really much left to define.
+
+137
+00:24:31.920 --> 00:24:46.620
+Hartmut Koenitz: underneath basically in the taxonomy the so top level entries might be much shorter in order to leave space for the articles and any further down in the hierarchy to develop things, so we have also attached, I think.
+
+138
+00:24:47.880 --> 00:25:00.870
+Hartmut Koenitz: very short version of ideation and which is much, much shorter most distinct description, so we are not all of the same length it really depends on on the order on our level they are beyond the hierarchy.
+
+139
+00:25:06.540 --> 00:25:07.830
+ASUN LOPEZ-VARELA AZCARATE: Any other questions.
+
+140
+00:25:08.880 --> 00:25:11.610
+Claus-Michael Schlesinger: Yes, I would, I would like to ask a question.
+
+141
+00:25:11.940 --> 00:25:12.300
+Is.
+
+142
+00:25:13.740 --> 00:25:14.310
+Claus-Michael Schlesinger: Closed close misha.
+
+143
+00:25:15.750 --> 00:25:16.170
+Claus-Michael Schlesinger: misha.
+
+144
+00:25:17.670 --> 00:25:29.850
+Claus-Michael Schlesinger: Does the taxonomy you develop relate in any way to the cell categories to to the categories introduced by the consortium on electronic literature.
+
+145
+00:25:31.980 --> 00:25:33.090
+Claus-Michael Schlesinger: For their.
+
+146
+00:25:35.340 --> 00:25:38.610
+Claus-Michael Schlesinger: Combined cataloguing efforts.
+
+147
+00:25:40.170 --> 00:25:45.840
+Claus-Michael Schlesinger: Or if you if you if you if you are aware of this, of this of these categories.
+
+148
+00:25:47.190 --> 00:26:00.060
+Claus-Michael Schlesinger: Do you relate to them in any way i'm asking this because I see this also as a very necessary and important effort in in finding common categories that.
+
+149
+00:26:00.540 --> 00:26:16.980
+Claus-Michael Schlesinger: That different archives and and catalogs may use, and I know that the new electronic literature organization repository makes use of these cell categories, and we also working on.
+
+150
+00:26:18.180 --> 00:26:20.310
+Claus-Michael Schlesinger: Doing metadata schemas and we are.
+
+151
+00:26:21.690 --> 00:26:32.910
+Claus-Michael Schlesinger: wondering, should we relate to sell can we relate to sell will this be developed any further so that's the background for my question to you in any way related to these cell categories.
+
+152
+00:26:35.130 --> 00:26:40.350
+Hartmut Koenitz: Well, I mean not not presently I mean i'm happy to to to look at that.
+
+153
+00:26:41.370 --> 00:26:51.600
+Hartmut Koenitz: ever seen, of course, our project is grown a little bit organically also out of our membership, essentially, I mean i'm sure we have as much overlap.
+
+154
+00:26:52.770 --> 00:26:56.760
+Hartmut Koenitz: And and and that would be interesting, of course, to look into.
+
+155
+00:27:02.670 --> 00:27:06.990
+ASUN LOPEZ-VARELA AZCARATE: Okay, any any one last question many if there are any.
+
+156
+00:27:09.690 --> 00:27:21.090
+ASUN LOPEZ-VARELA AZCARATE: No Okay, so we move on to allow you know as an amount of time to everybody for questions and this position, congratulations again for very interesting project.
+
+157
+00:27:21.720 --> 00:27:30.690
+ASUN LOPEZ-VARELA AZCARATE: And now I would like to introduce you to close Michael slashing Mona olive Pascal high on.
+
+158
+00:27:31.530 --> 00:27:48.360
+ASUN LOPEZ-VARELA AZCARATE: Under a blessing, and who will be presenting and the project networks and net a teacher modeling structuring and visualizing link based networks in the de la corpus of net literature so whenever you like.
+
+159
+00:27:51.480 --> 00:27:52.740
+ASUN LOPEZ-VARELA AZCARATE: Great Thank you, thank you.
+
+160
+00:27:52.740 --> 00:27:53.490
+Claus-Michael Schlesinger: very much.
+
+161
+00:27:54.330 --> 00:28:03.480
+Claus-Michael Schlesinger: For the moderation and for everyone, for being here and I apologize for not having for presentation.
+
+162
+00:28:05.760 --> 00:28:17.070
+Claus-Michael Schlesinger: I was under the impression that we all read the papers, and so I hope that we will be able to have a discussion.
+
+163
+00:28:18.030 --> 00:28:42.750
+Claus-Michael Schlesinger: about our approach, but I will make an introduction, but it's just audio I hope that is okay, and I will try to to name the important points in our paper, so that everyone who hasn't read the Paper itself will be able, also to join the discussion and to to.
+
+164
+00:28:43.830 --> 00:28:53.400
+Claus-Michael Schlesinger: To ask about about these points, and we are happy to to also develop on certain key elements if questions should arise.
+
+165
+00:28:54.480 --> 00:28:55.530
+Claus-Michael Schlesinger: So, yes.
+
+166
+00:28:57.810 --> 00:29:07.560
+Claus-Michael Schlesinger: i'll start with two words about the background of our project we are situated in a larger project which is called the science data Center for literature.
+
+167
+00:29:09.030 --> 00:29:13.860
+Claus-Michael Schlesinger: The science data Center for literature brings together different partners.
+
+168
+00:29:15.570 --> 00:29:22.530
+Claus-Michael Schlesinger: The most important maybe being at the German literature archive Other partners include.
+
+169
+00:29:24.510 --> 00:29:31.140
+Claus-Michael Schlesinger: Infrastructure experts and computational analytics and digital humanities.
+
+170
+00:29:32.700 --> 00:29:46.410
+Claus-Michael Schlesinger: We are working, mostly on bond digital collections at the German literature archive the German literature archive is the German National archive for modern literature, which means that they have.
+
+171
+00:29:47.880 --> 00:29:58.680
+Claus-Michael Schlesinger: Important collections important bond digital collections comprising of authors estates and of web literature, which includes.
+
+172
+00:29:59.700 --> 00:30:13.470
+Claus-Michael Schlesinger: Artistic net literature, but also literary blocks and several journal websites in our talk here we focus on this web literature corpus, so we won't talk about authors estates.
+
+173
+00:30:15.210 --> 00:30:17.280
+Claus-Michael Schlesinger: and focus on web literature.
+
+174
+00:30:18.810 --> 00:30:25.950
+Claus-Michael Schlesinger: The the the main goals of the SEC for lit the science data Center for literature project is to.
+
+175
+00:30:27.390 --> 00:30:40.500
+Claus-Michael Schlesinger: support research on the spawn digital collections and make these archival collections accessible again, so this is an important goal of the project.
+
+176
+00:30:43.560 --> 00:30:54.060
+Claus-Michael Schlesinger: Making this material accessible again means also to define and implement a regular processes in order to continue archiving German speaking a net literature.
+
+177
+00:30:54.960 --> 00:31:14.490
+Claus-Michael Schlesinger: This also includes and that's why i'm really looking forward to to the last presentation and the discussion, because I think there is a very common question this also includes the question of how can we expand the scope, on what to archive and how to do this in regard of.
+
+178
+00:31:15.600 --> 00:31:17.130
+Claus-Michael Schlesinger: social media, especially.
+
+179
+00:31:20.070 --> 00:31:35.400
+Claus-Michael Schlesinger: The third goal is of the project is to develop computational methods to support full research cycles on net literature, which also includes functions regarding research data management and yeah.
+
+180
+00:31:37.380 --> 00:31:53.760
+Claus-Michael Schlesinger: Our paper focuses on a tool that we have developed when working with the dla literature corpus neck literature corpus, which we call work to graph, it has to be said that the objects in this collection.
+
+181
+00:31:54.750 --> 00:32:04.020
+Claus-Michael Schlesinger: exists as mainly as work files, mainly in the walk format, which is the standard format for web archiving.
+
+182
+00:32:06.330 --> 00:32:18.210
+Claus-Michael Schlesinger: And when we work with these archive literature, we work we work with these archived objects and in dealing with these objects, we.
+
+183
+00:32:19.260 --> 00:32:30.600
+Claus-Michael Schlesinger: thought it would be interesting to extract reference networks from these objects, in order to understand how different elements how different sub sites have a.
+
+184
+00:32:31.770 --> 00:32:45.510
+Claus-Michael Schlesinger: web literature site relate to each other what, what are the links, frankly speaking, what are the links and where do they point to what are the central elements in a work of net literature.
+
+185
+00:32:46.950 --> 00:32:56.370
+Claus-Michael Schlesinger: And that's why we analyze these objects, in a very concrete sense, which means we split them up into the elements, meaning images meaning html.
+
+186
+00:32:56.970 --> 00:33:10.710
+Claus-Michael Schlesinger: sides meaning any media, which is embedded in these html sites and we then construct reference networks which we put into a network visualizations in order to get an overview.
+
+187
+00:33:11.130 --> 00:33:22.800
+Claus-Michael Schlesinger: And in order to supplement experiential and analytical itineraries through these works and the work with these works, we want to stress this because we don't aim to.
+
+188
+00:33:23.790 --> 00:33:37.770
+Claus-Michael Schlesinger: make a full analysis of a work by just visualizing the reference network, but we think that is is that this is a supplemental approach in dealing with this web archived net literature.
+
+189
+00:33:38.910 --> 00:33:56.460
+Claus-Michael Schlesinger: There are several prerequisites for this analysis, especially we had to model references and walk objects which we did I think this is an important element in our work and of course we checked out existing tools, like the archives unleashed toolkit.
+
+190
+00:33:57.480 --> 00:34:07.470
+Claus-Michael Schlesinger: or other tools which provide this function of extracting reference information or link information from walk archives.
+
+191
+00:34:10.770 --> 00:34:20.280
+Claus-Michael Schlesinger: yeah This is basically it the perspective of this tool, the tool is now usable we have we providing this tool already we have published this tool.
+
+192
+00:34:21.660 --> 00:34:33.900
+Claus-Michael Schlesinger: Actually we published this tool for the electronic literature organization Conference, so we we made an effort to be ready to publish a version before the conference.
+
+193
+00:34:35.190 --> 00:34:57.120
+Claus-Michael Schlesinger: And it is now accessible you'll find the link in the paper which you can find through the yellow conference program and the outlook for our project is, we will implement a platform that will provide access to the archive material and that will provide.
+
+194
+00:34:58.290 --> 00:35:05.310
+Claus-Michael Schlesinger: Access to computational methods, like our walk to graph module that is.
+
+195
+00:35:06.510 --> 00:35:14.790
+Claus-Michael Schlesinger: needed in order to extract this reference information and provide visualizations so the basic goal is to.
+
+196
+00:35:16.080 --> 00:35:23.220
+Claus-Michael Schlesinger: insert work to graph into the platform and provide this functionality to researchers and readers of the.
+
+197
+00:35:24.270 --> 00:35:27.450
+Claus-Michael Schlesinger: Net literature works in the dla archive.
+
+198
+00:35:29.100 --> 00:35:29.790
+Claus-Michael Schlesinger: Thank you.
+
+199
+00:35:31.980 --> 00:35:38.070
+ASUN LOPEZ-VARELA AZCARATE: Well, thank you very much, and now, the floor is open for questions.
+
+200
+00:35:39.180 --> 00:35:40.230
+ASUN LOPEZ-VARELA AZCARATE: or comments.
+
+201
+00:35:51.120 --> 00:35:52.860
+ASUN LOPEZ-VARELA AZCARATE: No Questions No comments.
+
+202
+00:35:54.240 --> 00:35:55.050
+ASUN LOPEZ-VARELA AZCARATE: So.
+
+203
+00:35:55.140 --> 00:36:01.200
+Claus-Michael Schlesinger: We also happy for questions regarding what is a walk archive or things like this we we.
+
+204
+00:36:01.920 --> 00:36:18.750
+Claus-Michael Schlesinger: We experience these interdisciplinary level problems ourselves when when working together for the first time, so our team consists of archivists infrastructure experts literary scholars, etc, etc, so.
+
+205
+00:36:20.550 --> 00:36:22.380
+Claus-Michael Schlesinger: If I if I haven't.
+
+206
+00:36:22.860 --> 00:36:25.020
+Claus-Michael Schlesinger: Really found that spot where.
+
+207
+00:36:25.530 --> 00:36:44.610
+Claus-Michael Schlesinger: Most of the things are understandable, please don't hesitate to ask any questions also pertaining to the work format Mona, who is here today who's a collaborator in this project is our archive expert and we are happy to add to to answer also any questions regarding.
+
+208
+00:36:45.960 --> 00:36:46.500
+Claus-Michael Schlesinger: This.
+
+209
+00:36:50.820 --> 00:36:59.730
+ASUN LOPEZ-VARELA AZCARATE: Someone I would you like to add anything to what trust Michael has just mention, since we have time, maybe.
+
+210
+00:37:01.530 --> 00:37:10.800
+Mona Ulrich: And when when there's no question about the walk I don't have to explain and I don't know how the knowledge is here about web archiving.
+
+211
+00:37:12.330 --> 00:37:14.040
+Mona Ulrich: yeah maybe I would add.
+
+212
+00:37:15.690 --> 00:37:16.740
+Mona Ulrich: We.
+
+213
+00:37:18.360 --> 00:37:19.260
+Mona Ulrich: We.
+
+214
+00:37:20.580 --> 00:37:30.510
+Mona Ulrich: What we think is why we think this is necessary or why we want to provide this is because.
+
+215
+00:37:31.650 --> 00:37:34.590
+Mona Ulrich: It opens up or it.
+
+216
+00:37:35.700 --> 00:37:45.450
+Mona Ulrich: yeah opens up a new approach for analyzing or to start looking were started looking at the work so and and.
+
+217
+00:37:46.200 --> 00:38:09.060
+Mona Ulrich: I think most important is to have an overview, because when you have a website you don't know of how many web pages and resources this object consists of, and it could be five web pages could be 500 and research ahead to click through the links and.
+
+218
+00:38:10.980 --> 00:38:20.850
+Mona Ulrich: navigate through this object and how like how our website is looked at that and to really have a.
+
+219
+00:38:21.720 --> 00:38:38.100
+Mona Ulrich: have an overview of of this object you, you need to know the boundaries and and how big this object is and because it's a website, you can see it and that's why we think of you like this where, where where the structures and the the.
+
+220
+00:38:39.120 --> 00:38:49.020
+Mona Ulrich: The building of this object is viewable is helpful for me for researchers, yes, maybe I wanted.
+
+221
+00:38:52.200 --> 00:38:58.530
+ASUN LOPEZ-VARELA AZCARATE: Thanks Mona and Roberta was typing a question whether the site is on in German.
+
+222
+00:39:02.010 --> 00:39:08.250
+Mona Ulrich: Yes, unfortunately, the side is now on the engine yeah for now only in German, but we are.
+
+223
+00:39:09.810 --> 00:39:13.290
+Mona Ulrich: In the process of of providing an English version of it.
+
+224
+00:39:16.860 --> 00:39:18.960
+ASUN LOPEZ-VARELA AZCARATE: Okay, and yes.
+
+225
+00:39:19.980 --> 00:39:20.520
+Siebe Bluijs: Yes.
+
+226
+00:39:20.580 --> 00:39:21.630
+ASUN LOPEZ-VARELA AZCARATE: See yeah.
+
+227
+00:39:21.870 --> 00:39:39.300
+Siebe Bluijs: The paper made me very curious to use the tool and congratulations on publishing the tool for this press conference, maybe i'm running a little bit ahead of things, but I was wondering what is the next step for you is, do you know that the two is published, do you.
+
+228
+00:39:40.620 --> 00:39:45.540
+Siebe Bluijs: think these two can be applied to other forms of literature.
+
+229
+00:39:46.560 --> 00:39:55.980
+Siebe Bluijs: Or what, how do you help this tool will be used and we develop the to further from that on just an open a question about the future.
+
+230
+00:39:58.350 --> 00:40:19.230
+Mona Ulrich: So this is really a tool that is just developed for for web pages because and for a mainly for our cash web pages, because the methods of of extracting the links is based on html so we do html parsing and looking for html tags and so.
+
+231
+00:40:21.810 --> 00:40:37.590
+Mona Ulrich: yeah, but we will implement this tool in our platform now SEC for literature platform and we will provide graphs and maybe we will provide.
+
+232
+00:40:38.640 --> 00:40:41.040
+Mona Ulrich: And also.
+
+233
+00:40:43.080 --> 00:40:43.950
+Like.
+
+234
+00:40:47.070 --> 00:40:54.870
+Mona Ulrich: curated graphs are our graph said, are edited by us, maybe it's because and.
+
+235
+00:40:55.920 --> 00:40:56.940
+Mona Ulrich: The idea.
+
+236
+00:40:58.080 --> 00:41:01.650
+Mona Ulrich: is how I explained to get an overview, but when.
+
+237
+00:41:02.730 --> 00:41:16.920
+Mona Ulrich: When when really analyzing and working with those graphs it can be difficult when starting because it's not always that it makes in an illustration easier because.
+
+238
+00:41:19.200 --> 00:41:24.570
+Mona Ulrich: You you have, for example in the paper I write about.
+
+239
+00:41:26.490 --> 00:41:48.990
+Mona Ulrich: A website with a lot of frames and so the the graph is very complicated to read because it's and it's it can it's it doesn't it can't be read as the website so it's it's different, and the first steps into this analyzers can be difficult so.
+
+240
+00:41:50.160 --> 00:42:00.600
+Mona Ulrich: And we are thinking of how to make those graphs maybe more readable and maybe a when we think what can be.
+
+241
+00:42:02.010 --> 00:42:11.310
+Mona Ulrich: how this can be yeah, how can we put something on top of this graph it would be maybe annotation or that the user can.
+
+242
+00:42:13.260 --> 00:42:31.500
+Mona Ulrich: view this graph in the platform and maybe annotate it so all we cannot extract from the log files or from the website can be added by analyzing this what we we discovered would be good, because yeah it's.
+
+243
+00:42:32.700 --> 00:42:41.610
+Mona Ulrich: You, the graphs aren't that easy maybe are not always that easy, and it would be helpful to to acknowledge something.
+
+244
+00:42:44.430 --> 00:42:45.750
+ASUN LOPEZ-VARELA AZCARATE: and Martin.
+
+245
+00:42:46.140 --> 00:42:49.980
+ASUN LOPEZ-VARELA AZCARATE: campus trainees asking how does the visualization.
+
+246
+00:42:49.980 --> 00:42:50.430
+Look.
+
+247
+00:42:51.480 --> 00:42:52.230
+ASUN LOPEZ-VARELA AZCARATE: In the chat.
+
+248
+00:42:53.250 --> 00:42:56.250
+ASUN LOPEZ-VARELA AZCARATE: I don't know if you can actually maybe share the screen and show something.
+
+249
+00:42:56.940 --> 00:42:57.630
+Yes.
+
+250
+00:42:58.950 --> 00:43:09.660
+Claus-Michael Schlesinger: I would, while why Mona is sharing her screen until we see something I would like to add a few words regarding the the development and further development okay.
+
+251
+00:43:10.860 --> 00:43:14.730
+Claus-Michael Schlesinger: yeah now we see first First, we have a network okay.
+
+252
+00:43:16.560 --> 00:43:19.860
+Mona Ulrich: And you can also talk i'm not hundred percent done.
+
+253
+00:43:21.090 --> 00:43:28.830
+Claus-Michael Schlesinger: Actually, the the focus of the the focus of the tool is to extract the network data so visualization.
+
+254
+00:43:30.720 --> 00:43:34.290
+Claus-Michael Schlesinger: When when we do visualization it's always difficult to.
+
+255
+00:43:35.550 --> 00:43:38.850
+Claus-Michael Schlesinger: to choose visualization algorithm so.
+
+256
+00:43:41.130 --> 00:43:50.910
+Claus-Michael Schlesinger: We have three default visualizations which which the tool will spit out, but we also say that.
+
+257
+00:43:52.140 --> 00:43:57.960
+Claus-Michael Schlesinger: analyzing a work of literature always makes it necessary to to.
+
+258
+00:43:59.130 --> 00:44:00.810
+Claus-Michael Schlesinger: go into the work and.
+
+259
+00:44:02.100 --> 00:44:06.120
+Claus-Michael Schlesinger: See which visualization algorithm is actually.
+
+260
+00:44:08.850 --> 00:44:17.640
+Claus-Michael Schlesinger: The correct one which which which visualization algorithm fits the structure of the work, so what Mona is showing here is her.
+
+261
+00:44:19.050 --> 00:44:21.750
+Claus-Michael Schlesinger: Her analyze analysis of.
+
+262
+00:44:23.010 --> 00:44:42.090
+Claus-Michael Schlesinger: A certain work of neck literature, which is called the tongue and yeah you see the work on the right and the visualization on the left and the visualization in this case is made with goofy, which is a tool in its own right it's a visualization.
+
+263
+00:44:43.710 --> 00:44:57.390
+Claus-Michael Schlesinger: Network visualization tool which is commonly used in the digital humanities, and what our tool does and what what the main focus of our tool is to extract the graph data from the work.
+
+264
+00:44:57.870 --> 00:45:17.430
+Claus-Michael Schlesinger: The visualization is a second module and we provide a default visualizations, but we also don't claim that these default visualizations are ready to ready to go and we say that it is necessary to construct the visualizations according to the works structure.
+
+265
+00:45:22.860 --> 00:45:28.470
+ASUN LOPEZ-VARELA AZCARATE: So, thank you very much, it seems fascinating any more questions.
+
+266
+00:45:30.660 --> 00:45:31.530
+ASUN LOPEZ-VARELA AZCARATE: comments.
+
+267
+00:45:34.620 --> 00:45:50.940
+ASUN LOPEZ-VARELA AZCARATE: To me, these projects sound so difficult damn literary scholar so very I know very little about algorithm algorithms and the kind of stuff you're doing so thank you very much it's very, very interesting.
+
+268
+00:45:52.080 --> 00:45:54.330
+ASUN LOPEZ-VARELA AZCARATE: And maybe we can move on to the last.
+
+269
+00:45:55.800 --> 00:45:56.910
+ASUN LOPEZ-VARELA AZCARATE: person presentation.
+
+270
+00:45:58.800 --> 00:46:04.980
+ASUN LOPEZ-VARELA AZCARATE: So let me introduce CB bluish I hope I pronounced that correct more or less correctly.
+
+271
+00:46:05.520 --> 00:46:23.280
+ASUN LOPEZ-VARELA AZCARATE: And he's going to speak about institutional approach to building a platform of digital literary works, the case cases of Dutch and Flemish digital literature so whenever you're like welcome to the presentation.
+
+272
+00:46:24.480 --> 00:46:25.890
+Siebe Bluijs: Are you able to see my screen.
+
+273
+00:46:26.490 --> 00:46:28.080
+ASUN LOPEZ-VARELA AZCARATE: Yes, yes, perfectly.
+
+274
+00:46:29.970 --> 00:46:36.300
+Siebe Bluijs: Recently, a group of researchers from guts universities and both the national and local libraries.
+
+275
+00:46:36.720 --> 00:46:53.130
+Siebe Bluijs: formed the Dutch digital literature consortium, and this group, aims to develop and launch and online catalog of works of electronic literature that were created in the Netherlands and Flanders between 1970 and 2023.
+
+276
+00:46:53.760 --> 00:47:08.130
+Siebe Bluijs: And then turn this collection into a publicly accessible digital database and the category catalog is targeted at three different domains academic research, education and public libraries.
+
+277
+00:47:11.130 --> 00:47:20.550
+Siebe Bluijs: In preparation for the catalog which will be launched in 2023 hopefully the courts are the consortium grace gratefully makes use of the MC.
+
+278
+00:47:21.240 --> 00:47:32.820
+Siebe Bluijs: infrastructure in compiling provisional list of electronic literature from the Low Countries, as you can see here and I will post, the link in the chat as well, and later on.
+
+279
+00:47:35.610 --> 00:47:45.270
+Siebe Bluijs: The development of such catalog gives rise to several theoretical and methodological questions and the first category of questions concerns the problem of documentation.
+
+280
+00:47:45.990 --> 00:48:03.720
+Siebe Bluijs: which works and genres are eligible to be included in the database and what grounds, can we make the selection as a postdoctoral research on the project that is my role to formulate answers to these questions and to end as such to lay a theoretical foundation for a catalog.
+
+281
+00:48:05.100 --> 00:48:09.450
+Siebe Bluijs: And the second category of question concerns the issue of implementation.
+
+282
+00:48:10.500 --> 00:48:20.730
+Siebe Bluijs: How can we make the collection final accessible interoperable and reusable can we develop a system to consistently Meta data works of electronic literature.
+
+283
+00:48:21.840 --> 00:48:33.780
+Siebe Bluijs: Second postdoctoral researcher who will start in October of this year will be responsible for this second face, and we have a job vacancies opening up very soon anybody's interested.
+
+284
+00:48:35.760 --> 00:48:48.000
+Siebe Bluijs: Right now, we are still very much preoccupied with the question of documentation still and these questions critically hinge on the more fundamental question what electronic literature is.
+
+285
+00:48:48.810 --> 00:49:02.460
+Siebe Bluijs: And world is not very productive to try to pin down the phenomenon, based on a limited number of six characteristics, we nevertheless need a starting point, on which to base the selection criteria.
+
+286
+00:49:03.990 --> 00:49:09.750
+Siebe Bluijs: And we find such a starting point in an institutional approach to electronic that return.
+
+287
+00:49:10.740 --> 00:49:17.520
+Siebe Bluijs: Because the question what belongs to the domain of electronic teacher has been answered both explicitly and implicitly.
+
+288
+00:49:17.850 --> 00:49:31.080
+Siebe Bluijs: by different actors and institutions involved with the material and symbolic production of it, such as founding institutions libraries academic scholars and other such gatekeepers.
+
+289
+00:49:32.190 --> 00:49:51.390
+Siebe Bluijs: And, in our view and institutional analysis of the field is productive for a number of reasons, first, it is valuable because it provides insights into processes of inclusion and exclusion, secondly, it allows us to consider transformations and both media landscape and the literary landscape.
+
+290
+00:49:52.590 --> 00:50:04.830
+Siebe Bluijs: And lastly, our approach brings the specificities of the Dutch and Flemish electronic literature tradition into focus, because it considers the art form in relation to specific techno cultural context.
+
+291
+00:50:07.980 --> 00:50:26.160
+Siebe Bluijs: Preliminary results of our institutional approach show that the traditional gatekeepers of electronic data richer in the Low Countries have framed the genre as a form of a highbrow experimental literature that was at its peak at the beginning, or in the first decade of this millennium.
+
+292
+00:50:27.240 --> 00:50:44.820
+Siebe Bluijs: Well, literary experimentation is without a doubt important aspect of the forums history and its genealogy there are other possible conceptions and forms of electronic literature, it can, and maybe should have a place in its historiography as well.
+
+293
+00:50:45.990 --> 00:50:59.820
+Siebe Bluijs: A renewed look at edified literature can shed light on both the present and past of his art form and recent international scholarship on academic literature offers starting points for such approaches.
+
+294
+00:51:01.170 --> 00:51:07.110
+Siebe Bluijs: For instance, in addition to stressing ears connection to the addition of experimental literature.
+
+295
+00:51:07.560 --> 00:51:17.310
+Siebe Bluijs: We should consider how to form relates to the history of digital media in a larger sense in such an approach, the history of video games overlaps with that have chronic literature.
+
+296
+00:51:18.210 --> 00:51:30.720
+Siebe Bluijs: and additional attention is needed to forms of prehistoric electronic literature as well, to borrow Christopher funkhouser label for works of events that predate hypertext fiction.
+
+297
+00:51:31.470 --> 00:51:50.010
+Siebe Bluijs: Unless we, we should consider that the users of digital media have institutional agency as well, so in this regard, the popularity of forms like instagram poetry or Twitter poetry, for instance, and also challenges these traditional conceptions of electronic literature in a lot of countries.
+
+298
+00:51:51.450 --> 00:51:52.410
+Siebe Bluijs: So too good.
+
+299
+00:51:53.490 --> 00:52:02.610
+Siebe Bluijs: Considering that the first volume of the electronic literature connection dates from 2006 one could say that our catalog arrives somewhat late to the party.
+
+300
+00:52:03.510 --> 00:52:12.090
+Siebe Bluijs: But this late arrival our gifts gives us the opportunity to draw on the extensive international scholarship on the electronic literature and therefore.
+
+301
+00:52:12.540 --> 00:52:21.300
+Siebe Bluijs: I feel there's a great privilege to have been able to present a project for you today at this conference and i'm forward to your comments and questions.
+
+302
+00:52:24.750 --> 00:52:31.530
+ASUN LOPEZ-VARELA AZCARATE: Thank you very much and i'm sure there'll be questions for you very interesting presentation again.
+
+303
+00:52:32.670 --> 00:52:33.570
+ASUN LOPEZ-VARELA AZCARATE: Wonderful.
+
+304
+00:52:34.650 --> 00:52:36.570
+ASUN LOPEZ-VARELA AZCARATE: Three presentations in the span.
+
+305
+00:52:39.570 --> 00:52:41.430
+Claus-Michael Schlesinger: I would have a question, if I may.
+
+306
+00:52:43.590 --> 00:52:45.930
+ASUN LOPEZ-VARELA AZCARATE: Of course class whatever yes.
+
+307
+00:52:46.350 --> 00:52:56.310
+Claus-Michael Schlesinger: Great first of all, do you plan to also provide access to materials so are you also working with collections of archive materials.
+
+308
+00:52:57.960 --> 00:53:06.870
+Siebe Bluijs: So, yes that's definitely part of the project is to first of all to collect all these works of electronic literature, but also try to think about ways to.
+
+309
+00:53:07.620 --> 00:53:15.930
+Siebe Bluijs: get to preserve them and to disseminate them, so the National Library at the Royal Dutch national library is.
+
+310
+00:53:16.440 --> 00:53:36.450
+Siebe Bluijs: involved with the project, as well as well as several local libraries and after the catalog or along with making this catalog and we end to inform the public of these libraries and also reach out to schools secondary education to maybe.
+
+311
+00:53:37.860 --> 00:53:52.920
+Siebe Bluijs: To get to look at the uses that electronic literature could have in in in literature classes so it's part of a bigger project that info so the presentation and the dissemination of electronic literature as well.
+
+312
+00:53:55.920 --> 00:54:07.890
+ASUN LOPEZ-VARELA AZCARATE: Magdalena has a question also in the chat what are these works now are they archive somewhere already do you have a list already or are you compiling this list.
+
+313
+00:54:09.570 --> 00:54:18.210
+Siebe Bluijs: yeah that's that's a that's a good question so some of these works are already archives by some of these institutions so.
+
+314
+00:54:19.440 --> 00:54:21.480
+Siebe Bluijs: The letter forms are the Dutch.
+
+315
+00:54:22.830 --> 00:54:41.460
+Siebe Bluijs: Funding institution for literature, they are very involved with the material production of electronically to mature and they they collect some of those works on their website, although it's not very it's not very stable website, unfortunately, so that they don't they don't have this.
+
+316
+00:54:42.900 --> 00:55:02.610
+Siebe Bluijs: incentive to to preserve these works for the ages, so that is where we think the National Library comes in, and definitely hasn't asked so yeah they're scattered scattered all over the Internet is something that i'm also working on the rights to to collect those and to look up.
+
+317
+00:55:04.320 --> 00:55:10.500
+Siebe Bluijs: These works and how not occur amongst multiple clients to share the link to the.
+
+318
+00:55:12.690 --> 00:55:18.150
+Siebe Bluijs: To the provisionary database that's an empty i'll post it again.
+
+319
+00:55:19.950 --> 00:55:20.670
+Siebe Bluijs: So this is a.
+
+320
+00:55:22.620 --> 00:55:33.510
+Siebe Bluijs: list that i've been working on for the last couple of months, along with my colleagues, and this will be added on in the future, until the catalog is.
+
+321
+00:55:34.470 --> 00:55:45.570
+Siebe Bluijs: has been launched, and it is a work in progress document and also some things are included in this list that may not make it in the final list, but this is also a discussion.
+
+322
+00:55:46.440 --> 00:56:00.420
+Siebe Bluijs: document is next for our group as well, so sometimes we eat good works that are sometimes not so obvious that it is a form of literature, or that is a form of electronic literature so.
+
+323
+00:56:01.680 --> 00:56:05.130
+Siebe Bluijs: yeah gives us some food for thought.
+
+324
+00:56:07.140 --> 00:56:22.260
+ASUN LOPEZ-VARELA AZCARATE: There are a couple of questions on the chat box one from Martin campus three what's the role of public libraries in the project and he says, maybe you already answered these I don't think so you mentioned and the Dutch library being involved, but.
+
+325
+00:56:23.400 --> 00:56:28.230
+ASUN LOPEZ-VARELA AZCARATE: yeah he says, specifically asked asking what's the role of the public libraries.
+
+326
+00:56:29.010 --> 00:56:37.620
+Siebe Bluijs: yeah so there's the national Royal Dutch National Library and their role is mainly.
+
+327
+00:56:38.760 --> 00:56:47.250
+Siebe Bluijs: within the realm of preservation of the serve works and we're also involved with more local libraries and.
+
+328
+00:56:48.540 --> 00:56:50.700
+Siebe Bluijs: One of one of their roles is to.
+
+329
+00:56:51.870 --> 00:57:02.670
+Siebe Bluijs: To yet to disseminate these these works as well, by having installations, for instance, within these local libraries, where users can can stumble upon.
+
+330
+00:57:03.180 --> 00:57:08.880
+Siebe Bluijs: works of electronic literature we're also thinking yeah just this larger question how.
+
+331
+00:57:09.660 --> 00:57:27.690
+Siebe Bluijs: Should we include these words into the catalogues of the national and local libraries, this is a question that's very much on our minds it's part of the project that I am less involved in some of my colleagues who work at the cell libraries.
+
+332
+00:57:29.400 --> 00:57:36.180
+Siebe Bluijs: So there's maybe some topic for for a different presentation in the future, because we also get to.
+
+333
+00:57:37.980 --> 00:57:44.490
+Siebe Bluijs: share this knowledge and or learn from other other countries how paid in depth.
+
+334
+00:57:46.770 --> 00:58:05.040
+ASUN LOPEZ-VARELA AZCARATE: And this jet another question from vanishes and he says the did you include in your corpus international authors who live in the Netherlands or dodge Flemish authors who live in other countries, I mean, how did you circumscribed your corpus on Dutchman Flemish village richer.
+
+335
+00:58:06.480 --> 00:58:09.120
+Siebe Bluijs: yeah that's a very good question it touches on.
+
+336
+00:58:10.620 --> 00:58:15.720
+Siebe Bluijs: problematic aspects of this kind of work right or making lists like these.
+
+337
+00:58:17.460 --> 00:58:25.230
+Siebe Bluijs: First of all, is the question of what is electronic literature, it means that you have to leave out some some things that may.
+
+338
+00:58:26.610 --> 00:58:27.960
+Siebe Bluijs: include some other.
+
+339
+00:58:29.280 --> 00:58:42.000
+Siebe Bluijs: aspect so because it is about Dutch and Flemish we want to be able to give an overview of interest and Flemish electronic literature and also trying to.
+
+340
+00:58:43.410 --> 00:58:46.920
+Siebe Bluijs: figure out what that is so, this institutional approach is also.
+
+341
+00:58:48.030 --> 00:58:53.550
+Siebe Bluijs: Trying to answer which actors and institutions are info.
+
+342
+00:58:55.140 --> 00:59:05.820
+Siebe Bluijs: Within the context of Belgium Flemish electronic literature So for me international authors living in the Netherlands are definitely a part of that.
+
+343
+00:59:07.980 --> 00:59:16.230
+Siebe Bluijs: And the same yeah maybe the same goes for Dutch inflammation markers who live in other countries and have written electronic literature.
+
+344
+00:59:17.940 --> 00:59:23.910
+Siebe Bluijs: But yeah for me the question is whether their their work is.
+
+345
+00:59:27.000 --> 00:59:42.240
+Siebe Bluijs: We say this, whether their work shows the traces of these institutional framework of that you claim your literature, but this is yeah, this is a good question I don't have a definitive answer on this.
+
+346
+00:59:44.220 --> 00:59:44.490
+Siebe Bluijs: yeah.
+
+347
+00:59:47.550 --> 00:59:56.370
+ASUN LOPEZ-VARELA AZCARATE: Okay, any more questions or interventions commentaries, whether in the chat or speaking your voices.
+
+348
+00:59:57.540 --> 00:59:59.250
+ASUN LOPEZ-VARELA AZCARATE: I still have a few minutes, yes.
+
+349
+00:59:59.280 --> 01:00:02.850
+Claus-Michael Schlesinger: Yes, sorry for interrupting that's fine.
+
+350
+01:00:04.980 --> 01:00:05.340
+ASUN LOPEZ-VARELA AZCARATE: yeah.
+
+351
+01:00:05.880 --> 01:00:12.780
+Claus-Michael Schlesinger: This aspect of your paper resonated with me very much because we are also thinking about how.
+
+352
+01:00:13.800 --> 01:00:31.230
+Claus-Michael Schlesinger: The German literature archive is a very canonical institution which has a very canonical collection policy, so I am working in this project, but I wonder what can I do now that I am at a gatekeeper institution to to open the gates.
+
+353
+01:00:32.190 --> 01:00:45.450
+Claus-Michael Schlesinger: And it is more difficult than one would think to open the gates, even if you are working and not working inside this industry institution but i'm working in a project, where this institution is a plays an important role.
+
+354
+01:00:46.920 --> 01:00:49.470
+Claus-Michael Schlesinger: And you described all this, the institutional.
+
+355
+01:00:50.610 --> 01:00:55.590
+Claus-Michael Schlesinger: approach of yours and regarding Dutch.
+
+356
+01:00:57.030 --> 01:01:00.150
+Claus-Michael Schlesinger: This the focus on Dutch literature, I wondered.
+
+357
+01:01:01.590 --> 01:01:19.260
+Claus-Michael Schlesinger: How do you how do you think about the colonizing these collections that you work with what does, for example, Surinamese literature, what role does the Surinamese Community or other post colonial communities play in this in this.
+
+358
+01:01:21.000 --> 01:01:21.960
+Claus-Michael Schlesinger: In this field.
+
+359
+01:01:22.980 --> 01:01:23.670
+Claus-Michael Schlesinger: Because.
+
+360
+01:01:24.720 --> 01:01:37.560
+Claus-Michael Schlesinger: Often it is my impression that that their artworks that their artistic communication literary communication in these communities that don't make it into the canons of the.
+
+361
+01:01:38.100 --> 01:01:49.860
+Claus-Michael Schlesinger: Established institutions and i'm really i'm wondering and i'm asking myself how can, how can we be colonized these canonized institutions that we work with.
+
+362
+01:01:52.560 --> 01:02:03.690
+Claus-Michael Schlesinger: Because I had the feeling that that you are working on this question and that that you, you are trying to do this, do you do you have any systematic approach or yeah.
+
+363
+01:02:06.630 --> 01:02:10.020
+Siebe Bluijs: yeah that's that's a that's a good question.
+
+364
+01:02:12.180 --> 01:02:20.640
+Siebe Bluijs: So that that's one of the benefits of an institutional process that takes account of this historical.
+
+365
+01:02:22.920 --> 01:02:41.010
+Siebe Bluijs: yeah the importance of institutions in this dynamics of inclusion and exclusion so that's why I think we first of all need to take a look at that history and also take a critical look at at at the involvement of institutions within this dynamics.
+
+366
+01:02:43.560 --> 01:02:53.580
+Siebe Bluijs: At the same time, it also complicates the question somewhat so already, we are dealing with two countries, the Netherlands and Flanders region in Belgium.
+
+367
+01:02:54.330 --> 01:03:08.280
+Siebe Bluijs: The Chair, a language and to some extent a literary history, but also the cultural differences and institutional differences also are there and we need to take that into account.
+
+368
+01:03:08.850 --> 01:03:20.280
+Siebe Bluijs: And the same is true for Suriname which has its own cultural and institutional traditions, when it comes to electronic literature as well, so.
+
+369
+01:03:21.930 --> 01:03:38.100
+Siebe Bluijs: One One solution would be to include Suriname or certain non electronic literature within our project, maybe, if it is written in Dutch, or if it is somehow related to the Dutch context.
+
+370
+01:03:39.240 --> 01:03:40.110
+Siebe Bluijs: At the same time.
+
+371
+01:03:42.420 --> 01:03:48.900
+Siebe Bluijs: I also don't think we should just include it for the sake of this inclusion because that's also a form of.
+
+372
+01:03:50.490 --> 01:04:08.460
+Siebe Bluijs: You could understand it as a form of colonization as well right by saying this is Dutch and or Flemish literature, which you need to have a good argument for that so yeah while we're working on the project these these questions come come up and that's part of.
+
+373
+01:04:09.540 --> 01:04:22.590
+Siebe Bluijs: Why why we take on this institutional approach is to to get our head around what kind of issues and questions of inclusion and exclusion are yeah coming up.
+
+374
+01:04:23.730 --> 01:04:32.910
+Siebe Bluijs: So I don't again I don't have a definitive answer on on certain non academic literature and whether it should be included or not.
+
+375
+01:04:34.740 --> 01:04:40.080
+Siebe Bluijs: depends on the on the work I would say that's my view yeah.
+
+376
+01:04:42.630 --> 01:04:51.900
+ASUN LOPEZ-VARELA AZCARATE: Okay, we have a few more comments and questions on the chat box or just like let me boys them the initial says that.
+
+377
+01:04:53.400 --> 01:05:04.320
+ASUN LOPEZ-VARELA AZCARATE: The top questions that you just raised regarding post colonialism and stuff, and this is a challenge for projects in Latin America as well, you mentioned.
+
+378
+01:05:05.190 --> 01:05:14.910
+ASUN LOPEZ-VARELA AZCARATE: And then Magdalena has a question, are you collaborating with any media archaeology projects or institutions is that an element of your research to.
+
+379
+01:05:17.790 --> 01:05:21.390
+Siebe Bluijs: Media archaeology on the spot and not.
+
+380
+01:05:22.380 --> 01:05:23.100
+Siebe Bluijs: Part of this.
+
+381
+01:05:23.760 --> 01:05:28.530
+Siebe Bluijs: project in this stage of the project, when the second postdoc.
+
+382
+01:05:29.700 --> 01:05:34.170
+Siebe Bluijs: will have more technical background or more technological knowledge.
+
+383
+01:05:36.000 --> 01:05:43.230
+Siebe Bluijs: He or she probably will collaborate with media are quite archaeologists have at this point, not so much.
+
+384
+01:05:45.300 --> 01:05:53.850
+ASUN LOPEZ-VARELA AZCARATE: And then, Roberta has a very important question to and, and this is how do you deal with copyrighted works, for example.
+
+385
+01:05:54.180 --> 01:06:05.400
+ASUN LOPEZ-VARELA AZCARATE: I think of those in East gate she says, I mean, in that case, is it not possible to strike the references, but only mentioned the work and link it to the publisher site right she says.
+
+386
+01:06:06.240 --> 01:06:10.140
+Siebe Bluijs: Yes, this is a very important topic for.
+
+387
+01:06:11.280 --> 01:06:15.270
+Siebe Bluijs: Libraries the Librarians are working on the project, they already.
+
+388
+01:06:17.280 --> 01:06:18.840
+Siebe Bluijs: raised some questions about that.
+
+389
+01:06:21.090 --> 01:06:35.040
+Siebe Bluijs: As far as I know, because this is again, this is a little bit outside of my expertise within the within the projects, so my my my colleagues working in the library in the libraries can answer this question may be better but.
+
+390
+01:06:36.690 --> 01:06:53.280
+Siebe Bluijs: The copyright of electronic literature is is sometimes with the founding institutions, so the letter forms, for instance, like I mentioned earlier day have a great deal of the copyright, also the National Library.
+
+391
+01:06:55.170 --> 01:07:04.500
+Siebe Bluijs: They include all the words that have been published in the Netherlands into their catalog so they they have a lot of experience with this.
+
+392
+01:07:05.670 --> 01:07:17.310
+Siebe Bluijs: Maybe with electronic literature, not so much yet, but I believe, drawing on their expertise and their experience with with print works, they they will figure out.
+
+393
+01:07:17.880 --> 01:07:33.090
+Siebe Bluijs: A way to include these words within our catalog and like you mentioned linking to the publisher's website, of course, is always an option, but we very much would like to also preserve these works right so.
+
+394
+01:07:34.410 --> 01:07:41.280
+Siebe Bluijs: The disadvantage of just providing links is that digital erosion these words will disappear so.
+
+395
+01:07:42.600 --> 01:07:53.910
+Siebe Bluijs: But yeah fortunately I would almost say it's very hard to make money with electronic literature, so that it always makes questions of copyright, a little easier right.
+
+396
+01:07:58.080 --> 01:08:01.470
+Mona Ulrich: Maybe I can add something and because in.
+
+397
+01:08:02.520 --> 01:08:03.990
+Mona Ulrich: The German literature archive.
+
+398
+01:08:06.360 --> 01:08:19.500
+Mona Ulrich: All websites for our websites we archive we contact the authors and they give us permission to archive and to republish again and when.
+
+399
+01:08:20.370 --> 01:08:31.530
+Mona Ulrich: They can also say you can only archive it and not republish it, and as long as my as long as the original website is still on and or something so There are options.
+
+400
+01:08:32.010 --> 01:08:34.140
+Mona Ulrich: But yeah when when.
+
+401
+01:08:34.350 --> 01:08:38.100
+Mona Ulrich: There is no permission to archive, then it will not be archived.
+
+402
+01:08:43.980 --> 01:08:52.350
+ASUN LOPEZ-VARELA AZCARATE: Okay, all clear, they say in the chat box any other questions, we still have five minutes.
+
+403
+01:08:55.470 --> 01:09:02.550
+ASUN LOPEZ-VARELA AZCARATE: Martin, what about interactive installation pieces or other works that are not accessible online.
+
+404
+01:09:05.220 --> 01:09:06.810
+Siebe Bluijs: yeah This is something that the.
+
+405
+01:09:08.010 --> 01:09:17.610
+Siebe Bluijs: Databases like mcp also struggle with, or at least yeah you cannot include the entire work your catalog, but you can.
+
+406
+01:09:18.960 --> 01:09:28.230
+Siebe Bluijs: include photographs or clips or descriptions yeah This is something that we have to work around and.
+
+407
+01:09:29.550 --> 01:09:32.670
+Siebe Bluijs: try our best to documented as as well as possible.
+
+408
+01:09:33.960 --> 01:09:34.410
+Siebe Bluijs: Within.
+
+409
+01:09:36.060 --> 01:09:40.650
+Siebe Bluijs: Some of these words are not intended to be, to be sitting in archive right.
+
+410
+01:09:41.730 --> 01:09:44.430
+Siebe Bluijs: lucrative for their temporary a femoral.
+
+411
+01:09:45.780 --> 01:09:48.330
+Siebe Bluijs: yeah This is something that you cannot do.
+
+412
+01:09:54.060 --> 01:09:55.740
+ASUN LOPEZ-VARELA AZCARATE: Any final comments.
+
+413
+01:09:57.000 --> 01:10:09.150
+Claus-Michael Schlesinger: I wonder, because I also see that at least the Avatar of survival seta I don't know how to how to say this, and I know that that oh hi.
+
+414
+01:10:11.190 --> 01:10:13.710
+Claus-Michael Schlesinger: I think that maybe i'm also.
+
+415
+01:10:15.390 --> 01:10:24.570
+Claus-Michael Schlesinger: Maybe i'm also miss misunderstanding or miss conceiving any names, my question is getting to the point.
+
+416
+01:10:26.160 --> 01:10:47.220
+Claus-Michael Schlesinger: That we have, I think now several archiving or for for many, many years we already had that several archiving initiatives often they are kind of focused on on languages like the German literature archive like your project now there is this great archive in Portugal.
+
+417
+01:10:48.390 --> 01:10:49.170
+Claus-Michael Schlesinger: which has been.
+
+418
+01:10:50.550 --> 01:11:02.040
+Claus-Michael Schlesinger: collecting and presenting for a long time now, there was the cell initiative that try to bring together these bring together different archives.
+
+419
+01:11:03.450 --> 01:11:15.960
+Claus-Michael Schlesinger: I wonder, do you do you think with your consortium, do you think about how can we bring together different materials from different countries in European on a worldwide perspective.
+
+420
+01:11:17.130 --> 01:11:20.790
+Claus-Michael Schlesinger: We wonder how, how are we going to go about this.
+
+421
+01:11:22.230 --> 01:11:24.180
+Claus-Michael Schlesinger: To not stay in our own.
+
+422
+01:11:25.290 --> 01:11:34.320
+Claus-Michael Schlesinger: In our own focus, but also transcend the perspective for researchers and users who interact with our material.
+
+423
+01:11:36.750 --> 01:11:52.080
+Siebe Bluijs: It is touch this question touches on the I think the nature of electronic literature, because it transcends national boundaries right so it's sort of counterintuitive to to make a collection of works from a specific.
+
+424
+01:11:53.400 --> 01:11:55.710
+Siebe Bluijs: geographical area, at the same.
+
+425
+01:11:55.830 --> 01:11:56.880
+Siebe Bluijs: time, however, and.
+
+426
+01:11:57.840 --> 01:12:09.810
+Siebe Bluijs: that's what I argue in the paper, I believe the institutional context and the techno cultural context of these specific geographical locations, give rise to.
+
+427
+01:12:11.070 --> 01:12:15.900
+Siebe Bluijs: yeah also very different traditions of electronic literature and.
+
+428
+01:12:17.070 --> 01:12:26.580
+Siebe Bluijs: I think that's what we try to show for the Dutch and Flemish context, and this is what the the other databases that are out there.
+
+429
+01:12:27.810 --> 01:12:39.330
+Siebe Bluijs: Show for their respective contexts and very mature cloud initiatives like XL which bring these together because it also highlights these differences and these.
+
+430
+01:12:40.320 --> 01:13:03.150
+Siebe Bluijs: yeah I don't I don't feel a project like ours is redundant in that in that respect, because yeah an overview of virtue Flemish electronic literature is lacking and that's a shame for purposes of education for for the National Library for preservation and so yeah.
+
+431
+01:13:04.260 --> 01:13:05.850
+Siebe Bluijs: that's what I would say about it yeah.
+
+432
+01:13:10.140 --> 01:13:30.630
+ASUN LOPEZ-VARELA AZCARATE: Many comments on the chat box and we are almost out of time, one minute anybody wants to say the last words to conclude this wonderful session, thank you very much the presenters Thank you very much for a very great interactive audience anybody wanted to say, the last few words.
+
+433
+01:13:33.090 --> 01:13:33.540
+ASUN LOPEZ-VARELA AZCARATE: No.
+
+434
+01:13:35.190 --> 01:13:36.870
+Siebe Bluijs: Thank you, thank you for your question, thank.
+
+435
+01:13:36.870 --> 01:13:45.660
+ASUN LOPEZ-VARELA AZCARATE: You very much everybody for making this a great panel and see you around the conference again bye bye everyone.
+
+436
+01:13:46.800 --> 01:13:47.250
+Claus-Michael Schlesinger: bye.
+

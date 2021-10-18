@@ -1,0 +1,90 @@
+00:04:41	Andréa Catrópa:	Olá a todos e todas!
+00:04:58	Tina Escaja:	Saludos!
+00:05:04	Vinícius UFMT:	Buenas tardes a tod@s!
+00:29:37	Johannah Rodgers:	As a side note on the status of farm land in the U.S.: In a 2021 report, it was revealed that “Bill and Melinda Gates have one of the largest portfolios of private farmland in the US, with assets totaling more than $690 million (€590 million). (242K acres)” ( Bezos owns 450K acres).
+00:29:57	Perla Sasson-Henry:	Gracias Agustin!!! Excelente!!!!!!!
+00:30:11	Lillian-Yvonne Bertram:	muy fascinante Augustin
+00:30:34	Agustín Berti:	thanks!
+00:31:13	Agustín Berti:	https://conferences.au.dk/fileadmin/conferences/2021/ELO2021/Full_papers/Agustin_Berti_Nanofundia_ELO.pdf&sa=D&source=editors&ust=1622215748679000&usg=AFQjCNGyciQD-4FgjW40eFlU2FBoNsKHtA
+00:31:22	Agustín Berti:	you can see the full essay there
+00:32:34	Andréa Catrópa:	Agustín, para mim o link acima não funcionou
+00:32:56	Agustín Berti:	https://www.google.com/url?q=https://conferences.au.dk/fileadmin/conferences/2021/ELO2021/Full_papers/Agustin_Berti_Nanofundia_ELO.pdf&sa=D&source=editors&ust=1622215748679000&usg=AFQjCNGyciQD-4FgjW40eFlU2FBoNsKHtA
+00:32:59	Agustín Berti:	agora?
+00:33:24	Andréa Catrópa:	Si! Gracias
+00:34:55	Andréa Catrópa:	It is curious how in Brazil, the Bolsonaro government strongly defends both the latifundio and the nanofundio
+00:35:57	Vinícius UFMT:	The idea of desreferenciar reminds me a bit of Anthropophagy in Brazilian early Modernism
+00:41:55	Alex Saum-Pascual (she/her):	Un super ensayo en una colección buenísima :)
+00:42:31	Johannah Rodgers:	https://electronicbookreview.com/ebr-author/claudia-kozak/
+00:42:55	Alex Saum-Pascual (she/her):	https://electronicbookreview.com/essay/experimental-electronic-literature-from-the-souths-a-political-contribution-to-critical-and-creative-digital-humanities/
+00:46:43	Agustín Berti:	Yes, my underlying theses is that latifundia and nanofundia are intimately related
+00:46:50	Agustín Berti:	as the Gates example shows
+00:47:24	Agustín Berti:	as for Antropofagia, yes there are some inherited traits, but this aims specifically at obfuscating the code
+00:47:30	Agustín Berti:	and its political implications
+00:48:43	Agustín Berti:	that is why with Anahi decided to make it explicit by terming it d3$r3fx instead of desrreferenciabilizar
+00:50:29	Anahí Ré:	La ofuscación del código es el primer momento (el que resiste). El antropofágico es el segundo, el que asimila y reinventa. (lo mencioné al pasar pues tuve que recortar).
+00:50:37	Andréa Catrópa:	Yes, Agustín, and Bolsonaro shows these links strangely. Not because he´s a critic of this proximity, but because he´s a sociopath...he can´t hide his evil intentions
+00:51:06	Agustín Berti:	Bolsonaro's use of WhatsApp is an example of these struggles
+00:51:26	Agustín Berti:	but there is no Sem Terra on the servers
+00:51:38	Andréa Catrópa:	Yes
+00:51:41	Agustín Berti:	unfortunatly we need to invent new Antonios Conselheiros
+00:51:54	Anahí Ré:	:)
+00:52:04	Andréa Catrópa:	Maybe Lula is a contemporary Conselheiro
+00:53:09	Alex Saum-Pascual (she/her):	Yes, but the code is minified so it’s also cryptic no? He chose to make it compressed and illegible until it is executed (or reversed through parsers, but who is going to do that?) —I m talking about the piece, Amazon
+00:53:10	Agustín Berti:	I'd agree with that, since in the end is a geopolitical dispute over soverign powers
+00:53:39	Alex Saum-Pascual (she/her):	There you go, LOL
+00:55:30	Alex Saum-Pascual (she/her):	The best https://www.brokenenglish.lol/
+01:01:29	Johannah Rodgers:	Thank you!
+01:01:37	Lillian-Yvonne Bertram:	No tengo preguntas pero muy fascinante todos; me hace pensar mucho
+01:01:55	Perla Sasson-Henry:	Thank you for such a great great talk and questioning...!
+01:01:59	Claudia Kozak:	Gracias Lilian!!!
+01:02:05	Alex Saum-Pascual (she/her):	Estupendo!!
+01:03:02	Alex Saum-Pascual (she/her):	Yo soy muy joven, Leo
+01:03:33	Perla Sasson-Henry:	Es la verdad pero con ideas brillantes!
+01:04:18	Leonardo Flores:	Yes. But for how long?
+01:04:30	Alex Saum-Pascual (she/her):	Forever young
+01:04:47	Leonardo Flores:	YES.
+01:06:01	Leonardo Flores:	Yes and elit frequently pushes and strains these systems.
+01:06:18	Leonardo Flores:	Which is part of its redeeming quality and importance.
+01:06:20	Leonardo Flores:	I agree!
+01:07:00	Leonardo Flores:	I found the latifundio connection to be very productive.
+01:07:35	Lillian-Yvonne Bertram:	me parece que siempre estamos dentro de una o otra sistema y cuando pienso estoy operando afuera de una sistema seguramente estoy dentro de otra, asi esta question sobre agency es complicado por que a veces parece que agency is a kind of mirage granted by the platforms themselves
+01:08:02	Alex Saum-Pascual (she/her):	+ Lillian-Yvonne
+01:08:06	Leonardo Flores:	YES
+01:08:16	Vinícius UFMT:	+1
+01:08:38	Johannah Rodgers:	@Leo But how many resources would be required to create a work of elit that could disrupt rather than further enable major social media platforms?
+01:08:47	Lillian-Yvonne Bertram:	nunca se si el capitalismo tiene the last laugh cuando pienso que estoy hackiendo una sistema o platform
+01:09:31	Leonardo Flores:	I think the disruption happens from within. Virally.
+01:09:35	Leonardo Solaas:	Agreed that we are always engaging with some kid of system (of rules), be it a platfrom or not, Lillian. So, the need for a critical point of view is always present.
+01:09:52	Lillian-Yvonne Bertram:	de acuerdo
+01:09:52	Anahí Ré:	Liliana, ese es el mismo planteo de Flusser (salimos de un programa, tal vez, pero hay otro más allá que también condiciona esa agencia). No vamos a escapar de eso, es ingenuo pretender evadirse totalmente. Debemos pensar cómo hacer algo “nuestro” con eso y con lo que podamos inventar asimilando eso
+01:10:32	Lillian-Yvonne Bertram:	^ ya, indeed
+01:10:32	Leonardo Solaas:	Thinking of "freedom" only makes sense, I think, in relationship to a given system of rules.
+01:10:36	Agustín Berti:	boredom is subversive
+01:10:44	Agustín Berti:	difficulty is subversive as well
+01:10:47	Johannah Rodgers:	@Augustin Agreed
+01:10:49	Leonardo Flores:	I’m thinking there’s a strong Latin American tradition of resistance of capitalist monopolies and exploitation (latifundios, monopolios, etc). I think it extends to capitalist digital platforms.
+01:11:04	Agustín Berti:	two things e lit thrives on
+01:11:28	Alex Saum-Pascual (she/her):	I was going to say something similar to boredom being subversive, so it might be about changing behaviors within a platform than changing the platform itself
+01:11:39	Leonardo Flores:	Yes.
+01:11:45	Leonardo Flores:	Change the users.
+01:12:04	Agustín Berti:	I have one example of e lit within the Facebook platform, if there is time later
+01:12:13	Leonardo Flores:	Change the tastes. Present something different that breaks the boredom.
+01:12:28	Leonardo Flores:	Of course, that benefits the system. So it’s not a simple solution.
+01:12:55	Vinícius UFMT:	As to e-lit in minority languages in Latin America, there is a growth in works in Brazilian sign language (lengua brasileña de señales)
+01:13:02	Alex Saum-Pascual (she/her):	For me, its more about making purposely boring works within a culture of excitement and entertainment
+01:13:16	Agustín Berti:	indeed Alex
+01:13:20	Leonardo Solaas:	@Johannah: We are in a situation where capitalism ALWAYS has the last laugh. But we can also laugh a little along the way...
+01:13:26	Alex Saum-Pascual (she/her):	I mean, this is what I wrote here :) https://electronicbookreview.com/essay/is-third-generation-literature-postweb-literature-and-why-should-we-care/
+01:13:49	Johannah Rodgers:	@Leo I agree!  Particularly through laughing!
+01:17:18	Leonardo Flores:	José Aburto has created some 3d poems for Facebook as well.
+01:17:33	Leonardo Flores:	Also in the Antología.
+01:18:05	Johannah Rodgers:	Thank you all for a wonderful session!
+01:18:13	Leonardo Flores:	Compartamos un rato en el Discord.
+01:18:15	Agustín Berti:	Thank you!
+01:18:24	Lillian-Yvonne Bertram:	muchisimas gracias!!
+01:18:28	Vinícius UFMT:	Aprendí mucho con ustedes! Muchas gracias!
+01:18:30	Perla Sasson-Henry:	Muchas gracias!!!!!!!!!!!
+01:18:35	Leonardo Flores:	https://discord.gg/2TGHsdSh
+01:18:35	Andréa Catrópa:	Obrigada!
+01:19:17	Perla Sasson-Henry:	It's been a challenging week.. for attending the conference..but a great conference!!!!!!!!!!!
+01:19:33	Lillian-Yvonne Bertram:	nos vemos gente, muy genial todo

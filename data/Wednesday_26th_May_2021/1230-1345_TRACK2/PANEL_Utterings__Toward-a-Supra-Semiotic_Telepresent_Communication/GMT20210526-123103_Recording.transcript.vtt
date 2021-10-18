@@ -1,0 +1,1530 @@
+WEBVTT
+
+1
+00:00:15.540 --> 00:00:16.440
+Curt Cloninger: visual jangle.
+
+2
+00:00:29.040 --> 00:00:31.890
+Curt Cloninger: I think the Conference, I think the panel just started.
+
+3
+00:00:35.760 --> 00:00:37.380
+annie: hi everyone.
+
+4
+00:00:37.680 --> 00:00:38.490
+Hello.
+
+5
+00:00:42.120 --> 00:00:43.920
+annie: We are atomics.
+
+6
+00:00:45.690 --> 00:00:58.680
+annie: We will discuss the performance, we did yesterday and our whole research and performance project that started in I think November 2019 or something like that.
+
+7
+00:01:01.950 --> 00:01:04.830
+annie: We have prepared a little bit and to be.
+
+8
+00:01:05.880 --> 00:01:12.000
+annie: You can find some notes some provocations some ideas on.
+
+9
+00:01:13.680 --> 00:01:16.410
+annie: Friday format, but what is in France.
+
+10
+00:01:17.640 --> 00:01:20.490
+annie: I will put the link in the chat.
+
+11
+00:01:21.750 --> 00:01:32.340
+annie: So you can find it there, and you can go there for you can watch and listen to us and, at the same time, you can read and write.
+
+12
+00:01:33.690 --> 00:01:34.980
+annie: Put your thoughts.
+
+13
+00:01:35.850 --> 00:01:41.040
+annie: Put your reactions somewhere in an on this bad bad.
+
+14
+00:01:42.660 --> 00:01:56.310
+annie: And the last 20 minutes, maybe even longer, we will come to this back to we won't be in zoom anymore, and we will go right and go with you and try to answer questions.
+
+15
+00:01:58.440 --> 00:01:58.680
+Curt Cloninger: and
+
+16
+00:01:59.100 --> 00:02:00.510
+annie: comfort in that way.
+
+17
+00:02:04.050 --> 00:02:05.970
+Daniel Pinheiro: Maybe I will just add a.
+
+18
+00:02:07.020 --> 00:02:09.180
+link to the Sam Apache the speakers to.
+
+19
+00:02:10.380 --> 00:02:15.510
+Daniel Pinheiro: Whatever it's been live stream, so that people are watching online, you can also join.
+
+20
+00:02:17.760 --> 00:02:25.620
+Curt Cloninger: Any when you share your screen, you could put it in a text document that will get archived in the video.
+
+21
+00:02:27.720 --> 00:02:33.330
+Curt Cloninger: So that even later if there's no chat yeah but then we won't be talking on the from appeared later.
+
+22
+00:02:34.350 --> 00:02:40.440
+annie: yeah that's nope I can share it now for five seconds, just to sell people can find it okay.
+
+23
+00:02:42.420 --> 00:02:43.530
+annie: That might be a good time.
+
+24
+00:02:44.970 --> 00:02:47.340
+I hope it works see.
+
+25
+00:02:48.660 --> 00:02:51.480
+there's no audio So do you see it.
+
+26
+00:02:53.010 --> 00:02:54.120
+annie: Can you see the link.
+
+27
+00:02:54.750 --> 00:02:54.990
+Via.
+
+28
+00:02:56.850 --> 00:02:57.720
+Curt Cloninger: zoom yeah.
+
+29
+00:02:58.800 --> 00:02:59.430
+annie: Can I zoo.
+
+30
+00:03:01.140 --> 00:03:01.650
+Very good.
+
+31
+00:03:03.930 --> 00:03:05.340
+annie: yeah I can zoom but not.
+
+32
+00:03:05.700 --> 00:03:06.870
+Curt Cloninger: Not awake okay.
+
+33
+00:03:07.230 --> 00:03:09.180
+annie: Well, but I don't put the link on top.
+
+34
+00:03:10.530 --> 00:03:10.740
+Curt Cloninger: yeah.
+
+35
+00:03:13.440 --> 00:03:14.430
+annie: So devotees.
+
+36
+00:03:16.440 --> 00:03:17.730
+annie: stays there for some time.
+
+37
+00:03:20.730 --> 00:03:22.350
+annie: We plan to show you.
+
+38
+00:03:23.460 --> 00:03:28.590
+annie: Two or three minutes of yesterday's performance, that is for people who are not.
+
+39
+00:03:29.640 --> 00:03:32.250
+annie: allowed or not capable of coming.
+
+40
+00:03:33.870 --> 00:03:35.040
+annie: I think I do that now.
+
+41
+00:03:36.810 --> 00:03:38.700
+annie: And I will share again.
+
+42
+00:03:40.110 --> 00:03:43.500
+annie: My screen, but now I will do it with the audio.
+
+43
+00:04:00.660 --> 00:04:01.320
+See.
+
+44
+00:04:02.400 --> 00:04:08.640
+King King King King King King King King King King the.
+
+45
+00:04:10.380 --> 00:04:10.590
+King.
+
+46
+00:04:21.960 --> 00:04:22.560
+King king.
+
+47
+00:04:25.290 --> 00:04:28.080
+King King King a king.
+
+48
+00:04:34.920 --> 00:04:36.780
+Cut cut cut cut.
+
+49
+00:05:24.060 --> 00:05:25.740
+Curt Cloninger: it's difficult for me to rewatch.
+
+50
+00:05:28.050 --> 00:05:30.120
+Curt Cloninger: It must be done um.
+
+51
+00:05:31.440 --> 00:05:47.190
+Curt Cloninger: So i'll start talking and then it will just be us talking as it proceeds the promise of this panel was toward a supra semiotic telepresence communication and in the description, it was promised some.
+
+52
+00:05:49.200 --> 00:05:53.730
+Curt Cloninger: reference to the theorists the literary theorists Mikhail buxton.
+
+53
+00:05:55.050 --> 00:05:58.470
+Curt Cloninger: And he has the theory of the utterance that's.
+
+54
+00:06:00.180 --> 00:06:02.970
+Curt Cloninger: I would say, central to his his.
+
+55
+00:06:03.990 --> 00:06:04.410
+Curt Cloninger: Whole.
+
+56
+00:06:06.060 --> 00:06:06.900
+Curt Cloninger: All of his writing.
+
+57
+00:06:08.250 --> 00:06:15.630
+Curt Cloninger: And briefly it's there and the from a pad the the button quotes that I find most relevant.
+
+58
+00:06:16.740 --> 00:06:18.390
+Curt Cloninger: That briefly, he says.
+
+59
+00:06:19.830 --> 00:06:23.370
+Curt Cloninger: That the live utterance of that is this.
+
+60
+00:06:24.630 --> 00:06:27.810
+Curt Cloninger: Crucial node in the evolution of language.
+
+61
+00:06:29.310 --> 00:06:30.720
+Curt Cloninger: brockton doesn't believe.
+
+62
+00:06:33.210 --> 00:06:48.300
+Curt Cloninger: Like a semi out petition like Noam Chomsky buxton doesn't believe that language is a series of systems and grammars and words on a page he's saying languages.
+
+63
+00:06:50.250 --> 00:06:53.100
+Curt Cloninger: At least two parts one is that.
+
+64
+00:06:54.180 --> 00:06:58.860
+Curt Cloninger: Those words on the page and all the grammar rules, but the other is.
+
+65
+00:07:00.180 --> 00:07:10.680
+Curt Cloninger: lived contextual utterances, so people ordering coffee people talking to each other at the grocery store husbands and wives arguing even people reading.
+
+66
+00:07:11.700 --> 00:07:19.530
+Curt Cloninger: When I read a book that is an utterance when the book sits on the shelf, it is not altering and what happens according to brockton is.
+
+67
+00:07:21.780 --> 00:07:23.910
+Curt Cloninger: As the utterance event occurs.
+
+68
+00:07:25.020 --> 00:07:28.260
+Curt Cloninger: You would understand that language enters into.
+
+69
+00:07:29.430 --> 00:07:41.550
+Curt Cloninger: lived human space time, but what he says also happens is the language that's on the page all the grammar rules, all the syntax it gets changed itself during the utterance event.
+
+70
+00:07:42.300 --> 00:07:53.190
+Curt Cloninger: because every time I use the word love I think differently about the word love and as this word is used all over the world every day that word changes in meaning every day.
+
+71
+00:07:54.030 --> 00:08:10.530
+Curt Cloninger: And so, in a sense, everyone in every language is evolving the language, based on lyft contextual utterances that without this utterance event language doesn't change and so.
+
+72
+00:08:14.940 --> 00:08:16.890
+Curt Cloninger: He also says that there are certain.
+
+73
+00:08:18.180 --> 00:08:33.960
+Curt Cloninger: He calls these technical accidents almost that get folded into language in the utterance if i'm reading a book at a coffee house and the coffee tastes particularly hot, then the words i'm reading them.
+
+74
+00:08:35.130 --> 00:08:52.680
+Curt Cloninger: change a little bit in meaning due to that if the typography is in Helvetica rather than times new Roman if as i'm talking i'm waving my arms a lot all of these live defective non semiotic things.
+
+75
+00:08:54.540 --> 00:08:57.840
+Curt Cloninger: Through the utterance event cover language and change it.
+
+76
+00:08:58.920 --> 00:09:03.300
+Curt Cloninger: And he says the utterances, a very important note in.
+
+77
+00:09:04.500 --> 00:09:10.320
+Curt Cloninger: Communication and language and so with this project we get together online.
+
+78
+00:09:11.490 --> 00:09:22.140
+Curt Cloninger: Where we're not smelling each other we're in different time zones at different levels of tired we're in different air conditioned or non air conditioned environment.
+
+79
+00:09:23.520 --> 00:09:32.760
+Curt Cloninger: And then zoom is glitches and dropping and stuttering and breaking up and all these things are part of the lived utterance event.
+
+80
+00:09:33.810 --> 00:09:38.040
+Curt Cloninger: Yesterday the context of the way in which our performance started was part of the.
+
+81
+00:09:39.240 --> 00:09:56.250
+Curt Cloninger: We were part of the introduction of the conference and then Ian said something, and there we were at other performances it doesn't start That way we just dropped straight into I saw being on the frame and then we try to listen to each other.
+
+82
+00:09:57.780 --> 00:10:02.220
+Curt Cloninger: Whether in real time or a call and response.
+
+83
+00:10:03.480 --> 00:10:10.620
+Curt Cloninger: And sometimes we speak words French words and Portuguese words in English words and.
+
+84
+00:10:12.090 --> 00:10:14.880
+Curt Cloninger: It sounds like sometimes they're speaking Japanese words.
+
+85
+00:10:16.830 --> 00:10:22.230
+Curt Cloninger: Sometimes, so it sounds like someone they speak German words but who knows, but the idea is.
+
+86
+00:10:23.580 --> 00:10:35.010
+Curt Cloninger: What would happen if we got together in a tuned ourselves to each other and to the moment and began a series of other things that were not.
+
+87
+00:10:36.600 --> 00:10:43.410
+Curt Cloninger: solely drawing on the history of our human spoken languages, but we're responding.
+
+88
+00:10:45.330 --> 00:10:51.630
+Curt Cloninger: bodily and someone else could perhaps could talk about the the triggers and the attainments.
+
+89
+00:10:53.040 --> 00:11:08.400
+Curt Cloninger: So these are just tricks that we use to get ourselves prepared for this event but it's always improvisational this is maybe the eighth one we've done, I believe we've done some conferences, where other people have have participated.
+
+90
+00:11:09.420 --> 00:11:19.590
+Curt Cloninger: And it's a research project so yesterday felt like a performance, I think, because of the context of the conference or something, but sometimes it just feels like a private conversation.
+
+91
+00:11:20.070 --> 00:11:30.330
+Curt Cloninger: Sometimes it's very calm sometimes it's very musical sometimes it's more it sounds more like speaking, sometimes it sounds like a.
+
+92
+00:11:31.560 --> 00:11:32.730
+room noises.
+
+93
+00:11:34.260 --> 00:11:38.970
+Curt Cloninger: But rather than sort of coming with a predetermined idea of what it's going to be.
+
+94
+00:11:40.110 --> 00:11:46.320
+Curt Cloninger: We come with a kind of readiness to see what what will happen and and so for.
+
+95
+00:11:47.550 --> 00:11:54.990
+Curt Cloninger: Each one is more or less different, but there are similarities so that's my introduction, and I will stop talking now.
+
+96
+00:12:01.440 --> 00:12:03.270
+Curt Cloninger: That may be able would make sense to talk about.
+
+97
+00:12:04.860 --> 00:12:05.700
+Curt Cloninger: The triggers.
+
+98
+00:12:09.240 --> 00:12:11.610
+Curt Cloninger: or anyone can talk about what they want.
+
+99
+00:12:19.980 --> 00:12:20.670
+Nerina Cocchi: Go Danny.
+
+100
+00:12:22.860 --> 00:12:29.370
+Daniel Pinheiro: yeah I was, I was gonna add to cart sad about I think.
+
+101
+00:12:31.680 --> 00:12:38.760
+Daniel Pinheiro: I think it's better if we like start engaging some sort of conversation I think that's how we know how to do it.
+
+102
+00:12:40.170 --> 00:12:42.960
+Daniel Pinheiro: But I was going to speak about the tournament.
+
+103
+00:12:45.270 --> 00:12:53.220
+Daniel Pinheiro: Like the preparation that we make, I think, I think that that puts us all, even though we're all like card said.
+
+104
+00:12:54.090 --> 00:13:05.400
+Daniel Pinheiro: Natural living in different places and we're all connecting here and are already doing with all the transformation that that the digital space is doing to our own sounds.
+
+105
+00:13:05.820 --> 00:13:16.740
+Daniel Pinheiro: But we all come into it with with with the same frame of mind, because we all listen to a piece or to work before each.
+
+106
+00:13:18.450 --> 00:13:40.770
+Daniel Pinheiro: Each encounter I rather call them encounter is very experienced this this this way of communicating between between us all and and and, yes, the context changes, but I think that that that plays a very important role beauty meant what we choose to be the.
+
+107
+00:13:41.970 --> 00:13:45.570
+Daniel Pinheiro: Maybe it is the first trigger if we want to talk about triggers.
+
+108
+00:13:46.830 --> 00:13:50.220
+Daniel Pinheiro: It is the first trigger that we put ourselves into.
+
+109
+00:13:52.110 --> 00:13:54.510
+Daniel Pinheiro: into sharing some sort of.
+
+110
+00:13:56.070 --> 00:13:58.020
+Daniel Pinheiro: Saying predisposition.
+
+111
+00:13:59.220 --> 00:14:00.660
+Daniel Pinheiro: To to.
+
+112
+00:14:02.190 --> 00:14:06.270
+Daniel Pinheiro: To the utterance or to the drink that we we engage in.
+
+113
+00:14:09.120 --> 00:14:10.350
+want to add more into that.
+
+114
+00:14:12.510 --> 00:14:16.950
+Nerina Cocchi: I can, I mean the idea is that so when we get together.
+
+115
+00:14:18.450 --> 00:14:20.970
+Nerina Cocchi: We are four to six people.
+
+116
+00:14:22.050 --> 00:14:30.210
+Nerina Cocchi: There is Derek their chapter who's not here today, but so this is what we call the band and.
+
+117
+00:14:31.800 --> 00:14:34.830
+Nerina Cocchi: We have had themes we've had.
+
+118
+00:14:35.910 --> 00:14:52.710
+Nerina Cocchi: we've had there's always something that that leads the improvisation, in a way it can be a female can be the attunement but then, once we get into the apartment we blindfold ourselves, and so we, we only here we don't have the visual stimulus anymore.
+
+119
+00:14:53.820 --> 00:14:56.280
+Nerina Cocchi: And pretty early on, we.
+
+120
+00:14:58.470 --> 00:15:02.040
+Nerina Cocchi: We decided to introduce the idea of triggers so if.
+
+121
+00:15:03.060 --> 00:15:17.580
+Nerina Cocchi: We each for ourselves, we decide if this happens, then I do this so an example, it could be, if I hear a high pitch sound I will lift my arms.
+
+122
+00:15:18.990 --> 00:15:43.560
+Nerina Cocchi: Or if I hear something that to me sounds like a word I will produce a growl i'm just giving examples Just to give you ideas and we've created this with the idea that to have these will always bring us back into a place where we can't just do what we want, but we will.
+
+123
+00:15:45.150 --> 00:15:50.850
+Nerina Cocchi: It will give us material to improvise be in relation with the others, and also.
+
+124
+00:15:51.750 --> 00:16:02.010
+Nerina Cocchi: go into places that are uncomfortable to us, so the idea of trying to push ourselves a little beyond what feels comfortable or what fields within our chords.
+
+125
+00:16:02.550 --> 00:16:13.110
+Nerina Cocchi: And one important discovery that we made with the triggers was the aid of introducing also bodily triggers so not just local ones, but also physical one, so how.
+
+126
+00:16:13.560 --> 00:16:22.680
+Nerina Cocchi: What is the relationship between listening and the body, and how does moving, so it could be that you get up at a certain point or.
+
+127
+00:16:23.400 --> 00:16:38.820
+Nerina Cocchi: That you turn around that you do something with your hand or to cover your face whatever it is what that physical movement also brings you to do in relation with the others, and how it leaves you with the others, but also in connection with your body.
+
+128
+00:16:39.870 --> 00:16:45.720
+Nerina Cocchi: Because listening is a physical action, and so the importance of staying connected connected to the body.
+
+129
+00:16:45.840 --> 00:16:47.520
+Nerina Cocchi: is rather important.
+
+130
+00:16:49.800 --> 00:16:58.680
+Nerina Cocchi: So that's for triggers I don't know if anybody wants to add a little bit about that or what triggers hadn't brought.
+
+131
+00:17:00.420 --> 00:17:15.180
+annie: Maybe maybe I was thinking that triggers for me and the movements or the actions that go with it, for me, they are functioning as kind of whoo rules.
+
+132
+00:17:16.080 --> 00:17:36.510
+annie: And those rules they helped me to liberate things because I am convinced that, having a few minor rules makes open opening up for all kinds of other things that are outside of those rules so that's one thing, but aside.
+
+133
+00:17:38.190 --> 00:17:42.300
+annie: I don't like so rules also makes me.
+
+134
+00:17:44.520 --> 00:17:52.890
+annie: And so, these triggers these rules that we have inside utterance makes for a situation.
+
+135
+00:17:53.940 --> 00:17:55.380
+annie: That, for me, is.
+
+136
+00:17:56.580 --> 00:17:59.160
+annie: Really, creative and makes me.
+
+137
+00:18:01.260 --> 00:18:07.950
+annie: Every time we do this very happy because I can go somewhere in my life or in my body or in.
+
+138
+00:18:09.060 --> 00:18:14.580
+annie: Where I never go on normal days and in normal relationships with people.
+
+139
+00:18:17.220 --> 00:18:24.780
+annie: So that's that's for me how they why I liked him so much and why they are important and and the blindfold.
+
+140
+00:18:26.370 --> 00:18:31.470
+annie: is important also because, if I look at you now.
+
+141
+00:18:33.870 --> 00:18:43.770
+annie: i'm aware of something that I, and it brings me in a social situation, and so that social situation really triggers.
+
+142
+00:18:44.580 --> 00:19:00.870
+annie: habits of being polite or doing certain things and not other things by blindfolding I take it all away and i'm just there with the sound they give me and my own environment and my own body and the machines in between.
+
+143
+00:19:04.050 --> 00:19:05.700
+that's yeah.
+
+144
+00:19:09.990 --> 00:19:19.050
+constan?a: I guess I can just add something, because we seem to be establishing the paradoxes of mutterings so it's like we have.
+
+145
+00:19:22.170 --> 00:19:41.730
+constan?a: me navigate everywhere between you know freedom and chaos or freedom and constraints let's say freedom and constraints and we also navigate everywhere in between courtesy and chaos and and and both are necessary.
+
+146
+00:19:42.810 --> 00:19:43.200
+constan?a: and
+
+147
+00:19:45.150 --> 00:19:47.850
+constan?a: The balances between them are very.
+
+148
+00:19:48.870 --> 00:20:03.870
+constan?a: I think are constantly ethne each iteration and sometimes Indeed, we are very courteous and we open up spaces and we really it's like we're we're eager to.
+
+149
+00:20:05.490 --> 00:20:14.220
+constan?a: to welcome something more than to put forth something and yesterday for, for instance, I think we were all very.
+
+150
+00:20:19.350 --> 00:20:35.820
+constan?a: All of us were proposing we're at some points even too many propositions and we I think what we never really know what's going to be what's going to sound best or what's going to satisfy us more um.
+
+151
+00:20:39.780 --> 00:20:44.730
+constan?a: So I think there's there's this this paradoxical nature to it.
+
+152
+00:20:47.730 --> 00:21:09.420
+constan?a: which also involves the fact that, yes, we are aware that we're performing but we don't want to be obliged to deliver a proper performance or a satisfying performance, even so, again, yet another level of paradox we're doing this publicly.
+
+153
+00:21:10.650 --> 00:21:14.400
+constan?a: And we're not abstaining from.
+
+154
+00:21:15.630 --> 00:21:16.650
+constan?a: from being a flop.
+
+155
+00:21:17.820 --> 00:21:28.920
+constan?a: it's it's a possibility, it needs to be a possibility and and so yeah I think the three levels of paradox are are sufficient for now.
+
+156
+00:21:30.630 --> 00:21:33.660
+Curt Cloninger: I think that a paradoxically.
+
+157
+00:21:35.550 --> 00:21:47.460
+Curt Cloninger: In in the beginning, before we knew each other as well in this context and trusted each other as well in this context, I think we generally were more courteous.
+
+158
+00:21:48.630 --> 00:21:49.530
+Curt Cloninger: And I think.
+
+159
+00:21:51.300 --> 00:21:58.020
+Curt Cloninger: The more we trust each other, the more we really are able to risk discourtesy.
+
+160
+00:21:59.190 --> 00:22:01.440
+Curt Cloninger: which, paradoxically, may be.
+
+161
+00:22:02.940 --> 00:22:12.090
+Curt Cloninger: Because the point is not to be courteous or discourteous or pretty or ugly but to see where it leads, so I think we're all stewarding where this thing leads.
+
+162
+00:22:12.870 --> 00:22:22.320
+Curt Cloninger: Beyond where each of us any individual one of us wants it to go so to me that's why it keeps working just because we keep caring about.
+
+163
+00:22:22.980 --> 00:22:43.560
+Curt Cloninger: What is going to emerge I think we're we're all curious to see what the what the how the sun becomes more than the parts because individually, I would not be doing this, if if I had this this my art practice I wouldn't be on performance number eight.
+
+164
+00:22:45.120 --> 00:23:00.300
+Curt Cloninger: I mean, I have to blindfold myself and repeat the same phrase for hours on end to get anywhere new as a single performer, but when you have a group of people there's so much variability in that.
+
+165
+00:23:01.530 --> 00:23:07.050
+Curt Cloninger: And maybe that's because language is not a monologue.
+
+166
+00:23:08.250 --> 00:23:14.310
+Curt Cloninger: So to to learn something new about language you need a Community or you're talking to yourself.
+
+167
+00:23:16.740 --> 00:23:18.750
+Daniel Pinheiro: yeah, I think, adding.
+
+168
+00:23:21.600 --> 00:23:23.850
+Daniel Pinheiro: I always feel that.
+
+169
+00:23:24.960 --> 00:23:27.300
+Daniel Pinheiro: And I think it's important to mention that.
+
+170
+00:23:28.320 --> 00:23:31.980
+Daniel Pinheiro: That it is happening in a very specific context with.
+
+171
+00:23:32.610 --> 00:23:33.210
+Daniel Pinheiro: Through.
+
+172
+00:23:33.420 --> 00:23:37.320
+Daniel Pinheiro: A video conferencing platform and and God.
+
+173
+00:23:39.030 --> 00:23:55.110
+Daniel Pinheiro: And how do you negotiate the things that you would negotiate normally on a conversation or on or some sort of verbal communication and and this Secondly, when it started when we started doing this.
+
+174
+00:23:56.160 --> 00:24:12.990
+Daniel Pinheiro: Because coming from different backgrounds and different experiences I think it's also a way of exploring what this space allows us to do, and that articulation between humans, and I mean within the group that we are.
+
+175
+00:24:14.970 --> 00:24:21.810
+Daniel Pinheiro: How like how, how do we deal with the constraints that are already imposed by the medium itself.
+
+176
+00:24:22.860 --> 00:24:34.620
+Daniel Pinheiro: And and or not doing them but integrate to integrate that there were moments, where we were we we we spoke about.
+
+177
+00:24:35.070 --> 00:24:48.000
+Daniel Pinheiro: What if we try to end this is mine putting putting it up for discussion and there were moments, where we thought, maybe we should get better microphones better maybe we should have like a reliable.
+
+178
+00:24:49.200 --> 00:24:55.440
+Daniel Pinheiro: sound system where we can hear properly each other and.
+
+179
+00:24:57.000 --> 00:25:01.110
+Daniel Pinheiro: Somehow better to do the communication better.
+
+180
+00:25:03.330 --> 00:25:14.370
+Daniel Pinheiro: But so far we haven't done that, and and so far that the fragility of the environment and all the glitches and the transformations it makes.
+
+181
+00:25:15.990 --> 00:25:21.270
+Daniel Pinheiro: like the ones it's happening that are happening now in the closed caption thing.
+
+182
+00:25:23.340 --> 00:25:38.520
+Daniel Pinheiro: How do you do with that how to how do we do it remains the question for me, and I think each each experience i'm i'm aware of it, because it's also part of my artistic practice and and try to understand what does it mean.
+
+183
+00:25:39.780 --> 00:25:52.110
+Daniel Pinheiro: Also i'm bringing it up for the context of this conference that we're in, and I was reading like the post pandemic and discharges before and like, how do we continue.
+
+184
+00:25:54.720 --> 00:26:01.830
+Daniel Pinheiro: didn't start it, because this was the only way to die before that I guess that's also important to say.
+
+185
+00:26:05.730 --> 00:26:13.110
+Nerina Cocchi: it's fine man, because since we've been speaking i've been thinking about the question of why I do this.
+
+186
+00:26:15.660 --> 00:26:28.110
+Nerina Cocchi: And I work with words like that's my medium I write and I work with words and why go in a space where there are no words anymore, and were.
+
+187
+00:26:28.440 --> 00:26:39.450
+Nerina Cocchi: In theory, words are not allowed in theory, because, in practice, sometimes there and sometimes also you make out words in something that isn't words by.
+
+188
+00:26:40.800 --> 00:26:43.470
+Nerina Cocchi: Our brain does put together things that.
+
+189
+00:26:45.420 --> 00:26:50.910
+Nerina Cocchi: Are or aren't there our brains new things for us and our bodies do too, so how.
+
+190
+00:26:53.880 --> 00:26:57.240
+Nerina Cocchi: How, how do you play with that and I don't really have.
+
+191
+00:26:58.890 --> 00:27:01.800
+Nerina Cocchi: A definite answer if not that I would like to add.
+
+192
+00:27:03.300 --> 00:27:19.170
+Nerina Cocchi: A paradox to what consensus said so consensus spoke about freedom and constraint and courtesy and chaos and for me it's maybe we can put it diagonally but it's a idea of the individual and the self.
+
+193
+00:27:20.310 --> 00:27:21.360
+Nerina Cocchi: In other words.
+
+194
+00:27:23.580 --> 00:27:23.970
+Nerina Cocchi: To.
+
+195
+00:27:25.470 --> 00:27:29.520
+Nerina Cocchi: How, how do we use language to communicate and be with others.
+
+196
+00:27:32.490 --> 00:27:44.370
+Nerina Cocchi: Even in a place of not understanding, so what how we were is the importance not understanding being with one another and.
+
+197
+00:27:46.230 --> 00:27:49.980
+Nerina Cocchi: Being like not talking to one another but being.
+
+198
+00:27:51.420 --> 00:28:00.240
+Nerina Cocchi: And I think that's what we've been feeling our way through, and the tools that we have, so the achievements that triggers.
+
+199
+00:28:01.170 --> 00:28:14.040
+Nerina Cocchi: The blindfold I really tools to try to to hone a sensitivity and to hone a presence somehow So how do we use the tools that are at our disposal.
+
+200
+00:28:14.460 --> 00:28:24.870
+Nerina Cocchi: To go towards something that makes sense to us, and I think this is even more important in the context in which we find ourselves because we have.
+
+201
+00:28:25.710 --> 00:28:34.530
+Nerina Cocchi: it's not that we have new tools, as the world is different, the question for me remains, why do I want to work long work on and what tools do that do I have.
+
+202
+00:28:35.010 --> 00:28:50.010
+Nerina Cocchi: Or can I use to go deeper into the direction, and I think this is an example of something where by defining certain rules, you can go deeper into things and stretch and see and.
+
+203
+00:28:51.420 --> 00:29:09.720
+Nerina Cocchi: and see what what comes of it, and he building that material, and I know that in one of our early offerings I spoke about building and I use the word building, how do we build the the offerings and I know that and he looked at me like What do you mean by building.
+
+204
+00:29:10.800 --> 00:29:12.360
+Nerina Cocchi: i'm not building anything.
+
+205
+00:29:15.240 --> 00:29:26.370
+Nerina Cocchi: And so that opens up the conversation how each of us actually imagines the space in which we work, and it is quite different, we all have very different.
+
+206
+00:29:30.780 --> 00:29:43.320
+Nerina Cocchi: triggers we all have different basis will have different things that push us and through which we articulate ourselves and yet we're all in a common space, and I think that's very important.
+
+207
+00:29:44.460 --> 00:29:48.450
+Nerina Cocchi: that's a very important thing to bring up and actually to recognize that even.
+
+208
+00:29:50.190 --> 00:29:54.000
+Nerina Cocchi: The fact that we're here is more important than our differences, you know, in a way.
+
+209
+00:29:55.020 --> 00:29:55.350
+So.
+
+210
+00:29:59.280 --> 00:30:10.530
+Curt Cloninger: It makes me think about I hate to bring up Claude Shannon i'm not a fan of Claude Shannon but, but just the idea of overcoming the myth of a pure signal.
+
+211
+00:30:11.550 --> 00:30:28.320
+Curt Cloninger: You know that some information theory idea that there's not a pure signal and the signal to noise ratio is what gives the signal it's signal nervous and I think that you know, to get into the ethics of it, perhaps you know it's it's.
+
+212
+00:30:29.640 --> 00:30:39.330
+Curt Cloninger: To to imagine that there is a way people could communicate without an effective glitches and interruptions even in a coffee house across the table from a person.
+
+213
+00:30:39.990 --> 00:30:52.770
+Curt Cloninger: that never happens there's some song playing that reminds you of the 80s and then you're not you stop paying attention and then or you're wearing a mask and you can't see what the person saying or so that's all part of.
+
+214
+00:30:54.390 --> 00:31:04.710
+Curt Cloninger: You know there's the most pure communication anyone could have be still full of all these effective eruptions is rather than trying to bracket that.
+
+215
+00:31:05.190 --> 00:31:16.170
+Curt Cloninger: or even sort of quarterly sort of cheesy the foreground that and say oh look at all these glitches look at the glitches we made but to say there are going to be enough glitches.
+
+216
+00:31:17.610 --> 00:31:30.750
+Curt Cloninger: Even if you try to keep it pure the glitches will come and and to say you know, this is, this is not an abnormal thing, this is the world even yes so digital so what.
+
+217
+00:31:31.500 --> 00:31:52.710
+Curt Cloninger: This is the way human communication Oh, is this it's just that the the texture of the bodily effect is different, but not impure or on human it's it's in the real world it's all part of real.
+
+218
+00:31:53.790 --> 00:31:54.960
+Curt Cloninger: it's not virtual.
+
+219
+00:31:56.220 --> 00:31:59.250
+Curt Cloninger: So it's a real communication that we're doing but in.
+
+220
+00:32:00.330 --> 00:32:01.770
+Curt Cloninger: In this particular context.
+
+221
+00:32:04.020 --> 00:32:08.640
+annie: Something that you'll be not touched and you touch again on it somehow is.
+
+222
+00:32:10.110 --> 00:32:14.610
+annie: I think I know where my motivation comes from my motivation comes from.
+
+223
+00:32:16.080 --> 00:32:34.500
+annie: not speaking the language of the most people around me it comes of being in strange environments where people don't understand me or somehow we act as if i'm a bit stupid because I don't pronounce the word try rightly.
+
+224
+00:32:35.970 --> 00:32:47.160
+annie: that's all very frustrating and it's makes things very unequal if you are in a group of people, the one who speaks the best gets the most attention.
+
+225
+00:32:47.820 --> 00:32:56.100
+annie: So people who come from another country and don't speak as well, their place is already from the start somewhere.
+
+226
+00:32:57.060 --> 00:33:18.450
+annie: On the bottom of the ladder, if you have to talk like that, and that that makes my relation to language somehow difficult and make me very happy to go to an environment where we work with all kinds of other things and not with meaning of with the meaning of the words.
+
+227
+00:33:21.000 --> 00:33:25.800
+annie: So somehow for me this is political it's a political project also.
+
+228
+00:33:26.850 --> 00:33:36.450
+annie: To be doing and it's called two words a supra semiotic telepresence communication so mark, I thought, what is.
+
+229
+00:33:40.080 --> 00:33:40.350
+Daniel Pinheiro: Not.
+
+230
+00:33:40.410 --> 00:33:43.320
+annie: possible, but at the same time and that's.
+
+231
+00:33:43.380 --> 00:33:50.220
+annie: Also paradox, I want to believe in it so and we are doing it in a certain way.
+
+232
+00:33:52.740 --> 00:33:54.150
+So yeah.
+
+233
+00:33:55.590 --> 00:33:58.740
+constan?a: yeah I think i'd like to add something sorry.
+
+234
+00:33:59.910 --> 00:34:00.780
+No go ahead, good.
+
+235
+00:34:02.100 --> 00:34:03.030
+constan?a: um.
+
+236
+00:34:05.220 --> 00:34:14.520
+constan?a: I don't think we've ever really discussed, you know the the like the effects on each of us, and I would have to say that.
+
+237
+00:34:15.960 --> 00:34:20.340
+constan?a: No matter how distinct our meetings have been.
+
+238
+00:34:24.300 --> 00:34:28.170
+constan?a: I end up more energized and calmer than I was before.
+
+239
+00:34:29.850 --> 00:34:30.660
+constan?a: And this is.
+
+240
+00:34:32.400 --> 00:34:33.210
+constan?a: There is no.
+
+241
+00:34:34.290 --> 00:34:39.090
+constan?a: Objective I mean quantifiable reason for this.
+
+242
+00:34:41.220 --> 00:34:43.140
+constan?a: For me, at least, because.
+
+243
+00:34:43.230 --> 00:35:01.170
+constan?a: I mean, these are public instances of meeting so there's a stressful ness of kindle being seen, but at the same time, and this is again personal there's the there's the release from language in what it means.
+
+244
+00:35:02.520 --> 00:35:07.230
+constan?a: In its burden of correction and surveillance.
+
+245
+00:35:08.850 --> 00:35:19.260
+constan?a: I, I can see how, for me, this would be political, in a sense, and for me it would be political in another sense, which is that I.
+
+246
+00:35:20.790 --> 00:35:22.980
+constan?a: I want for language to remain.
+
+247
+00:35:24.240 --> 00:35:29.010
+constan?a: With no taboos or maintaining its taboos and for sound to do as well.
+
+248
+00:35:30.450 --> 00:35:39.630
+constan?a: And so it's you know I find myself as someone who also works with words and text and who.
+
+249
+00:35:41.760 --> 00:35:44.370
+constan?a: deals with people who are very.
+
+250
+00:35:46.170 --> 00:35:50.160
+constan?a: skilled speakers very learned speakers.
+
+251
+00:35:51.390 --> 00:35:55.080
+constan?a: My daily activities are filled with this sort of.
+
+252
+00:35:56.250 --> 00:36:01.260
+constan?a: Underlying surveillance and need to not be you know.
+
+253
+00:36:03.240 --> 00:36:04.110
+constan?a: incorrect.
+
+254
+00:36:05.310 --> 00:36:08.280
+constan?a: And it's it's an unlivable situation, I have to say.
+
+255
+00:36:09.600 --> 00:36:11.280
+constan?a: So i'm.
+
+256
+00:36:13.110 --> 00:36:27.030
+constan?a: On rings is somehow free and also somehow ascetic like in it nears if it comes near some sort of meditative practice where I.
+
+257
+00:36:31.140 --> 00:36:32.820
+constan?a: Where I purge maybe.
+
+258
+00:36:33.990 --> 00:36:36.330
+constan?a: something's and let go of.
+
+259
+00:36:38.730 --> 00:36:39.690
+constan?a: A level of.
+
+260
+00:36:41.730 --> 00:36:43.530
+constan?a: Awareness of myself as.
+
+261
+00:36:43.620 --> 00:36:55.770
+constan?a: Another, which is always there and so that's very that's very the ends up being very calming and very energizing so you know all of the richness of.
+
+262
+00:36:57.150 --> 00:37:22.920
+constan?a: The constraints and the even the morals of language, I feel I am free from, and in that sense, I am very happy and other things, and things are easier and and, if indeed someone shreds on my toe or steps over my sound there are free to do so, and I can strike back, and we can you know.
+
+263
+00:37:23.940 --> 00:37:25.530
+constan?a: This can be the star wars of.
+
+264
+00:37:27.150 --> 00:37:42.960
+constan?a: ugly sounds and that's why it's so different from every you know from most of my living experience and so it's it's yeah I don't know how how best to explain this but uh.
+
+265
+00:37:44.070 --> 00:37:45.840
+constan?a: But really the release of.
+
+266
+00:37:48.270 --> 00:37:51.390
+constan?a: The Panopticon that I have in my head as a speaker.
+
+267
+00:37:53.610 --> 00:37:54.690
+constan?a: is very important.
+
+268
+00:37:58.980 --> 00:38:00.090
+Can you.
+
+269
+00:38:02.730 --> 00:38:09.210
+Daniel Pinheiro: Please, I was, I was just going to add when it comes in, like continuation of what you were saying, because yesterday.
+
+270
+00:38:10.500 --> 00:38:12.270
+Daniel Pinheiro: We created a monster.
+
+271
+00:38:13.410 --> 00:38:14.940
+Curt Cloninger: A bad set of baby dinosaur.
+
+272
+00:38:15.360 --> 00:38:15.690
+baby.
+
+273
+00:38:17.040 --> 00:38:17.790
+annie: No baby.
+
+274
+00:38:18.780 --> 00:38:20.610
+Curt Cloninger: Oh baby monster okay baby monster.
+
+275
+00:38:21.060 --> 00:38:22.020
+Curt Cloninger: But it was a baby monster.
+
+276
+00:38:24.030 --> 00:38:37.230
+Daniel Pinheiro: And, yesterday we didn't do it, but there were moments, where we tried other visual configurations for for a drink one of them was using like the overlay of all of our video feed and indeed look like a weird.
+
+277
+00:38:38.040 --> 00:38:38.700
+monster.
+
+278
+00:38:39.960 --> 00:38:43.380
+Daniel Pinheiro: Trying to communicate something.
+
+279
+00:38:44.730 --> 00:38:55.170
+Daniel Pinheiro: And I think it's interesting with constraints that brings this this experience which can free us from from any any.
+
+280
+00:38:56.850 --> 00:39:05.670
+Daniel Pinheiro: Any say any in positions that you put yourself in in perhaps other other conditions and sometimes when i'm doing.
+
+281
+00:39:06.690 --> 00:39:16.080
+Daniel Pinheiro: An encounter of entering they always have this weird image of how does it work from the outside, here in my room that when i'm doing it.
+
+282
+00:39:16.680 --> 00:39:26.400
+Daniel Pinheiro: And what I and then I picture, all of us alone in different places with our eyes, we blindfolded and we're just like this.
+
+283
+00:39:26.970 --> 00:39:38.760
+Daniel Pinheiro: individually we're all I picture as as as incomplete parts of this monster that it's happening, which is an energetic which I can call her feel like an energetic monster.
+
+284
+00:39:39.450 --> 00:39:51.780
+Daniel Pinheiro: and keep using the word master because that's also how I feel about it, sometimes, and I think it comes tied with the ugliness that we allow ourselves.
+
+285
+00:39:52.680 --> 00:40:06.990
+Daniel Pinheiro: Here so there's something interesting to be said in this this this incomplete version of ourselves in our physical instances of each one when we come together here to do this.
+
+286
+00:40:09.360 --> 00:40:10.230
+and
+
+287
+00:40:11.310 --> 00:40:29.850
+Daniel Pinheiro: I think, in this sense of what what is communication, I think I feel it's precisely that it's it's like a sum of all these incomplete bits and parts that we're all trying to make sense of as as as human being.
+
+288
+00:40:31.680 --> 00:40:31.890
+Daniel Pinheiro: yeah.
+
+289
+00:40:33.210 --> 00:40:33.780
+Daniel Pinheiro: I would say.
+
+290
+00:40:44.100 --> 00:40:45.600
+Daniel Pinheiro: Like the.
+
+291
+00:40:47.370 --> 00:40:49.350
+Few I want to say something.
+
+292
+00:40:52.320 --> 00:40:52.770
+for that.
+
+293
+00:40:54.060 --> 00:40:58.380
+annie: yeah it's open for if you if you have you, you can put it.
+
+294
+00:41:01.170 --> 00:41:06.540
+annie: out, but you can also just unmute yourself and ask questions No problem.
+
+295
+00:41:08.250 --> 00:41:11.280
+Nerina Cocchi: Sharing easier now when us together.
+
+296
+00:41:11.730 --> 00:41:19.530
+annie: I think we touched on the most and most points we wanted to touch on is something we forgot to talk about.
+
+297
+00:41:22.620 --> 00:41:23.610
+let's think of it.
+
+298
+00:41:25.980 --> 00:41:30.300
+Nerina Cocchi: For me, the thing that, from what concerns has said about.
+
+299
+00:41:31.740 --> 00:41:35.820
+Nerina Cocchi: Language I mean, I also have the same experiences me of being.
+
+300
+00:41:36.990 --> 00:41:45.180
+Nerina Cocchi: A feeling inadequate in all languages in the sense that I always feel i'm not pull that i'm always missing words that i'm.
+
+301
+00:41:50.220 --> 00:41:55.350
+Nerina Cocchi: That I don't have a good grasp of language, whatever language that is.
+
+302
+00:41:57.450 --> 00:41:59.490
+Nerina Cocchi: And what.
+
+303
+00:42:00.630 --> 00:42:03.510
+Nerina Cocchi: I know that what uttering has contributed me.
+
+304
+00:42:04.560 --> 00:42:06.090
+Nerina Cocchi: With is the idea of.
+
+305
+00:42:07.470 --> 00:42:23.490
+Nerina Cocchi: How, how do you stay in that sense sensitive spot where you can just be here and listen and speak at the same time, and whether it is right doesn't really matter as long as it's.
+
+306
+00:42:24.030 --> 00:42:42.360
+Nerina Cocchi: Just as you say, in French like it's it feels it feels right, and so I think that's part of what is so touching and also for me it's not only about the offerings per se it's also about the relationship that leaves us together like.
+
+307
+00:42:44.550 --> 00:42:57.690
+Nerina Cocchi: The fact that I, like all of the five of you, makes me want to come back if I didn't like you, as people I wouldn't want to come back and so I think that's.
+
+308
+00:42:59.880 --> 00:43:11.280
+Nerina Cocchi: Language as a way to leave people together and to have conversations and I really think this is what's important and what sometimes we forget is that language is a tool.
+
+309
+00:43:12.120 --> 00:43:19.590
+Nerina Cocchi: To talk and yes it's messy yes we don't understand each other, of course, because each of us has their own language, in a way, but.
+
+310
+00:43:22.170 --> 00:43:31.800
+Nerina Cocchi: How do we, how do we get to that sensitive right spot in a way that's and this experience has been helping me that I don't know.
+
+311
+00:43:35.370 --> 00:43:43.320
+Curt Cloninger: I like what you're saying that language is just a tool to to connect I mean this is related to my.
+
+312
+00:43:44.520 --> 00:43:48.390
+Curt Cloninger: Personal explorations theologically.
+
+313
+00:43:49.830 --> 00:43:54.060
+Curt Cloninger: The goal of having a relationship with God is not to come to some sort of.
+
+314
+00:43:55.350 --> 00:44:00.060
+Curt Cloninger: Knowledge of facts it's, not even to come to a.
+
+315
+00:44:01.680 --> 00:44:03.090
+Curt Cloninger: Communication where.
+
+316
+00:44:04.410 --> 00:44:05.700
+Curt Cloninger: meaning is conveyed.
+
+317
+00:44:06.870 --> 00:44:07.560
+Curt Cloninger: it's to.
+
+318
+00:44:08.610 --> 00:44:10.020
+Curt Cloninger: be known and to know.
+
+319
+00:44:11.280 --> 00:44:13.320
+Curt Cloninger: Beyond language.
+
+320
+00:44:14.550 --> 00:44:24.720
+Curt Cloninger: And maybe that's true with every human and every human other human with my wife I don't want to know facts about her or even you know I mean I need if she wants me to.
+
+321
+00:44:25.500 --> 00:44:32.550
+Curt Cloninger: take out the garbage I need to know literally that's what she's conveying to me, but that the goal of humans.
+
+322
+00:44:33.240 --> 00:44:44.580
+Curt Cloninger: Being intimate with each other is it's not that you understand or know something there's there's a there's a game there's an end game beyond that this is just some means.
+
+323
+00:44:45.300 --> 00:44:54.360
+Curt Cloninger: So I think, and it is, it is a you know, a spiritual practice to speak in tongues where you don't understand what you're saying, and you know.
+
+324
+00:44:54.600 --> 00:44:56.580
+Curt Cloninger: there's the practice of APA faces where.
+
+325
+00:44:59.130 --> 00:45:13.200
+Curt Cloninger: You use words to undo words so that you don't over determine God or rely so much on words any God worth worshiping is is gonna have to be beyond words or you got the wrong person.
+
+326
+00:45:17.850 --> 00:45:23.340
+annie: If you want to i'm very happy with that, but I was thinking of someone else something else.
+
+327
+00:45:24.630 --> 00:45:37.650
+annie: We didn't touch on that yet is is, why is it a performance that we are doing, why do we need the ID of an audience and because somehow that's important.
+
+328
+00:45:38.250 --> 00:45:55.410
+annie: In what we do and I think, for me, that is, because if there is an audience for what you do you have a shared collaboration towards something else and it's something that unites us and.
+
+329
+00:45:57.900 --> 00:46:00.390
+He said understandable what I say or not.
+
+330
+00:46:01.920 --> 00:46:03.360
+yeah I think.
+
+331
+00:46:04.620 --> 00:46:09.720
+Daniel Pinheiro: At least from yesterday from the few reactions that I could see Brittany.
+
+332
+00:46:11.910 --> 00:46:18.780
+Daniel Pinheiro: It made me think about that from from the performance, we did yesterday, there were a few reactions and they all mentioned, or they kind of mentioned.
+
+333
+00:46:20.970 --> 00:46:24.810
+Daniel Pinheiro: The power of presence that we were able to deliver.
+
+334
+00:46:26.550 --> 00:46:42.210
+Daniel Pinheiro: With the performance I don't know like i'm not backwards, but it had something to do with this and and I guess that's when when you say and it gives it opens up about for a shared.
+
+335
+00:46:43.500 --> 00:46:43.710
+Nerina Cocchi: it's.
+
+336
+00:46:44.730 --> 00:46:49.530
+Daniel Pinheiro: Not just between us towards something else, which is also being communicated to someone else.
+
+337
+00:46:50.700 --> 00:46:56.970
+Daniel Pinheiro: And what what, meaning that the audience makes it that I think it's another layer that.
+
+338
+00:46:56.970 --> 00:46:57.390
+Nerina Cocchi: process.
+
+339
+00:46:58.080 --> 00:47:02.910
+Daniel Pinheiro: we're trying to go beyond this idea of an understandable.
+
+340
+00:47:04.290 --> 00:47:14.640
+Daniel Pinheiro: Language order or like we say like going above rationality, but leaving the door open for interpretation that might come through from the other end.
+
+341
+00:47:15.870 --> 00:47:17.100
+of whoever is watching.
+
+342
+00:47:18.210 --> 00:47:20.460
+Daniel Pinheiro: or doing it with us because we've had.
+
+343
+00:47:20.520 --> 00:47:21.150
+annie: Governments when.
+
+344
+00:47:21.870 --> 00:47:24.150
+Daniel Pinheiro: you're done performance workshops.
+
+345
+00:47:25.260 --> 00:47:27.690
+With people that join from one or two times.
+
+346
+00:47:28.800 --> 00:47:35.760
+Daniel Pinheiro: And I see that also is not a performance per se but we're opening up to other people and there's this exchange of.
+
+347
+00:47:37.050 --> 00:47:39.360
+Daniel Pinheiro: Beyond this group of people that.
+
+348
+00:47:40.470 --> 00:47:42.120
+Daniel Pinheiro: We keep on practicing this.
+
+349
+00:47:46.530 --> 00:47:49.140
+constan?a: We add something we're going to say something.
+
+350
+00:47:50.190 --> 00:47:51.270
+Nerina Cocchi: Nice okay go for it.
+
+351
+00:47:52.470 --> 00:47:53.190
+Nerina Cocchi: keep it short.
+
+352
+00:47:55.020 --> 00:47:57.450
+constan?a: I think this is yet another paradox.
+
+353
+00:47:58.920 --> 00:47:59.970
+constan?a: Is that we.
+
+354
+00:48:02.040 --> 00:48:05.070
+constan?a: intimate without having been friends.
+
+355
+00:48:06.870 --> 00:48:07.710
+Curt Cloninger: you're not my friend.
+
+356
+00:48:08.820 --> 00:48:09.300
+constan?a: I mean.
+
+357
+00:48:11.700 --> 00:48:20.490
+constan?a: i've not been with you i've never even touched you we don't smell each other, I am you know i'm a touchy feely 3D person.
+
+358
+00:48:21.990 --> 00:48:26.310
+constan?a: i'm demanding of that of my friends, then he knows.
+
+359
+00:48:30.570 --> 00:48:41.160
+constan?a: And he I think the having an audience in this moment of in history when having a conversation is almost impossible.
+
+360
+00:48:42.420 --> 00:49:01.620
+constan?a: You know, because everything is so polarized or trial terrorized or just ossified in you know I I know this, I think this, and this is what I stand for and who you're doing something outside of that and.
+
+361
+00:49:02.880 --> 00:49:03.780
+constan?a: I think.
+
+362
+00:49:06.210 --> 00:49:16.530
+constan?a: I think we've reasons to be hopeful, you know I didn't I didn't expect to be saying this about other things, but what happens to us is evidence of that.
+
+363
+00:49:17.820 --> 00:49:21.480
+constan?a: What happened in the workshops as evidence of that.
+
+364
+00:49:22.920 --> 00:49:23.580
+constan?a: and
+
+365
+00:49:25.050 --> 00:49:28.770
+constan?a: yeah i'm going to quit because i'm going to start crying so.
+
+366
+00:49:30.420 --> 00:49:33.240
+constan?a: you've never seen this is you're not my friend now.
+
+367
+00:49:38.610 --> 00:49:40.740
+Nerina Cocchi: The thing I wanted to say is that.
+
+368
+00:49:43.590 --> 00:49:51.180
+Nerina Cocchi: i'm always wondering why anybody would want to see a mattress like i'm i'm i'm puzzled by it.
+
+369
+00:49:53.160 --> 00:49:57.000
+Nerina Cocchi: But people come and watch this and people want to be part of it and.
+
+370
+00:49:58.050 --> 00:50:13.710
+Nerina Cocchi: Then i'm like Okay, I cannot decide whether this works or not like intimately with my partner we call attorneys Hollings because, like he he walks into the apartment and i'm they're making the weirdest sounds with the cats looking at me like I mean saying.
+
+371
+00:50:14.520 --> 00:50:19.050
+Nerina Cocchi: And this is to answer part of danny's question or what happens like.
+
+372
+00:50:20.340 --> 00:50:30.540
+Nerina Cocchi: But you know were there, and we are handling all together to the moon somehow in our own digital way I don't know no but it's it's it's.
+
+373
+00:50:31.740 --> 00:50:41.430
+Nerina Cocchi: I like the yet another paradox that adds that gets added to this sorry that we sort of have so yeah.
+
+374
+00:50:45.180 --> 00:50:47.280
+Daniel Pinheiro: yeah literally yesterday howling into.
+
+375
+00:50:47.550 --> 00:50:48.900
+This full moon it's happening.
+
+376
+00:50:54.420 --> 00:50:54.690
+Nerina Cocchi: yeah.
+
+377
+00:50:58.560 --> 00:50:59.880
+annie: Now we come to the farmer.
+
+378
+00:51:01.980 --> 00:51:03.090
+Nerina Cocchi: Just something more to.
+
+379
+00:51:04.710 --> 00:51:07.590
+annie: Thank you for having been with us.
+
+380
+00:51:07.680 --> 00:51:07.890
+All.
+
+381
+00:51:15.840 --> 00:51:17.880
+annie: So see you all on the front of that.
+
+382
+00:51:19.740 --> 00:51:20.280
+Yes.
+

@@ -215,9 +215,8 @@ for file_name in only_files:
                     sentence_slice = sentence_tokens[sentence_index - 3 : sentence_index + 3]
 
                     trigger_word_sent_dict[sentence_index]["before"] = sentence_slice[:2]
-                    for before_sentence in sentence_slice[:2]:
-                        
-                    trigger_word_sent_dict[sentence_index]["before_sentiment"] = before_sentiment
+                    # for before_sentence in sentence_slice[:2]:
+                    #   trigger_word_sent_dict[sentence_index]["before_sentiment"] = before_sentiment
 
                     trigger_word_sent_dict[sentence_index]["containing"] = sentence_slice[3]
 

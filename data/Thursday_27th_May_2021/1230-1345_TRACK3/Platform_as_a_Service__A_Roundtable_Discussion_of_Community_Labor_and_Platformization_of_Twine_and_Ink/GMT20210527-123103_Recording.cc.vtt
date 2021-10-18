@@ -1,0 +1,1349 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:28.000
+All right, admin if you're still here I would say go ahead and start recording and doing the, the jingle or whatever.
+
+00:00:28.000 --> 00:00:35.000
+Hi everyone and welcome to track three this is Platform as a Service, a roundtable discussion of community labor and platform ization of twine and ink.
+
+00:00:35.000 --> 00:00:39.000
+Yes, that is a very long title, I came up with it. I'm sorry.
+
+00:00:39.000 --> 00:00:41.000
+I have with me today.
+
+00:00:41.000 --> 00:00:50.000
+kitten Taylor Howard goes by cat Taylor and Chris climates. We're going to do some quick introductions to sort of the first third of this we got a little slightly over an hour.
+
+00:00:50.000 --> 00:00:59.000
+So we're going to sort of introduce each of ourselves kind of what we do, how we connect to these topics, and then we're going to open it up for q amp a sort of the last two thirds of this.
+
+00:00:59.000 --> 00:01:11.000
+So we'll see if you have questions during our introductions or as generated or just as they occur to you. You can type question please in all caps in the chat other there's not that many of us right now, just so I can see it and I'll sort of put this
+
+00:01:11.000 --> 00:01:12.000
+into some notes we have so we can keep track of what questions we've answered.
+
+00:01:12.000 --> 00:01:22.000
+some notes we have so we can keep track of what questions we've answered. Chris has also watch Chris who is goes by Clem pot on the discord. The ELO discord is also watching track three.
+
+00:01:22.000 --> 00:01:31.000
+I'm also sort of occasionally glance at it myself so if you have questions that occur to you right after this round table, oh I want to follow up with x, that's also a great opportunity to follow up there as well.
+
+00:01:31.000 --> 00:01:42.000
+I will be trying to share some of the resources we talked about we're going to sort of talk about some, some public resources so I've created some notes on that and we'll be sharing those as part of that conclusion and then sort of the the post to this
+
+00:01:42.000 --> 00:01:44.000
+epilogue as you will.
+
+00:01:44.000 --> 00:01:52.000
+So let me give a pretty quick introduction to myself, for those of you who don't know me, although there are most of the people here probably do.
+
+00:01:52.000 --> 00:02:01.000
+So let me go ahead and give it a quick share of that and then I will move over to the other people. So give me just a moment, everyone.
+
+00:02:01.000 --> 00:02:08.000
+So Hi, I'm Dan Cox, I go by Dan, it says Daniel on my little label here.
+
+00:02:08.000 --> 00:02:21.000
+If you kind of don't know me, I'm a full time visiting structure and a part time instructor and a part time PhD student at University of Central Florida, soon to be hopefully candidate, hopefully, and then next, maybe coming months, hopefully do magazines
+
+00:02:21.000 --> 00:02:23.000
+in the fall if everything works out correctly.
+
+00:02:23.000 --> 00:02:38.000
+So I've created 112 YouTube tutorial winners for twine over the last nine years. So if you're not aware and I'm hopefully Chris mentioned this as well, and celebrated its 10th anniversary in 2019, and I've been involved for about nine years now.
+
+00:02:38.000 --> 00:02:50.000
+So I've also created and maintained. The now 400 Plus page to one cookbook it's like 412 hundred 11 pages at this point actually just recently stepped down from this which is kind of going to roll into some of this talk as well.
+
+00:02:50.000 --> 00:02:58.000
+And then Taylor and I worked on the unofficial cookbook which is an open source resource for learning the narrative scripting language, Inc.
+
+00:02:58.000 --> 00:03:06.000
+One of the things I kind of want to mention here about sort of by the numbers so we're talking a lot about what labor goes into this how that labor is represented in various ways.
+
+00:03:06.000 --> 00:03:16.000
+So, I am technically a YouTube partner as of a few years ago, when I shared this with my students in the classroom, they all get real excited because they're used to seeing sort of major figures on Twitch and YouTube and oh you must make lots of money
+
+00:03:16.000 --> 00:03:26.000
+this is literally a quote I took one of my students I mentioned your, they said your YouTube murder. I bet you make that you're rolling in money. No, I make roughly $25 a year.
+
+00:03:26.000 --> 00:03:41.000
+This year it's slightly more, you can see me be a little bit hard to read, but in May 2022 may 2021 breakdown of about 2686, that's roughly in the window, it's actually a little higher because of the pandemic and it being raised a little bit because people
+
+00:03:41.000 --> 00:03:50.000
+watching videos more often, but that's more or less what I make, and I have around 350 videos so the YouTube videos or maybe about a third of the total by half.
+
+00:03:50.000 --> 00:03:59.000
+I estimate my total time on the twain cookbook as roughly 400 hours over the new over nearly four years and again I actually stepped down pretty recently.
+
+00:03:59.000 --> 00:04:10.000
+And then for the ink unofficial cookbook around maybe 70 hours of work or so that's actually going to go up this year because I'm going to hopefully step in and do some more work for that.
+
+00:04:10.000 --> 00:04:20.000
+So I'm going to go ahead and stop sharing here and then we'll transition over to tailor and then Chris will pick up the last, the introductions.
+
+00:04:20.000 --> 00:04:26.000
+Okay, let me share my screen real quick
+
+00:04:26.000 --> 00:04:33.000
+and put it in actual slideshow mode.
+
+00:04:33.000 --> 00:04:39.000
+My computer is being very lively sorry.
+
+00:04:39.000 --> 00:04:52.000
+So yeah, as I mentioned, I'm, I'm Kenton Taylor Howard I typically go by Taylor I don't know why it isn't there Yeah, cool. Um, yeah, typically, by Taylor but some of you may have seen me at some of these conferences and things like that before and Kenton
+
+00:04:52.000 --> 00:05:05.000
+Taylor Howard is the name I usually use on like academic work and things like that. I've been teaching as well in the games interactive media program at the University of Central Florida, I'm, I've been there for about three years at this point I started
+
+00:05:05.000 --> 00:05:07.000
+in Fall 2018.
+
+00:05:07.000 --> 00:05:31.000
+Before that I was a full time English teacher for a while. And now I mostly teach game design, typically and I'm also a PhD student in the text and technology program, and should hopefully be defended my dissertation around the end of next month or early
+
+00:05:31.000 --> 00:05:41.000
+Um, so my research and Marcus have shown in guns one in a few ways I'm gonna like really briefly summarize each of these on like a slider so but I don't want to spend too much time like plugging myself and stuff that I've done.
+
+00:05:41.000 --> 00:05:51.000
+But I made an IF game using incl writer originally which is a precursor to ink, which maybe we'll get into at some point in this talk. Um.
+
+00:05:51.000 --> 00:05:59.000
+That game is just a recreation of Edgar Allan Poe's the TellTale Heart and it's like choice based version about I'll give a little more detail on that in a second.
+
+00:05:59.000 --> 00:06:13.000
+Um, I've also touched on in a class that I teach called fundamentals of interactive design that class, mostly focuses on introducing students to like programming and digital design narrative design and I using to do some of that I built a gaming Inc as
+
+00:06:13.000 --> 00:06:25.000
+part of my dissertation, that's kind of like a companion piece to my dissertation work that I'll touch on briefly to and twine I'm a little bit less experienced with but I have created a twine piece that I'm published called nonlinear narrative and Fallout
+
+00:06:25.000 --> 00:06:32.000
+to you. Um, so as far as the interactive fiction game retelling the TellTale Heart goes.
+
+00:06:32.000 --> 00:06:42.000
+Again, this is kind of like a choice based recreation of the classic short story if you've never read the short story before it's very very short it's like three or four pages long.
+
+00:06:42.000 --> 00:06:51.000
+It's a first person account of a murder. It's like when a pose most famous like gothic horror stories. And so basically the the version of it that I created.
+
+00:06:51.000 --> 00:06:57.000
+Has you play through it but you can make decisions where you can alter the plot of the original story, or you can play through it following the original plot.
+
+00:06:57.000 --> 00:07:05.000
+So, for example, at one point, you get to pick what murder weapon you want to use and you can use the one in the original or a different one, basically.
+
+00:07:05.000 --> 00:07:17.000
+There's a web based version of this on my website and I use it in the class I teach fundamentals of interactive design as an example of the kinds of things that you can build with ink so it kind of directly touches into the next thing I'm going to talk
+
+00:07:17.000 --> 00:07:31.000
+about which is, I'm an entry level, originally a mixed mode course So originally I taught this as a kind of like, face to face, slash online hybrid class.
+
+00:07:31.000 --> 00:07:47.000
+more online but this class we've mostly shifted into an online class it averages 130 to 150 students this semester so it's a pretty big class. And it's a pretty popular class for students outside of the games interactive media major to take you can, I'm
+
+00:07:47.000 --> 00:07:59.000
+not going to read through the whole course description but I'm the it doesn't really have any major prerequisites and so like people from outside of the program can take it and we get a lot of very broad range of student backgrounds in the class which
+
+00:07:59.000 --> 00:08:11.000
+I've talked a little bit more about in the paper that I published about this class. I published it alongside a former teaching assistant, that one of the challenges we face is just kind of like framing some of these things like interactive design programming
+
+00:08:11.000 --> 00:08:24.000
+stuff like that so all these different communities and backgrounds that are in the class, but mainly I'm using in the class for the final project so I have students build a interactive story over the course of like eight weeks with rough drafts and peer
+
+00:08:24.000 --> 00:08:26.000
+reviews, all those kinds of things.
+
+00:08:26.000 --> 00:08:39.000
+A life in the Meg apocalypse is the piece that I created as part of my dissertation so this is also an ink paid piece, and hopefully I'll be releasing it on my website very soon like as when I'm finished basically defending and stuff like that I plan
+
+00:08:39.000 --> 00:08:41.000
+on releasing it.
+
+00:08:41.000 --> 00:08:53.000
+The game itself focuses on queer characters surviving in a mega apocalypse setting which I pitch is basically just a situation where like all the apocalypse strokes are happening at once you have like zombies and killer robots and giant monsters and all
+
+00:08:53.000 --> 00:09:04.000
+the kind of typical apocalypse things you would see as the player you're kind of like guiding these characters on their journey and so you have sections of the game where you can talk to them, and seconds of the game where they face like some sort of
+
+00:09:04.000 --> 00:09:06.000
+conflict scenario and you have to give them advice on that.
+
+00:09:06.000 --> 00:09:20.000
+Um, it's also designed to be easily modifiable which I might get into a little bit potentially later on as well in terms of like my community contributions and stuff like that but, um, but one of the things I'm going to be doing is providing the full
+
+00:09:20.000 --> 00:09:26.000
+source code for the game on my website, alongside the game itself.
+
+00:09:26.000 --> 00:09:39.000
+And then as far as training goes, like I mentioned I have less experience with ya know that I definitely have used it to, um, nonlinear narrative and Fox who is a basically what I pitched as a playable sad that I built in twine and I remember when I created
+
+00:09:39.000 --> 00:09:47.000
+created this thing I was like I don't know how to even describe this to people, much less whether or not I'll ever be able to get it to publish it somewhere because it's so weird.
+
+00:09:47.000 --> 00:09:55.000
+But essentially, it's an essay in that there's no critical and theoretical discussion related to things like nonlinear narrative and video games and stuff like that.
+
+00:09:55.000 --> 00:10:07.000
+But I also kind of pitch it as what I call I guess like organic criticism or like playable. Criticism so basically as you work your way through the essay you also have to make some of the same choices you make when you're actually playing the video game
+
+00:10:07.000 --> 00:10:11.000
+and at the end of the ending you get is based on the choices you made.
+
+00:10:11.000 --> 00:10:23.000
+And it was published in one shot a journal, Journal of critical play and games which was published on the first issue of that and Dan was actually involved in the, in that issue as well.
+
+00:10:23.000 --> 00:10:35.000
+Um, so what I do for the community is mostly related to me as a educator and scholar, I've contributed to the unofficial and cookbook like Dan mentioned, I'm obviously any alone member I've been a reviewer on the Scientific Committee in the past, I've
+
+00:10:35.000 --> 00:10:47.000
+been involved in other organizations like moderation for the interactive, or International Foundation for the fantastic and the arts. But I've scaled that back a bit because I'm trying to finish my PhD, and I made in community tutorial videos too but
+
+00:10:47.000 --> 00:11:00.000
+i'm most of mine are so focused on my classes that I don't post a lot of those publicly, um, and then I'm hoping my dissertation work will be a useful contribution to the Incan queer games community too so like the game credits I've been made.
+
+00:11:00.000 --> 00:11:09.000
+It's a tool that focuses on query representation in games my dissertation leads that are framework for using modding to explore that. And like I mentioned, it's intended to be something that's used by others so going to be putting the full source code
+
+00:11:09.000 --> 00:11:26.000
+for it up on my website, um, it's a tool that other people can use to, um, so I think that covers everything I wanted to cover as part of my introduction, I guess I'll jump over to letting Chris go in we pause or stop my screen share.
+
+00:11:26.000 --> 00:11:36.000
+Sure. Um, so yes, I'm Chris cleanness I have lots of different hats that I wear, and we try to remember all of them, and we'll see if I succeed.
+
+00:11:36.000 --> 00:11:43.000
+I'm probably the most relevant one for today is that I created time, like Dan said back in 2009.
+
+00:11:43.000 --> 00:11:46.000
+It's open source it's GPO licensed.
+
+00:11:46.000 --> 00:11:52.000
+And I often on kind of served as the lead on Project Lead on it.
+
+00:11:52.000 --> 00:12:06.000
+And actually, I think sort of related to what, maybe what Dan was talking to, it was not, it's not a project that I've worked on continuously. There was a period where I kind of stepped away from that, in fact, and so I guess I'll just point over virtually
+
+00:12:06.000 --> 00:12:17.000
+not anywhere in particular and zoom but I did a talk on this very topic that goes into much more depth about like why I stepped away from it. I think maybe I'll talk about talk about this again is depending on what the discussion is today.
+
+00:12:17.000 --> 00:12:28.000
+But if you're interested in that particular history of things and how I ended up kind of leaving it and then coming back to it I do go into a little bit more detail on a talk, and I think I have it linked on my website which is just my name.
+
+00:12:28.000 --> 00:12:29.000
+Chris Columbus calm.
+
+00:12:29.000 --> 00:12:46.000
+Anyways, um, in addition to working on twine. I'm also a the chair of the committee. That is part of the interactive fiction technology Foundation which is a nonprofit that was now I think I want to say four years old I could be wrong about that, relatively
+
+00:12:46.000 --> 00:13:00.000
+young compared to yellow, for example, that is dedicated to kind of supporting interactive narrative and the community around it and the technology of course, that sort of supports it.
+
+00:13:00.000 --> 00:13:07.000
+In addition to that, I also am an adjunct faculty at the Maryland Institute College of Art, I teach them their game design program.
+
+00:13:07.000 --> 00:13:18.000
+And finally I also am part of a very very small game studio releasing games that we built into pipeline.
+
+00:13:18.000 --> 00:13:21.000
+All those things I just said, are not my full time job.
+
+00:13:21.000 --> 00:13:35.000
+All those things, I hold down a full job or, you know, full time job in addition to all those things. And I guess maybe to the only other thing I'll say is sort of his intro sort of tying into what Dan was talking about with the YouTube Partner thing.
+
+00:13:35.000 --> 00:13:47.000
+A number of years ago and I should have checked sorry you can look on the website to see for exactly how long it's been going on but I haven't Patreon for people who want to support time development.
+
+00:13:47.000 --> 00:14:01.000
+And the way that is priced is that are priced is that I don't charge based on just a flat monthly thing. It is instead based on a release, so that if I do a release in a particular month, people contribute to towards that.
+
+00:14:01.000 --> 00:14:13.000
+And to me that was important because I wanted to give myself a little more flexibility again because I'm juggling lots of things, so that if I needed to take a quote unquote sabbatical or break or whatever from anything I could I didn't feel like I was
+
+00:14:13.000 --> 00:14:19.000
+sort of robbing people of money which is I think an interesting kind of thing to think through.
+
+00:14:19.000 --> 00:14:24.000
+Anyways, that Patreon right now is around 1500 dollars a release.
+
+00:14:24.000 --> 00:14:29.000
+And that's as far as I can tell, kind of the ceiling on this so far.
+
+00:14:29.000 --> 00:14:35.000
+It is for sure like I I fully would admit that I am not very good at marketing.
+
+00:14:35.000 --> 00:14:50.000
+And so, I bet there's an argument to be made that I could be making like if I did XYZ thing, I could be getting more out of it. And so to me, like the interesting part to me is that Patreon is it this weird no man's land where, at the very beginning of
+
+00:14:50.000 --> 00:14:57.000
+it I said, I tried to come up with $1 figure that would say like, if I can reach this level, I will work on time full time.
+
+00:14:57.000 --> 00:15:07.000
+For me that was 20 $500, which, if you keep in mind, self employment tax in the United States that's not a lot, right remember 20 $500, a month at most.
+
+00:15:07.000 --> 00:15:15.000
+And so my intention all along with that was that this was not like I'm going to only work on twine, but it will become my main job.
+
+00:15:15.000 --> 00:15:19.000
+Obviously that gold never worked out at least her husband worked out so far.
+
+00:15:19.000 --> 00:15:26.000
+But at the same time, that is actually really good for the average compared to the average Patreon.
+
+00:15:26.000 --> 00:15:40.000
+The average Patreon is like way lower than that. In fact, and so you could say in some in some context or from a certain point of view, is actually been really successful, but it didn't get me to the at least the level where I was able to focus on this
+
+00:15:40.000 --> 00:15:42.000
+full time.
+
+00:15:42.000 --> 00:15:49.000
+So I think that's yeah that that's all the intro. that for me, I think.
+
+00:15:49.000 --> 00:15:59.000
+Cool. So that sort of get to know us. Some of you I think already know us or know parts of us, to various degrees. So if you I think know it's quite well a few, a couple of you.
+
+00:15:59.000 --> 00:16:11.000
+But that's one of the first third so keys for getting to know us sort of by the numbers like Chris was mentioning about numbers of Patreon and Taylor's mentioned for the connection to academia and published in various places.
+
+00:16:11.000 --> 00:16:23.000
+So we kind of an interesting intersection of a lot of these things as we sort of move into the second sort of two thirds, we have a, we have a bunch of topics we're going to sort of discuss and then we, we will as well open to questions so again if you
+
+00:16:23.000 --> 00:16:35.000
+have any questions, please use the word question, although there's not that many of us currently in here, but you can put in the chat or put them in discord or of course if you want to follow up on discord after this roundtable discord is also a great
+
+00:16:35.000 --> 00:16:41.000
+option or even on Twitter if you decide you want to follow any of us for, for any reason.
+
+00:16:41.000 --> 00:16:46.000
+But as we're moving into the QA, I want to give a little disclaimer at the top.
+
+00:16:46.000 --> 00:16:57.000
+So each of us represents a different combination of skills, interests and contributions to private and public audiences. However, we need to start with recognizing that we are three white.
+
+00:16:57.000 --> 00:17:10.000
+Some of us do intersect with queer and non divergent communities, but all of us easily pass within systems that oppress others you're not looking at like us, our responses come from a position of privilege and power.
+
+00:17:10.000 --> 00:17:16.000
+We all work in academics to academia to various degrees into various amounts across the number of years.
+
+00:17:16.000 --> 00:17:30.000
+But we have to continue to be parts of the side code and commentary and choices, particularly for other people. So while we will try to account for other groups people and performances, we cannot and will not speak for other people.
+
+00:17:30.000 --> 00:17:33.000
+We can't speak for everybody for the students that we do not hold.
+
+00:17:33.000 --> 00:17:44.000
+So there are contributions to communities we intersect with or play an active role in as it comes to twine an ink and other sort of related tools and communities that we do not a may not ever know.
+
+00:17:44.000 --> 00:17:54.000
+So with that said, ours is a particular position of power within a lot of these communities so we're going to sort of talk within that Chris as mentioned to being part of the point community I've twin committee, as well as the drag community.
+
+00:17:54.000 --> 00:18:01.000
+I have also been a part of that we are all three of us in academia so that already set this up for certain positions of power.
+
+00:18:01.000 --> 00:18:15.000
+So I just want to sort of throw out disclaimer so you people know there are a whole lot of additional community labor, that's done, and community supported these platforms, especially, especially on the twine discord that we are perhaps not aware of or
+
+00:18:15.000 --> 00:18:31.000
+cannot speak to, especially a number of private people who are continuing to support twine development in development, a lot of these tools privately or in direct messages that we just cannot possibly account for even have knowledge of, especially between
+
+00:18:31.000 --> 00:18:39.000
+minority groups and queer members with that has been a very ongoing support that I am aware of but of course, I'm not a part of.
+
+00:18:39.000 --> 00:18:56.000
+Usually, so that's sort of the other way. We are sort of three wide is talking about community labor, especially as it intersects with wine, which to become incredibly important, as a platform for queer creation for minority groups to create very interesting
+
+00:18:56.000 --> 00:19:00.000
+personal essays. So I just want to sort of throw that out there.
+
+00:19:00.000 --> 00:19:05.000
+So all of that said, It's an interesting declare display with all of this.
+
+00:19:05.000 --> 00:19:18.000
+Let's sort of talk about the community support of. I think we'll start with twine and sort of move into ink since in because a little newer to this space and as we said it's been around for for about a decade at this point.
+
+00:19:18.000 --> 00:19:33.000
+Even though, Chris mentioned is been various roles that element. And I guess we, we should also mention, along with Chris I will mention here along with Chris, or author of three other story format developers that are sort of part of the ecosystem.
+
+00:19:33.000 --> 00:19:44.000
+I'm not forgetting their last names but Leon, Thomas, and I, I support the snowman. A story format currently Chris supports the chat book story format.
+
+00:19:44.000 --> 00:19:52.000
+Leon, and I'm sorry Leon creepy Christmas leanza when Leon are not are not okay yes sorry.
+
+00:19:52.000 --> 00:20:07.000
+It's used to like just see people by their first names I'm very sorry. Yeah, Leon sports Harlow and Thomas Michael Edwards yes Kimmy supports the sugar cube it like puzzles like sugar cube yes not sugar cane was 21.
+
+00:20:07.000 --> 00:20:19.000
+Um, so these are also active developers who are also part of the twin committee and also contribute code and their own sort of story format stuff as part of twine so just to sort of make sure they also get a shout out since they're not here.
+
+00:20:19.000 --> 00:20:33.000
+Okay, so let's talk about a little bit about the how the editor is supported and how the story formats are supported which I think are sort of two interesting intersecting, but but slightly different question, slightly different questions and concerns
+
+00:20:33.000 --> 00:20:40.000
+that was sort of transitioning into thinking about how ink is being used within these spaces as well because like it's it's a real it relatively new.
+
+00:20:40.000 --> 00:20:52.000
+So Chris sort of the throw to you for a second. You mentioned sort of the Patreon and getting supported through that and I guess, for those people who don't know, could you talk a little bit more about what that release looks like so.
+
+00:20:52.000 --> 00:21:04.000
+So I know as a supporter of you that I sort of get those you do almost weekly sort of change logs or sort of interesting presentations what you're working on what you're thinking about could talk a little bit more about sort of what that looks like as
+
+00:21:04.000 --> 00:21:21.000
+sort of almost weekly plan development. Sure. Yeah. Um, so, I felt like I mean that's sort of, sort of platform or Patreon I guess just in case folks aren't familiar, it's the ideas that people can donate to an artist or creator or what have you, to support
+
+00:21:21.000 --> 00:21:33.000
+support them and patreon the platform leaves that extremely vague as to what that means. Exactly. They want to leave it like it could be you get exclusive access to certain content, right.
+
+00:21:33.000 --> 00:21:39.000
+So like for many other podcasts I listened to for example will mention they have a Patreon and you can support them and if you do that.
+
+00:21:39.000 --> 00:21:48.000
+If you throw money their way a certain you, it's almost sort of like the public TV model in the United States where it's like if you donate a certain level you get the virtual tote bag right.
+
+00:21:48.000 --> 00:21:56.000
+And in this case, you get the like in a podcast or something like that. You would maybe get early access to this episode.
+
+00:21:56.000 --> 00:22:14.000
+Or maybe you get a access to episodes that are not released to the public. Right. And so it's a quasi transaction right you give money to get a thing that is harder to translate for open source project like twine, because I do do releases but it is like
+
+00:22:14.000 --> 00:22:22.000
+that's the whole point of open source is that I give those away, essentially, right. And so there was very there for sure was a decision point.
+
+00:22:22.000 --> 00:22:35.000
+When as part of that process of coming back to where I was thinking like, well, there was a possibility that this could become a commercial product in some shape or form people through that are suggested that to me.
+
+00:22:35.000 --> 00:22:37.000
+And I was thought well that's a really bad idea.
+
+00:22:37.000 --> 00:22:43.000
+And I thought that would kind of killed fine. To be honest, If I'd went down that road.
+
+00:22:43.000 --> 00:22:56.000
+And so I had to think really carefully at least it was hard for me at least to think about what what does it mean, what kind of transaction Can you put around an open source project like this, if I'm going to go if I'm just taking as an assumption that
+
+00:22:56.000 --> 00:23:09.000
+I'm not going to sell this to directly, like, well How could I incentivize that there are hopefully some people out there that will want to support it out of their good out of the goodness of their heart, but people like getting stuff for money, like
+
+00:23:09.000 --> 00:23:11.000
+we're.
+
+00:23:11.000 --> 00:23:18.000
+And there's probably a whole other discussion about that how capitalism trains us to think that way that we want to give people money and we want to get things back.
+
+00:23:18.000 --> 00:23:21.000
+that's how that's how the world works, right.
+
+00:23:21.000 --> 00:23:23.000
+So anyway.
+
+00:23:23.000 --> 00:23:39.000
+So, to me, what I thought might be interesting. There are two incentives, there used to be three but the third one actually was a little too much, labor, actually, it was that if you give at at the $5 per release level, you get access to a weekly dev
+
+00:23:39.000 --> 00:23:42.000
+blog that I do, where I just document my work process basically.
+
+00:23:42.000 --> 00:23:54.000
+And I try, sometimes from time to time as I'm working on it and trying to think through what how something should work. I'll ask the question to people and try to engage a little bit in a dialogue there.
+
+00:23:54.000 --> 00:24:07.000
+There's another level where you get acknowledged at in a thank you section on the, on the documentation for tech book which is the sort of play runtime kind of thing for twine.
+
+00:24:07.000 --> 00:24:14.000
+And the third level which I did away with because there weren't that many takers for it was a chance to I did a monthly.
+
+00:24:14.000 --> 00:24:23.000
+I guess video call ironically now that we're all living in video calls it was sort of a new and weird idea to me and little scary to be like strangers you can talk to me for an hour.
+
+00:24:23.000 --> 00:24:28.000
+If you are willing to donate, and we can talk about whatever you want we can talk about.
+
+00:24:28.000 --> 00:24:35.000
+I mean, framing it inside twine not just like What did you have for lunch today or some other weird stuff.
+
+00:24:35.000 --> 00:24:39.000
+And the reality and I thought maybe it was sort of an interesting.
+
+00:24:39.000 --> 00:24:46.000
+It was, it was an interesting, there are ups and downs to it, the downs were that there was a lot of.
+
+00:24:46.000 --> 00:24:58.000
+I wouldn't say, I'm not even sure I want to say a lot. It was a certain amount of emotional labor, because I'm an introvert, and I'm meeting strangers is always a little bit hard for me and especially in an internet context where you're expected to lead
+
+00:24:58.000 --> 00:25:04.000
+a conversation hopefully instead of you just sort of staring at the video call awkwardly.
+
+00:25:04.000 --> 00:25:08.000
+That's a little bit tricky for me or was a little intimidating, to be honest.
+
+00:25:08.000 --> 00:25:20.000
+And secondly, I mean, so that was the downside the upside though is that I made really interesting connections to those people, and they were very, like I always came away from those those chats, as it were.
+
+00:25:20.000 --> 00:25:34.000
+Really not exactly energized but like it felt like I was making interesting connections as a, as a result of that, but I ended up not doing that because just there are oftentimes months where people didn't have an interest in doing that in the first place.
+
+00:25:34.000 --> 00:25:44.000
+So there's I was sitting there on a video call by myself, or not canceling the call, or it just overall just didn't feel worth it. In terms of the the labor involved as well.
+
+00:25:44.000 --> 00:26:01.000
+So I think that does that sort of kind of draw the picture for you. Yeah, yeah, yeah and so that also rolls into sort of the next connection which, which I think, for people who may not be as familiar with, so I know you're probably the best wine experts
+
+00:26:01.000 --> 00:26:04.000
+here Oh that's cool to various degrees.
+
+00:26:04.000 --> 00:26:17.000
+But I think if people are not sort of familiar with it which is kind of the the Division I wanted to get into. So, so Chris works on twine the editor and insert if you're using twine, you're probably also using a story format and in fact you, you kind
+
+00:26:17.000 --> 00:26:22.000
+of can't use the editor without a story format at this point, especially within 22.
+
+00:26:22.000 --> 00:26:31.000
+So there are sort of these these sort of Chris is working on the editor, and then as I mentioned the sort of other people including me who are also working on the story formats.
+
+00:26:31.000 --> 00:26:46.000
+And I think what's what's kind of interesting to sort of get to this labor issue as, as Chris which is saying is so okay there's there's ongoing support for the editor, but not necessarily and to varying degrees, I know.
+
+00:26:46.000 --> 00:26:53.000
+Both Leon and Thomas have I think tried this to various degrees of sort of getting support for story format authoring.
+
+00:26:53.000 --> 00:27:05.000
+I know as Chris mentioned previously was doing reports on snowman before transition to die started maintaining it now does occasionally so reports on chat book as part of that Patreon work.
+
+00:27:05.000 --> 00:27:20.000
+But I do know, sort of, or at least I currently know and perhaps this is, this has changed. More recently, that sort of Leon, Thomas and I don't sort of get any direct support for working on story format in particular, and well I'm not this is not, it's
+
+00:27:20.000 --> 00:27:28.000
+not me making the pitch to the for me I think in particulars, and especially Leon and Thomas you do substantially more work than I do.
+
+00:27:28.000 --> 00:27:35.000
+there is sort of that no financial backing, there is there is sort of.
+
+00:27:35.000 --> 00:27:45.000
+And I wish they were here to sort of speak to this but I do know there's there's sort of encouragement within the discord within like the infection forums of a new version comes out and conversations happen.
+
+00:27:45.000 --> 00:27:58.000
+And, and they both sort of have major supporters behind them to sort of you know suggest changes or play test and various things. So there is some support but but kind of like Chris was saying, which is kind of what I wanted to get into this division.
+
+00:27:58.000 --> 00:28:05.000
+There's an interesting labor support sort of invisible labor behind a lot of these sort of not just the editor itself.
+
+00:28:05.000 --> 00:28:10.000
+Chris was speaking to. But a lot of behind the story formats as well.
+
+00:28:10.000 --> 00:28:21.000
+I see somebody Chad has mentioned 30 years and we've never figured out a reasonable business model yes well let's just go to the issue right just giving away stuff and open source creates this kind of interesting expectation of you will continue to do
+
+00:28:21.000 --> 00:28:34.000
+that which I think is part of this continued conversation, sort of connected back to the chat and then moving into for those are the two of you could see why it's good see if our notes for this section.
+
+00:28:34.000 --> 00:28:49.000
+This idea sort of a twine workshop of what that would look like a part of the idea was, it was hoped that the the twin cookbook could sort of fill that role that sort of helped people more quickly get started with certain examples or terms.
+
+00:28:49.000 --> 00:28:50.000
+There's.
+
+00:28:50.000 --> 00:28:56.000
+I've written some posts about sort of my, my connection to the cookbook and sort of frustrations with it.
+
+00:28:56.000 --> 00:29:04.000
+Over time and and, but the the summary of a lot of this is that pack when I was starting in 2017.
+
+00:29:04.000 --> 00:29:14.000
+I reached out to a number of different people and didn't necessarily hear back from a lot of people would story format authors contribute various codes in various ways and other community members that helped.
+
+00:29:14.000 --> 00:29:26.000
+But I'd reached out to sort of people I knew were slightly more, much more famous than I were sort of within the community and I said hey I would love to have you contribute various code or contribute various things are just be a part of this and I heard
+
+00:29:26.000 --> 00:29:40.000
+nothing back. Some people said hey, this sounds interesting but I don't really have time, but generally was a no across the board to various degrees. I mean, nobody was rude or anything but it was either the silence or straight out know to like hey we
+
+00:29:40.000 --> 00:29:42.000
+don't know what this looks like or whatever.
+
+00:29:42.000 --> 00:29:56.000
+So, sort of moving into sort of these other sort of tangentially related things within particularly the 20 ecosystems which will I know, connect back to the ecosystem and we can sort of connect Taylor back into this, is that these these cookbook like
+
+00:29:56.000 --> 00:30:00.000
+things are often the work of a handful of people.
+
+00:30:00.000 --> 00:30:09.000
+I think the twine cookbook currently has like seven or eight people listed over it's now four years of coming up in four years I think in another month or so into into.
+
+00:30:09.000 --> 00:30:21.000
+I think July issue will be about four years and has maybe eight contributors maybe nine contributors total, and some of that contributions or sentences, and some of those contributions are hundreds of pages.
+
+00:30:21.000 --> 00:30:33.000
+So, sort of thinking within this thing of like, who builds these things who works on these things sort of like Chris was saying and as sort of Taylor was saying as a lot of these sort of tutorials or just made by people for various purposes or various
+
+00:30:33.000 --> 00:30:35.000
+things are various services.
+
+00:30:35.000 --> 00:30:38.000
+They're not connected, like there they are.
+
+00:30:38.000 --> 00:30:48.000
+I mean, to be kind of blunt about this despite the fact isn't recording the book twine cookbook for a very long time we should me for a number of the four years.
+
+00:30:48.000 --> 00:31:01.000
+So things like this and like Taylor I the unofficial cookbook was that's mostly us there's a couple of other people have contributed small things since we were working on it last year, sort of like fixes and various things but a lot of these sort of things.
+
+00:31:01.000 --> 00:31:15.000
+A lot of this work is the work of one person or two people or three people or in the case of like I said the technical crew and I think it's up to like eight now at this point, but sort of moving into that and sort of tailor to to push you back in this
+
+00:31:15.000 --> 00:31:18.000
+conversation.
+
+00:31:18.000 --> 00:31:31.000
+Um, what do you think, sort of thinking about it because because I know you and I, Taylor especially think are also working with in this space. What do we think of sort of the lessons we have seen from twine that we are just talking to you think we're
+
+00:31:31.000 --> 00:31:44.000
+going to see those same things shifting into incoming years or concerns about that particular do I know we've talked a little bit but Taylor Do you have sort of thoughts about what this might look like coming up for ink and as a similar trajectory to
+
+00:31:44.000 --> 00:31:59.000
+which one is also undergone um yeah I know that was even something we had kind of talked about is maybe one of the potential takeaways from this panel could be some of those connections between 20 and instance twine does have that longer history and it
+
+00:31:59.000 --> 00:32:18.000
+doesn't. So like, potentially, the community might be able to use some of those lessons and things to potentially learn from twine, um, one thing I know that we had kind of getting into maybe the, the recognition of this type of work, and I don't know
+
+00:32:18.000 --> 00:32:32.000
+if compensation is the word I want to use again that gets into that kind of ugly capitalistic like we have to find a way to get quote unquote compensated for these things but um, but that since, since all of us are in academia to one form or to one extent,
+
+00:32:32.000 --> 00:32:49.000
+um, that one thing that might need to happen is finding a way to have some of these things be more recognized in an academic context effectively because so many people who work on them come from academia and these things are not really effective we recognize
+
+00:32:49.000 --> 00:33:03.000
+no I was in a administrative position, last year from like 2019 to 2020 and our department, and I know I'm even though I wasn't hugely involved in like tenure and promotion and stuff like that.
+
+00:33:03.000 --> 00:33:16.000
+I know certainly a common grumble subscribe slash discussion we had as members of our department was that things like this are so frequently unrecognized like Dan has literally put hundreds of hours into making YouTube videos and tutorials that are useful
+
+00:33:16.000 --> 00:33:27.000
+in some of the classes that we teach because we teach things like climate ink. And while I know you get recognition from those people you know like suit our students know who you are and they're like hey yeah that's that's Danny makes tons of videos I
+
+00:33:27.000 --> 00:33:40.000
+know you showed the monetary you don't get a ton of recognition for it. And in terms of academic service that isn't something that's very well recognized either it's not really something you can very effectively put on like, I was just filling filling
+
+00:33:40.000 --> 00:33:48.000
+out an annual report the other day and there's no section on my annual report for making YouTube tutorials for my students so that classes are easier.
+
+00:33:48.000 --> 00:33:55.000
+So I think that's something that as Inc builds as an ecosystem that maybe, maybe one way to.
+
+00:33:55.000 --> 00:34:02.000
+I don't know for sure but maybe one way to avoid that problem is to try to get some of that support in place as the ecosystem grows as opposed to afterwards.
+
+00:34:02.000 --> 00:34:08.000
+But I don't know if you and Chris can speak to more about as how that happened over the development of fine.
+
+00:34:08.000 --> 00:34:21.000
+Well I'm actually have a follow up question for maybe the both of you is do you think there's a sort of bias. This is my own sort of an educated opinion or wondering is, do you think that there's a bias here because you guys are creating videos and putting
+
+00:34:21.000 --> 00:34:34.000
+them on a open platform like YouTube versus, for example authoring things in use it like a written documents or publishing and quote academic venues and things like that.
+
+00:34:34.000 --> 00:34:46.000
+I mean I would definitely say there's a bias toward that I think probably I mean, I can speak to why I do it and I think that for Dan there's probably some similarities to me, part of the reason we do that is because our students like videos right like
+
+00:34:46.000 --> 00:34:58.000
+if I give them a video they're much more likely to watch that than to read something and I have learned that you know over my years of teaching. So, and that might be the same for just the general community like the way you know we've made the cookbook
+
+00:34:58.000 --> 00:35:07.000
+and people use it and it's a useful resource but I think a lot of people would much rather watch a video then, then read through the cookbook so
+
+00:35:07.000 --> 00:35:09.000
+yeah I mean.
+
+00:35:09.000 --> 00:35:22.000
+So, to give people a little bit of background in the in the subtitle of this talk Platform as a Service, it was a little bit of a joke, the surface part is speaking of the third wheel on academia or research, teaching service platform as a service that
+
+00:35:22.000 --> 00:35:38.000
+that was a little bit of a joke that I don't think too many people got other than me because it's definitely a Dan joke, but as well platform existing as a service like we are sort of talking about the services behind a lot of these platforms, and to
+
+00:35:38.000 --> 00:35:51.000
+speak to sort of what Taylor was saying, because we have to fill up the same form, so I guess to give a little bit background, I tailored I work in work in the same program at UCF, so we both have to fill out the same sort of annual faculty review form
+
+00:35:51.000 --> 00:36:05.000
+I fix that the exact acronym, but it's very similar idea right there is no part for me to say hey yes I invested so many hours in this or so many hours in creating videos, either for my students, which of course is part of this pandemic I've done a lot
+
+00:36:05.000 --> 00:36:20.000
+more videos. But, as well as contributing to things like the twine specifications which will kind of haven't talked about yet but that's another thing sort of behind the scenes of formalizing a lot of the stuff, or as well so not to sort of promote myself
+
+00:36:20.000 --> 00:36:32.000
+but it contributed a little bit of like accessibility code to inky which is a tool we use to teach ink, and I've contributed a little bit of code now to the acuity integration plugin for similar idea, because I use these for teaching and I'm like man
+
+00:36:32.000 --> 00:36:40.000
+to be great if we had this thing like it'd be great if we could zoom text you know, since we're showing them in a big screen or just small little small things like this.
+
+00:36:40.000 --> 00:36:49.000
+conversations that come up like Caleb are saying, we start teaching with these tools and you're like, oh you know it'd be great if we had this accessibility thing, or this thing or students really like or this thing that we would love to have.
+
+00:36:49.000 --> 00:36:55.000
+So it becomes this kind of like little tiny micro services that build up towards a lot of this as well.
+
+00:36:55.000 --> 00:37:10.000
+And I think as part of this larger conversation like Taylor were just saying, and Chris was just saying yes we. These things are not necessarily recognize towards 10 year towards promotion internally I know there are a number of academics and this call
+
+00:37:10.000 --> 00:37:25.000
+right now that I have worked with and those I really respect to operate in similar circumstances that of creative work is often not recognized or or is recognized as part of service or recognized as part of teaching perhaps but it's not that price research
+
+00:37:25.000 --> 00:37:41.000
+right that thing that academia runs on like our Do you know you could create at YouTube tutorials, or you could publish a single article and the article will get more recognition within the power structures within academia for various reasons, or, you
+
+00:37:41.000 --> 00:37:46.000
+know, depending on your department at school perhaps equal recognition depending on whatever structures are in place.
+
+00:37:46.000 --> 00:38:15.000
+But it's similar to what sort of mentioned in the chat and sort of connected into this, as there is there is sort of a financial support aspect to a lot of us or time support or course release aspect to generating a lot of this stuff, you know i i i'm,
+
+00:38:15.000 --> 00:38:23.000
+harder to do anything else like with the twine committee, because I, you know, I'm trying to teach her trying to interact with my hundreds of students online all the time.
+
+00:38:23.000 --> 00:38:34.000
+I don't know if you want to sort of touch on that Chris of how much sort of the reverse situation that I think higher and over like most of our time is spent teaching and the other time is spent doing the other stuff.
+
+00:38:34.000 --> 00:38:36.000
+Do you want to sort of touch on that at all, Chris.
+
+00:38:36.000 --> 00:38:48.000
+Sure, yeah, I mean I'm in a very different position I think at least right now to you guys. Whereas, because the, the universe, or the institution that I'm teaching AP is an art school.
+
+00:38:48.000 --> 00:38:55.000
+And so there isn't quite sorry there's someone going a lot outside of your background.
+
+00:38:55.000 --> 00:39:13.000
+I'm sorry I was like I said there isn't quite the same kind of criteria perhaps in at work, at least in the particular program that I'm teaching and right now we're obviously I think I'm hoping that to a degree, like to say that I have, like my understanding
+
+00:39:13.000 --> 00:39:27.000
+of how the academic world really works as it were is relatively limited to be real, and I think, but from what I've seen, I think there's more of a focus at least in the program where I'm teaching on the work you're doing creative work you're doing.
+
+00:39:27.000 --> 00:39:39.000
+I mean, and so it's a completely different kind of mindset, I think, or feels like from hearing from you guys about how that works. I can't really say like it's better or worse or just just seems different basically.
+
+00:39:39.000 --> 00:39:44.000
+And so for me honestly teaching is I get a lot out of it personally.
+
+00:39:44.000 --> 00:39:58.000
+More than it is like a particular like, obviously it's not my bread and butter and like you were alluding to, and so I think I approached it in a much much different world, different way, I mean the classes I teach are very like studio oriented, where
+
+00:39:58.000 --> 00:40:09.000
+I'm sitting down with students as they work, and much much, it sounds like we were talking before the panel started we were talking about class sizes my classes are a lot smaller than what you guys are dealing with.
+
+00:40:09.000 --> 00:40:18.000
+And so it's a lot of individual relationships and talking about what interactive narrative means and things like that that really obviously I get a lot out of.
+
+00:40:18.000 --> 00:40:37.000
+And so, to me it is sort of a one job among many, like you were saying, and so it's not quite as I don't have the same feelings of sort of sink or swim, about it, where I might if I were full time in fact.
+
+00:40:37.000 --> 00:40:45.000
+Yeah, I guess there's sort of jumping into connect to sort of mentioned the chat do we see academia changing as a result of coded.
+
+00:40:45.000 --> 00:40:53.000
+I think my, my experience with a lot of this has changed as a result of I think other people starting to recognize.
+
+00:40:53.000 --> 00:41:08.000
+So, without getting on a soapbox about the the labor involved, and especially the emotional label involved with developing pedagogy and resources for online teaching which is a whole nother whole nother panel and books with a with a topic there.
+
+00:41:08.000 --> 00:41:17.000
+I think, as people script realize the amount of work involved with like, Oh yes, it takes a tremendous amount of work to make an online course or especially to teach zoom online.
+
+00:41:17.000 --> 00:41:21.000
+And to sort of speak to that for just a moment I can't afford my classes.
+
+00:41:21.000 --> 00:41:35.000
+Last, this semester service to spring I'm actually teaching course around summer but in spring taught all for online, and it meant, sometimes being online on zoom on a call like this for like six to eight hours a day, because I'm just in I'm either like
+
+00:41:35.000 --> 00:41:48.000
+teaching, or I'm in a student group in our I'm talking to whatever. And so that that also plays a toll and I takes a toll and plays a role to combine two different phrases there, and but I think especially as people have started in especially admin who
+
+00:41:48.000 --> 00:42:06.000
+may not have been as cognizant of sort of the labor involved in this, as they become more aware of these, these labor investments have also started to recognize like oh yes we need to invest in this or we need to invest in training our teachers are giving
+
+00:42:06.000 --> 00:42:24.000
+them a break, or, you know, to, to counterbalance the sort of emotional labor, so So how is it changing as a result of coded. Yes, and small ways. Like I said, admin becoming more cognizant of the the amount of labor involved or like a video production
+
+00:42:24.000 --> 00:42:39.000
+calls. I know, to speak a tiny bit i think i think a lot of budgets have sort of suddenly exploded of like yes, we certainly need cameras and lighting and green screens and all, all kinds of other things that just weren't part of budgets before that suddenly
+
+00:42:39.000 --> 00:42:51.000
+faculty budgets are like oh yes we suddenly need all these things because we have to teach from our own home studios now as sort of to speak a little bit that to myself You can't see it but but directly in front of me I'm looking at a camera and right
+
+00:42:51.000 --> 00:43:05.000
+behind the camera is audio baffling which I have on my walls because I record videos a lot, as well as had this sort of hanging Mike and I have a green screen behind me and I have some lighting and so I'd also sort of invested in in teaching in this in
+
+00:43:05.000 --> 00:43:17.000
+this mode and medium because it's something I spend a lot of time and I'm sorry I'm just taking a second to just check out chat. Yeah, so to roll up a little bit.
+
+00:43:17.000 --> 00:43:21.000
+Anastasia Salter also said that
+
+00:43:21.000 --> 00:43:34.000
+soon her I've talked about working on an open source press more theory and practice mountable to certainly help with academic recognition. Yeah, I think that's also part of this too is, is that it's been around for 10 years it's been around for a number
+
+00:43:34.000 --> 00:43:53.000
+of years, Inc. Recently, by the way, got an epic, which is not a description of the grant but from the company epic, epic mega grant, which is kind of too confusing.
+
+00:43:53.000 --> 00:44:03.000
+part of the Unreal Engine so that's actually coming along. I'm not part of that project but I sort of like glance glance at it everyone's well. So things like that the recognition of like oh this is a big thing in game development right this is a big
+
+00:44:03.000 --> 00:44:08.000
+get this award to people on the transitions a lot of this.
+
+00:44:08.000 --> 00:44:22.000
+I think as part of this. Now that we're sort of at 915 or so, something we've kind of not talked about that I think is worth dipping into is how do we see, which is conversations we were we were having before this in preparation of this Roundtable, how
+
+00:44:22.000 --> 00:44:27.000
+do we see twine and ink acting as platforms to various levels.
+
+00:44:27.000 --> 00:44:38.000
+Something we were having conversation about and some people have written about very recently, we're just kind of like I sent an academic both Chris and Taylor I was like hey here's this like, I guess it's like a 20 page 30 page academic article say hey
+
+00:44:38.000 --> 00:44:50.000
+this is academic article talking about twine as a platform like how do we feel about this. And so I guess I kind of want to throw that out to so we've talked a little bit about labor and support and voluntary connection to a lot of us but let's kind of
+
+00:44:50.000 --> 00:45:03.000
+talk about how do we see these platforms, or do we see these types of rooms or what type of platforms because platform ization is also part of this conversation of, you know what this does look like what effects does it have on an ecosystem, or corresponding
+
+00:45:03.000 --> 00:45:18.000
+networks effects to its network of communities of things feeding in and out of this. So, so to eat through either Chris or Taylor, who kind of want to jump in, about sort of about perceptions of ink or twine as platforms, we can sort of kick off this
+
+00:45:18.000 --> 00:45:24.000
+part of conversation as well.
+
+00:45:24.000 --> 00:45:32.000
+To me, um, I think it's important, or like as to for like off the cuff I would say sure their platforms.
+
+00:45:32.000 --> 00:45:43.000
+But I think more important, at least to me like I really feel like this space or this community or whatever has mature, to a degree, because I don't really see them.
+
+00:45:43.000 --> 00:45:52.000
+I don't see people I do obviously there are people who identify as like I'm just going to buy much time creator I'm a creator on whatever creator.
+
+00:45:52.000 --> 00:46:05.000
+But what I see more and more is that people are jumping between these platforms, and so they are like they're interested in interactive narrative. And so, depending on what kind of thing they're working on or what they want to do, we'll jump between these
+
+00:46:05.000 --> 00:46:09.000
+things, and they are just sort of tools in our toolbox.
+
+00:46:09.000 --> 00:46:24.000
+And so that I think that's really exciting because to me that that speaks just sort of maturity to the, the space, where is no longer like this is our one way of doing things, and those people over there, like, let's not talk to them.
+
+00:46:24.000 --> 00:46:35.000
+You know like or like this, my, my screwdriver is better than your screwdriver, like there's a lot of conversations that I think have happened and still happen like that right and and I think we're starting to get a little bit more mature about things
+
+00:46:35.000 --> 00:46:49.000
+and thinking, like, yeah, like these are all tools that we have available to us and we're going to jump between them as sort of suits us and so it's sort of this bigger body of kind of creators are artists working in the space rather than like, I'm going
+
+00:46:49.000 --> 00:46:59.000
+to commit to this particular platform. And like you know like I think I think last year's yellow there's a lot of discussion about Flash, Flash was basically ended that year.
+
+00:46:59.000 --> 00:47:12.000
+And a lot of people identified as like I'm a flash creator and like what in the world am I going to do now that flashes dead right i mean obviously people learn and adapt, but people got really invested in that platform for good reason.
+
+00:47:12.000 --> 00:47:21.000
+And I'm hoping that this sort of pattern where we see lots of different tools because obviously, we're not the only people are the only platforms in this space right.
+
+00:47:21.000 --> 00:47:34.000
+I'm hoping because there's a lot more diversity now that people just, it becomes less important about one particular tool over the other, and that these are different, you know they can compete against each other I suppose, but it's more, it's more about
+
+00:47:34.000 --> 00:47:44.000
+what we're expressing here versus a particular set of constraints or something like that that one particular tool has.
+
+00:47:44.000 --> 00:47:58.000
+Yeah, that's something I think, um, again came up in some of our conversations before this talk, but it's just been something I've seen consistently come up in conversations at almost like every interactive fiction conference I've identified is that we
+
+00:47:58.000 --> 00:48:06.000
+have this kind of like plethora of tools and we're starting to see people jump between one tool and another tool and something that we kind of addressed.
+
+00:48:06.000 --> 00:48:19.000
+Again, and he's prior conversations and that like I've talked about in previous papers and things like that is we start running into these challenges of knowledge transfer between the tools so so for example our notes we have the whole thing about inc,
+
+00:48:19.000 --> 00:48:33.000
+ink has nots and how do we describe what a knot is to various communities because somebody who comes from a CS background might think about what that story structure is very differently than someone who comes from like me I came from English programs
+
+00:48:33.000 --> 00:48:45.000
+and so when I first got introduced to apply in the way I thought about twine was very different than the way I teach about or think about twine now as someone who teaches game design, you know like, I recognize a lot of the.
+
+00:48:45.000 --> 00:49:05.000
+A lot of the things going on under the hood in terms of the code and stuff like that that I totally did not understand when I first probably started working with it so um so yeah i think that raises that question of if somebody's going to work with both
+
+00:49:05.000 --> 00:49:12.000
+it out loud, versus what twine calls a passage and if you look at the description of what an odd is and what a passages, there they are almost the same.
+
+00:49:12.000 --> 00:49:15.000
+They do very very similar things they function in very similar ways.
+
+00:49:15.000 --> 00:49:29.000
+And so I think that's going to be something as a, as a bigger interactive fiction community we're gonna have to figure out, you know, how do we have these discussions about what a choice means and interactive story and redefine what a choice actually
+
+00:49:29.000 --> 00:49:34.000
+is programmatically narratively, etc.
+
+00:49:34.000 --> 00:49:45.000
+And so yeah i think that those are going to become larger discussions that are going to be some things we have to talk about more often. Probably so.
+
+00:49:45.000 --> 00:49:59.000
+Yeah, especially so so Taylor and I have had a whole bunch of conversation is people have taught multiple tools and and I've also had this conversation with some of our audience today about what what these different terms mean, or do they even mean different
+
+00:49:59.000 --> 00:50:21.000
+things in these different platforms so Taylor mentioned ink and knots knot passages within twine yarn spinner which is a recent rebranding of yarn which exists, 2015 yarn spinner is now 2018 rebranding of that I'm using the term notes, and then even more
+
+00:50:21.000 --> 00:50:37.000
+recent platform as of last year was, which is based on yarn. Now this is always interesting word connections here, you also use the term node. So we had these terms of node and not knot passages, as well as red pi, which is another related tools printing
+
+00:50:37.000 --> 00:50:51.000
+visual novels uses the term labels, because it's based on Python so it thinks of sort of labels within that space. So we have kind of the all these interesting connected terms to all of this as well, different sections of a story.
+
+00:50:51.000 --> 00:51:06.000
+I think something that's particularly interesting is the idea of story is translated across a lot of these twine uses the term stories within your you know if you're looking at the 23rd to hear your stories, Inc uses a very similar term of stories sometimes
+
+00:51:06.000 --> 00:51:15.000
+projects because it also as connection to unity which thinks of things in terms of projects. So we have connection to all of us to
+
+00:51:15.000 --> 00:51:20.000
+sorry okay so connecting into something that's come up in the chat.
+
+00:51:20.000 --> 00:51:35.000
+What is the process behind making 23 which is where the, the 20 editor is and not a publishing hosting platform and waiting, connecting to fill a Mila, which I always have to think about before I say Philomena.
+
+00:51:35.000 --> 00:51:50.000
+So, yeah, so to connect to and Chris can sort of talk about the connection of the the editor slash hosting problem, which we've talked about some in the past where it's probably more complicated people realize, but especially, so the closing if you let
+
+00:51:50.000 --> 00:51:50.000
+me actually gave a talk last year as part of the the online yellow 2020 on Philomena because I had to just a little bit of insight knowledge on it.
+
+00:51:50.000 --> 00:52:06.000
+actually gave a talk last year as part of the the online yellow 2020 on Philomena because I had to just a little bit of insight knowledge on it. One of the reasons it shut down. So Colin mark which is a community member supported it for, I think six or seven years. and we're just paying for it out of pocket.
+
+00:52:06.000 --> 00:52:22.000
+just paying for it out of pocket. There was no model to put money towards it or support it or anything else and then I don't exactly know Collins internal reasons for doing this but telling basically came to the twin committee and said hey I would like to shut this down, would you would
+
+00:52:22.000 --> 00:52:30.000
+you be interested in hosting status somewhere else. And I think that was almost two years ago at this point covert obviously slow things down.
+
+00:52:30.000 --> 00:52:33.000
+Thank you. Yeah link to my talk from last year if you're interested in sort of what that looks like.
+
+00:52:33.000 --> 00:52:37.000
+but do continue on this.
+
+00:52:37.000 --> 00:52:50.000
+Yes, so it was just a one, it was just one person, supporting that for a long column which is supporting it for a long number of years, and kind of just decided the cost and sort of maintenance wasn't something calling wanting to continue to do.
+
+00:52:50.000 --> 00:53:02.000
+And so there has been kind of a struggle of finding a another solution to the hosting and hopefully I will say, without giving too much away, there might be a possible solution as early as next year there's currently some some stuff in the works.
+
+00:53:02.000 --> 00:53:14.000
+I'm not connected to the project but there are there are people who have saw this gap in here, and are trying to connect it but but Chris if you want to sort of speak to what the sort of difficulties by editor slash posting stuff.
+
+00:53:14.000 --> 00:53:30.000
+Yeah, and I'm just sort of before I do that a little bit of background because that you mentioned the the grant for incl or for in Crowther, and I think there's an important contrast to draw here, or and I was as I was thinking about this topic for today.
+
+00:53:30.000 --> 00:53:36.000
+You know, if you look at that has sort of an economic motivation behind it.
+
+00:53:36.000 --> 00:53:44.000
+Obviously it's was created by ankle right ankle produces games and their motivation, more or less, among other things like I'm not trying to say they're bad guys because I don't think they are.
+
+00:53:44.000 --> 00:53:55.000
+But they have sort of the motivation to put their stuff out there because now they can recruit for people to work on their games or work for them, and they don't have to train them on this internal tool right you can say instead.
+
+00:53:55.000 --> 00:54:01.000
+Now they can post a job posting like we're looking to hire a freelance person to design a narrative for a game.
+
+00:54:01.000 --> 00:54:04.000
+And you should know think, and people will be like, sure.
+
+00:54:04.000 --> 00:54:06.000
+I do, I know that right.
+
+00:54:06.000 --> 00:54:17.000
+And likewise epic sees the sort of kind of motive where they're seeing people adopt because they want to build a unity and they're like oh we don't have a tool like that for unreal so we need to make that equation, even out.
+
+00:54:17.000 --> 00:54:30.000
+Right. And so let's similarly, like the other big player that I think of for this stuff is choice of games, and they have their own language. Choice script for building interactive narrative.
+
+00:54:30.000 --> 00:54:36.000
+And that's also proprietary but they also have or not it's not really proprietary, it is owned by them.
+
+00:54:36.000 --> 00:54:41.000
+And so they have their own sort of kind of pipeline where if you want to publish using choice script.
+
+00:54:41.000 --> 00:54:50.000
+They will totally if your game is good enough, they will kind of make a deal with you basically know and hopefully everybody benefits from it, which is a pretty virtuous cycle.
+
+00:54:50.000 --> 00:55:04.000
+Overall, and in general what I see is a lot of the open source communities that we see as quote unquote successful in fact have some kind of corporate backing behind them, right, like Linux has all kinds of money funneled into and all kinds of resources
+
+00:55:04.000 --> 00:55:17.000
+funneled into it because Linux as it turns out benefits a whole lot of corporations, and then it kind of is this bedrock kind of element to a lot of these corporate efforts twine is a whole different story.
+
+00:55:17.000 --> 00:55:18.000
+Right.
+
+00:55:18.000 --> 00:55:30.000
+You know I've been in conversations with people that are like there now organizations that are trying to make open source work for people and say well go out and try to find corporations or businesses or whatever they're using your tools and maybe you
+
+00:55:30.000 --> 00:55:37.000
+guys can kind of have a conversation and make sure that this tool that this business really depends on can continue to exist.
+
+00:55:37.000 --> 00:55:51.000
+There isn't really an equivalent for fine, to be honest. And so a lot of what the the effort that people put into it, I think, including myself, obviously I see some actual like I have a Patreon I get dollars out of it right but a lot of people are just
+
+00:55:51.000 --> 00:56:00.000
+passionate about the thing, and I think that was true with what happened with Phil mela where I think Collins saw a gap there were people who are really excited.
+
+00:56:00.000 --> 00:56:15.000
+We're really excited up publishing was fine, but you know the story as it were for if you want it, if once you've made something which fine What do you do web hosting is complicated right and people like used to be able to host stuff in Google Drive,
+
+00:56:15.000 --> 00:56:24.000
+and they shut that down because they don't want to turn Google Drive into a web hosting service. Right. And so he saw a gap in the community and he had some technical technical know how and so forth, was able to set it up.
+
+00:56:24.000 --> 00:56:27.000
+but there's a lifetime, or a lifespan on that.
+
+00:56:27.000 --> 00:56:41.000
+There's expiration date on things like that, I think, because you know when things get less exciting and like it just becomes kind of a drudge, then you start to ask yourself, like why am I doing this, like it's not as exciting to me anymore.
+
+00:56:41.000 --> 00:56:55.000
+Right. And so, to bring it back a little bit, that's hopefully a role like a, an organization like interactive interactive fiction technology foundation can play, is that it becomes a home for projects that are important to the community.
+
+00:56:55.000 --> 00:57:03.000
+But those single people who are really passionate about it. Right. They eventually get tired of it, or maybe they don't, but oftentimes they do. Right.
+
+00:57:03.000 --> 00:57:17.000
+And that, that can be a home for that and to keep the lights on, and stuff like that and by sort of, to, you know, spreading that out and putting that into sort of this amorphous entity as opposed to one or two really committed people, that is, to me
+
+00:57:17.000 --> 00:57:28.000
+a healthier decision. So to answer the original question, which is why, why, why can you only edit twine stories on binary.org Why can't you publish stuff on there.
+
+00:57:28.000 --> 00:57:33.000
+It comes down to labor and liability for me.
+
+00:57:33.000 --> 00:57:35.000
+came down to labor and liability.
+
+00:57:35.000 --> 00:57:48.000
+I think as long as soon as you allow people as soon as you start hosting content that other people create, I feel, I know that it's a weird legal question but I feel like you have some responsibility for it, meaning like if someone is publishing hate
+
+00:57:48.000 --> 00:57:53.000
+speech or something terrible. Otherwise, on finery.org.
+
+00:57:53.000 --> 00:58:00.000
+That is my, that would be my responsibility to police that and to otherwise kind of manage it.
+
+00:58:00.000 --> 00:58:08.000
+And again, I'm one person working on this part time and that sounded incredibly stressful to me.
+
+00:58:08.000 --> 00:58:19.000
+If someone publishes copyrighted material on there somehow, or like you know rips their favorite video game and I get a takedown notice from Nintendo, or some weird thing like that I have to deal with that.
+
+00:58:19.000 --> 00:58:27.000
+And God forbid, like, Nintendo Sue's me I'm thinking of Nintendo because they're, they're super litigious right they love suing people that were copyright.
+
+00:58:27.000 --> 00:58:33.000
+And so all those things sounded like a nightmare to me to be honest those things like we're not things I wanted to mess with.
+
+00:58:33.000 --> 00:58:45.000
+Right. And the other piece so that's those are like the practical questions plus of course there's a labor of like I have to worry about backups and God forbid I lose someone's work and like the whole web site goes down and I'm just like I've ruined your
+
+00:58:45.000 --> 00:58:51.000
+class that you're teaching. I've ruined destroyed some priceless thing right.
+
+00:58:51.000 --> 00:59:04.000
+Anyways, and so that was just like it was just like this is way too much for me to take on as one person, right, like it was just way too much. So that's the short answer I mean the other like the more philosophical thing is to me that there's always
+
+00:59:04.000 --> 00:59:18.000
+been sort of this philosophical kind of thread running through time, where I believe in decentralization, right, like I like, I don't really want there to be I mean I guess someday there could be if people are interested in I don't think I would ever
+
+00:59:18.000 --> 00:59:30.000
+work on it. A twine verse, an app in the iOS store for example for twine, or some big websites that everything is owned by like I would much rather kind of distributed out to people.
+
+00:59:30.000 --> 00:59:39.000
+And so to me that's what I'm interested in in the sense of like your content is yours you own the things you write Are you the things you create your own, they belong to you.
+
+00:59:39.000 --> 00:59:54.000
+There is no end user license you need to sign in checkbox and not really read, right. I, that to me is my own personal take on it but I realized for sure there are benefits it is for sure, a huge friction point for a lot of people, especially in education,
+
+00:59:54.000 --> 01:00:06.000
+where they just want their used to like I go to send my students with website they create an account. They don't read the Terms of Use, and they check the box they move on and we just sort of use that as a resource and now, things that way more complicated
+
+01:00:06.000 --> 01:00:14.000
+for the collaboration story, or for being able to collaborate on things. And again to publish things again.
+
+01:00:14.000 --> 01:00:27.000
+Yeah, I think, um, there's an interesting difference there. In, 22 because like, as you mentioned, Inc. is a it was a small game design company but there's still a game design company right and i mean this the way in construction to maintain is a little
+
+01:00:27.000 --> 01:00:41.000
+bit different and as someone who's teaching this stuff, one of the, one of the guy I guess benefits of ink is that I feel pretty comfortable sending my hundred and 50 students to go get into every semester because I know ink is probably going to be there
+
+01:00:41.000 --> 01:00:52.000
+and it's not going to the resources, not just going to disappear out of nowhere because it's being maintained by a company, although interestingly, because somebody brought up and co writer in the chat earlier, I did actually see that happen within co
+
+01:00:52.000 --> 01:01:04.000
+writer I was taking a graduate class that's how I got introduced to ankle writer is that the professor gave us a assignment to make a story and a writer and literally during the class like right as we were going into finals and co writer went down that
+
+01:01:04.000 --> 01:01:16.000
+was when they cut support for in Colorado for about a year or two and then they just recently brought it back. Actually it's been back for I think since like last August, but, um, there was at least like a couple years span, where where it wasn't available
+
+01:01:16.000 --> 01:01:18.000
+that's actually why I transitioned.
+
+01:01:18.000 --> 01:01:31.000
+My Edgar Allan Poe thing from in CO writer to English because in CO writer was defunct and I was like okay I need to find a way to maintain this and so so raises an interesting question of as new tools, become available to me like start putting stuff
+
+01:01:31.000 --> 01:01:40.000
+from one school to another and things like that is like how, how is all this kind of work. Maintain because somebody mentioned in the chat.
+
+01:01:40.000 --> 01:01:52.000
+Earlier, just like what about publishing and sharing stories and stuff like that and obviously publishing and sharing these things are tied to the tools that they create them and so when these spaces, go down as creators we're, we're immediately thinking
+
+01:01:52.000 --> 01:02:04.000
+of like, Okay, how can we make this more stable or how can we find another place where we can put this another platform where we can put this connected back to the theme of the panel, I guess.
+
+01:02:04.000 --> 01:02:13.000
+Yeah, I think so. One of the things I'm interested in, as a scholar is also preservation and archiving and data representation.
+
+01:02:13.000 --> 01:02:23.000
+So one of the things I'm, I track as just me a damn thing is sort of the different formats these things arriving. Because, like, speaking of flashes someone who developed the flash as well.
+
+01:02:23.000 --> 01:02:37.000
+You can't run those anymore or you have to run them under sort of emulated circumstances which is an issue we're also occurring in video game preservation context and so story in context if we suddenly now need all this emulation stuff, which is developed
+
+01:02:37.000 --> 01:02:48.000
+by most of the time, developed by people outside of his companies like Nintendo has used some emulation software but they don't usually invest in emulation software if they do they're not telling us they're doing that, like we're not aware they're doing
+
+01:02:48.000 --> 01:02:59.000
+it. And the same with a lot of other these consoles and platforms as we now sort of think of think of flash within this range, and so something I track like I said it's sort of data representation formats, so.
+
+01:02:59.000 --> 01:03:14.000
+So, for those people who are kind of not aware of this, perhaps, as this is entire side topic because it's just a quick sort of connection elements, is that tweet, as a plain text format existed before tweeted and Chris can feel free to talk about this
+
+01:03:14.000 --> 01:03:15.000
+or not.
+
+01:03:15.000 --> 01:03:27.000
+But one of the sort of interesting aspects of moving into 22 is it became focused on HTML as like an import export format which makes it very very easy for people, especially students to share files.
+
+01:03:27.000 --> 01:03:41.000
+So, so one of the interesting knock on effects of that is that yarn picked up the tweet format and created their own format called yarn and then you're in kind of disappeared, and now yarn spinner has sort of popped up again with the same similar tweet
+
+01:03:41.000 --> 01:03:51.000
+variation format. And the same with wall which is like I said a variation on yarn which is like we've all the all these fun terms going around now.
+
+01:03:51.000 --> 01:04:00.000
+But what sort of interesting about this speaking of this data representation format is they are to a fair degree interoperable.
+
+01:04:00.000 --> 01:04:15.000
+Now 22 doesn't necessarily understand yarn format, but the yarn online editor understands tweet format and so so does the wolf format. So this is sort of interesting data representation issue within all of us to that there is a possibility to translate
+
+01:04:15.000 --> 01:04:29.000
+this back into a plain text format that then could be used to recreate HTML or other things. Now additional work is needed and I'm going to look into it a little bit myself but other people could could volunteer if they're interested in this.
+
+01:04:29.000 --> 01:04:42.000
+But there is this ongoing conversation as well as like how do we preserve these works because we we've seen flash it makes us work, like what do these html5 works look like in another few years like twine is 10 years old, Inc.
+
+01:04:42.000 --> 01:04:52.000
+I think is like five or six at this point. So, you know, what does the next five to 10 years look like, and we started to think okay how do we preserve a lot of this stuff, I will share.
+
+01:04:52.000 --> 01:05:05.000
+As part of updating that this is caution to the weeds, as part of updating the Treaty of Babel which people may not even be aware of, which is sort of this like thing that connects how interactive fiction identification numbers are generated like this
+
+01:05:05.000 --> 01:05:18.000
+is so into the weeds. I'm sorry, but anyway and updating all of this was conversations of how do we connect twine until this so that led into a conversation of okay what to twine one works look like.
+
+01:05:18.000 --> 01:05:28.000
+And so that would be the conversation of can we find some of the earliest twine one works that still exist, and and they, they do, and I'm sorry I'm trying to remember off the top of my head here.
+
+01:05:28.000 --> 01:05:43.000
+There's a work from Anna entropy from July, 2009 which which we currently think and I say we, and a few other people were doing this research currently think is the earliest twine one work that is on the interactive fiction database.
+
+01:05:43.000 --> 01:05:49.000
+It's afternoon and something something I'm sorry I'm not, I'm forgetting off the top of my head.
+
+01:05:49.000 --> 01:05:59.000
+Doesn't matter. But anyway, it's from July, 2009 and so it actually mentioned tweet it doesn't mention twine so it predates sort of the, even the branding of twine.
+
+01:05:59.000 --> 01:06:10.000
+But within all of this is sort of a connection to this preservation and historical context and Chris I don't know if you even want to mention to you but this is a great opportunity to talk about it.
+
+01:06:10.000 --> 01:06:15.000
+Yeah, let me try to rewind and like explain for.
+
+01:06:15.000 --> 01:06:20.000
+Because we would do you like here's the thing, like there's a lot of funny words floating around this whole thing.
+
+01:06:20.000 --> 01:06:23.000
+And I think.
+
+01:06:23.000 --> 01:06:40.000
+So one. Okay, so to start at the beginning of things, originally used to be like the twine, like the app twine would save your, your story when you're editing it in this funny format that I it was all powered by this particular programming language, it
+
+01:06:40.000 --> 01:06:44.000
+was not human readable, is the short version, as far as I know.
+
+01:06:44.000 --> 01:06:53.000
+And then when you went to go publish it, like when you're done with it you want to share with other people you put a creative HTML, out of it, and you post it wherever you want to.
+
+01:06:53.000 --> 01:07:08.000
+And so one of the ideas behind trying to the new version of twine, was that like let's not have two formats let's just make this all HTML and call it a day, because we're This is the world it's not that much more complicated to do it that way.
+
+01:07:08.000 --> 01:07:14.000
+So the issue here, or an issue anyway. Is that HTML, you can write it.
+
+01:07:14.000 --> 01:07:19.000
+You can like by hand. I mean, but you're probably not going to enjoy it.
+
+01:07:19.000 --> 01:07:34.000
+At least, I certainly like I've done my time in the HTML mines right and like you know I break code by hand and so forth for my jobs, the jobs that worked out and so forth and it's okay but it's not the most enjoyable experience and so like things like
+
+01:07:34.000 --> 01:07:47.000
+these other formats we're talking about like tweet and wall and so forth are basically like markdown where it's like, well, I want to write HTML I want to create a time like experience or an interactive thing.
+
+01:07:47.000 --> 01:07:51.000
+But writing HTML kind of sucks, and I want to make that writing experience better for myself.
+
+01:07:51.000 --> 01:08:04.000
+So there, you know like, just like with mark down there were like 50,000 different flavors of it, it's the same kind of situation, and, you know, it reminds me a lot of, there's a part in understanding comics were like, at the beginning of when movies
+
+01:08:04.000 --> 01:08:17.000
+were first thing everyone had their own movie technology and their way like their how big should the frames be and how many frames per second. They all had funny names for these different things, like I just remember one panel from understanding comics
+
+01:08:17.000 --> 01:08:31.000
+was like, Behold my zoom Proxima scope. Right. And that's the same kind of thing going on here, I think, where there's this like this sort of huge sort of there's lots of people with different ideas about how to make this work best and so forth along
+
+01:08:31.000 --> 01:08:43.000
+the way and interesting thing has happened, which is that I think a lot of the work that Dan has done has been to try to standardize on the this particular format of plain text writing.
+
+01:08:43.000 --> 01:08:57.000
+And that can therefore then then become like the way that we handle, you know, we can hand each other stories. And these tools understand it and we don't have to try to translate between well you know Colin's mean this and my format and question marks
+
+01:08:57.000 --> 01:09:09.000
+user used for this, you know like, I see that I see these things pop up regularly like somebody has like I kind of like this but I'd like it, like, here's my twist on it, and it's just lots of different, different competing standards, basically.
+
+01:09:09.000 --> 01:09:19.000
+And so that's interesting to me is that, you know, it's messy in some ways because it means that there are two standards now there's the HTML stuff, which is pretty solid.
+
+01:09:19.000 --> 01:09:29.000
+But then there's this plain text format as well, but for sure it is useful to have because you know to in, in terms of teaching and things like that nobody.
+
+01:09:29.000 --> 01:09:40.000
+Also, nobody wants to copy and paste HTML it's messy and error prone. Right. It's much easier if you can write it in a concise way that you can easily copy copy and paste into a thing.
+
+01:09:40.000 --> 01:09:45.000
+And so there's definitely utility for that as well.
+
+01:09:45.000 --> 01:09:48.000
+Excellent. Yeah, thank you.
+
+01:09:48.000 --> 01:09:57.000
+Yeah, sorry, an aspect of, for those of you don't know me I tend to get like oh yeah don't you do this thing this thing thanks thing and I'm talking about you know step II and you should have explained step B.
+
+01:09:57.000 --> 01:10:13.000
+But yeah, so we've got a couple of a couple minutes left maybe about three and a half, four minutes left, so I want to kind of close this on what ways do we think so we've, we've, we've isolated we've mentioned some issues, some problems they're kind
+
+01:10:13.000 --> 01:10:22.000
+of problems and some complex problems on another, and I and I guess I'll start with Taylor and then move to Chris and his last few minutes here.
+
+01:10:22.000 --> 01:10:38.000
+What possible solutions or a different approaches, or even ways of thinking about some of the things we've talked about these labor concerns. These platform concerns do we see as a possibility to improve this for the community or improve this for certain
+
+01:10:38.000 --> 01:10:48.000
+communities or contacts and you can sort of take that in any way you want, but I kind of want to end this on a good note to be like okay so we, you know, we've kind of talked about this some of these problems, you know, how do we how do we start to fix
+
+01:10:48.000 --> 01:11:02.000
+and, you know, what are ways we can start to as a community as academics address all this I know I'll be quiet so to talk but I guess we'll go Taylor and then Chris and then and then we'll close it out. I guess one thing. Maybe I was thinking about the
+
+01:11:02.000 --> 01:11:19.000
+connection so this is, um, and this maybe, maybe kind of touches on something that Chris brought up earlier to is maybe thinking of these lessons like the twine community in the community and more of the community surrounding the things that are getting
+
+01:11:19.000 --> 01:11:32.000
+made and the example I brought up in our notes earlier that we saw happen for twine. I don't know if something happened like this for Inca. And I think maybe this would be a cool future direction to see it go or maybe some of these other tools go is like
+
+01:11:32.000 --> 01:11:43.000
+for twine we saw something like the queer games boom happened right where like there was very specifically this type of game that was getting me with twine it's not just we're making twine games were making a specific type of quiet, Twain game that speaking
+
+01:11:43.000 --> 01:11:45.000
+to a specific issue.
+
+01:11:45.000 --> 01:11:58.000
+And like I said, I don't know, I may just not be aware of it but I don't know about happening for India, like we see in games getting made I don't know if we necessarily see the queer in games boom, or something like that happening.
+
+01:11:58.000 --> 01:12:03.000
+And I think that's useful in the sense that it helps to.
+
+01:12:03.000 --> 01:12:07.000
+It helps to unify those communities around something other than the tool right like it.
+
+01:12:07.000 --> 01:12:21.000
+Obviously the white community is going to unify around playing because that's the thing they're using to make twine stories, but but I think having a type of twine story a type of ink story I think, in particular, 22 Twins how's that so I think that it
+
+01:12:21.000 --> 01:12:32.000
+be really cool to see something like that for ink and maybe as a community, um, I don't know how individuals I mean maybe individuals get involved in that by just making those kinds of things.
+
+01:12:32.000 --> 01:12:44.000
+So, from a community level that might be a harder question to tackle like how do we get the community to do that but um but I think as individual craters that's maybe a potential way to do that like that's that's maybe met some motivation behind trying
+
+01:12:44.000 --> 01:13:00.000
+to make like a queer in game for example so for me and I forgot actually let me just to revisit something I said earlier, like, one thing I wanted to sort of shout out here is the reason this HTML stuff we're talking about actually has a lot to do with.
+
+01:13:00.000 --> 01:13:11.000
+I read acid free bits, which is a yellow published sort of set of recommendations on how to make sure stuff lives for a long time, and then had a huge effect or huge influence on me.
+
+01:13:11.000 --> 01:13:19.000
+So I just wanted to note that because I, it's one of those things I don't think I've really talked about that much but it was a huge, a really big thing for me.
+
+01:13:19.000 --> 01:13:23.000
+But to Dan's question about like well how do we make this better.
+
+01:13:23.000 --> 01:13:40.000
+I think a lot of it is trying to figure out how to dismantle some assumptions that people make, which is that a lot of the people who are working with twine have never really had that much programming experience before they've only been kind of consumers
+
+01:13:40.000 --> 01:13:51.000
+of programs or applications or whatever they're not used to the, the idea of like yeah I can like this apple this thing I'm running right now I can change this myself, I have the knowledge and skills or whatever to do it.
+
+01:13:51.000 --> 01:13:58.000
+You're not going to be able to do it today or whatever but maybe down the road as you get more experience with things.
+
+01:13:58.000 --> 01:14:10.000
+And so they have a lot of the people in the community I see have sort of this, this, there's a, they always say like they did this with twine, they decided to do this they, they're going to do a release next month or whatever.
+
+01:14:10.000 --> 01:14:23.000
+And I'm like, there is no day there's me or and there's a bunch of us right it's not just me, but my point is there are individual people who are, and this is something within the realm of possibility, right, that this is like a healthy open source community,
+
+01:14:23.000 --> 01:14:35.000
+ideally like thing it's not just a one directional thing is that people actually can contribute, and they have a voice rather it's not just, I think you should do this and I'm going to convince you to do this.
+
+01:14:35.000 --> 01:14:42.000
+Ideally, it's a situation where I think you should do that or I think we should change, and I'm going to, I'm going to do it, or I'm going to find people who can help me make this happen.
+
+01:14:42.000 --> 01:14:52.000
+And people aren't, to a certain degree I think they're not used to that because our thinking like that because it's like imagine like you're like Microsoft Word sucks.
+
+01:14:52.000 --> 01:14:54.000
+I think it should like.
+
+01:14:54.000 --> 01:15:00.000
+I think the pages to be twice as big or something like that, or whatever, I don't even know what features you could add the word at this point.
+
+01:15:00.000 --> 01:15:11.000
+And, you know, that's essentially shouting into the void right like there's some page you can go to on Microsoft's website and like suggest a feature or something like that but maybe five years from now, they'll get around to it.
+
+01:15:11.000 --> 01:15:24.000
+And they're so they're used to this sort of relationship to their software where it's just like, take it or leave it buddy. And by the way, like it's going to cost you $20 a month now, and it's a totally different situation here and people like it's an
+
+01:15:24.000 --> 01:15:26.000
+education thing it's an outreach thing.
+
+01:15:26.000 --> 01:15:39.000
+It's a bunch of different things and it's sort of how do we shape or how do we encourage people to migrate from a used fine, or in, or whatever to like, I'm, I feel like I'm a sophisticated user of it, too.
+
+01:15:39.000 --> 01:15:49.000
+I want to contribute and I want to help it, or I want to change it in some way, like that that kind of transition, I think is really important to foster.
+
+01:15:49.000 --> 01:16:00.000
+Well, so we're just slightly over time, but I want to thank everybody for showing up this roundtable hopefully you got something out of it. I'll share reshare some of the resources we mentioned like the cookbook and other things Chris's Patreon.
+
+01:16:00.000 --> 01:16:30.000
+If you want to go support that. There's also shared in the chat but thank you everybody. Thank you everyone for your time both current people and future viewers are this.
+

@@ -1,0 +1,1205 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.000
+So I guess is like we will almost have to stick on time to start while, perhaps we start and what while waiting for so and Nana.
+
+00:00:00.000 --> 00:00:09.000
+So maybe I make the queue for the hoax, and mean that we are studying, so we can play the jingle.
+
+00:00:09.000 --> 00:00:38.000
+So you will welcome everyone to this panel, which is around. Okay, so let's let's see the trailer. Let's see the jingle bells.
+
+00:00:38.000 --> 00:00:56.000
+Alright, so welcome everybody to this track a three year old conference with panel title around artificial in January the tax. So right now here on soon we have three panelists.
+
+00:00:56.000 --> 00:01:09.000
+We're going to give the short presentation. So while we are also waiting for the last panelists. Swear manner. So hopefully, she will. She is now connecting It's good to see you.
+
+00:01:09.000 --> 00:01:12.000
+Yes, just on time.
+
+00:01:12.000 --> 00:01:16.000
+Let's see what we can see. Yeah. Great.
+
+00:01:16.000 --> 00:01:34.000
+Thanks for all joining so regarding for today protocol which is the same as every track. So we will have the short presentation by each panelists. And after that we'll we'll have around 2025 minutes each panel will ask, ask each other questions and we
+
+00:01:34.000 --> 00:01:34.000
+will start the debate.
+
+00:01:34.000 --> 00:01:50.000
+start the debate. And then afterwards. At the very last 2025 minutes we will open up the floor for everybody to to ask questions so Natalia also sent out a program.
+
+00:01:50.000 --> 00:02:02.000
+And maybe we can take a look later. So, shall we just kick start with the first panelists we have Alex Mitchell, so I will pass the floor to you.
+
+00:02:02.000 --> 00:02:09.000
+Okay, Thank you, let me just share my slides.
+
+00:02:09.000 --> 00:02:18.000
+Okay, hopefully that's working I think so sure I'm not blocking anything okay thank you everybody. It's good to be at ELO again.
+
+00:02:18.000 --> 00:02:33.000
+So I'm going to be doing a short talk, based on the paper that I prepared for the session which is looking at two different text generation systems I sort of storytelling systems a dungeon and project December, which are both built on the same platform
+
+00:02:33.000 --> 00:02:47.000
+both using open AI is either GP two or gt three generative storytelling says general text generation system, and what I'm basically going to be focusing on is looking at how the kind of the differences between these two systems say I dungeon is a very
+
+00:02:47.000 --> 00:02:54.000
+sort of straightforward system that tries to get people to come in and play essentially a generative sort of version of the text adventure.
+
+00:02:54.000 --> 00:03:07.000
+Whereas project December is a chat bot but it's sort of basically wrapped in a fiction as if you are a researcher in the 1980s working on some sort of fictional AI system.
+
+00:03:07.000 --> 00:03:21.000
+And what I'm going to claim is that that use of so differently ization of the process of interacting with the AI in Project December, is it encourages the, the director to think of it more critically about what's going on in terms of the API.
+
+00:03:21.000 --> 00:03:27.000
+So just to give it a little bit of sort of theoretical background. This is the concepts I'm making use.
+
+00:03:27.000 --> 00:03:39.000
+So one is the idea of different authorization which is from Russian formalism from Victor schlocky this idea that art in general and what in from the Russian foremost perspective is basically all about using certain devices that tried to make things that
+
+00:03:39.000 --> 00:03:50.000
+are sort of familiar to us unfamiliar to sort of break us out of optimization and make us, slow down our process of experiencing things or the world around us and pay attention to them to maybe see them in a new way.
+
+00:03:50.000 --> 00:04:02.000
+And in some of my work on art games I've taken this and used it to propose something called poetic gameplay, which is the idea of taking the mechanics in the game and doing something similar to what poetic language so sort of break people's expectations
+
+00:04:02.000 --> 00:04:15.000
+so that they stop and think about what they're doing. So, so the basic short version of my claim in this paper is that that's something that project December does with this next generation process, which is something that's completely absent in a dungeon,
+
+00:04:15.000 --> 00:04:18.000
+and it creates a very different sort of experience for the user.
+
+00:04:18.000 --> 00:04:21.000
+So yeah dungeon event, no one's come across it is.
+
+00:04:21.000 --> 00:04:35.000
+It's essentially as a, an adventure game built on top of AI text generation system from open AI, and it's very much framed like an adventure games like something you'd see in the Start screen of the game.
+
+00:04:35.000 --> 00:04:47.000
+You can go in and start a new game and this which was from a number of different worlds, and it's very sort of clear about how great it is right it's like, lot of the text you see around it is really proclaiming the sort of in a very uncritical way the
+
+00:04:47.000 --> 00:05:01.000
+technology that's being used. So essentially, it looks like a text adventure you've got some information about what you're seeing you can type in pretty much anything you want, and it will try to from its purpose of text generate a response, and it's
+
+00:05:01.000 --> 00:05:05.000
+somewhat coherent but often quickly goes sort of often strange directions.
+
+00:05:05.000 --> 00:05:13.000
+So what's interesting about this is it's sort of trying to, I think, give the player really a feeling of control over this somewhat uncontrolled what AI system.
+
+00:05:13.000 --> 00:05:15.000
+So it's like a game.
+
+00:05:15.000 --> 00:05:24.000
+The text around it very much sort of uncritically celebrates this with cutting edge ai, ai talks about how great this system is how you can do virtually anything you're like there's never been a game like this before.
+
+00:05:24.000 --> 00:05:33.000
+right so it's really really pushing this is something wonderful and exciting, and it is sort of fun to play with. But there are limitations with it.
+
+00:05:33.000 --> 00:05:38.000
+And one thing that the interface really does is it sort of puts you in this position of control or at least the, the, the illusion that you have control.
+
+00:05:38.000 --> 00:05:48.000
+So you can use a whole bunch of these different features to interactively undo what does the I said to you if you don't like the what the response was, you can step back and change it and try again.
+
+00:05:48.000 --> 00:05:59.000
+So for example if I didn't like this response to when I asked a certain way the king isn't here, I can try it again, and it'll keep running those same phrases past the AI and regenerate them until you get something that you like and then you can move
+
+00:05:59.000 --> 00:06:08.000
+forward. Of course you don't really have control but it gives you this feeling of control, and you can actually even go back and edit some of the earlier parts of the text.
+
+00:06:08.000 --> 00:06:19.000
+So it's very much sort of pushing you into this position where you feel like you are in control of what's going on, and everything around it is sort of making you feel like this is sort of a wonderful AI that you have control over and you can get it to
+
+00:06:19.000 --> 00:06:31.000
+do what you want. There are some sort of acknowledgments of possible limitations within the system so if you poke around the help, it'll say like anything is possible literally anything, although it does admit the AI is hard right and that they're still working on this
+
+00:06:31.000 --> 00:06:45.000
+and things are going to improve gradually, but it's still a very much sort of uncritical and celebratory, which I'm saying this a few times because I want to contrast contrast this with the way that project December portrays itself.
+
+00:06:45.000 --> 00:06:58.000
+Right, and recently there's actually was a, an incident where the company that makes the identity and attitude they started putting in filters because there were some issues with people using to basically creating stories that were not safe for work and
+
+00:06:58.000 --> 00:07:10.000
+moving into areas that were very questionable such as involving children so they they put in some filters but this filters are very primitive, and there was a major backlash from the user community, which I think actually they were sort of unprepared
+
+00:07:10.000 --> 00:07:21.000
+for, and I feel it comes out of the fact that they were so uncritical about their technology. So I think this sort of goes along with this idea of just accepting this technology is wonderful and this is, I mean that that someone posted on Reddit, about
+
+00:07:21.000 --> 00:07:30.000
+to, in response to what was happening if it was, if there's a boy. In this case it's the Phantom Menace the VA would respond to that and sort of say something weird happened Let's stop.
+
+00:07:30.000 --> 00:07:38.000
+So of course it's important that they put in these filters, but the fact that the user community was completely unprepared and the companies themselves are completely unprepared.
+
+00:07:38.000 --> 00:07:41.000
+I think reflects that and critical attitude towards the technology.
+
+00:07:41.000 --> 00:07:54.000
+So, in contrast, I'd like to talk a little bit about project December, which is similarly is built upon open API's GBT to end up to three texts generation system, in this case is it's an art piece, created by Jason roller, and it starts off with the same
+
+00:07:54.000 --> 00:08:06.000
+same sort of celebratory tone, but I don't know if this is too small to see but if you look at their splash page. It's basically a sort of an old looking tech poster from an ad tech conference, talking about their, their exciting new AI, and it doesn't
+
+00:08:06.000 --> 00:08:10.000
+tell you much else about this and said that you can pay $5 to get access.
+
+00:08:10.000 --> 00:08:20.000
+And if you're like me and you're thinking oh this is interesting, maybe I want to write a paper about this I'm going to pay $5, you will go in and then you discover that actually the whole thing is wrapped in this fiction, of you being a researcher in
+
+00:08:20.000 --> 00:08:22.000
+the 80s working on some cutting edge AI.
+
+00:08:22.000 --> 00:08:27.000
+So, the interface itself looks like it's from 18 to 20 or something.
+
+00:08:27.000 --> 00:08:38.000
+teletext terminal. It's 1982, you are having to enter so the password to get in. Once you get in the sort of fiction actually sort of is embodied throughout the entire interface in the interaction.
+
+00:08:38.000 --> 00:08:46.000
+So you seem to be playing this character professor, Professor Patterson, you can go and if anyone remembers that of Unix systems, you can check your can file to see what you're supposed to be doing.
+
+00:08:46.000 --> 00:08:56.000
+And you gradually have to try and figure out what it is actually what the purpose of this system is so you can poke through these these are menu systems you can have a look at your account details you gradually figure out some of the commands.
+
+00:08:56.000 --> 00:09:06.000
+So you can actually spin up these matrices, which are the API's that are running on that up to two or two to three system, and start to gradually figure out the commands.
+
+00:09:06.000 --> 00:09:17.000
+But the thing about these commands is that they they're very sort of evocative the way their names so for example you can you can kill a matrix to bring it to an early death, which is very different from the sort of just going back and undoing and redoing
+
+00:09:17.000 --> 00:09:21.000
+stuff that you see in a dungeon.
+
+00:09:21.000 --> 00:09:27.000
+And there's also, there seems to be sort of a game like aspect of this is a few things that you're so attached to do as Professor of Medicine.
+
+00:09:27.000 --> 00:09:35.000
+And as you start to interact with the eyes, you start to get this sort of feeling that there's something else going on right it's a bit more so than just trying to create but that's text adventure you can.
+
+00:09:35.000 --> 00:09:47.000
+So, eventually these. These AI start to degrade and die. And as you can see here hopefully the output starts to become corrupted and sort of glitchy, and eventually the matrix actually dies.
+
+00:09:47.000 --> 00:09:59.000
+And there was some interesting discussion on the Reddit threads around the system where the artist Roja was talking to these users and thinking about sort of how to deal with some of the facts, like for example sometimes maybe the AI discussion isn't
+
+00:09:59.000 --> 00:10:09.000
+going the way that you want it and you'd like to sort of restart, and they were trying to figure out a nice way to do this and the discussion actually sort of reveals how clearly they were thinking about the evocative Miss of the experience.
+
+00:10:09.000 --> 00:10:20.000
+So one of the users was saying oh yeah actually they liked the idea of a Kill Command, because it sort of keeps this idea that perhaps you don't have complete control over what's going on, and even the idea of kill I think it's you to start to think about
+
+00:10:20.000 --> 00:10:33.000
+about what are you doing, can you just kill the AI and Robert suggested actually what he'd like to do is have the AI had the last word, so that he could actually sort of give us some feeling as to how the AI might feel that you're killing it.
+
+00:10:33.000 --> 00:10:44.000
+Right. And actually that's that's what you did right so you can kill the AI and in this case it will say I survived you really are not bad for a newly infected human and this case of Samantha one of the eyes.
+
+00:10:44.000 --> 00:10:56.000
+So it starts to call out to the artists like Jason. Jason help I'm dying I'm scared. and it sort of goes on eventually dies. Right, so if I think at least for me, it creates a little bit of a different sort of connection to the, the, what you're doing,
+
+00:10:56.000 --> 00:11:09.000
+doing, as opposed to just thinking this is a tool that I can work with. And for me it reminded me of for example, how 9000 dying in 2001 as he was sort of being sort of showing that he's afraid and as David said pulling out of memory cards.
+
+00:11:09.000 --> 00:11:14.000
+So it's a very different feeling from just using open API as a tool.
+
+00:11:14.000 --> 00:11:25.000
+So I haven't been taking my time but I think I'm just about the winter wrapping up. So, the main point I want to get across here is I think there's a very different big difference in the way in which the whole AI dungeon experiences is wrapped, and is
+
+00:11:25.000 --> 00:11:38.000
+framed it's a very sort of unabashedly enthusiastic and critical sort of portrayal of what you can do with next generation. And for me it sort of felt like that was partly why both the company and the users were sort of unprepared for the problems that
+
+00:11:38.000 --> 00:11:49.000
+come up with the sort of technology and it led to the, the current backlash from the user, user community. In contrast project December is really grounded in this particular fiction, everything is that it through this frame of this next to the 1980s teletext
+
+00:11:49.000 --> 00:12:00.000
+terminology if you are this professor and, at least for me it encouraged a more reflective and critical view of the technology. So I think that perhaps this is a way of sort of framing things and taking more of a sort of evocative approach, maybe can
+
+00:12:00.000 --> 00:12:07.000
+help us to think more critically about technologies we use both for a minute and we're generally in our lives.
+
+00:12:07.000 --> 00:12:13.000
+Okay, so that's that's my quick summary of the paper, of course you can go and read the paper it's linked from the program. Thank you.
+
+00:12:13.000 --> 00:12:19.000
+Thanks. Thank you, Alex for your comparative analysis.
+
+00:12:19.000 --> 00:12:32.000
+And for the next one we have a week, right, who will give us the priests representation around this topic page rise platforms Quantcast corrupted code and robotic poetics.
+
+00:12:32.000 --> 00:12:35.000
+So I hand over to you.
+
+00:12:35.000 --> 00:12:52.000
+Yes. So, I want to introduce the top title again as you can see dystopic plagiarize platforms. So this paper or this presentation seeks to interrogate and I suppose attend to this creative work I created called the out of biography of Kim Jong on which
+
+00:12:52.000 --> 00:12:54.000
+I created with Brett Griffin.
+
+00:12:54.000 --> 00:13:09.000
+So it can be regarded as if found text in the sense of you know a kind of Goldsmith. It's a form of overt plagiarism masquerading as covert plagiarism, in accordance with Holland baton Jeffrey, and it's somewhere between I think a second generation, third
+
+00:13:09.000 --> 00:13:21.000
+generation he led, I think, again, it's a second gen, he lit masquerading as third generation, you let in that many pots of within it kind of stolen Oh, really mixed or repurposed.
+
+00:13:21.000 --> 00:13:35.000
+I originally had the idea not to focus on Kim Jong on but to focus on Mickey decide and I had this larger broader scale project of this idea of corrupting the code with text corrupting not in the computational sense but in the end the moral sense.
+
+00:13:35.000 --> 00:13:42.000
+And I conceived of this this work of corrupting multiple words that he let using besides text.
+
+00:13:42.000 --> 00:13:52.000
+This was kind of problematic instance and according to readings absurd by LeBron Barton called South ski the author is certainly far from dead when it comes to the production of obscene literature.
+
+00:13:52.000 --> 00:14:06.000
+And in my experiments with this the author was far from dead and the result was, it was simultaneously a failure and success and as much as it was just so obscene and, for the purposes of exhibition, it was just, I wasn't comfortable with what I was what
+
+00:14:06.000 --> 00:14:20.000
+I, you know, ended up producing a kind of maybe a bit uncomfortable, which again was sort of the point and I sort of thought of making it more palatable decide but that seemed if, you know, at least disingenuous but almost immoral.
+
+00:14:20.000 --> 00:14:31.000
+So I went to another form of obscene literature, I suppose a more palatable or not empowered will obscene literature propaganda, focusing on North Korean propaganda.
+
+00:14:31.000 --> 00:14:46.000
+I then took a bunch of works from the publication tape up to six separate works. And so for example and injected them with North Korean propaganda so for example I took this work for the pool players at the goal and shovel by Lillian Yvonne but from.
+
+00:14:46.000 --> 00:15:02.000
+As you can see here if you click it generates text, and I recreated it to look like to use North Korean propaganda so here you get you know trust noblest toughest course and see a great design miraculous historic at someone that someone.
+
+00:15:02.000 --> 00:15:14.000
+In addition to the, to the propaganda I also incorporated vocabulary and phrases from journalism, critical of the North Korean regime into these generative work so very occasionally you get flashes of sort of criticism.
+
+00:15:14.000 --> 00:15:24.000
+So something like this, that kind of talk Chrissy nauseated demilitarized, but it was of course greatly outweighed proportionally by the North Korean propaganda.
+
+00:15:24.000 --> 00:15:36.000
+So on the one hand I guess his work is an experiment in propaganda delivery it emulates the relentlessness of the North peered Korean indoctrination indoctrination machine and shows how born digital writing can be stolen and misused.
+
+00:15:36.000 --> 00:15:41.000
+and so doing I hope it reveals digital literatures authority.
+
+00:15:41.000 --> 00:15:51.000
+This work also seeks to capture the perspective of a curious intelligent yet powerless. Dr k citizen and demonstrate how they might struggle to engage with local culture.
+
+00:15:51.000 --> 00:16:04.000
+I was interested in these questions from, from a marina is critical code studies, particularly in relation to the idea that I was kind of doing a fictionalized plagiarism of code, you know, but the code is not enough, in itself, it is crucial to explore
+
+00:16:04.000 --> 00:16:12.000
+context, who wrote the code when and why what language was the code written, what programming paradigm was used, was it written for a particular platform.
+
+00:16:12.000 --> 00:16:24.000
+How did the coach change over time and these are televised us questions I suppose our most interest to me what material a social constraints impacted the creation of this code, how does this code respond to the context in which it was created, how was
+
+00:16:24.000 --> 00:16:32.000
+the code received by others, and it was this last question in terms of this idea of stealing code and corrupting code, is there an inherent in this through the code.
+
+00:16:32.000 --> 00:16:47.000
+Even if you kind of pump it full of of material that's perhaps not all intentional and perhaps potentially nefarious beyond these generational works a robotic Kim Johnson was created to read the generational works this emulated a potential propaganda
+
+00:16:47.000 --> 00:17:08.000
+device similar to the radio is there installed in North Korean homes who's volume can be turned down but never off. And here's just a short video of it in action.
+
+00:17:08.000 --> 00:17:10.000
+a concrete
+
+00:17:10.000 --> 00:17:18.000
+connected love and fixtures.
+
+00:17:18.000 --> 00:17:21.000
+on unification.
+
+00:17:21.000 --> 00:17:33.000
+I'm quoting window who wrote all about robotic poetics is there was a fundamental link between language and robots, whatever material institution, they may have arms and legs cogs and wheels and engines, the crucial ingredients, the ones that separate
+
+00:17:33.000 --> 00:17:47.000
+robots from wrenches, their instructions instructions that perhaps inscribed in some concrete medium, but they are quintessentially abstract existing more in the netherworld of code that in concrete form that code another world is where humans and robots
+
+00:17:47.000 --> 00:17:53.000
+inevitably meat is where humans almost robotic, and why robotics, almost human.
+
+00:17:53.000 --> 00:18:05.000
+So these generative works this was produced new content at the same time they very much the limited and this, the limitation that is exploited by this fictionalized North Korean creator of The Autobiography of Kim Jong on.
+
+00:18:05.000 --> 00:18:18.000
+So I suppose as a general question for the panel is, unless which which kind of ties into the the keynote, which was for me this morning for you probably yesterday, as a general question for the is artificial German text a liberating experience or a limiting
+
+00:18:18.000 --> 00:18:29.000
+one or, I suppose as as Raymond crooner would put it in criticizing realists. Another very wrong ideas equivalents of the subconscious and liberation between chance automatism and freedom.
+
+00:18:29.000 --> 00:18:41.000
+Now this sort of inspiration, which consists in blindly obeying every impulse is in fact slavery, the classical author who wrote his tragedy observing a certain number of known rules it's free, other than the poet writes down whatever comes into his head.
+
+00:18:41.000 --> 00:18:51.000
+He's obviously not talking about robotic poetics but I still feel that this this anecdote from a long time ago is still very it's very prescient I know as discussion today.
+
+00:18:51.000 --> 00:18:54.000
+So I'll stop there. But thank you very much.
+
+00:18:54.000 --> 00:19:06.000
+Thank you, David for showing us a very different sort of this kind of physical manifestation of language and generative tax, which is really enlightening.
+
+00:19:06.000 --> 00:19:25.000
+So, then we have the next presenter, so because they haven't uploaded tax before but I think they have put it in the chat. So you can see the PDF here we have Natalia federal law and eagle on travel, I hope I pronounced it correctly, which they will talk
+
+00:19:25.000 --> 00:19:32.000
+about generated medicine. Thank you. So I hand over to you.
+
+00:19:32.000 --> 00:19:51.000
+You have wonderful to be back at the yellow even in digital form. So we are going to be talking about the process of creation vocabulary for Mandelstam based ordering generator. So at least what regenerate that is based on what is conscious program on
+
+00:19:51.000 --> 00:20:05.000
+composing a program for composing verse that was created in 1978, and can be probably considered as the earliest noun, rushing forward in January.
+
+00:20:05.000 --> 00:20:17.000
+So, it is based on the storms of first volume of poetry stone which has undergone three additions.
+
+00:20:17.000 --> 00:20:28.000
+The initial program is based on the first edition. We actually had to base our work on the third edition.
+
+00:20:28.000 --> 00:20:31.000
+So, this
+
+00:20:31.000 --> 00:20:39.000
+creating recreating and emulating digital Mandelstam is actually the second attempt.
+
+00:20:39.000 --> 00:20:43.000
+In the first, the vocabulary was created manually.
+
+00:20:43.000 --> 00:20:54.000
+Well, this not necessarily causes mistakes but in our case, it did. So we had to, to create the new version.
+
+00:20:54.000 --> 00:21:07.000
+And I'll say words about the context. So in order in the context of the program, consulting program for composing those.
+
+00:21:07.000 --> 00:21:19.000
+In order to understand the concept, in which on our program composing whereas by British Council was produced we have to know that, unlike in other language contexts.
+
+00:21:19.000 --> 00:21:25.000
+The first January the rooms and Russian a beard later bomb musical compositions.
+
+00:21:25.000 --> 00:21:32.000
+Even though the rooms of statistical analysis date back to the young adult the 19th century.
+
+00:21:32.000 --> 00:21:44.000
+So, the research in statistical analysis alone to examine the properties of Russian celebrity Sonic prosody represent the bomb, as a formula.
+
+00:21:44.000 --> 00:22:03.000
+So, in case of this article that you see which is a translation of what is called says, article, that would be tax generator that includes one subject, one credit good one object, either an adorable modifier or an attribute.
+
+00:22:03.000 --> 00:22:26.000
+So, Russian language generated with three did not based its aesthetics, our own form elements, the draw their own classical forms inherited in the 19th century, even though it was the research or former lists that contributed to understanding how to model
+
+00:22:26.000 --> 00:22:46.000
+the computational text. So, what is Scott's computer linguist at MIT at the moment. And that moment. Mathematical mechanical Faculty of Moscow university graduate was working on his research from 1972 to 1975.
+
+00:22:46.000 --> 00:23:05.000
+And he was trying to see if there is anyone in the Soviet Union, working on the same theme, but he failed, he failed because it was a mathematical community, and the research was done in the linguist community so he didn't know.
+
+00:23:05.000 --> 00:23:14.000
+The several years of working on Besson for, which is big electronic calculating machine.
+
+00:23:14.000 --> 00:23:18.000
+He noticed he actually couldn't succeed.
+
+00:23:18.000 --> 00:23:39.000
+What caused his success was hailed as part of the contemporary Russian verse metrics and it makes published in 1974, but the book analyzed contemporary and traditional way to verse, and general laws of organization of Russian Voytek word, and this made
+
+00:23:39.000 --> 00:23:45.000
+considerable contribution to the work. So, I'll hand it over to your
+
+00:23:45.000 --> 00:23:46.000
+Hello.
+
+00:23:46.000 --> 00:23:53.000
+The first day of involved creating correct and correctly Mark category of stamps stone.
+
+00:23:53.000 --> 00:23:57.000
+This program will be addressing.
+
+00:23:57.000 --> 00:24:17.000
+Unlike in the first version of the emulator. It was a strategy program completion, was the recovery to eliminate human factor imposing stress. For instance, was the purpose of creating digital vocabulary, it was important to find alternative digital edition,
+
+00:24:17.000 --> 00:24:23.000
+as opposed, or discount versions that
+
+00:24:23.000 --> 00:24:26.000
+you
+
+00:24:26.000 --> 00:24:36.000
+Monday's Tom collected works I think it is book, as because 2014. That was mostly based on 1988 edition of stone.
+
+00:24:36.000 --> 00:24:47.000
+The next steps that need to be taken, was the elimination of repeated words and quotation marks. Once we had the purpose of a unique words.
+
+00:24:47.000 --> 00:25:07.000
+The part of speech of each one needed to be defined was the purpose of labeling the parts of speech reduced my stem instrument from Yandex, and it is a library of the instrument mostly provide execute, but we still had to do some manual verification.
+
+00:25:07.000 --> 00:25:18.000
+In order to generate the right blind lines, we have a gallery needs to contain information about the syllabus and threats.
+
+00:25:18.000 --> 00:25:20.000
+This bro, bro.
+
+00:25:20.000 --> 00:25:24.000
+To the most labor consuming part of the project.
+
+00:25:24.000 --> 00:25:45.000
+One of the reasons for that is the greatest race in Russian awards was those online service would deal with the words, and others Leytonstone understand we use this word in the forms of widows case and number with considerable time limitation and we're
+
+00:25:45.000 --> 00:25:58.000
+able to solve this problem. Automatic automatically with the help of morphing into through Cowell was the limit to the number of words process to consider considerably.
+
+00:25:58.000 --> 00:26:07.000
+Sold downs of work on the generator. Despite all the difficulties mentioned about her we were able to build. Correct.
+
+00:26:07.000 --> 00:26:13.000
+Vocabulary which you can see on this image on our presentation.
+
+00:26:13.000 --> 00:26:26.000
+So, in the vocabulary you see a number of syllables, about a stitch, or the initial form all these parts of speech of this word, so those before the stress.
+
+00:26:26.000 --> 00:26:31.000
+stress syllable ensembles of to the stress.
+
+00:26:31.000 --> 00:26:47.000
+So what we what we plan to do next is to implement the algorithm, and to prepare the translation of this algorithm English. Thank you.
+
+00:26:47.000 --> 00:26:55.000
+Thank you for your presentation that Talia and you guys also really great to bring in Russian.
+
+00:26:55.000 --> 00:27:06.000
+You lead into the platform you know that we are solid like someone from Japan and then, and then also Singapore and then for you.
+
+00:27:06.000 --> 00:27:16.000
+So it's really enlightening. And I also see this may be also a connection to the next presenter because also focusing on the structure of the, of the literature.
+
+00:27:16.000 --> 00:27:31.000
+So we have the next presenter, swim, Linda cucina, I can put answer correctly. So you will be presenting the topic on January to tax reading strategy and interpretation of options.
+
+00:27:31.000 --> 00:27:33.000
+I head over to you.
+
+00:27:33.000 --> 00:27:49.000
+Okay. So, everyone. Let me share the screen.
+
+00:27:49.000 --> 00:27:54.000
+Not sure if you can see my presentation.
+
+00:27:54.000 --> 00:28:13.000
+Thank you so much. My talk is devoted to the reading and critical reflection of the generated electronic literary texts from the structural point of view, old expanse of generated texts, can be divided into standard schemes or patterns words combinations,
+
+00:28:13.000 --> 00:28:24.000
+or the hill sentences that are switched according to the software algorithm authors use these schemes to make generated text close to the natural human language.
+
+00:28:24.000 --> 00:28:38.000
+Most of the verbal patterns of the generated electronically literature works, look like meaningful expressions. But what makes them meaningful and what kind of meeting can reduce get from these patterns.
+
+00:28:38.000 --> 00:28:52.000
+Is it possible to get the static idea of the whole generating to work, analyzing this horrible part is one of the strategies to reveal the author sympathetic concept of the generated work is to identify the key.
+
+00:28:52.000 --> 00:29:09.000
+The key words greed of the separates extol, as well as the whole work, the keywords greed allows to catch this magic dominant and then move to the interpretive strict strategies are because of the whole world.
+
+00:29:09.000 --> 00:29:19.000
+Some electronically through regenerative texts are based on classical way through texts fragments of which are modified using various recombination options.
+
+00:29:19.000 --> 00:29:33.000
+For example, the scenes bond between bionic man for instance the first request which is based on the, as we know, on the Congress of text by Emily Dickinson and more boutique or what will buy 100 novel.
+
+00:29:33.000 --> 00:29:43.000
+Here are some examples of the generated starters in the scenes Bob it's been from the structural point of view.
+
+00:29:43.000 --> 00:29:55.000
+All texts Isley forced into typical schemes used by the software algorithm to form unique stones, so the distance can be divided into the color schemes.
+
+00:29:55.000 --> 00:30:10.000
+Some of them you can see on the screen. Each dancer consists of four non brand lines with no punctuation marks, except for dashes which still taste the process of combining verbal elements, the use of refrains.
+
+00:30:10.000 --> 00:30:29.000
+I mean the repetition of individual words or lines leads to the formation of this magic cement semantic greed of the work, which contributes to the recording of this magic content have both a single stone or the whole set of stones and the word.
+
+00:30:29.000 --> 00:30:41.000
+The words that form this magic read in the scenes far between include groups of nouns, with the meaning of a large space or unlimited numbers such as time sky eternity.
+
+00:30:41.000 --> 00:30:51.000
+The second group of look sense includes most nouns and verbs with the semantics of space restriction coffee nailed to.
+
+00:30:51.000 --> 00:30:54.000
+And the third group is formed by predicted.
+
+00:30:54.000 --> 00:31:05.000
+Bill Gates with the meaning of an incentive to election aimed at getting out of close based institutional restricted restricted movement.
+
+00:31:05.000 --> 00:31:23.000
+The wheel is on, for example the diverse on the loops on starters are verbal blocks containing holes to perform certain actions, the first two lines of the stones in the scenes Bob between usually contain calls for correction directed outside for example,
+
+00:31:23.000 --> 00:31:40.000
+costing less a turn and climb customers don't leave and so on. The last lines. On the contrary, implements the semantics of attachment, lack of freedom, no movement in ability to leave a particular place.
+
+00:31:40.000 --> 00:31:46.000
+For example, built to last nail took off in
+
+00:31:46.000 --> 00:32:04.000
+the stones are generated in the same spot between can be easily interpret it into a set of meetings with the help of the recipients interpretive efforts, the involvement of the reader in the cement semantic formation of the generated text is one of the
+
+00:32:04.000 --> 00:32:22.000
+immutable conditions of electronic generated part. One of the probable interpretation of the scenes for between is to implement the idea of contrast, which is generally coming to the world order in the technocratic era, it's becoming more and more obvious
+
+00:32:22.000 --> 00:32:41.000
+that the first space, it's configured in the world with the infinity of this see sky eternity. The virtual virtual space of the World Wide Web. is contrasted with the isolation of a particular person, the limitations of natural communication in the modern
+
+00:32:41.000 --> 00:32:42.000
+world.
+
+00:32:42.000 --> 00:32:45.000
+the interpretive tactic.
+
+00:32:45.000 --> 00:32:55.000
+In this case, is like horrible interpretation, when the first line uses a keyword image for action in cocoa. This isn't a word.
+
+00:32:55.000 --> 00:33:13.000
+In the second and third lines. This image is distributed with a single sentence. And the last line is a metaphor, the keywords in this case are like primitive texts, like minimal models of the text content, which they are the key, the interpretation of
+
+00:33:13.000 --> 00:33:21.000
+keywords suggests the consideration as indicators or the word content, and even it's done.
+
+00:33:21.000 --> 00:33:29.000
+So, the system like brief summary of my work.
+
+00:33:29.000 --> 00:33:38.000
+Thank you. Thanks so much for your structural analysis that links to your incredible interpretative approach to the work.
+
+00:33:38.000 --> 00:33:43.000
+So I think, for the coming 1520 minutes.
+
+00:33:43.000 --> 00:34:02.000
+We're just more around to see whether the panelists have any questions to each other and then afterwards we'll open the floor. So, do you have anything you want to clarify or us between dependent this, they they are like some ego and Italia, and so then
+
+00:34:02.000 --> 00:34:13.000
+then.
+
+00:34:13.000 --> 00:34:29.000
+I can also kick start with some of the questions that I also have in mind as well. Because when I read through the papers. I feel like there are different forms of critical ality that exists dressing in each of the papers, some make it explicit for example
+
+00:34:29.000 --> 00:34:42.000
+like Alex, you make it explicit like by doing the comparative analysis like one is critical. One is less critical and the other papers also mentioned about these kind of critical reflections to technologies.
+
+00:34:42.000 --> 00:35:07.000
+So I guess is like, just to open up the floor, in a way, I'm just wondering, We often use the term right is critical, critical ality and often relates to how to create the space with your literature for reflection, but it's at the same time is also a
+
+00:35:07.000 --> 00:35:22.000
+This kind of generating aspects. So I guess it's like, Can Can you all may be sort of like responding to the questions or or thinking about what what is the critical, critical realities doing here in your paper.
+
+00:35:22.000 --> 00:35:35.000
+And, and how does this kind of critical perspective and able forms of discussion.
+
+00:35:35.000 --> 00:35:44.000
+Guess I don't know how we how we decide who's going to start where we can't look across the stage and see who wants to grab the microphone so I'm just going to jump in.
+
+00:35:44.000 --> 00:35:52.000
+Yeah, I mean I think there's, I was trying to think of sort of how this criticality is coming across and all the different talks that we decided I guess I can start from mine.
+
+00:35:52.000 --> 00:36:08.000
+I think I mean what I was thinking about is trying to consider what the response of the reader is sort of being triggered by as part of what we're doing, which I do think something comes across petroleum in the salon has a discussion just now it's sort
+
+00:36:08.000 --> 00:36:25.000
+of these generative forms, I think, what, maybe. I think doesn't get looked at so much is the sort of the way in which we're interacting with the creative work and that's what I was trying to focus on right the way in which a dungeon sort of frames the
+
+00:36:25.000 --> 00:36:40.000
+experience and how that maybe affects the readers response versus the way that project December is doing that and I think that's for me so I sort of trying to focus my critical lens I guess on the way in which the presentation and the framing of the work.
+
+00:36:40.000 --> 00:36:55.000
+Maybe reveal certain things or hide certain things from the, the readers Flash Player, which I think is maybe something that should be carefully thought about more that often is.
+
+00:36:55.000 --> 00:36:57.000
+That's that's just my quick thought.
+
+00:36:57.000 --> 00:37:15.000
+No, thanks. And how about they make for sure yours. Yeah, I mean, my, my intention with this I suppose it's been working in some ways it is a form of practice library search in that I wanted to take some existing literature and repurpose it and then re
+
+00:37:15.000 --> 00:37:28.000
+do something the complete opposite of the, you know, intention of the work, and then see I suppose what's left What do they have in common, what do they set right Is there something from the initial work that retains that is, you know, intentionally that
+
+00:37:28.000 --> 00:37:47.000
+in the in the retaining code that exists in the form that exists and and in that regard, I'm still kind of trying to to sub 10 the work I'm still serving the progress process of doing that, um, yeah, I think, because I also think you'll work is is also,
+
+00:37:47.000 --> 00:38:01.000
+I think, like for example like Alex work the way of how he described is very focusing on the regional experience, or how the audience, interacting with the work, or whether there is a space created for reflections right.
+
+00:38:01.000 --> 00:38:11.000
+And for yours is also like any cell is is very political. I mean your work is about propaganda and also the platform, what what is the platforms doing there.
+
+00:38:11.000 --> 00:38:21.000
+And then the last two presenters retaliate go and select learner also talk about like structure is a very different approach in terms of the critical reality.
+
+00:38:21.000 --> 00:38:26.000
+I think
+
+00:38:26.000 --> 00:38:48.000
+criticality with the digital mental stamina, this point Mandelstam was not exactly officially allowed Lloyd so the gestural going into galaxy on the Bardo discuss comes into choosing this particular work for, for his generator, though.
+
+00:38:48.000 --> 00:39:05.000
+I was my background I was mostly studying generated text which is not following classical liberals in case of gods of this is a very classical 19th century on with Ryan numbers.
+
+00:39:05.000 --> 00:39:27.000
+So, doesn't really engage in any critique of language except for the search of the minimal unit of meaning. So, what guts states, is that the minimal unit The meeting is just produced by this for four parts of the sentence.
+
+00:39:27.000 --> 00:39:47.000
+So you take subject predicate object, and modify and you get a sentence which can be connected toward the boys experience is probably connects us with this question that we had in the chat about the fictional author.
+
+00:39:47.000 --> 00:39:59.000
+So, these four parts of sentences are enough to create this experience of not Mandelstam but some kind of fictional author
+
+00:39:59.000 --> 00:40:08.000
+and me a lot of us have a chat, you have a comment on the chat Do you want to sort of elaborate on that.
+
+00:40:08.000 --> 00:40:10.000
+Well the the metadata.
+
+00:40:10.000 --> 00:40:12.000
+Metadata comment.
+
+00:40:12.000 --> 00:40:15.000
+Well,
+
+00:40:15.000 --> 00:40:28.000
+In, in did
+
+00:40:28.000 --> 00:40:32.000
+And, well,
+
+00:40:32.000 --> 00:40:55.000
+most health. Yeah, yeah, yeah, yeah, yeah, just to just to build that like, you know, I, it's amazing to me that the kind of work that has to go on behind the scenes, just to prepare language, and prepare that has that so that it can recreate rhyme.
+
+00:40:55.000 --> 00:41:05.000
+It can capture the stress patterns right because rhyme isn't just sounding like it's it sounds like after certain stress patterns and so on.
+
+00:41:05.000 --> 00:41:17.000
+And then I think about. So first of all, it puts this huge burden on on us, as programmers to encode all that whenever you're generating a lesson in Spanish.
+
+00:41:17.000 --> 00:41:24.000
+I don't know if Russia does the kinds of conjugations that happened.
+
+00:41:24.000 --> 00:41:25.000
+For sure.
+
+00:41:25.000 --> 00:41:32.000
+So, so that's, I mean how do you encode all that so those are real challenges.
+
+00:41:32.000 --> 00:41:36.000
+It's interesting that in English.
+
+00:41:36.000 --> 00:41:52.000
+Of course, there's this service called Word Nick, that, that, it's, it's, I'm sharing a link to their about page, it's, it's a nonprofit organization, it's the it's an online dictionary.
+
+00:41:52.000 --> 00:42:13.000
+that rhymes with this, and through their API, you can you can you can get that. It even has semantic connections in pairs are related words. So, so, so this is, you know, it escalates right at some point it gets to where it's sort of larger than than
+
+00:42:13.000 --> 00:42:16.000
+what a, an artist funnel programming.
+
+00:42:16.000 --> 00:42:38.000
+Practice can do without, without, I mean, I love the artists at all right like I I engage in it, and I think it's important to do it, but I wonder I wonder, I mean what the stakes are and all this, like we do all kinds of language generation and we saw
+
+00:42:38.000 --> 00:43:02.000
+some examples with David Wright, taking repurposing a poem from paper, a minimalist engine, right, to then add this language, and then produce these neat generated pieces, but then also we have Alex's work with a dungeon, right, that, that, that, you
+
+00:43:02.000 --> 00:43:04.000
+know, it.
+
+00:43:04.000 --> 00:43:23.000
+You, you just kind of throw it into this sort of black box that is supposedly user friendly and, you know, all really, you know, natural language so we're seeing all these parents have sort of little and large right.
+
+00:43:23.000 --> 00:43:46.000
+where we have a fairly constrained elegant engine that then produces this incredible variability. Right, so, so again here we have the challenges, right, that sort of self contained data sets are typically kind of encoded right to give the results we
+
+00:43:46.000 --> 00:44:00.000
+want, and then the sort of more corporate or large nonprofit develop things that then become the sort of services and black box, things that you use to access that.
+
+00:44:00.000 --> 00:44:13.000
+So, I just kind of made it a question, kind of blasted it towards everyone but I'd love for you all to kind of talk a little bit about some of those tensions.
+
+00:44:13.000 --> 00:44:24.000
+Do you have any response for other presenters.
+
+00:44:24.000 --> 00:44:37.000
+I'm sorry I was trying to multitask I was reading chat questions and listening good reveals question at the same time I think they sort of overlap, to some extent, yeah I mean I guess not going to try and just say something that somehow relates.
+
+00:44:37.000 --> 00:44:45.000
+For me, I think what's very interesting here is sort of this these struggles we sort of seem to have with controlling these things, and sort of knowing what we're going to get.
+
+00:44:45.000 --> 00:44:57.000
+And I know I mean that's when I've sort of dabbled in making my own stuff there's always this sort of once you start working with something generative, and you sort of have a sense of how the stuff you're putting into the system is going to give you a
+
+00:44:57.000 --> 00:45:03.000
+result and I mean sometimes as an artist you want to sort of have control over things, but at the same time it's interesting when you don't have control.
+
+00:45:03.000 --> 00:45:11.000
+And I think some of what's going on here is the, particularly with the maybe like vi dungeon stuff is that you have this.
+
+00:45:11.000 --> 00:45:20.000
+I mean there's sometimes there isn't a clear sort of acknowledgement from the way in which something is framed or the way it's put out that it is not really controllable.
+
+00:45:20.000 --> 00:45:30.000
+And I think that's, I mean, as an artist, it's sort of exciting when things do stuff that you don't expect it to. Right, but at the same time. I mean, so, Zach mentioned.
+
+00:45:30.000 --> 00:45:44.000
+Taylor am in the Microsoft chat bot that went really offensive within like an hour or something right so I think it's when things sort of go like that particularly when they're they're put out by my personal for example that you start to realize that
+
+00:45:44.000 --> 00:45:57.000
+all this stuff happening underneath which maybe it'd be good if we were more aware of and more sort of encouraged to think about and not just trust the system right i mean for me, that also sort of just goes beyond things that you let me it makes me think
+
+00:45:57.000 --> 00:46:11.000
+think about like, why do I see certain people in Facebook and other times I don't see certain people right and I should I be thinking a bit more about the algorithm that decides which things I will see in my, in my newsfeed, so I think this this whole
+
+00:46:11.000 --> 00:46:26.000
+sort of idea of being a bit more aware of what's going on underneath, and thinking about it in a reflective way is important for us in our, in our lives in general not just in, and I guess maybe that's what it can do for us to help us to, to be more reflective
+
+00:46:26.000 --> 00:46:33.000
+and instead of focused on to not just our literature that we're consuming and enjoying but also our everyday life.
+
+00:46:33.000 --> 00:46:41.000
+I don't know that that's just a sort of natural reaction that may or may not connect to some of the things that you guys are asking.
+
+00:46:41.000 --> 00:46:46.000
+But there's also like a chat dialogue here from Rebecca.
+
+00:46:46.000 --> 00:46:55.000
+So do you want to read allow your questions, I know David Sarnoff also respond as well but will be also good to put it up on the floor.
+
+00:46:55.000 --> 00:47:05.000
+So us asking something about beyond the availability of the open source Do you want to elaborate on your question.
+
+00:47:05.000 --> 00:47:13.000
+I can also read it as well. Okay. Can you can you can you hear me. Yeah. Okay.
+
+00:47:13.000 --> 00:47:34.000
+Yeah, thank you. Yes, I, I was just curious about so the the parameters that David tools for basically turns the worst he he use the works of electronically, two, three, you want to reuse.
+
+00:47:34.000 --> 00:47:49.000
+So yeah, thanks, um, yeah it's a good question, um, one thing I've tried recently through the digital review was to do reviews of electronic literature through electronically so you actually take the code and criticize oh you know critique the work within
+
+00:47:49.000 --> 00:48:03.000
+within the code so I did a piece with jack hop in his pleasure up the coast and actually situated that kind of criticism all but within the code, and I've been in touch with a mere mere hand off he's given me permission to do the similar with the industrial
+
+00:48:03.000 --> 00:48:17.000
+the revolution where I would like to try and actually, you know, write a criticism or write an essay, using the code within the code so it's sort of criticism of electronic literature within electronic literature this kind of, you know, twisting back
+
+00:48:17.000 --> 00:48:24.000
+on in and of itself, which I think is fascinating because it sort of, you know, critiques to work on its own terms.
+
+00:48:24.000 --> 00:48:37.000
+You know, I was sort of inspired by you know God kind of who would always say you know i don't i don't write film criticism I film film criticism and so I think we should kind of be looking towards doing the same with with the What do you think is a fascinating
+
+00:48:37.000 --> 00:48:53.000
+idea. Um, it's interesting you know on this question of generated. I posed this question the end of whether or not, um, you know, generated text is limiting or sort of liberating from a poetic standpoint Dora, and you know I think it's sort of on one
+
+00:48:53.000 --> 00:49:07.000
+hand kind of both I think it is like, you know, in the same way poets kind of have a difficult rhyme scheme or something, to try and you know limit that poem you know you can kind of liberated way, because I'm, I had a poem I wrote recently where I used
+
+00:49:07.000 --> 00:49:18.000
+a portrait generator and then sort of human edited it, and it was a sort of political poem where I took in Australia that had a horrible policy where they've response to sort of cover tensions and the lack of global education students, they've decided
+
+00:49:18.000 --> 00:49:32.000
+to put a 300% increase on the feeds for specifically for humanities degrees. Um, so I took the speech by the education minister who, who said, by all means do humanities, but you should be doing things like it and learning a language, things like that
+
+00:49:32.000 --> 00:49:47.000
+so I said well okay I'll create a new lit poem which is using it, and I took a translated version of leaving this is on generosity and I combined it with his speech, and it created a line called a petition, he uses horrible would they want to introduce
+
+00:49:47.000 --> 00:49:58.000
+called micro credentials and education. And so I created this line called a participation, a micro credential Miss participation misalignment veiled heavenly within the economy.
+
+00:49:58.000 --> 00:50:11.000
+And I just thought that's a phrase I would never have written on my own, so I found that that by using a poetry generator it sort of it liberated my creativity in a way that that uh you know, otherwise wouldn't have happened.
+
+00:50:11.000 --> 00:50:30.000
+So that maybe I should jump a little bit to mock Marino's your comment around the CN spa. So I'm just wondering like is also about commentary in the code. So I'm just thinking about swearing that are you, do you have anything that you want to respond
+
+00:50:30.000 --> 00:50:34.000
+to this.
+
+00:50:34.000 --> 00:50:42.000
+Are you here, because she has a big issue with the connections before eventually dropped down.
+
+00:50:42.000 --> 00:50:49.000
+So I will continue this question with her maybe in a, in a minute.
+
+00:50:49.000 --> 00:50:51.000
+looking into the chat.
+
+00:50:51.000 --> 00:51:06.000
+Stella commented in passing, what David was saying so. Looks like the gold functions like a mask, which is liberating you but also hiding you
+
+00:51:06.000 --> 00:51:13.000
+know there's some interesting sort of thread through all of what we're talking about in terms of sort of the fictional author. Yeah.
+
+00:51:13.000 --> 00:51:21.000
+I mean, for me that the two things I wrote down to my notes here from both all the presentations that are fictional authors and plagiarism.
+
+00:51:21.000 --> 00:51:30.000
+And who is this original author if we have the fictional author that is this original author which is always present.
+
+00:51:30.000 --> 00:51:43.000
+Yeah, which is sort of a, maybe a ghost that's haunting all of it right, and somehow we're yeah we're always stealing, I mean, in the case of an identity don't even know what you're stealing from visits petabytes of Corpus, and then you have things showing
+
+00:51:43.000 --> 00:51:55.000
+And then you have things showing up that you need and expect to be there so those are the multiple authors that are being either deliberately or unintentionally plagiarized all the time.
+
+00:51:55.000 --> 00:51:57.000
+So then you never really know who's.
+
+00:51:57.000 --> 00:52:12.000
+Yeah, who's the actual author he's the co author who is your your co authors, I think. Yeah. Someone posted something in the discord where it was a co authoring of a number of poems with with like a series of Emily Dickinson and a bunch of other famous
+
+00:52:12.000 --> 00:52:22.000
+authors together with with GPD three, and you just had to be two three as one of the co authors it's I think it raises a lot of interesting issues that I Leo said Cyborg authors.
+
+00:52:22.000 --> 00:52:24.000
+Yeah.
+
+00:52:24.000 --> 00:52:41.000
+But he's also speaking about these kind of CO authorship is also something has been a huge debate right in generative language or generative art, which is something that is the machine, thinking about the machine agency, but I'm, I think is one of the
+
+00:52:41.000 --> 00:52:51.000
+different as well for you, Alex especially for for how you talk about it, I think Mark Marina also have a comment in relation to this kind of AI version or on the light side effects.
+
+00:52:51.000 --> 00:53:04.000
+So I'm just thinking about like how do you see these kind of CO authorship or these kind of the notion of authorship, that is changing with the use of AI technology like GBT two or three.
+
+00:53:04.000 --> 00:53:08.000
+And how is it different from these kind of structural.
+
+00:53:08.000 --> 00:53:24.000
+Like, structural constraints or Ruby's generated language, poetry, how do you see AI, add to it or how does it be solved, or enable a different kinds of machine agency.
+
+00:53:24.000 --> 00:53:39.000
+Now it's a very interesting question actually, I'm just thinking like, how complex Do we have to sort of think our rules are or how sort of autonomous are they I mean I have this set of dice called Rory story cubes it's like nine days and years roll them
+
+00:53:39.000 --> 00:53:53.000
+and then you get a bunch of pictures, and if I write something based on that do I feel like very story cubes is a co author know right but then if I throw stuff into a dungeon and sort of get something back and then think about that as the, the inspiration
+
+00:53:53.000 --> 00:54:02.000
+for my story. Do I somehow feel like that's more of a co author or do I feel like the grammar checker and Microsoft Word is my co author.
+
+00:54:02.000 --> 00:54:16.000
+I don't know this is sort of a continuum of like how much do we think this thing even maybe isn't is somehow my partner versus just a tool that I'm using or does something that gives me inspiration or like a bunch of prompts.
+
+00:54:16.000 --> 00:54:21.000
+So yeah i mean i think that's something that maybe we don't think about enough and maybe it's worth thinking about someone.
+
+00:54:21.000 --> 00:54:36.000
+And part of it is that we tend to sort of anthropomorphize and sort of see these things that seem how somehow more complex as if they actually have autonomy and maybe they don't even though we can control them I don't know how much
+
+00:54:36.000 --> 00:54:38.000
+about thinking about.
+
+00:54:38.000 --> 00:54:57.000
+Yeah, also like, although Alex work maybe more directly to these kind of AI generative texts, but also I'm interested to see how the way, Natalia, or when Nana also like think about these kind of machine agency differently with with your work and, or
+
+00:54:57.000 --> 00:55:05.000
+even carry in the in the text. There is a question. What is a medium is to offer, question mark right.
+
+00:55:05.000 --> 00:55:07.000
+Do you have a really respond to this.
+
+00:55:07.000 --> 00:55:15.000
+I mean with my work I don't I wouldn't say I wrote it, because I didn't take the right anything I didn't write the code I didn't write the text I pumped into it.
+
+00:55:15.000 --> 00:55:25.000
+So it feels more like a conceptual artwork. In that case, I mean I write, traditional fiction in a very classical sense as well and so this is something else.
+
+00:55:25.000 --> 00:55:27.000
+I think it's sort of.
+
+00:55:27.000 --> 00:55:43.000
+It's. Is it even is a literary imminent. It's something I think it's crossed the border from being creative writing to concept art, and some point, I think, for this, this working question.
+
+00:55:43.000 --> 00:55:45.000
+Yeah, I think.
+
+00:55:45.000 --> 00:56:02.000
+Yeah. How about Natalia and Eagle, you have any respond to this authorship questions, or machine agency with AI or even your, in your analysis of Russian poetry's these kind of structural composition, how do you see that because you're also paying attention
+
+00:56:02.000 --> 00:56:17.000
+to the speech as well. So how does it help us to also think about this notion of office or reading or listening, you know differently.
+
+00:56:17.000 --> 00:56:36.000
+This, a generator certainly Mandelstam. You can be sensing the very specific Mandelstam of vocabulary. When the other hand, the only response for this work but they have received was the response on Boy Scouts who was pointing up the mistakes on the code.
+
+00:56:36.000 --> 00:56:48.000
+So, looks like here the authorship is more delegated to, in our case the board.
+
+00:56:48.000 --> 00:56:56.000
+Because of the importance of the authorship of the algorithm.
+
+00:56:56.000 --> 00:56:59.000
+like to anything.
+
+00:56:59.000 --> 00:57:09.000
+You Here you go.
+
+00:57:09.000 --> 00:57:16.000
+So in this case, if we continue this notion of medium as an author.
+
+00:57:16.000 --> 00:57:26.000
+Be the code itself the algorithm, definitely plays the part of the author and someone who, who wrote it.
+
+00:57:26.000 --> 00:57:36.000
+And yet, someone who wrote it also has this idea of what the 15 hours, shouldn't be producing.
+
+00:57:36.000 --> 00:57:47.000
+Thank you. And Magda has a question to David, do you want to read allow Mecca, or you want to elaborate your curatorial question, mega.
+
+00:57:47.000 --> 00:57:53.000
+Hey, thank you.
+
+00:57:53.000 --> 00:57:59.000
+And thanks it quite late actually I'm sorry about that, but I was jumping between different rooms.
+
+00:57:59.000 --> 00:58:13.000
+But it was interesting to come and hear your discussion at this point. Now I was just interested in this, you know in this idea of kind of moving things around rather than writing them David that you mentioned, are you said that you don't, you didn't
+
+00:58:13.000 --> 00:58:28.000
+write anything so so my question was really about what is this process if you don't feel that you've written it but still you are kind of in some kind of control of organizing these things and to me as a curator of course I kind of immediately think about
+
+00:58:28.000 --> 00:58:42.000
+organizing and managing and kind of moving things around in space you know and so I was kind of thinking about these relations that of course, coming from a different discipline literary discipline, there are other practices that support that so I just
+
+00:58:42.000 --> 00:58:43.000
+wanted to know that.
+
+00:58:43.000 --> 00:58:56.000
+Um, this was going like pre, pre digital i mean you know you can go too far back to like borrows cutouts right where it just cuts out you know what and tourism around and it's, yeah it's essentially the same thing I guess just, you know, now we're throwing
+
+00:58:56.000 --> 00:59:11.000
+into the mix. And so, you know, is borrows a bar as I suppose would consider himself a writer as well he's making more a conscious choice whereas I'm kind of just checking this into that I'm not, you know, something more as I suppose I suppose that's
+
+00:59:11.000 --> 00:59:15.000
+not a good analogy.
+
+00:59:15.000 --> 00:59:30.000
+Sorry, I was also thinking about assemblage you know even though it's it's kind of, you know, like how these materials, even though they are kind of database and digital how they also kind of operate in space, but it started so many dimensions of just
+
+00:59:30.000 --> 00:59:45.000
+three dimensions, but many other dimensions and the way how they throw things at us that allow us to kind of connect creatively with these elements and and you know to oversell also something that you said or one of you said that it allows you to see
+
+00:59:45.000 --> 00:59:55.000
+things that otherwise you wouldn't have been able to see without this kind of support of generative element of. Yeah, yeah.
+
+00:59:55.000 --> 01:00:05.000
+In that particular case I suppose I was I was still at the end, you know, human editing it and sort of making it more conscious choice words but does it still, I mean obviously I've made a conscious choice as to what I've done enough framed it in a kind
+
+01:00:05.000 --> 01:00:08.000
+of way that that functions.
+
+01:00:08.000 --> 01:00:18.000
+But at the same time I suppose the language I've chosen the court have chosen you I have it, it's just a matter of collage or as labor puts it quite eloquently.
+
+01:00:18.000 --> 01:00:22.000
+I think it's a good start using.
+
+01:00:22.000 --> 01:00:41.000
+Thank you. Thanks, but also follow up on that. I think they mix your work. I remember when you present the keys. You also mentioned about struggle. So you sort of like these pieces as a way for readers to sort of get a sense of the struggles or the citizens,
+
+01:00:41.000 --> 01:00:56.000
+citizens, so I can you can you elaborate a little bit more about these, these struggles as a critical forms of reflections or, or how do you see language arts, sort of enable this sort of struggling.
+
+01:00:56.000 --> 01:01:07.000
+Um, I start with you mean the sort of the it's this idea of picturing what it would be like for a North Korean trying to struggle against culture I mean I had some experience with North Korea right.
+
+01:01:07.000 --> 01:01:21.000
+I used to teach with a lecturer Ching Hua University which had a handful of North Korean students who had little badges and, and I went to North Korea through a with a British filmmaking company for holiday get away.
+
+01:01:21.000 --> 01:01:28.000
+And it was interesting to meet some North Korean citizens, you know, the tour guide said she had written a novel.
+
+01:01:28.000 --> 01:01:38.000
+I told her I was teaching Creative Writing she said I wrote a novel, and I showed it to my father when I was 16, and he said, never do this again please put it away, and she said so I never, never read it again.
+
+01:01:38.000 --> 01:01:43.000
+And then she just she joked that I'd be published posthumously.
+
+01:01:43.000 --> 01:01:56.000
+But, yeah, this idea I suppose that you have this bombarding of propaganda and then I originally just put the propaganda into it and then I sort of thought I need something else that needs, and I think this is something for for generational, at least
+
+01:01:56.000 --> 01:02:08.000
+in using this kind of found poetry technique I found is you can't just use the found poetry needs to have something to clash against, it's sort of I like the idea of taking taking one type of language and then another type of language instead of jamming
+
+01:02:08.000 --> 01:02:18.000
+it together. And I think that actually produces interesting results in terms of of text generators and poetry generators.
+
+01:02:18.000 --> 01:02:32.000
+And so in this case I had, you know, the North Korean propaganda which is dominant and then this critical language which was subtle and I thought that would be how are a North Korean citizen operates particularly instead of the wealthier portions of up
+
+01:02:32.000 --> 01:02:46.000
+which is kind of Potemkin cities where they would they they're not wholly ignorant of everything you know they have an idea of what's going on, but they still kind of in terms of kind of bombarding of language that doesn't kind of come through and it
+
+01:02:46.000 --> 01:02:53.000
+was, that's what I kind of tried to emulate that that struggle with or not I succeed on on as a question.
+
+01:02:53.000 --> 01:03:05.000
+Yeah, thanks. So in a chat. We also have Roberta you have a question to all Do you, do you want to read allow on that.
+
+01:03:05.000 --> 01:03:20.000
+Yes, if you want. Yes, I was thinking about one the road. You know the experiment Pulteney is a car and driving around for four days. If I can remember.
+
+01:03:20.000 --> 01:03:36.000
+And so my question is, in your opinion, what changes when then artificial intelligence can moving in space in real time. And what could change and non-genetic later today with the diffusion of the Internet of Things.
+
+01:03:36.000 --> 01:03:47.000
+So when we will had a lot of smart objects that could sort by themself we can say, I don't know.
+
+01:03:47.000 --> 01:03:52.000
+Thank you.
+
+01:03:52.000 --> 01:04:05.000
+So do you have any response. I'm just trying to imagine I'm trying to imagine that journal written by the traffic, it's, it's very interesting, I guess I mean for me my first thought was good, but not really based on anything is that maybe what will be
+
+01:04:05.000 --> 01:04:21.000
+interesting there is sort of what corpus of text, something is drawing from, as opposed to, like, I don't haven't done much digging into what open a I did to train up to two or three but I'm assuming it's taking a lot of stuff from this from the Wild
+
+01:04:21.000 --> 01:04:35.000
+wild west of the internet right is getting whatever it can. But if. In addition, I don't know, I mean just imagine like it was trained on a corpus of just things that Alexa is listening to in the two or three minute buffer before it actually activates
+
+01:04:35.000 --> 01:04:47.000
+or your or your Siri on your phone or something, or it's like getting all the audio from all the live photos you've taken on your iOS device that's going to be a very different corpus of stuff.
+
+01:04:47.000 --> 01:04:59.000
+And, yeah, maybe it would generate a very different type of poetry or stories if it's just from these little snippets of everyday conversation or things that people said, as they were like half awake in the morning or whatever as opposed to stuff that
+
+01:04:59.000 --> 01:05:05.000
+was posted online. So it might have a very different flavor to it.
+
+01:05:05.000 --> 01:05:14.000
+Good or bad i don't know but it's very different yeah yeah that's how do you have something functions. These.
+
+01:05:14.000 --> 01:05:32.000
+Say, talking objects, perform so they can be, I don't know, telling you a weather forecast or they can be working as as a legislator or they can be working as some kind of public announcement.
+
+01:05:32.000 --> 01:05:50.000
+So depending on this function in which the AI is producing taxes, like, What kind of pragmatics, and certainly what Alex was talking about what corpus of texts, this is based on.
+
+01:05:50.000 --> 01:06:13.000
+Definitely the effect would depend on the corpus of text but also on, you know what, a Bowers is what power does this text health. So, whether it actually has any impact on events in reality.
+
+01:06:13.000 --> 01:06:24.000
+But also I think speaking about this notion of source is also interesting like also in relation to David when you mentioned about from tax, or these kind of like collage.
+
+01:06:24.000 --> 01:06:39.000
+Bad eyes on you know these kind of cut up tradition, and also in Italian your work is not of course it's not necessarily a big corpus that your trade, you're getting from as a source, but the source in a different ways I think in your work Natalia, like
+
+01:06:39.000 --> 01:06:55.000
+sourcing or in the form of like different grammatical rules or different forms of calculations or combining different things. Now, how, how do you maybe maybe to always learn like like this notion of source.
+
+01:06:55.000 --> 01:07:20.000
+So, as a resource, but also as a form of rules as a way to re appropriate so how I'm just wondering, like, how, how does this notion of source and relate to generativity or these kind of different kinds of reading, and the roles of sourcing.
+
+01:07:20.000 --> 01:07:32.000
+I think just my first reaction is like David's work. It's the source is also a source code right i mean it's, which is different from sort of what I've usually thought of as part of their core pieces of text as in the content text right but if you're
+
+01:07:32.000 --> 01:07:43.000
+also pulling in a bunch of source code and then recombining that that's that's a very different way of sort of thinking about it because then your generative system is also generating systems that are generated.
+
+01:07:43.000 --> 01:07:51.000
+So it's like an extra layer of generation which I think can be very interesting.
+
+01:07:51.000 --> 01:08:05.000
+I'm sort of what comes to mind with that I mean I think it depends on what you choose to put into it as well as what in what you choose to leave out and I'm sort of reminded of Derrida's archive Shiva where he kind of says, you know, the archive is this
+
+01:08:05.000 --> 01:08:21.000
+sort of, you know, political act and it's the, you know, what it chooses to, to, to put in and not put out and i think that's that's kind of the same thing and that was that was sort of came up in in the keynote this morning or yesterday, that, uh, you
+
+01:08:21.000 --> 01:08:36.000
+know, when my team was talking about job as rewrites how, in fact the original source material, even though he had this huge body of Corpus it had, it was predominantly masculine it you know it always came up with he very rarely came up was she he had
+
+01:08:36.000 --> 01:08:50.000
+some input that into it. And so I think it was back to this even though I haven't written anything I have decided what to put in not put out and I think that is that is still an autonomous decision that's still a human choice and I think that's perhaps
+
+01:08:50.000 --> 01:09:05.000
+you know one another way to look at it as you know the the text generator is an archive, I suppose, like a mini archive, two thoughts.
+
+01:09:05.000 --> 01:09:24.000
+I just realized that it's work, we asked him this propaganda generator but in real life, no one actually means propaganda propaganda is something that you don't notice it's just kind of difficult situation so it was probably the most reading that propaganda
+
+01:09:24.000 --> 01:09:25.000
+receipts.
+
+01:09:25.000 --> 01:09:38.000
+Yeah, and in the paper I kind of put it you know really, this, this, the work tells you more probably about neoliberal culture enough to do this as opposed to you know what it's like in North career in that regard.
+
+01:09:38.000 --> 01:09:49.000
+I'm, you know I'm interested in in censorship and it was a comment on censorship that you know one of my favorite novels of the past couple of years is a book Iranian novel that was written at Brown University buying a rainy and cold.
+
+01:09:49.000 --> 01:10:04.000
+Sure I am and then a poor who wrote this book century Iranian love story and he he's in this kind of predicament of he wants to write a love story but a content so he writes it with words with stripe through that availed but not censored.
+
+01:10:04.000 --> 01:10:16.000
+And so you can see how it be censored and then he has this sort of meta narrative that that talks to you the trans national audience who is the only potential reader of the book, who kind of, and it's very condescending it's like you don't know about
+
+01:10:16.000 --> 01:10:19.000
+a rental I have to explain it to the next thing.
+
+01:10:19.000 --> 01:10:29.000
+And so I think, you know, yeah so actually representing these things is the question of audience then becomes problematic I suppose as well. Yeah.
+
+01:10:29.000 --> 01:10:33.000
+Regarding the question was when he was asking.
+
+01:10:33.000 --> 01:10:44.000
+I remember towards actually biscuits, the author of the generator was saying in the article Hussein that surely the source text, doesn't matter.
+
+01:10:44.000 --> 01:11:06.000
+The same operation can be produced with any text, and this takes us back to the early ages of artificial intelligence when the most important task was to produce the model that works in in any source tax or some kind of universal model.
+
+01:11:06.000 --> 01:11:24.000
+So how do you see, because I find like your, your work is very much dealing with the structural analysis of the of the rules, right. So how do you see them in in your work is is like the.
+
+01:11:24.000 --> 01:11:33.000
+The materializing the source that is happening in your, in your presentation, you feel.
+
+01:11:33.000 --> 01:11:56.000
+will, it is even go according to cause the source doesn't matter we had a lot of discussions over which edition we should be taking on depending certainly on the addition of of Mandelstam you have the outcomes of slightly different slightly different
+
+01:11:56.000 --> 01:12:14.000
+stylistics yet. I mean, we, we probably still need to decide what is the most important thing whether we want to be most faithful to the original generator whether we want to be most faithful to the Mandelstam collected forms or what what exactly we want
+
+01:12:14.000 --> 01:12:18.000
+to be faithful to what we are emulating.
+
+01:12:18.000 --> 01:12:24.000
+This, this fairly January generated from
+
+01:12:24.000 --> 01:12:37.000
+a follow up question from the audience. Korea I think mentioned about wasn't in medicine who said connections matter much more than the elements. Anything from anything.
+
+01:12:37.000 --> 01:12:50.000
+Yeah. In his writing about the speech of banter. He's saying that it's not the words that matter but the connections that matter.
+
+01:12:50.000 --> 01:12:58.000
+And the stone itself, he was seeing it as a release of meaningfully so of connections.
+
+01:12:58.000 --> 01:13:14.000
+So, it is actually an interesting. An interesting test on seeing whether any of the models thumbs initial connections can be still restored in the generated text, but I'm afraid to show this to mumble some community.
+
+01:13:14.000 --> 01:13:23.000
+I have a feeling that I will be cursed. Whatever is holding Mandelstam.
+
+01:13:23.000 --> 01:13:41.000
+So I'm afraid like times, almost objects, wondering whether there is a last line for the presenters, you have like a further reflections or thing that you want to take up the last 30 seconds or so to, you know, say something to the audience or something
+
+01:13:41.000 --> 01:13:45.000
+to remind us
+
+01:13:45.000 --> 01:13:48.000
+anything.
+
+01:13:48.000 --> 01:14:00.000
+I guess I just wanted to thank the curator of the papers because I think these papers could add really nicely together I wasn't sure they would but when I read them this morning and then I, yeah, it just seems like it's a very nice second set of complimentary
+
+01:14:00.000 --> 01:14:30.000
+papers. So thank you to the program committee and the I also thank you to the moderator You did a great job. Thanks so much. Yeah.
+

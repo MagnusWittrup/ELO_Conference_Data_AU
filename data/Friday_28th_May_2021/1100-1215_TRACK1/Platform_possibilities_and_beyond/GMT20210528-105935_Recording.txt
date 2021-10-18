@@ -1,0 +1,170 @@
+00:20:18	Leonardo Flores:	I like to lift my laptop about 6 inches from the surface and let go.
+00:22:04	Stephanie Strickland:	can someone turn on closed captioning please
+00:24:09	Scott Rettberg:	Yay!
+00:24:51	Scott Rettberg:	Well done, Samya
+00:25:11	Søren Bro Pold (he, him):	I don’t know why it didn’t work. Maybe it takes a bit of time to get warm?
+00:25:53	Samya Roy:	Thanks a lot Dr Rettberg!
+00:26:23	Anna Gorin Nacher:	Thanks, Samya, super interesting. I’m interested in your approach - researching the users who don’t have much access to more sophisticated technology (did I get it correct?)
+00:26:52	Leonardo Flores:	You’re taking on a great challenge, Samya. Big question.
+00:27:06	Samya Roy:	Yes absolutely. Minimal technical affordances.
+00:27:19	Samya Roy:	@Anna
+00:27:48	Anna Gorin Nacher:	@Samya I hope we can discuss it further in Q&A
+00:27:53	Samya Roy:	@Leo Thank you! I based my thesis on this question: how much can people create in minimal conditions.
+00:27:58	Samya Roy:	@Anna absolutely
+00:29:14	Vinícius UFMT:	@Samya, I believe some challenges as to the access to tech are also key factors to understanding elit in some Latin American contexts
+00:29:15	Anna Gorin Nacher:	Seeing platforms as “minimal conditions” for creating can be so refreshing, I guess
+00:29:29	Samya Roy:	Crucial question raised @susie
+00:29:39	Vinícius UFMT:	That's something we have been discussing in Brazil as well
+00:30:18	Leonardo Flores:	Echoes of Limbo
+00:30:20	Samya Roy:	@Vinicius Ah okay! I think that is case in many 'developing' spaces. Whatever that term means.
+00:30:46	Samya Roy:	@Anna I had a lot of fun with it.
+00:31:03	Samya Roy:	@Leo @Susie yes I also thought of Limbo!
+00:31:59	Scott Rettberg:	I’m betting a lot of refugees are asking the same question about the boat level
+00:32:20	Serge BOUCHARDON:	We analyze "Bury me, my love" with Erika in our ELO paper :-) :https://www.google.com/url?q=https://conferences.au.dk/fileadmin/conferences/2021/ELO2021/Full_papers/Serge_Bouchardon_and_Erika_Fueloep_Digital_Narrative_and_Temporality_updated_33.pdf&sa=D&source=editors&ust=1622106645565000&usg=AFQjCNGzQbK2n4IJSo3R0Nh1Bxsv9phXbQ
+00:32:25	Søren Bro Pold (he, him):	Limbo is actually a good example of how platforms can help indie-producers. It wouldn’t have been available before stream + console platforms.
+00:33:33	Anna Gorin Nacher:	Have you ever tried this work from 2017? https://www.migrationtrail.com/
+00:33:44	Astrid Ensslin (she/her):	21 Days, anyone?
+00:33:49	Anna Gorin Nacher:	it is based on the real social media feeds
+00:34:32	Astrid Ensslin (she/her):	We Wait is another one (360d video)
+00:34:37	Anna Gorin Nacher:	of actual migrants and the story develops within 7 days (which means that next chapter is uncovered always after one day)
+00:34:46	Anne Karhio:	My connection is currently very unstable
+00:36:49	Scott Rettberg:	This is a great foundation for a Marie Curie postdoc
+00:37:30	Leonardo Flores:	Yes. It sells itself, so to speak.
+00:37:41	Anna Gorin Nacher:	I’ll have a question to Susie
+00:37:55	Scott Rettberg:	Great presentation, Susie!
+00:38:04	Anna Gorin Nacher:	Great talk!
+00:38:04	Samya Roy:	Loved your work susie
+00:38:56	Søren Bro Pold (he, him):	Yes, great presentation!
+00:38:57	susiecronin:	Thank you so much!
+00:39:14	susiecronin:	The third cup of coffee of the day kicked in on time :D
+00:43:17	Carlota Salvador Megias:	personally love latour’s question
+00:45:40	Leonardo Flores:	You might like the Infinite Quarantine bot: https://twitter.com/QuarantineBot_1
+00:46:40	Carlota Salvador Megias:	thanks, leo!
+00:46:59	Søren Bro Pold (he, him):	Hi everybody, Karen Ann Donnachie and Andy Simionato are also part of this track. A glitch accidentally deleted their entry for a short while.
+00:47:25	Søren Bro Pold (he, him):	#193
+Karen Ann Donnachie and Andy Simionato
+The App is not the Territory: Writing to the edge of Platformism
+00:47:59	Anna Gorin Nacher:	I’m wondering if there’s something about manifesto genre itself that makes it an apt tool for the times of crisis?
+00:48:00	Anne Karhio:	That’s fine, on it - we have time for a fourth presentation, so it’ll work out ok.
+00:48:13	Leonardo Flores:	I’m reminded of the Programming, Motherfucker Manifesto: http://programming-motherfucker.com/
+00:48:24	Samya Roy:	Collaboration it is @Julian!
+00:48:29	Leonardo Flores:	It’s more tech minded.
+00:48:31	Søren Bro Pold (he, him):	I caused the glitch, sorry… Too many windows.
+00:49:29	Søren Bro Pold (he, him):	and too much rearranging. :-)
+00:50:11	Álvaro Seiça:	It was very informative to have an overview of waves+manifestos in just one year
+00:50:15	Álvaro Seiça:	Thanks!
+00:50:36	Julian Hanna:	Thanks Álvaro!
+00:50:58	Søren Bro Pold (he, him):	Yes, was great! Will read the paper - got a bit distracted by trying to figure out what happened with the schedule…
+00:51:27	Anna Gorin Nacher:	Thank you, @Julian, it was very inspiring! And great presentation too!
+00:51:57	Søren Bro Pold (he, him):	And excuses to Karen Ann and Andy!
+00:52:34	Julian Hanna:	@Anna thanks! And @Leonardo - thanks for the tip!
+00:52:42	Christine Wilks:	Is there a link to Karen & Andy's paper?
+00:52:58	Samya Roy:	I did not find one
+00:53:29	Stephanie Strickland:	could Andy put link in the chat to their paper?
+00:53:37	Søren Bro Pold (he, him):	No (and this is not my fault).
+00:56:05	susiecronin:	also the alignment of experience with depiction
+00:56:22	susiecronin:	this is such an unlikely and rich example :)
+00:56:33	Samya Roy:	indeed
+00:56:42	Leonardo Flores:	Inspired by the reunion?
+00:57:19	Anna Gorin Nacher:	reunion is THE moment of 2021 :-)
+00:57:33	Samya Roy:	haha
+00:57:52	Leonardo Flores:	Thinking along the lines of platformism and its ideology is useful to consider the hegemony of the page (both real and virtual).
+00:58:15	Carlota Salvador Megias:	+1
+00:58:39	Anna Gorin Nacher:	the hegemony of the page - nice touch, @Leo. Discussing print technology as a platform might be interesting
+00:58:47	Leonardo Flores:	Elit can be seen as an attempt to get out from under the shadow of the page.
+00:59:04	Leonardo Flores:	We create Web “pages”
+00:59:29	Vinícius UFMT:	loved the concept of an edgeless adge
+00:59:29	Leonardo Flores:	Even chat windows are predicated on affordances developed by the page.
+00:59:33	Vinícius UFMT:	*edge
+00:59:43	Leonardo Flores:	Static text on white backgrounds.
+00:59:51	Leonardo Flores:	LOL
+00:59:57	Samya Roy:	:P
+01:00:01	Søren Bro Pold (he, him):	Though we need to be as good to read the ideology of platforms as the we are at reading the ideology of paper.
+01:00:05	Samya Roy:	could this BE any better way to end?
+01:00:22	Leonardo Flores:	Yes. We need to unpack all the platform ideologies.
+01:00:50	Anna Gorin Nacher:	impossible, we’re always within ideology, if Althusser is to be believed
+01:00:55	Julian Hanna:	Does Platformism (as an ism & ideology) have a manifesto? (maybe something by Mark Zuckerberg)
+01:01:12	Álvaro Seiça:	Great presentation!
+01:01:16	Leonardo Flores:	But if we don’t do so with paper and page space we end up accepting it.
+01:01:28	Søren Bro Pold (he, him):	I can offer this: http://www.gredits.org/interfacepolitics/en/interface-manifesto-eng/
+01:01:58	Julian Hanna:	that’s a good start :)
+01:02:12	Anna Gorin Nacher:	great presentation
+01:02:19	Anna Gorin Nacher:	q
+01:02:20	Serge BOUCHARDON:	Q1 @SusieThe French theoretician Françoise Lavocat defines empathy in a fiction as “the hindered/blocked desire to help the character, to penetrate his/her world”. For her, an interactive narrative game (as “Bury me, my love”) is more based on identification than on empathy. Would you agree with that?
+01:02:37	Anna Gorin Nacher:	I have a question
+01:02:43	Serge BOUCHARDON:	Q2 @Susie	The inspiration "Bury me, my love" was a real WhatsApp thread published by "Le Monde" website in 2016, "The Diary of a Migrant" (then transformed into a smartfiction). "Bury me, my love" plays with notifications by the fictional character and on the frontier between fictional time and the reader’s real time. Do you think the smartphone device reinforces the blurring of the fiction vs. reality frontier?
+01:04:18	Carlota Salvador Megias:	i wonder if part of our dependence on the concept (and practice) of the page could be related to our imaginative limitations re: “word processing” (if that makes sense — it feels like that activity is inextricably bound up with some notion of the document, esp. now)
+01:04:33	Søren Bro Pold (he, him):	And this: https://www.digitalmanifesto.net/manifestos/152/
+01:05:03	Julian Hanna:	Thanks @Soren!
+01:05:15	David Wright:	Q: (predominately for Andy/Karen, but a question for everyone): Are we necessarily at the mercy of our social media platforms? The ex-google employee-cum oxford digital ethics scholar who argues that we should demand that the social media platforms ‘stand out of our light’. That we as a collective society need to make demands of our platforms. Do you feel that is a possibility for us, or has that opportunity passed?
+01:05:54	Stephanie Strickland:	Q:  can Andy and Karen post a link to their paper?
+01:12:13	Andy:	Still and early draft, but we are grateful for any feedback or comments ~~~> http://bit.ly/ELO2021_simionato
+01:12:46	Andy:	Ooft ~~~> bit.ly/elo2021_simionato
+01:13:19	Christine Wilks:	thanks
+01:13:23	Álvaro Seiça:	thanks!
+01:16:11	Leonardo Flores:	Interesting question, David. To tie into some of the chat conversation, I wonder what kind of control people had over print as a platform.
+01:16:45	Leonardo Flores:	No other platform gets as much user training.
+01:16:53	Anna Gorin Nacher:	I’m just wondering to what extent the forced representability of  experience is underlining both the commercial, easy to consume narratives AND platforms as ideology
+01:16:57	Leonardo Flores:	To the extent that it’s naturalized.
+01:17:13	David Wright:	I think such a question cannot be raised until the notion of ‘media’ really comes into question, historically.
+01:17:15	Álvaro Seiça:	Well, there has always been self-published works, Leo ;)
+01:17:16	Deena Larsen:	yes, every media can be used in novel ways. I think Samya's definition of elit needs to be expanded a bit: "e. Electronic or Online Literature is something thatuses the electronic or the online mode for producing narratives."  I think this can be "using electronic media to add something more to text that is integral to the meaning of the text..." It is interesting to see the engagement as integral to the meaning of the text/manifesto.
+01:17:20	Anna Gorin Nacher:	It is naturalised to the extent that we don’t see it
+01:17:23	Leonardo Flores:	True.
+01:17:48	Søren Bro Pold (he, him):	Question
+01:17:50	Leonardo Flores:	And groups using presses
+01:18:23	Julian Hanna:	https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/
+01:18:27	Leonardo Flores:	And yet they participate in the same ideology.
+01:18:57	Samya Roy:	@Deena absolutely I agree with you.
+01:19:16	Álvaro Seiça:	But there are multiple ideologies within the page, if page is “ideology” and “platform”
+01:19:26	Carlota Salvador Megias:	i think dissemination is an important aspect of platforms (print and digital), too — esp. in terms of different services’ reach. i don’t think we’ll have much success decentralizing (esp. social media) platforms until users have more control of those aspects of dissemination that commercial platforms deliver for them with the greatest ease (most importantly/most basically, perhaps, audiences).
+01:20:38	Leonardo Flores:	The entire field of literary studies, criticism, aesthetics, and markets are built upon the constraints of the page.
+01:20:40	Leonardo Flores:	And pring
+01:20:44	Leonardo Flores:	Print.
+01:20:57	Leonardo Flores:	Genres. Everything.
+01:21:00	Stuart Moulthrop:	Also pring.  Pring is a major problem.
+01:21:04	Leonardo Flores:	:-)
+01:21:05	Anna Nacher:	It was a great pleasure to be here, wonderful presentations and awesome discussion - also in the chat, but gotta go unfortunately
+01:21:08	Deena Larsen:	Yet manifestos have always gone beyond the constraints of the page
+01:21:12	Leonardo Flores:	Pringles are a problem.
+01:21:24	Álvaro Seiça:	Yes, abs, Pringles are hegemonic!
+01:21:24	Anna Nacher:	Bye, have a great day and see you later
+01:21:30	Leonardo Flores:	Bye!
+01:21:38	susiecronin:	bye Anna, great to chat with you!
+01:21:42	Anne Karhio:	Bye Anna!
+01:21:45	Julian Hanna:	@Deena yes! sometimes dangerously so
+01:22:30	Samya Roy:	Bye Anna!
+01:23:03	Leonardo Flores:	And yet who has the privilege of learning to code?
+01:23:06	Samya Roy:	Lovely discussions!
+01:23:23	Søren Bro Pold (he, him):	I have a question
+01:23:34	Carlota Salvador Megias:	@anne, already loving this question
+01:24:06	Leonardo Flores:	I think coding should become as central to primary education as reading and writing, all over the world.
+01:24:23	iqra khurshid:	hey wait, my turn is yet to come. so no bye bye
+01:24:25	Christine Wilks:	yes, indeed, Leo
+01:24:47	Leonardo Flores:	However, right now, that isn’t the case. And most people have access to platforms, rather than coding.
+01:24:59	Anne Karhio:	Soren’s question next!
+01:25:23	Julian Hanna:	Just to put in a wee plug for the manifesto, since they’re often short & sharp they can easily be translated - many of the examples I mentioned appeared in several (or even dozens of) languages - and then of course the visual aspect of many manifestos as well
+01:25:34	Anne Karhio:	And Roberta then
+01:25:38	Søren Bro Pold (he, him):	Anne, I can wait. Karen Ann kind of answered it.
+01:25:50	Anne Karhio:	ok up to you!
+01:26:26	Deena Larsen:	Wonderful explanation of language and politics and tech Samya!
+01:26:49	Leonardo Flores:	Elit has the power of subverting platforms.
+01:27:05	Leonardo Flores:	Most of these platforms aren’t created for elit.
+01:27:21	Søren Bro Pold (he, him):	It’s also an issue of reading. That we learn to read platforms.
+01:27:59	susiecronin:	yes, and learning to read the spirit of the creative endeavour when it is aiming to undermine
+01:28:40	Deena Larsen:	YEs, guiding how we can go "offline" and online " and transcend the boundaries of the page and screen to convey complex meaning--
+01:28:57	susiecronin:	there is maybe a tyranny of the platform that designates subversive use as platform illiteracy
+01:29:17	Leonardo Flores:	Yes^
+01:29:35	Deena Larsen:	But the manifestos are subverting the constriangs of the page and screen
+01:29:39	Christine Wilks:	Great points, Samya
+01:29:39	Deena Larsen:	Thank you Samya!
+01:29:46	Andy:	@susiecronin agreed. The violence of consensus.
+01:29:59	Leonardo Flores:	Apparently in the Apple App Store you have to basically say that your app isn’t art.
+01:30:09	susiecronin:	wow Leo!
+01:30:22	Samya Roy:	Thanks everyone!
+01:30:23	Leonardo Flores:	Jason Edward Lewis uncovered that.
+01:31:01	Stuart Moulthrop:	No art. No politics.  No tension.  CONTENT.
+01:32:08	Leonardo Flores:	The programming, motherfucker manifesto is a perhaps uncritical rejection of pjatformization: http://programming-motherfucker.com/
+01:32:23	Leonardo Flores:	I’m very happy! Thanks, all!
+01:32:38	Vinícius UFMT:	Applauses! Great panel!
+01:32:47	Deena Larsen:	Thank you so much!

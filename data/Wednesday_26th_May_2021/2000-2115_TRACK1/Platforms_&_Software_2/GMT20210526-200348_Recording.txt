@@ -1,0 +1,63 @@
+00:18:11	Matthew Kirschenbaum:	LOL
+00:18:17	Krista-Lee:	I am so glad I am not the only one who has doen that today
+00:19:49	Mark Marino:	Onnie
+00:19:51	Mark Marino:	like Bonnie
+00:20:18	Jessica Pressman:	Melody Jue is Associate Professor of English at UC Santa Barbara. She is the author of Wild Blue Media: Thinking Through Seawater (Duke University Press, 2020) and co-editor (with Rafico Ruiz) of Saturation: An Elemental Politics (Duke Press, 2021) and co-editor with Zach Blas and Jennifer Rhee of Informatics of Domination (Duke Press, under contract). Her articles have appeared in Grey Room, Configurations, Media+Environment, Women’s Studies Quarterly, and Resilience.
+00:20:50	Jessica Pressman:	Wild Blue Media: Thinking Through Seawater (Duke University Press, 2020)
+00:26:08	Samya Roy:	that is a lovely poster!
+00:27:07	Mark Marino:	Alenda’s book was one of the N. Katherine Hayles prize winners last year
+00:27:22	Samya Roy:	wow
+00:29:48	Krista-Lee:	oh! they also made never alone - if that is any indication this game will be amzing
+00:30:54	Samya Roy:	Reminds me of this game called Hungry Shark Evolution where you would play as a Shark to eat folks.Another game which is very cool and funny is I am Fish where you play as a fish in a jar who was to go back to the ocean.Loving the talk!
+00:33:34	Jessica Pressman:	Mark C. Marino is a writer and scholar of digital literature who teaches at the University of Southern California.  He is the Director of Communication of the Electronic Literature Organization  (http://eliterature.org). His works include “Living Will,” “a show of hands,” and  “Marginalia in the Library of Babel.” He was one of ten co-authors of 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (http://10print.org) (MIT 2013) and was a collaborator with Jessica  Pressman and Jeremy Douglass on Reading Project: A Collaborative Analysis of William Poundstone's Project for Tachistoscope {Bottomless Pit} (Iowa Press 2015). His latest book is Critical Code Studies (MIT 2020) http://criticalcodestudies.com
+00:34:03	Krista-Lee:	we can hear you now
+00:34:10	Jessica Pressman:	Ocean as Media Platform for Electronic Literature: 
+The ocean is a media platform. Recognizing it as such can change how we think of platform, media, and meaning. This panel takes an ecocritical approach. We understand the ocean to be a primary platform for life on Earth, encompassing 70% of our globe, and also a platform that inspires much of our digital life and literature. We take Joellyn Rock and Alison Aune’s FISHNETSTOCKINGS” as sinew connecting our diverse our critical methodologies and perspectives, as we consider how emerging knowledge from environmental humanities informs 
+electronic literature.
+00:34:28	Samya Roy:	Cool graphic!
+00:37:07	Krista-Lee:	you sound fine to me - but then again I am listening with construction noise in my background - so please shout away
+00:45:49	rodcoover:	Awesome!
+00:45:57	Jessica Pressman:	Diana Leong is an Assistant Professor of English and Comparative Literature at San Diego State University, where her research and teaching is focused on environmental justice, Black literature and culture, and the environmental humanities. Her work has appeared in ISLE, Catalyst, Electronic Book Review, Configurations, and the Palgrave Handbook of Animals and Literature. She is currently completing a monograph, Against Wind and Tide: Toward a Slave Ship Ecology, that theorizes the slave ship as a site for the material and imaginative convergence of environmental justice and abolitionism.
+00:46:02	Samya Roy:	Nice stuff with the code as always Mark!
+00:49:01	Samya Roy:	scary
+00:53:08	Maria Mencia:	Great talks! Nice to see you Jessica. Unfortunately I have to go.
+00:59:08	Jessica Pressman:	Jessica Pressman is Professor of English and Comparative Literature at San Diego State University, where she co-founded and co-directs SDSU’s Digital Humanities Initiative (dh.sdsh.edu). Pressman is the author of  Bookishness: Loving Books in a Digital Age (Columbia University Press, 2020), Digital Modernism: Making It New inNew Media (Oxford University Press, 2014), co-author, with Mark C. Marino and Jeremy Douglass, of ReadingProject: A Collaborative Analysis of William Poundstone’s Project for Tachistoscope {Bottomless Pit} (University of Iowa Press, 2015). She co-edited two volumes: Comparative Textual Media: Transforming theHumanities in the Postprint Era (University of Minnesota Press, 2013) with N. Katherine Hayles and Book Presence in a Digital Age (Bloomsbury Press, 2018) with Kiene Brillenburg Wurth and Kári Driscoll. Her full CV can be found at www.jessicapressman.com.
+00:59:19	Mark Marino:	“little"
+01:00:40	Melody Jue:	The emoji’s trident reminds me that it has something to do with lightning… right? Other e-lit connection? (electricity)
+01:01:35	Mark Marino:	I don’t know but there’s a visual link between the Greek character psi and poseidon
+01:02:09	Mark Marino:	File:Psi2.svg - Wikimedia Commons
+01:06:46	Mark Marino:	https://www.indeed.com/q-Mermaids-jobs.html?vjk=fb60d66b51097c68
+01:07:24	Mark Marino:	Fishnet Stockings: https://fishnetstock.net/
+01:08:20	Matthew Kirschenbaum:	I’ve got to run but this has been great: not topics I have great stakes in, but a pleasure to end the day by listening to friends present and learning new things. Thank you!
+01:12:02	Mark Marino:	We can take questions
+01:12:09	Joellyn J Rock:	Wow! Fantastic talks all!!
+01:14:01	María Goicoechea:	Congratulations to all three presenters!!
+01:15:11	Caitlin Fisher:	Loved the exhibition @Bergen!
+01:15:28	Krista-Lee:	Great Lakes Ports! Ya, we definitely also have our own sea lore
+01:17:41	Mark Marino:	Also the work of micha cardenas
+01:17:53	Mark Marino:	https://glittertongue.wordpress.com/cardenas-red-fishnets/
+01:18:39	Caitlin Fisher:	loved all those talks. I feel like my worlds are colliding - Ayesha Hameed : https://www.onassis.org/people/ayesha-hameed
+01:19:39	Sarah Ciston (she/they):	@Melody, really appreciate that thought, and connects part of my fascination with jellyfish and a platform I’m doing that I couldn’t explain before? *mind blown*
+01:20:13	Caitlin Fisher:	She teaches a course called ocean as Archive at Goldsmith’s and I’ve just reconnected with her work on Black Atlantis … she has a mermaid piece, too (“Ayesha Hameed, I sing of the sea I am mermaid of the trees”)
+01:20:17	Krista-Lee:	Code doesn't recognize anything does it? The coder has to recognize things and account for them, no? (Say the person that just started learning to coode a couple months ago)
+01:20:28	Joellyn J Rock:	Boolean search?
+01:20:40	Jessica Pressman:	@Caitlin, thanks for that link. And for being here!
+01:20:40	Melody Jue:	Ayesha is great, I was just on a panel with her earlier this month
+01:20:52	Krista-Lee:	no its ok im good
+01:21:35	Erin Kathleen Bahl:	thanks to all the presenters for a fantastic panel!
+01:21:37	Caitlin Fisher:	@melody - the worlds ARE colliding, then - Ayesha and I used to be roommates!
+01:21:59	Melody Jue:	Oh amazing!!
+01:22:49	Caitlin Fisher:	So powerful to think about ocean as platform, surface as interface, mermaid as mestiza, how mermaid stories travel … thank you for all these provocations…
+01:25:27	Melody Jue:	Multiplicity of tails lol
+01:25:51	Krista-Lee:	this was wonderful and gave me some ideas for one of my fall classes - thanks everyone!
+01:26:52	Melody Jue:	Wonder if there’s also something around mercantile scales and mermaid/fish scales
+01:27:16	Mark Marino:	Melody is fishing for puns
+01:27:39	Caitlin Fisher:	i’m trying out the snapchat mermaid filters #research ;)
+01:27:51	Samya Roy:	:p
+01:28:01	Mark Marino:	We await the reveal Caitlin
+01:28:40	Diana Leong:	That looks amazing!
+01:29:19	Sarah Ciston (she/they):	Such a treat to hear so many angles on this work and to think about platforms and materials in new ways <3
+01:29:49	Samya Roy:	Fun panel I must say
+01:29:55	Sarah Ciston (she/they):	We’re all hooked
+01:30:06	Joellyn J Rock:	Thank you soooooo much!
+01:30:15	Diana Leong:	Thank you Joellyn!

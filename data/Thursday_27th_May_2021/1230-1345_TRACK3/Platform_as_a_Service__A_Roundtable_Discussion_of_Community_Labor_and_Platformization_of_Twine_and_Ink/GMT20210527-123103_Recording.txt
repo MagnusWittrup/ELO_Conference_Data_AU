@@ -1,0 +1,58 @@
+00:16:37	Justin Bortnick:	You've got Zoom Interface covering your slide
+00:23:24	Deena Larsen:	Thank you Chris!! Twine is amazing!
+00:26:31	Deena Larsen:	https://www.patreon.com/klembot
+00:36:41	Deena Larsen:	It might be good to do a "Twine Workshop" creation within Patreon--Twine writers want to write, but may not know how to use Twine... and would pay for that type of workshop
+00:37:11	Deena Larsen:	Or pay for a "WritePod" where we get together on specific Twine works---
+00:39:23	Deena Larsen:	Yeah, sigh. 30 years on and we have never figured out a reasonable business model. Arrgh.
+00:39:54	Anastasia Salter:	Deena, Judith and Chris were putting together something like that as I recall - of course, it was planned for summer 2020 originally alongside Narrascope...
+00:40:16	Justin Bortnick:	Maybe next year!
+00:40:43	Deena Larsen:	A virtual workshop would work as well... hmm..
+00:45:09	Anastasia Salter:	Stuart and I have talked speculatively about working with an open source press (perhaps Amherst) on more "theory and practice" model books, which certainly help with academic recognition...but probably not with finances.
+00:45:40	Deena Larsen:	You need financial support for these and academic credit --what helps build your CV for tenure...
+00:46:36	Deena Larsen:	And then the videos have to be updated with new versions--harder to update a video than a paper
+00:49:14	Deena Larsen:	Do you see Academia changing at all as a result of this past year/Covid impacts?
+00:49:53	Deena Larsen:	I can not imagine that any of you guys have time to breathe!
+00:51:59	Deena Larsen:	Yet there is still a world out there--fan fic, elit writing, creative writing--even movie making--that relies on Twine.... how to tie into those interests... hmmm...
+00:53:15	Deena Larsen:	Yes, electronic lit writing is always about 10 times as complicated as "plain writing" and teaching this is as difficult!
+00:54:10	Deena Larsen:	Now people KNOW what is involved!! Painfully!!
+00:55:32	Justin Bortnick:	A reference to their old company name, Epic MegaGames
+00:55:55	Deena Larsen:	I think people misunderstimate the amount of passion you have to have for this coding and writing platforms.
+00:56:54	Deena Larsen:	For a platform, you need both a low barrier to invite and keep writers and readers--yet complex enough to do amazing things and realize writer dreams
+00:57:46	Deena Larsen:	People will use whatever tools they KNOW ABOUT and what will help realize their visions.
+00:58:30	Deena Larsen:	But also, people will play with the platforms and write to the platforms... like Kathryn Cramer did with In Small and Large Pieces, like John McDaid did with Uncle Buddy's Funhouse--we wedded works to platforms
+01:00:05	Chris Klimas (he/him):	Ink has “knots” :) hard to figure out from hearing the word out loud
+01:01:04	Deena Larsen:	Yep. The Live transcript said "odd" instead of knot"
+01:01:13	Zach Whalen (He|Him):	Kind of an obvious question maybe, but I'm curious about the though process behind making Twinery.org just the editor and not a publishing/hosting platform (practical? philosophical?), and relatedly if anyone knows why Philome.la closed down?
+01:02:00	Deena Larsen:	https://yarnspinner.dev/
+01:02:00	Zach Whalen (He|Him):	versus inklewriter.com, for example
+01:02:11	Chris Klimas (he/him):	lexia!
+01:03:01	Deena Larsen:	Getting the terminology away from the eliterature/hypertext pedagogy is problematic...
+01:03:18	Deena Larsen:	As you break connections and may shatter "academic cred"
+01:03:27	Deena Larsen:	node/lexia/link
+01:03:51	Anastasia Salter:	Dan'ts talk from last year: https://stars.library.ucf.edu/elo2020/asynchronous/talks/17/ :)
+01:04:06	Deena Larsen:	Yes, most writers/programmers pay for their own website--and when something happens, the work basically dies.
+01:04:45	Deena Larsen:	And then... what about publishing? sharing stories?
+01:04:56	Deena Larsen:	even if we support our own work?
+01:05:12	Deena Larsen:	ankle in transcript is inkle
+01:06:49	Deena Larsen:	yep.. if you tie into commercial benefits, it helps.
+01:07:59	Deena Larsen:	I got hired in the govt 30 years ago as I promised to deliver a government document system that would serve up content to diverse audiences -- environmentalists could read about impacts to fish, farmers to irrigation, etc.  Never happened.
+01:08:53	Deena Larsen:	Yes, we have a choice where we put our limited resources--do we keep drudging and trying to keep current and past work and programs alive or do we do something fun like creating something new.
+01:09:13	Deena Larsen:	speak more about liabilityQuestion--Chris
+01:10:30	Deena Larsen:	Yes publishing platforms do have a lot of liability--for the content and for keeping the content.
+01:11:38	Zach Whalen (He|Him):	Great answer, thanks!
+01:12:29	Deena Larsen:	The tiny one-person companies have the same challenges and pressures in an equal degree as the large companies. How do we address that??
+01:13:21	Zach Whalen (He|Him):	yeah, the timing of that inklewriter shut down was inconvenient for one of my classes
+01:13:31	Zach Whalen (He|Him):	So I'm glad to see it make a comeback
+01:13:32	Deena Larsen:	And eventhe big programs die (Flash)
+01:14:33	Justin Bortnick:	Nintendo's emulation software is also notoriously imprecise a lot of the time!
+01:16:08	Deena Larsen:	Would someone be able to translate: Twee? Wolf format?
+01:16:45	Deena Larsen:	http://babel.ifarchive.org/
+01:17:44	Kenton Taylor Howard:	https://ifdb.org/viewgame?id=6jzbwcc1wdolvmz0 is the game Dan is discussing I think
+01:18:11	Daniel Cox:	^
+01:18:19	Daniel Cox:	Afternoon in the House of Secrets (July 2009)
+01:21:10	Zach Whalen (He|Him):	Speaking of HTML as a platform for sharing, I recently came across "Calico" which is apparently a web story format for Ink. I haven't tried it, but seems like it could be useful. https://elliotherriman.itch.io/calico
+01:24:52	Deena Larsen:	Yes, Dene said in another panel--the only stable things have been twine and video--and we are not so sure about video
+01:26:32	Deena Larsen:	Yes, people ar not used to coding their own software...
+01:27:39	Anastasia Salter:	Thank you!
+01:27:41	Zach Whalen (He|Him):	This was really interesting and informative! Thanks!
+01:27:51	John Murray:	Thank you!!

@@ -1,0 +1,70 @@
+00:26:27	Leonardo Flores:	Hi folks! Good to see you all!
+00:27:01	Alex Mitchell:	hi!
+00:27:10	Erika Fulop:	Hi all :)
+00:36:41	Leonardo Flores:	Commands like “kill” are evocative of some of the language choices of the time, like “fatal error.”
+00:37:07	Winnie Soon:	Also may be related to language politics - kill / abort…
+00:37:31	Leonardo Flores:	Yes. (Abort / Retry / Fail)
+00:39:00	Alex Mitchell:	Yes actually, that’s a great point
+00:39:23	Winnie Soon:	i also want to remind everyone that we have the live transcript feature, just click the button at the bottom.
+00:39:42	Leonardo Flores:	Generation 2.5
+00:39:47	Leonardo Flores:	;-)
+00:43:13	Leonardo Flores:	All the works in Taper are published under the MIT License, so they invite repurposing.
+00:45:50	Leah Henrickson:	Could someone please pop the link in the chat again? I arrived late and can't see it.
+00:46:04	Leonardo Flores:	I have it.
+00:46:21	Leah Henrickson:	Thanks, Leo!
+00:46:30	Leonardo Flores:	:-)
+00:49:16	Vinícius UFMT:	Q @David: Do you think all text generators generate a "fictional author" besides the output texts they produce? Would that "fictional author" be sort of a meta-text in that case?  
+00:52:51	David Wright:	The work is framed as being created as a propaganda machine, so the author is ‘someone’ working for DPRK’s propaganda development and so obviously has an agenda that is fictionalised here. In this case, it frames the work and so yes, would be a sort of meta-text.
+00:53:24	Vinícius UFMT:	Thanks! Very interesting project!
+00:53:47	Leah Henrickson:	Winnie, your moderation is great - I'm loving these brief summaries between presentations.
+00:54:14	Leonardo Flores:	I’m impressed by the metadata necessary to help identify each word’s poetic characteristics.
+00:55:10	Natalia Fedorova:	Yes, and we just dealt with two rhyming patterns
+01:04:25	Leonardo Flores:	What strikes me about both examples from Alex’s paper work with textual interaction, one clearly being more constrained and command driven, the other more natural language driven, and giving the illusion of freedom.
+01:04:38	Leonardo Flores:	Yet they’re both constrained.
+01:05:57	Alex Mitchell:	I think what’s interesting to me is AI Dungeon seems to ignore or deliberately avoid/hide/obfuscate the constraints whereas Project December foregrounds them
+01:06:52	Leonardo Flores:	I have a follow up question.
+01:07:57	Leonardo Flores:	https://www.wordnik.com/about
+01:08:18	Roberta Iadevaia:	I would like to ask David Wright what other works of e-lit he will work on in the future and what are the parameters on the basis of which he chooses the works (apart from the availability of the source code). Thank you
+01:08:23	Zach Whalen (He|Him):	Q @Alex Re: AI dungeon, it sounds like some people were intentionally making it do terrible things (like Tay.ai?), but if I understand it also can be accidentally offensive, presumably owing to GPT-2's training on Reddit comments. So given those possibilities for deviation, could someone do something creatively subversive or artistic with AI dungeon that would achieve that kind of defamiliarization you find lacking in the vanilla gameplay and paratext? If so, how would that be different from the grounding Rohrer creates for his readers?
+01:08:57	Mark Marino:	Q: Alex, to what extent do both pieces benefit from an AI version of the ELIZA effect: we assume the AI is further along than it is? Users attribute near human intelligence to still nascent tech...
+01:09:13	Svetlana Kuchina:	I am sorry my Internet connection fails every time
+01:12:30	David Wright:	Roberto Iadevaia, thanks for your question. I’ve got a few projects on the go. Currently, I’m using multiple Australian archives for a project titled ‘A Recombinant History of Australian Camels’, which takes multiple images/entries of ‘camels’ to construct a ‘recombined’ history. I’ve also been ‘reviewing’ electronic literature within electronic literature – i.e. situating the criticism within the code itself.
+01:13:10	Leonardo Flores:	I gave a talk a year ago titled Distant Writing in which I use a metaphor of distance to discuss different techniques for generative writing: https://leonardoflores.net/blog/presentations-2/two-recent-lectures-turning-the-page-and-distant-writing/
+01:13:50	David Wright:	Roberta* apologies.
+01:14:53	Alex Mitchell:	@Zach that’s a very interesting idea, I think it may be possible to do something subversive and artistic within AI Dungeon, I think the difference is the layer at which its happening, eg in the content rather than the UI (if that is still a valid distinction)
+01:15:12	Mark Marino:	like the Sea and Spar Betweej essay in dhq, which has commentary in the code.
+01:15:36	Alex Mitchell:	@mark yes there are definitely elements of the Eliza effect here
+01:16:29	Roberta Iadevaia:	it also reminds me of Concatenation (concerning Australian issue)
+01:16:33	Roberta Iadevaia:	thank you!
+01:17:47	Leonardo Flores:	Cyborg authors, too.
+01:18:40	Kirill Azernyi:	What if a medium is the author? : )
+01:21:53	Leonardo Flores:	Hand coded generation -> GPT :: hand coded poetic language encoding -> Wordnik dictionary services
+01:22:32	Leonardo Flores:	David, you’re a hackeur
+01:22:43	Leonardo Flores:	Hacker + auteur :-)
+01:22:46	Leonardo Flores:	So am I.
+01:22:47	Alex Mitchell:	:)
+01:22:55	magdalena tyzlik-carver:	@david would you consider this more of a curatorial process then, when you put together elements rather than 'write' them. or is it a composition?
+01:23:16	David Wright:	It seems something like a collage, almost, they I love Leo’s term ‘hacker’.
+01:23:19	David Wright:	hackeur*
+01:23:34	magdalena tyzlik-carver:	:)
+01:23:36	Roberta Iadevaia:	Hacker + auteur = poet?
+01:23:49	Leonardo Flores:	And storyteller
+01:28:16	Roberta Iadevaia:	@All. I was thinking about "1 the road". What changes, in your opinion, when an AI is placed in the condition of moving in space? And what could change in generative literature with the mass diffusion of the Internet of Thing? (I often enjoy imagining journals written by traffic lights, for example ^^)
+01:31:29	Leonardo Flores:	Data sources everywhere!
+01:31:52	Leonardo Flores:	Waiting to be harnessed by a motivated hackeur!
+01:32:23	magdalena tyzlik-carver:	@David in re to 'propaganda' there is a really interesting article by P. Gallison Blacked out spaces: censorship and the re-teritorialisation of mind which gives an interesting example of Freud's letters to his friend abroad, which were censored on the border and would be delivered to him with many lines crosed out, or blacked out....
+01:32:30	Roberta Iadevaia:	nice, thank you!
+01:32:51	magdalena tyzlik-carver:	how the censor becomes part of writing, etc.
+01:38:11	David Wright:	The censoring idea becomes a language in itself and generates meaning. Stasiland, a highly-researched novel of the East German resistance and their interactions with the secret police, was published in 2003. Following publication, Funder received an email notifying her that a group of ex-Stasi, communist party functionaries, lawyers and others who called themselves—with zero irony—The Society for Civil Liberties and the Protection of Man was suing her German publisher.
+01:38:28	Kirill Azernyi:	Wasn't it Mandelstam who said connections mattered much more than their elements? Anything from anything, again 
+01:38:43	David Wright:	They were taking issue with details in a certain paragraph in her book about what ex-Stasi had done post-the Berlin Wall fall. A preliminary injunction in 2004 required Funder’s German publisher delete the paragraph in future German editions. In response, Funder changed publishers and insisted that the deleted paragraph be included, but blacked out. She then added a footnote that attributed the redaction to the ‘litigious ex-Stasi group.’ She wrote ‘I want German readers to see the dark reach of the regime well beyond its apparent demise.’
+01:40:01	Leonardo Flores:	Thanks for a great panel!
+01:40:08	Leonardo Flores:	Bravo!
+01:40:09	Leah Henrickson:	This conversation was fascinating!
+01:40:17	magdalena tyzlik-carver:	really great conversation, thank you!
+01:40:21	Roberta Iadevaia:	thank you :)
+01:40:22	Vinícius UFMT:	Great presentations and discussions!
+01:40:25	Erika Fulop:	Thanks all, very interesting!
+01:40:27	Kirill Azernyi:	Thank you, all of you! It was really great! 
+01:40:40	avisti:	Thanks all!
+01:40:51	Egor Goncharov R33362:	Thanks all, very interesting ! 

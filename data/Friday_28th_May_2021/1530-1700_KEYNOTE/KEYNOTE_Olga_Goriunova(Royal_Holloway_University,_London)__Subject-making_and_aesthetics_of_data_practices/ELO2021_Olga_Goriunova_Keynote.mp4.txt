@@ -1,0 +1,405 @@
+﻿[00:00:41.690] - Speaker 1
+Hello and welcome to this keynote lecture by Olga Gorian over a big yellow conference 2021. It's the last day of the conference and the last keynote. My name is Alison Anderson, and it is my pleasure to moderate the session and to introduce Olga. She is professor at the Department of Media Arts at the Royal Holloway University of London and cultural theorist working with technological cultures, media philosophy and esthetics. Her work has, I've noticed, been referenced by several of the presenters at this conference, and it's probably familiar to most of you.
+
+[00:01:31.830] - Speaker 1
+So perhaps she doesn't need much of an introduction after all. However, I'd very much like to say something anyway, because I'll place a very special role here at our Digital Esthetics Research Center in August. So I'd like to share some historical background information with you, as well as our considerations as organizers for choosing her as a keynote. She has visited almost several times, but first visited in 2004 when we asked Is Olga Ossian almost school? And a number of other people organize the seminal README festival for software, art and culture and the run.
+
+[00:02:17.540] - Speaker 1
+The Dorkbot City came up with the subtitle People Doing Strange Things with Software. So maybe you've heard of this. It's a long time ago, but it was the first large event we organized in our research center. We were fairly new at the time. So at this event we showcased and discussed what was labeled software, art, software, art in the sort of genealogy of artistic practices. You know, there's software art which followed Nidaa Art of the 90s.
+
+[00:02:51.530] - Speaker 1
+But several of the artworks could easily have been labeled electronic literature. And we dealt with many subjects and questions that we are still discussing at this conference today, such as, for instance, the political implications of algorithms. But naturally, it was different times and we did so in a different way with a preference for software such as the sequencer, the text editor or the image editor. The reason I mentioned this is not because we are stuck in the past, but I want to stress how important it was for the participants to meet.
+
+[00:03:29.390] - Speaker 1
+We were around 200 participants and one of the participants I remember traveled all the way from Bulgaria by bus. Others knew each other but had never met. It was, in other words, a platform for artists and art who had to invest themselves in the maintenance of the infrastructures that kept them alive as a community. A lot of work went into the run me dot org repository, and it's still online, and you can go visit a curated collection of net and software artwork's browser, add code art, Perl poetry and more.
+
+[00:04:09.750] - Speaker 1
+Each work was accompanied by a curatorial statement, a qualification of the work by the people in the community at the time. If you had an interest in cultural software, you didn't have a platform such as the App Store. You had nowhere to go, so run me. The dog marked an important moment in time and also became the topic of Olgas early academic work on art platforms. So at a conference on platforms and art and literature in a post Westenra platform pandemic pandemic, we necessarily believe that Olga has something to say and can help us set the key.
+
+[00:04:58.180] - Speaker 1
+Back then, in 2004, our platforms were interesting because they had developed a sophisticated way of making culture happen via routes that are unique to networked media and I'm quoting always work from back then, these routes and strategies that are unique to network media have changed significantly since then. We can all agree to this. I think today the platform means something different than back then, or it has many meanings. The user has become something else and so has the folklore of digital culture and the strategies of counterculture.
+
+[00:05:42.460] - Speaker 1
+What I believe many of us find interesting or intriguing in all his academic work is her sensitivity to see the many and diverse cultural practices that have appeared in network culture and also in its platform ization. So when listening to Olga and and reading her work, I always learn about these very practices. And she always provides us with a compelling vocabulary to understand them, such as, for instance, new media idiocy or lurking or the digital subject, which I believe she will be telling us more about in a minute.
+
+[00:06:23.350] - Speaker 1
+And what I also find compelling is that she often highlights how digital culture can be paradoxical. There's always both pleasure and pain. The lurker, for instance, is both the user and the algorithm. That is, she conveys understandings of what we do as users, as well as how they approach us writers and creators as users. Now, I don't want to go further into her work, but before passing on the work to Olga, I'd like to remind you all to use the text as much as you like.
+
+[00:07:04.450] - Speaker 1
+But if you have questions to all that you'd like us to bring up after the talk, please post them in the Q&A section. This makes everything much easier from our side. It's easier for us to actually see that there is a question from the audience. And having said this, I also apologize on behalf of the platform Zoom's webinar, which doesn't allow you to access your camera or microphone, but really that is us here and almost will do our best to represent you and raise your questions.
+
+[00:07:40.360] - Speaker 1
+So please remember this Q&A in the Q&A section. And with this, I think I'll pass the word on to you. Olga, welcome.
+
+[00:07:51.600] - Speaker 2
+Thanks very much. Thank you, Christiane, for such a thoughtful, wonderful introduction and such a thoughtful reflection on my work. Thank you all very much for coming to the lecture. I want to thank again the organizers for for my invitation and to say what a fantastic conference it has been that attended quite a few sessions. And it was always inspiring to see how close attention is paid to software, data and interaction infrastructures, how central art is to these investigations, and how political this work is, including the politics of memory, race, gender and multiple ontologies.
+
+[00:08:37.260] - Speaker 2
+So Theron asked me to open with a little bit of going back to my previous work that saw in Christian talked about, and I'll do that for the first five minutes before kind of explaining how it brought me to what I will be talking about today. So I've seen other platforms mentioned and done Christian Wonderful introduced, and the work that that it came from is from the digital art of the 90s and my work in the field. And I was recently thinking that in two or three years, time will be celebrating 30 years of the World Wide Web.
+
+[00:09:20.840] - Speaker 2
+Right. And just thinking about what changed and what happened from 1994 to 2020 for that is just ahead of us is mind blowing. So the World Wide Web transformed, you know, the world as we knew it and. I'm sure a lot of you are aware of this kind of early sense of openness of the space for the first of eight, 10 years of existence. Now, when I'm teaching this period thinking ahead of this to this jubilee, my students often often say that's unthinkable for them, that there was a period of time when networks, platforms and technology would seem to be open to be discussed in terms of austerity to be developed and intervened upon as malleable as something is plastic that we could imagine infrastructure as something we could create and create with and in people socialized into the art practices of the late 90s maintain an ambivalent view of technology that is always with some kind of access, never fully to.
+
+[00:10:34.780] - Speaker 2
+And I hope to keep this sense even in today's talk, which she sounds quite gloomy, judging by the presentations of this conference, it is a powerful undercurrent, which is great to see. So I was a curator of this first software art festival. Read me. The first edition took place in Moscow in 2002 and then in Helsinki 2003 in August with the wonderful team, enormous Christian and saw and then other people in Southern and form and endorsement in 2005.
+
+[00:11:11.020] - Speaker 2
+So software at first started being discussed as an art form in the late 90s, and it emerged out of Nasdaq's attention to the materiality and politics of networks, a theme that is more than current today as part of my festival, inspired by the early work political commitments to self organization and self governance. We created a platform for software called Running, its idea was to capture RAAG outside of the art field, you know, the naive art of coders that didn't self identify the artists and to develop it, as well as build an alternative self-governing system to support a new art form which would abandon the mechanisms of exclusivity to the idea of winning and the principle of hierarchy.
+
+[00:12:07.250] - Speaker 2
+So we were really keen on getting away from artificial scarcity and developing a new system that we will work with. Funnily enough, from me became known as a platform for automated curation, although it never was a fully, automatically created system, although we did seem to develop a formal relationship with technological infrastructure that is collaborative. So Romney was done in 2003 when I was beginning to work on my PhD and I ended up writing about Ron reformulating the concept for this kind of work.
+
+[00:12:41.710] - Speaker 2
+The one of our platforms, our platforms and related work of organizational esthetics I wrote, produces or develops an art movement, an art form through my own home cooked mechanisms. These arise in dialog and cooperation between people and with and between and with technical forms and jointly formulate esthetic forms, working with art and beyond art to generate novel esthetic formations and different skills, art platforms. And there were many more than just Brummie blossomed just before social media platforms came about.
+
+[00:13:23.210] - Speaker 2
+The problematic of today's customization is well known and has been discussed throughout these days at the conference. The walled gardens, there's a problem of data surveillance, the political targeting that they allow, the customization they solicit they have, these have little to do with our platforms. But the way I continue to think about platforms is that they are checking the cultural environments that produce cultural forms and forms of being, and in that they produce subjects. We can understand this idea through the formulation of the user or perhaps the reader.
+
+[00:14:03.760] - Speaker 2
+In the tradition of electronic literature, some concern has mentioned to me this position is good through the technology of the platform. So you probably picked up on this long introduction on three distinct things the question of platforms, data and software, the question of subjectivity and formulation of subjects, and the question of the relationship between platforms, subjectivity and esthetics. And today will be intertwined in my talk as I will be speaking on the question of data platforms and software.
+
+[00:14:40.980] - Speaker 2
+It is now part of the common sense to stay that constant generation of data, analysis of data and prediction based on inferences from data as some of the key components of platform infrastructures which are organized to extract active and trade people's data. So talk about the probe that's looking more closely at what happens and where the place of esthetics is in this process. The second part is related to my conviction that subject evasion is a profoundly esthetic process. And here we'll talk about the process of subject formation and subject evasion in relation to data and platforms.
+
+[00:15:20.850] - Speaker 2
+This is really a large theme. So I will only describe very briefly some routes that can be taken here, including the usefulness of specific schools of thought, understanding what I will call poetics of idealization and the esthetics of recognition. Before I begin, I want to take a little to say a little anecdote that will help you understand how I came actually to this topic and what is the driving force behind it. I apologize if you already heard this or read this so few years ago, quite a number of years ago, actually, my Ph.D. student who at the time was working in digital marketing, went to a lecture by a company that was coming into the UK market and the lecturer was explaining what kind of data they had access to and what kind of things they can do with this data to personal personalized advertisement and to target individuals and neighborhoods through this idea of digital zip's.
+
+[00:16:23.970] - Speaker 2
+So she was showing different kinds of data on the screen and at some point started discussing one specific point, like maybe that you would see here. The red dot in terms of the data that was available there and she was describing this individual that was probably a woman lived in on a specific south on the street, although this is not one of what organic vegetables wasn't on Twitter and, you know, London Underground. And at some point some my student called me and said told the story and said that at some point she recognized me, the supervisor, in this description.
+
+[00:17:13.070] - Speaker 2
+And this encounter is what generates this whole project on digital subject. What exactly is this digital entity that she identified as me? What relation does it have to me? How do I relate to you to it? How is it able to stand in for me and connect and construct me or a me that attracts advertisements as well as many other things and thus possibly out me while still relying on my activity? How is it produced outside of my awareness? Mobilized and recruited.
+
+[00:17:48.110] - Speaker 2
+It is clearly not tied, and yet it is no one else than I. So what are the eyes out there laboring in the cultural, economic, social, political, legal, medical in the state spheres. What are the structures through which this was? I represent me, speak and act on my behalf and perhaps sometimes ask me how do the structures work, how far this was? The eyes diverge from me and from each other. And above all, what are these entities actually critical speaking?
+
+[00:18:21.390] - Speaker 2
+So the larger project that this talk is part of attempts to come to terms with this account and answer the questions, my astonishment at the appearance of Amy in such a chance encounter quickly gave way to disbelief that it was Amy. And this mixture of recognition and disbelief is fundamental to this proposition I'm making of the digital abstract, ideal subject digital. The subjects are abstracted from social media data histories or browse or search engine queries, mobile phone positioning records, bank transactions, census data, facial recognition data, email inboxes, and innumerable other things.
+
+[00:19:04.320] - Speaker 2
+Dynamically updated and based on my data, they also based on other people's real or historical data, computational models and personal or collective assumptions, as well as a swathe of practices from computer engineering cultures to specific sector practices and larger social, political and political socio economic and political systems. I specifically don't use terms such as data and digital self or subjectivity to grant the notion of a subject that is made of and with data at some distance from us humans in data infrastructures.
+
+[00:19:44.950] - Speaker 2
+Such subjects are constructions that are never at the level of the individual, but are either above or below it. And they don't correspond to individuals. They're not interested in individuals, but are a mode of abstraction at a distance from individuals. I think that this mode of operation that they are continuing, that they're continuing. That in this mode of operation, I'm sorry that continuing the subject, the destructive methods of the classical subject of modernity, but I'm going slightly ahead of myself here.
+
+[00:20:22.460] - Speaker 2
+So following from the beginning point of this project, I continue focusing on the advertisement that I'm sorry about this topic. It's a little bit boring, but advertisement is an area where you can actually study how data works and how to interpret it because a lot of other areas are being closed. I think the principles that we can see liberation applied to other forms of interpretation of data. So this is something we can also discuss. So let's look at how some of what I'm talking about actually, what are the subjects and how are they made and how I look like to Google about how we will use them.
+
+[00:21:03.140] - Speaker 2
+So this is how very cheap or not cheap are open, free, you know, level of Google Analytics would give you access to such kind of a profile. And what are the kinds of things that are recorded as you act around on the Internet? You would visit, for instance, a store and be assigned a unique identifier that is matched with a specific product and an interest category. I can be identified by a cookie social media account handle on my IP address to assess my visit.
+
+[00:21:46.610] - Speaker 2
+A lot of free or basic web analytics tools will offer some crude data insights, drawing on my geographic data, the demographic data and engagement and interest data, the engagement, the Google determines my age and gender, among other things, by my name that I use in my Google email account. The engagement data based on data exchange between my device and the server and interest data would be another big analytic categories. My interest data is derived from my history of browsing entry and search terms into a search engine, watching videos and all purchase of travel information that can be gleaned from the content of my email and audio activity.
+
+[00:22:39.170] - Speaker 2
+At this stage, my digital subject is nothing more than unlimited data points. So already the level of free Google analytics, various data points I recorded as my attributes. But the way in which they make sense is always compound. The value isn't belonging to a group and they're called upon as groups are combined together. So this data is categorized categorization, he refers to putting the pieces of data into groups or basic sorting, they are reportedly thousands of categories used in Google, not too many, actually, with free Google analytics.
+
+[00:23:24.320] - Speaker 2
+And there is, as of recently, compatibility between categories and used by different platforms. So now Google and Facebook, for instance, are compatible. Individual data snippets are composed and categorical subjects that are based on data that lends itself to group formation, such as gender or interest. Categorical data and statistics is data that is not reportable as yes or no, but has a qualitative difference such as gender. But mattocks, as I can call categorical subject, all data cuts that are sorted into categories in contemporary data practices.
+
+[00:24:03.830] - Speaker 2
+And these are the simple forms of digital subjects. These are grouped subjects which are in effect cuts across categories, humans interests, interest, for instance. I think it's like this like women of certain age plus interest in this plus this, plus a reason people design items. This would be a categorical subject. Categories are traditionally linked to representation, normalization of discipline with all the consequences they have for subject making through schools such as Facebook. So you have the kind of the traditional oppression of a category of people who are excluded from a category of people who are punished for not belonging to a category, and people who have to fit a category to function in society.
+
+[00:24:53.420] - Speaker 2
+But in this practice's, these categories are not based on normative values. These categories have nothing of classical core. The groups can be formed on any basis. And so theologists often now talk about performance rather than representation in relation to this data practices. And you will see why in a minute. The kind of generalization produced by certain people into groups is well studied. Generalization is the logical instrument of the nineteenth century across a range of expression. It is also the side of the crudest discrimination and discrimination has not gone away.
+
+[00:25:33.950] - Speaker 2
+But the process of its production changes as late the practices change. So after categorization come segmentation. It is also logically a method of sorting by establishing patterns and putting data points in groups across socio demographic, geographical psychographic and behavioral data in classical statistics. Methods of segmentation. Rely on a segmentation variable, which means the data input that defines what goes into which group, into which group, and the segmentation variable classical statistical method was, for instance, gender.
+
+[00:26:20.690] - Speaker 2
+And the rest was descriptive. The variables in data driven segmentation, they switched places. So the segment, the descriptive variable becomes the main driver that defines the constitutional segments and the rest of categories, including normative categories such as gender, age, act as descriptions. So you can see exactly how category it loses its normative and kind of restrictive restrictive function. And basically now we have a certain fluidity that a lot of scholars write about that data during practice doesn't care whether you're a man or a woman today because you can be assigned to whatever suits this infrastructure for the next two weeks.
+
+[00:27:04.340] - Speaker 2
+You can be assigned the gender. So we're shifting into a completely different paradigm of normative chain of control than the one that the one that we know. And this is an example from a text book that you can see in the upper part, the kind of first table you can see. Maybe I should do it like this so I can see my mouse, you can see. A segmentation variable in traditional statistics, which is gender, and then you have descriptor variables which are in this set of data, which is about travel and about why people travel what they like and traveling.
+
+[00:27:47.160] - Speaker 2
+Some people like to go to museums. They like culture. Some people like ective exploration of nature. And these are descriptive variables. And in data driven or data rich practices, they literally score places. So here you can see in the bottom part, descriptor variable is gender. So it's the description and then segmentation variable, which is the the the basis of how things will be sorted. Are these kinds of characteristics of how people like to spend time together when they are on holiday.
+
+[00:28:35.520] - Speaker 2
+The presupposed homogeneity of the group produced through this remains, although it shifts its emphasis, but to go back a little even before this, the first step before the data exercises even begin. The first step for companies in this case is to create an ideal customer, a set of characteristics that are desirable for the business. And I apologize for this awful corporate imagery, but it often looks like this. So, for instance, a furniture company would describe the ideal customer as a person who appreciates contemporary design, has with spending power, likes having people at home, like travellin ideal customer is often described as a persona, a character, a type, an ideal profiling against an ideal persona is that the foundation of data and analytical techniques.
+
+[00:29:39.490] - Speaker 2
+It is important to note that the kind and rule of identity of such a person, not in constructing digital subjects and how it is put right at the heart of all supposedly objective data manipulation. So it's even before you actually start getting data and doing something with it, you have to create this kind of ideal image against which all other protesters will be measured. So coming back to segmentation, there is machine learning models can be used for the purposes of segmentation.
+
+[00:30:16.010] - Speaker 2
+This will not only be based on multiple segmentation variables determined in relation to the ideal profile, but also on assumptions implied by the method of a specific machine learning model used. The analysis will result, for instance, in the six segments found. So you can see it's quite a mess in the segments would contain people, groups of people that belong to one segment only supposedly. And every segment is homogenous and it is expected that people will have other characteristics in common on top of the shared segmentation variables.
+
+[00:30:52.100] - Speaker 2
+And this is something that when to, for instance, described through focusing on the idea of homophily. And it's really important element in this process. So it's expected that people would display other similar behaviors apart from the behavior that they were slaughtered against. And then so you have segmentation could be presented like this or this could be not really readable, and there are many ways in which things are visualized. So for humans and then with contemporary practices, from segmentation, we have profiling.
+
+[00:31:34.330] - Speaker 2
+Profiling is the next step in the process, which intends to find out more about the segments, for instance, age and gender of people in the group, their preferred styles, anything about them that can make it easier to target them in classical statistics. There was no profiling. Profiling was not needed because the profile would have been predefined by the descriptive variable such as gender. In this new practice's data driven rich data practices, the basis for certain people into groups can be anything.
+
+[00:32:09.070] - Speaker 2
+So basically we don't know anything else about these groups. And then then you find out who the people are in these groups and how they ended up being together logically as an operation. The protest is the same. It's about shooting, about finding patterns and certain attributes into group. So profile, in the sense, is a kind of secondary sorting to understand the occurrence and importance of segmentation, variables and so variables both inside the segments and across segments with profiling.
+
+[00:32:43.300] - Speaker 2
+It is time for description. So a few things are important here. The process checks in with the ideal profile iteratively at every stage. First, not all segments will be deemed valuable and worthy of engagement, even if they form tight clusters, but do not match the most important qualities of the ideal profile. And we can think about discrimination right here. If this clusters are not reachable or large enough or just an interesting commercial or politically, so they would be discounted when matched against this ideal profile.
+
+[00:33:23.550] - Speaker 2
+Secondly, and again, going back even criteria for segmentation another, I prioritize that based on existing knowledge is used as an element to deciding which information will be used for segmentation. And the way you have existing knowledge, you have bias always. So segmentation criteria will work together with the ideal profile as the framework for this process. So this is profiling, right? So it's kind of understanding what's resulted. It is important to list all the steps and understand the logical operation, and I think I list them here.
+
+[00:34:08.960] - Speaker 2
+At which points to understand at which point the generation of ideal personas and ideal structures, concretization of cultural forms, libidinal and economic judgments, as well as personal judgments, sector knowledge, historical practices and the agency of computational models set up and guide the data analytical process in a way in which it becomes only ever partially a data crunching exercise. Data used is also likely to be historic. It will be drawn from different sources as diverse as the census and consumer data, and combined it will.
+
+[00:34:50.450] - Speaker 2
+Huge is easy to see how this process is fabled and how we can see a certain politics of idealization of the work here. Because you have at every step you have a sudden creation of an ideal persona or a character, which is interesting to think in the context of electronic literature and then matching against that at every point of the way. We've seen how poor a specific character creation, the narrative, if you will, even the most banal and schematic, like a skeleton of a character, is part and parcel of data practices and platforms.
+
+[00:35:27.920] - Speaker 2
+So to go through it again. First, the ideal subject is created and a framework within which it acts in the way that is desired, then characteristics of those around through people's characteristics, which sort people into unique groups on the basis of their relation to the ideal subject's qualities. These are group subjects that function as cuts across real people. Multiple attributes of me would sort me into meaning group subjects whose criteria of constitution is a response to an imagined persona.
+
+[00:36:07.580] - Speaker 2
+The technical term requires partitioning that identifies this procedure can be repurposed here. It is a sort of idealizing recursive partitioning. So then other qualities of people in these groups are explored to target them as groups and repeatedly measured to determine, you know, I don't know, personalized price, for instance, that's often used for that. So the digital subjects here are set between ideal subjects of ideal profiles and multiple descriptions of individuals, actions and qualities, personas, a fictional representation of customers based on motivations, desires, mentality.
+
+[00:36:51.330] - Speaker 2
+But digital subjects are also somewhat ideal. They are twice ideal subjects, clusters of attributes defined in relation to an image to an ideal figure. They also descriptions both before the data practices start inside it and after it yields results. And once it moves from categories to interests and basically into descriptions, into sensation, into sensemaking, it becomes a matter of esthetics, becomes much of literature and art more broadly and hopefully. So I want to talk a little bit about prediction here as well.
+
+[00:37:30.780] - Speaker 2
+Segmentation assumes the form of a table where segments are columns and segmentation, variable roles that I've shown you. Many of those tables, measurements expressed the percentages for degree segmentation itself as a very old technique that not only lends itself to the table form, but is constructed by the disciplinary technology of the table, the old technique of categorization and its methods expressed as tables. They don't go away with new data practices. In fact, Edwin Mackenzie and his book Machine Learners describe machine learning as expanding the use of the table, the technique of seeking similarities and resemblances.
+
+[00:38:16.020] - Speaker 2
+Edwin McKinsey. However, he says machine learning traverses, juxtaposes and superimposes various tables along different lines. Then the roll call them greed of the Renaissance, classical, or even the later tables of the human sciences. School is widely commented on Washingtonians capacity to handle many formulations of similarities and differences, produce, proliferate nonexclusive and dynamic categories. And here lies the problem with moving away from normalization while continuing discrimination and repression. And they also deal with complexity. But what happens with tables and machine learning is that they become vectorized.
+
+[00:39:02.950] - Speaker 2
+And here is a wonderful drawing from Edgerton's book where he tries to explain how victimization happens to the table. So you can see the table that's transposed into the vector space columns in the table become dimensions with the whole table being transposed into the vector space. Notarization can be achieved through a range of mathematical operations, but at its basis is a transformation of the elements and relations into a system of coordinates, all systems of coordinates for multiple vector space with vectors of the mathematical basis of prediction and probability.
+
+[00:39:43.480] - Speaker 2
+The prediction, this prediction in our case will be prediction of patterns of behavior, and it is the prediction of continuation of such and similar patterns that drives the story of machine learning. So probability of prediction that the intelligent elements and artificial intelligence. Andrew Mackenzie writes about malleability elements of the table could be categorical, quantitative or ordinal. Here is the normative power of the category of the table as an epistemic space. When it is vectorized, elements of the table are reformulated to be expressed as variables and become dimensions plotted and the multidimensional vector space.
+
+[00:40:29.230] - Speaker 2
+So a qualitative difference between types of categories disappears. On the one hand, things become even more homogenized and what appears is the capacity to predict by following the vectors, and there is also a multidimensional attempt that comes to express a difference in kind where the kind of data, every kind of data becomes its own dimension, Mackenzie writes. The real stake in the factories and data is not speed, but a transformation and data practice. It makes working with data less like iterations of data structures like least fields, and they able and more like food in the pliable material.
+
+[00:41:14.140] - Speaker 2
+The vectorized marked multiplication, transposition and inversion of data creates a new vector with variations can be explored, observed graphs and varied in ways that go well beyond the statistical tests. Prediction actually is the mainstay of statistics. So-called linear models have been used for at least 30 years and they are computer models that are still in use. But, you know, the nonlinear models are fancier in your work and there is progression between them. But the only real difference is between the determined ability of the binary classification and normalization of the previous era and the victories actualization of the table, which opens up the possibility of going along, says the Vector, to make a prediction of the future.
+
+[00:42:03.030] - Speaker 2
+And here, where previously we had normative subjects and abnormal subjects, we have a multitude of predicted relationships between projections of this point was ideal subjects that are bought and sold on the financial markets, that enter the planning and systems of both corporations and the states as calculations of the future, and thus bring these plans into resolution, into reality, making the version of the future, our present and subject, define us in a certain way through those digital subjects.
+
+[00:42:41.580] - Speaker 2
+And now the final part of my talk, I would like to stick a little bit more on the esthetics and subjects. The making of the subject is based on the work of establishing the distance to the self. Whether such distancing isn't the turning of one's thoughts back on itself to produce the point of reflexivity in relation to the self or getting out of oneself, to form a relationship with others and other things and systems, which is then inscribed inwardly distancing, that is the core of the generation of the modern subject, the very classical subject.
+
+[00:43:20.020] - Speaker 2
+Subject obstructions are brought out through the distance to the individual and the drug and draw people along with them to places where they are at work. So one has to produce the subject at the border and perhaps a version of the workplace and a different one, again, the doctor and perhaps another one in like a friend space while remaining remaining in the subject full or entirely, subject less in many occasions of life, the forms of being human that do not rely on being the subject.
+
+[00:43:54.870] - Speaker 2
+And there are humans that are banned from having the subject, especially historic subjects formed in this distance and subject abstractions in general are not new to their forms proposed by classical philosophers of European modernity. The card can't all have a form of abstract subject. Now computation takes up a role in subject abstractions. In doing so, computation continues the modern tradition. But it also radically intervenes and redefined subject productions in many ways taking subject production away from human reasoning or cultural institutions, but in many other ways, utilizing an often weaponized in existing practices processes inhibits the very general understanding of the subject is produced through distancing from self bodes well, both with the effective and legal account of subject.
+
+[00:44:52.270] - Speaker 2
+Would that affect the constitution of the subject by the other's affirmation involves coming out of oneself to receive the other's interpretation and embrace of oneself. There is desire to be accepted, to be affirmed and to be recognized on the one hand, and there is legal recognition on the other and they are interconnected. The subject is an abstracted form which is bestowed upon to produce. Reenforced is a legal process. Here is a legal recognition where the subject is appointed from the outside and presented to self to be accepted.
+
+[00:45:33.120] - Speaker 2
+You can probably sense a certain element of early Falco's idea of the subject where the subject is the effect of discuses techniques of normalization procedures of government, Talita. But there's also a way in which the self has to make sense of oneself and the world to recognize oneself as a subject which is esthetic in its foundation and senses the hint here making sense and intellectual sense in which others think you are. He will have an esthetic of affirmation and appointment of the subject.
+
+[00:46:06.090] - Speaker 2
+Computation, I think, enhances this process of distancing, but also takes on the part in affirmation in confirming you in the present and you in the future. It says, I recognize you and your feelings. I affirm them. I confirm them. Data analytics may select you to recognize or help solidify your feelings about the immigrants, the decline of the empire. It pushes them towards certain ends and affirms them. It says it's OK to be worried about your neighbor speaking foreign language.
+
+[00:46:40.200] - Speaker 2
+It's OK to feel distrustful towards a person of a different skin tone. If you are not alone in these feelings, look at these pictures. Look at the slogans. You know, if you moved by them, it confirms and affirms that loves you wherever you are, even though maybe especially if your views align with those of white supremacism. The subject, for instance, in this specific tirade I'm thinking about a vote for Brexit is formed by this affirmation.
+
+[00:47:12.150] - Speaker 2
+I truly think that what's Cambridge analytical scandal revealed in the apparent manipulation of voters and corruption of them into the right wing vote are the layers and processes that I am founded on, the process that I described of first digital, that subject abstraction, then passing those through the ideal voter, then personalizing the information, another set against another set of criteria for personhood, another abstraction, and then affirming the self that in the end go and vote, feeling energized by this multistory obstruction game.
+
+[00:47:53.400] - Speaker 2
+So with platform based data practices, what we have in operation is not only modlin and machine learning and various, as always, power mechanics, but also, you know, a kind of process which heavily draws upon politics of idealization and the esthetics of affirmation. And the question that I would like to end with is whether the weaponized uses of these forces that are esthetic and used to belong to art and literature are reversible, are vulnerable within how we can use them differently and whether and how this forces of our role should work in ways that are not destructive of the future, but a productive, wonderful difference.
+
+[00:48:37.800] - Speaker 2
+Thank you very much.
+
+[00:48:47.060] - Speaker 1
+We are all applauding, I think. So thank you very much for this presentation. And now we move on to the questions and answers section, and I'm sure this there are plenty of questions. Once we have the we're starting to digest what you have just presented to us, this rich outline of how we become digital subjects. The first question is from Andrew Caboolture, and I'm going to read it aloud. And we are also going to post it in the chat.
+
+[00:49:31.770] - Speaker 1
+But you can find it in the Q&A section. Perhaps you could say something about how these data points are not ever interested in our reasoning or our rational practices. But like advertisement media, they are always categorized by desires and spontaneous interests. This categorization you mentioned is missing. Our conscious reasoning practices a different picture of what subjectivity is.
+
+[00:50:02.710] - Speaker 2
+You think you, Andrew? I don't think they're exactly not interested at all in our rational practices. I think, like if you look at categories some of them are based on, like. Just kind of on the wind decision to buy something, but some are about longstanding interests in books or art, although there aren't very kind of meaningful categories about their political commitment. And in this example, it's all about advertising. So a lot of it is about consumption, but these are mostly based on actions that are determinable from what people do online.
+
+[00:50:50.670] - Speaker 2
+So. I think what is interesting in this process and what I'm trying to grapple with, and I think your question probably kind of touches on this, is that on the one hand, the process through which they agree to digital subjects is very. Rational in a way, in which it what I struggle with, it's almost Hegelian is the way it draws upon like a process of idealization that are mathematical and also somehow creative. So they really exploit certain processes that we normally find in art.
+
+[00:51:35.870] - Speaker 2
+But at the same time, they are able to target and kind of deal with data and deal with the attributes and kinds of qualities of humans that are, as you say, non rational or belong entirely to the to the body or to emotion and to kind of capture the individual in that kind of way. And I think kind of the real world, the real power of these practices are. And what makes it so difficult is that they are big animals.
+
+[00:52:09.380] - Speaker 2
+And the reason kind of a dimension of human experience, they can't really try to to to describe to to to to make a number out of. So I would say that, yeah, there is a certain kind of moroseness to this and it's very hard to say, well, this is, you know, is secret. And we don't we kind of save it from from data. I think data can equally process mystical beliefs as well as, I don't know, the records of of which examples you passed.
+
+[00:52:53.770] - Speaker 1
+Thank you. And we're going to move on to the next question immediately, and I guess this is also sort of kind of an information. But but maybe you can comment on on this, too, because I'm sure you are familiar with this. Augustine asks, Are you familiar with Paskeville and Jonah's idea of a pattern recognition as endoscope? It resonates very much with your work.
+
+[00:53:24.860] - Speaker 2
+Yes, I actually haven't read this work yet, so I but a few people said I should look at this Panella. I think there's a quiz. I'm working within a certain group of scholars, which I think certainly I'm not alone. And there are people who focus on kind of different aspects of this. Another person that often comes up as Øresund, the guy is with his idea of, you know, this abstraction core to this practice's is something that is also core to modern classical European philosophy.
+
+[00:54:00.890] - Speaker 2
+Because I think the problem of this of this project is that, you know, we all thought the subjects were dead. Subjects are bad because they are also this kind of classical notion of this subject is often analyzed as the foundation of colonialism, imperialism, patriarchy. And then I was surprised to discover the same kind of operation in place. So it is something to think about.
+
+[00:54:34.950] - Speaker 1
+And yet there certainly is a lot to discuss around this, I think. Yeah, but but of course, their work is recommendable to people who have an interest in this to a. I was I was thinking that maybe I'd like to ask a question, too, in relation to just a follow up on this, it's sort of the question of how how your book also makes us think differently about the modern subject as a construction. And I wonder what you think of this sort of in a more historical perspective of how we have thought of subjectivity historically and how how this kind of sort of statistical or sort of machine learning perspective also allows us to think differently of the modern subject.
+
+[00:55:28.810] - Speaker 2
+No easy question, Christine. I just want to say that. When I started working on this theme, and I have a paper that emphasizes mainly this distance increase creation of the digital subject, because I think it's really wrong to say that this digital subject are extensions of our day to selves. And that is a very common actually notion and contemporary theory with lots of books called Our Date to Selves, our data subjectivities. Would they all kind of. And I think once we actually see there's a distance between them, there are various processes that happen that's more politically productive because then you can say you can interfere in this process.
+
+[00:56:13.960] - Speaker 2
+There are multiple forces, multiple interests. You can detect them. You can also hide in the distance where you can be a hacker, you can use VPN. And this is all happening in this distance. So in this paper, it kind of took about this distance. But then I started looking more because, of course, working with the term subject, which I thought I have to work with to kind of focus on this abstract nature of this process, because it's not the kind of cell for the individual even experience unique singularity.
+
+[00:56:44.740] - Speaker 2
+It's more of an abstraction. And then I started looking at the history of of subject, which is in itself complex and complex field. And then I realized that in a lot of classical, very kind of classical European philosophy, a subject is an abstraction. So it was always an abstraction. And then you say, OK, well, now it just builds on the old processes of abstraction, just plugs in them, sits on top of them and presents this new forms of abstractions that are more granular, more fluid.
+
+[00:57:22.210] - Speaker 2
+They are maybe more manipulable and like the consequences of this are for us to analyze and see. So one of my discoveries was that this kind of digital mode of of subject is making subjects. And the way they work then on us is just a well, I guess many people would say it's a continuation of modernity. That's no surprise here. But it was surprising for me. But I think that maybe it partially answers your question, that it then makes makes us think, OK, so what about alternative notions of subject?
+
+[00:58:03.790] - Speaker 2
+All the people who said we have to get rid of the idea of the subject because it's such a poisonous idea, it's not salvageable, you know, it's not worth working with it. And then I think we need maybe to actually engage with it to be able to to act upon it, to not just say it's rejected because we will not achieve anything. You have to do something to to to deal with that problem.
+
+[00:58:31.830] - Speaker 1
+That's a valuable point, I think, and we move on, it's a kind of different question from Jeremy Hyde, who also I think I think he mentioned this in the chat, too, has actually has a work in there in the run repository and says that Runby inspired me. And yeah, I can see your smiling and it's it's nice to know. But he also has a question and I'm just going to read the last part of it. But the and he asked, how do you see the connective tissue between 90s and early aughts Medhat and what is possible in creative digital work now?
+
+[00:59:22.770] - Speaker 1
+So it's sort of a historical question. I think you also touched upon this earlier on in your talk, the sort of. Yes, it's the sort of timeline of of of digital art and nidaa and soft art and what and what has changed through the history.
+
+[00:59:40.510] - Speaker 2
+Yeah, I think I mean, it's a really good question and complex question. I'm not sure I'm the best person to to really answer it. But I can only going to reiterate what I said is that I think for me the problem and the kind of the focus was always the same. It was about the formulation, the formulation of an art form or the formulation of an art statement or intervention with and through technology. And and so I'm now looking at the formulation of the subject.
+
+[01:00:11.920] - Speaker 2
+But you would say this formulation of the subject also happens in relation to the art form and to the technology. So at some level, it hasn't changed. And at some level you could say that the very foundation of esthetics, as I mentioned, the you know, the kind of role in which it plays in constructing the self because it is, you know, about. Sense and sense making about positioning himself in relation to the people, you know, the kind of interventions, the kind of imagination that makes possible now with technology hasn't gone away.
+
+[01:00:54.350] - Speaker 2
+I know it feels so we feel so powerless and I haven't finished on a good enough note. I would have probably shown you some art projects that would kind of end on a more positive note. But in some way I noticed that. I thought I kind of started in the beginning. And I don't believe there's always like the consistency and brutality in this practice as I think they have themselves ruptured. This data practices and platforms hopefully will continue to fight each other, which is good for us.
+
+[01:01:28.580] - Speaker 2
+And there are also ways in which, through various political esthetic work, we could carve different spaces for survival. And so, I mean, I think art kind of. The conditions change, but the kind of what it can do, there's always something it can do. I don't know if it's a good answer.
+
+[01:01:54.750] - Speaker 1
+I don't know either. I think it is, but but I also think there's something around like if you look at at the start of the process of creation, which was an important part of me, all the sort of community curated artistic judgment, you could say, which is sort of significantly changed as you describe how esthetics works today and how taste is developed and how things are sort of propagated. I think to is a dimension that has changed. But anyway, we have an anonymous attendee who asks, can you talk more about the precision of the data, the victors of being a digital subject and the anonymization?
+
+[01:02:44.160] - Speaker 1
+If you are just some data, then you are not cared about as a person.
+
+[01:02:51.240] - Speaker 2
+Yes, well, what can I say? I think that I think that. These days of practices have different focus. So I think the. The creation of this ideal person, and it's probably caught a lot of data practices, and I would imagine that's probably quite the same for like you could describe this in relation to drone software and how the decision is taken to kill someone on the basis of filtering through it in relation to this ideal version of a terrorist.
+
+[01:03:33.070] - Speaker 2
+So sometimes I was going to say that the person, the individual is never really of an interest because it's always a group that individual person is not doesn't have enough cash to to be of interest to these processes. So at some level, it's always a group subject. But then with other examples, such as the the the drone automated killing, of course, the process can be changed to target individuals or whoever happened to be around them. But I think with anonymization and I think generally I mentioned this with the idea of distance, I think it's possible to hide so much of your data, a footprint that you never get kind of captured in any of these categories.
+
+[01:04:24.030] - Speaker 2
+And a lot of data that doesn't make sense or doesn't fit into categorization, doesn't fit into this systems because they would be missed. So you like. But I think what's important to understand in this process that I think our old kind of habit of holding on to the value of singular person would like focusing on this me that is defined and, you know, constant subjectivity from birth to death is really outdated. I mean, a lot of theorists and philosophies, philosophies say that, you know, that we are kind of not really one.
+
+[01:05:11.280] - Speaker 2
+But I think and I hope to show in this process that it's never the level of the individual. So it's not really a question of whether your data is collected or not. Of course, you may try to to defend yourself, but if you think politically there's such a collective dimension to it, that maybe the response should also be more collective rather than kind of individual minimization, a collective anonymization, obfuscation, all kinds of things. Yeah.
+
+[01:05:43.530] - Speaker 1
+Thank you. And the next question is from someone who who has a as a panelist in the webinar, unfortunately cannot use the Q&A function as another platform restriction. So he's posted his question in the chat room and he asks, obviously, there's an algorithmic dimension. But apart from this, what is the difference between this distance you talk about and language as a system of distance and differentiation following post structuralism here? Or to put it in in in other ways, in what sense is data a kind of language?
+
+[01:06:28.680] - Speaker 1
+And if so, is it a language that we can learn to read and love?
+
+[01:06:38.370] - Speaker 2
+Beautifully put, sir, in your report. I'm not surprised. I think the distance, the language could be described as a kind of distance. And I think there are more than one kind of form of distance that is traditionally used to construct the subject. And language is not the only one, although, of course, some people say it's the primary and you can't get away from it. But I also think that the kind of. Dispensation that allows for obstruction is not only, I would say, is not only human either, like you can imagine, like if you if you think of the formation of the weather from the front and how an interplay of factors at a certain level know the geography of the place, the humidity, the temperature would would kind of interact and then they would generate a certain change that would produce a weather front.
+
+[01:07:40.730] - Speaker 2
+And in this process, there is a form of abstraction. So which would not involve a language like so. And I think that's awesome. I'm currently thinking about it because abstraction has such a negative and negative connotations that is always linked in theory at least to violence. And I'm I'm thinking. Not in terms of like whether we can learn the language of danger and love it, but whether we can think about abstraction in the more open the way and recognize abstract kinds of abstraction that are present in the world and rehabilitate certain kinds of abstractions and create kinds of abstraction.
+
+[01:08:23.990] - Speaker 2
+Not not think that abstraction only belongs to date. Because as I was showing that there isn't there isn't such a thing as pure computation. It always goes through in the with all this kind of human practice. And some of them are just, you know, like creating an ideal character. I mean, it's so I'm thinking of not learning because the way you phrased it is like is there is like a set of knowledge and you can accept it and learn it and extra with it.
+
+[01:08:59.030] - Speaker 2
+But I think we can actually partake and intervene and. Kind of work with obstruction, different kind of obstruction, think of art as obstruction. You know, forces of obstruction we use in literature in. In our kind of imaginative capacities in our life, and then if we take if we understand that this day to practices this, computational practices rely on reductive uses about what can be done if there are nondeductible, more more interesting, you know, forms of of this kind of abstracted, destructive creations that are around and that are possible.
+
+[01:09:47.960] - Speaker 2
+That is maybe something that could do something.
+
+[01:09:52.310] - Speaker 1
+Yeah. Thank you. I have a question here from Magnetized Carver who asks, I like how you refer to this as an omnivorous practice and with this complication of a subject as a category, I wonder if you could say more about who or what is eaten and by who and what and next how this metaphor works also for you in your thinking and analysis.
+
+[01:10:28.550] - Speaker 2
+Yes, madam, thank you for your complex question on. Well, I guess I'm using this metaphor to refer to this sense of, you know, total capture by data, that there is a sense that I think a lot of people kind of haven't shared the moment. I think for me, it's difficult because as soon as I think something, I also think a contradiction of that or, you know, multiple other things that make everything very complicated and.
+
+[01:11:13.110] - Speaker 2
+I think that's why it's probably difficult to provide a response and and humans are so slow with coming up to with coming up with critical responses, interventions, political intervention, legal, you know, legislation to address this institutional change, I think this kind of speed and the has has consequences. And the kind of the speed with which this have been implemented in all spheres of life have consequences for not just the lag with which we have to to address these problems.
+
+[01:12:01.280] - Speaker 1
+And. Jonathan Rogers asks regarding the very large topic of governmental regulation of data collection and analysis practices, I wonder where and how you might recommend the government of, let's say, Britain might begin.
+
+[01:12:22.550] - Speaker 2
+You know, that's a good question. I think I heard someone else say this, that is surprising that we now find ourselves referring to the states, you know, as something positive and that can actually introduce positive change and. Which states such a problematic, especially problematic to. I have to say, I don't have much faith in the British government, so. I yeah, I mean, the problem of people like us is that we're good with coming up with some kind of critical, critical analysis, but not like with practical set of solutions.
+
+[01:13:12.640] - Speaker 2
+I think the kind of the last thing I engaged with a few years ago was when the EU was trying to to to make Google pay for the use of this kind of what are they called like, you know, one line of text which comes under the in the search under the euro to kind of help save the newspapers. And then they failed because Google kind of stopped, at least temporarily, big German newspapers, for instance. And and then they had to back down, although I think recently in Australia it did work.
+
+[01:13:52.870] - Speaker 2
+So I think there is a whole kind of field of. But I also think that more powerful blocks like the you may be more capable of taking on this kind of technological giants, although I would never use the thought that I would be, you know, embraced in state by state and state alliances. But here we go.
+
+[01:14:27.770] - Speaker 1
+Yeah, times change, Alex sound, Pascale asks if we are ready to move away from the question of the modern subject as one based partly on ideas of digital abstraction abstractions, how do new paradigms that reposition humans within other organisms and the Earth and thinking about new materials and post humanism? How does this impact your understanding of the subject? Thinking about the human subject never as a subject but as a core constitutive element in a different life ecology.
+
+[01:15:10.070] - Speaker 2
+Yes, thanks, Alex. It's a very good question, um. So I'm in the middle of this project that I'm developing right now, and it's a surprise that I found myself in this in this terminology of subject and idea, and they even started looking at German idealism in trying to understand some of these processes and like a school school of thought that I would not associate myself with a normal year. So at the moment, I'm trying to think I don't have a full answer to your question, except that I would totally subscribe to, you know, the kind of movement of what humanity is, as described by Richard Doty and the kind of urgency with which we need to rethink and do things around climate damage.
+
+[01:16:15.090] - Speaker 2
+What I'm trying to do at the moment is to think how this continuation of subject abstractions that at the moment, at least to me, seem very much based on the content in the content subject, how and in what way they are ruptured and collective and in what way. We are we do we need to reject them and say these are always false because they come from these principles of obstruction that are ultimately principles of violence, exclusion, or is there something in this process that is different, that is malleable, open to change?
+
+[01:17:05.160] - Speaker 2
+Is there something there that works more with the idea of, you know, humans as constituted by forces that are larger than them humans? As you know, half my group made of microbes, humans that are always kind of fractures that don't make sense. And then that works. And at the moment, I am thinking that I'm thinking about the second dimension, because I think generally I would find it hard to subscribe to the idea that technology is absolutely whole quality of the service of capitalism, imperialism.
+
+[01:17:50.220] - Speaker 2
+And so I think there would be enough diversity, enough kind of contradiction, paradox to to find. So I'm hoping I'm hoping to find in this process something that would allow for this new kind of forms of subject making to be not so gloomy and not not not so destructive as as kind of traditional subject was. But I will tell you what I find in the year.
+
+[01:18:28.200] - Speaker 1
+I think that's a very good answer, and then Kayleigh asked, the data is not raw as we know, it is always already a partial implicated transcription when put into a table. The columns and rows were, I guess, more or less agreed, categorical, categorical infrastructures. What for you to the generated machine learning dimensions represent? Can they reveal currently hidden infrastructures of basically implicated, algorithmically privileged categorization?
+
+[01:19:08.110] - Speaker 2
+Yes, Christian, can you leave the question hanging here so I can respond to it step by step? So, of course, there is inherent conceptual infrastructure of categories then. The the categories themselves can be multiple, but then what happens, for instance, that a lot of this data processing is not on the basis of data that exists and not on the basis of categories that are defined, but are based on, for instance, proxy data. So you actually don't have the data that you need.
+
+[01:19:50.320] - Speaker 2
+So you take other data to stand in for the data that you need. So and then another operation, especially in this advertisement field, would be something that's called look alike. So that's a message again, where you have your categories and you have your people sorted through them, and then you want to find people that might act like them, like the ones you have. And this is, again, is not really about existent. I mean, it is a little bit, of course, about existing categories.
+
+[01:20:29.560] - Speaker 2
+And as Adrian says, the categories, the tables, they don't go away. The way of working with them changes. So in looking like you would have people that are structured into the segments profile like I described, and then there would be models to look through, other sets of data to find people who are like this, people that you already have. And then what happens with these dimensions and the generated vectors is that then when you have these groups of people in these clusters and they're kind of moving along these vectors and they're moving along these dimensions, then the the kind of working with this data becomes about measuring the distance between these groups, measuring the kind of consistency of these kinds of developments, predicting where they would go and how they would, you know, diverge from each other or keep kind of going in the same way.
+
+[01:21:23.920] - Speaker 2
+A lot of this is based on the Bayesian statistics, some kind of bias work with preexisting. Experience, and that's a little bias comes in and discrimination, but. These kinds of vectorized kind of movement to the future allows for these kinds of differences and the clustering together and the clustering separately to be projected and packaged as projected to then act within, I don't know, financial markets or as I said, within state policy. And that is that is where there's real newness about this.
+
+[01:22:15.830] - Speaker 2
+So that what they represent, I think the dimensions that they add, this kind of power of predictability, this is described through distance, through clustering corporations and through different kinds of models that try to measure this. Future developments can reveal currently hidden infrastructures of algorithmically privileged categorization. I think categorization is not in itself a problem because categorization, as I was trying to show, he is not normative. So anything can become a category at any point if it's of interest.
+
+[01:22:59.210] - Speaker 2
+I think what's the sites of discrimination and the sites that. Where the. The kind of human bias kind of comes in and decides at which, like awful, awful things are generated from which awful things are generated. Like, I wouldn't even describe them as human infrastructures. I would say there are these different moments in these processes that. Kind of need very careful description, and then through that, you can understand like where these things arise. So, for instance, and a lot of this is when you say, like algorithmic privilege categorization, I'm not sure what you mean, but for instance, like a lot of people well, some people write about, for instance, discrimination on the basis of post code, especially in the US where neighborhoods is taken as as evidence for financial kind of trustworthiness of a person.
+
+[01:24:14.420] - Speaker 2
+And so if it's like a poor neighborhood. People would be denied loans or some kind of access to various things, and, of course, it discriminates against black people. But the point is not that they're categorized and there's a category for these people and there would be too simple. The point at which this this happens is historical data is that is used without kind of any critical interpretation or any desire to address the problem. Then it happens through sector practices, which historically used code for termination of insurance premium.
+
+[01:25:02.070] - Speaker 2
+Then there would be this use of proxy data and proxy practices entirely based on like your own decision making. So you would say we don't have the data. We can't measure how people know whether people are trustworthy or not. But we can measure other things so we can take what we can measure to stand in for this thing that we need, we need to decide on. And this is also very prevalent. And sometimes it's so habitually ingrained, sometimes it's agreed upon by a discipline.
+
+[01:25:35.160] - Speaker 2
+So you have like GDP is a proxy data for the economic well-being of a nation, which is a big problem. But it's like a practice of economics. So you have so it becomes so large that the infrastructure is not just data, the infrastructure is how insurance industry always used proxy data to do this. It's now just hidden within data. But it's in itself is not it's not new. It's more like IPE is coming from technology, but it's the same old thing.
+
+[01:26:09.690] - Speaker 2
+Yeah, that's I guess, my answer.
+
+[01:26:13.520] - Speaker 1
+Thank you. We have one more question left because time is running, but I think it's a very fine question for me from you and find to to end on. And he asks, I'm thinking of some of the engrosses work that leads to obfuscating data collection practices like the Grandal and add on for Facebook, which randomize is pre-fabricated responses. I'm sure many of the people in the audience are familiar with this work. So he asks, what strategies of resistance would you suggest?
+
+[01:26:55.560] - Speaker 2
+Yes, it's a difficult I mean, I love Ben's work, but it's a difficult question to answer because I don't feel really well qualified. I think there are activists who, you know, who are much better qualified than me to to answer this. And it is a complex question. So it's not like on a small scale, you know, you may want to go and weapons and disable your location on your phone. It's it's like a strategy is a is a large.
+
+[01:27:40.080] - Speaker 2
+I should have prepared better because I do this analysis and then leave people, I guess I have to give people some answers. Um. I mean. I do think that. I do think that there is hope in the kind of discovery that. There is not a big dimension of this practices that relies on the esthetic work and I think. If we think of strategies of resistance, not just on top of the kind of immediate individual responses and any kind of immediate things everyone can do.
+
+[01:28:33.770] - Speaker 2
+There's something about. Kind of defending art and making art and thinking about the way in which, like what I predicted, is that it's become so central to so many forms of life in which an organization and the ways in which would it kind of also opens them up for people in ways in which, you know, they weren't previously open. So while it's like as an answer, it's very abstract and is not specific enough. I think there is something to to think with along those lines, to think about what what kind of prosthetic work and what kind of art interventions and all those technical interventions and imagination and creation is possible that would, you know, take part in this processes and.
+
+[01:29:40.010] - Speaker 2
+Kind of. You know, the parts in which in which technology comes to rely on an esthetic judgment or esthetic creation or, you know, the kind of idealization, it's probably unfortunate term, you know, in which way this this this parts could be inhabited and populated to kind of dense. Stuff in a ways, in ways in which it's. Less restrictive, and I guess it's a very tall order, but I can't do really, but perhaps it's a little also puts a lot of weight on your shoulders, expecting you to come up with the with the with with an answer to this.
+
+[01:30:31.390] - Speaker 2
+I think it's also I guess it's up to all of us. So it's past seven o'clock. So time is actually up and we have no more questions. So but I just want to to say in the end, it's been a fantastic lecture and I also see this in the chat. So though you can't hear us, I think we should all give you a hand. And thank you very much.
+
+[01:31:00.700] - Speaker 2
+Thank you. I will save the chat and go through it. And I promise to respond to what you suggest and see in my writing.
+
+[01:31:11.320] - Speaker 1
+Yeah, and I think I think some that some follow up comments to some of the questions I saw from John to so so we will save the chat and I think to also save it here and and consented to still. Yeah. Thank you so much. And to all of you in the audience, we will reconvene. There's another link out in the Knesset in 30 minutes. In an hour or so, this time, the time for so long a break, but otherwise will shut down from here and thank you.
+
+[01:31:48.170] - Speaker 2
+Thank you. Bye bye.
+

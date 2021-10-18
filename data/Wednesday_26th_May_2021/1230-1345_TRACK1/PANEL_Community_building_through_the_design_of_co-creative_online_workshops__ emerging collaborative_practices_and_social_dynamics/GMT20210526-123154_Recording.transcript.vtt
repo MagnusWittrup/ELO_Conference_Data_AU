@@ -1,0 +1,1746 @@
+WEBVTT
+
+1
+00:00:12.030 --> 00:00:15.120
+Steven Malliet: Okay, so now we need to be shown.
+
+2
+00:00:40.410 --> 00:00:43.860
+Steven Malliet: Are we still waiting for the Jingle or did it already.
+
+3
+00:00:44.610 --> 00:00:45.840
+vinicius marquet: It already happened.
+
+4
+00:00:46.410 --> 00:00:47.670
+Steven Malliet: Okay sorry i'm.
+
+5
+00:00:48.690 --> 00:00:50.730
+Steven Malliet: Okay i'm gonna start sharing my screen then.
+
+6
+00:00:52.620 --> 00:00:53.400
+Steven Malliet: sorry about that.
+
+7
+00:00:56.490 --> 00:00:58.080
+Steven Malliet: Okay i'm gonna start presenting.
+
+8
+00:01:06.390 --> 00:01:07.080
+Steven Malliet: Okay.
+
+9
+00:01:09.240 --> 00:01:28.950
+Steven Malliet: So can everybody see my presentation now without the speaker notes yeah okay good um So yes, Hello everybody, welcome to the session, thank you all for being here, I know it's not self evident on the afternoon of the third day of a conference.
+
+10
+00:01:30.330 --> 00:01:48.570
+Steven Malliet: We will try to make it as interesting as we can and it's much appreciated that you are all here and we are going to have a Roundtable discussion a virtual Roundtable discussion on the design of co creative online workshops.
+
+11
+00:01:50.520 --> 00:02:02.010
+Steven Malliet: And, just a brief introduction, my name is Steven and my co presenters actually the main presenters are kareena admin and Venus US market, who are both.
+
+12
+00:02:03.780 --> 00:02:15.900
+Steven Malliet: game designers interaction designers performers and designers in the general sense, and we are all associated with Lucas school of arts.
+
+13
+00:02:17.040 --> 00:02:21.540
+Steven Malliet: In Belgium at the interactions research unit.
+
+14
+00:02:22.680 --> 00:02:33.900
+Steven Malliet: Practically we will be discussing a number of online activities events workshops that we've been organizing throughout the covert year.
+
+15
+00:02:35.130 --> 00:02:44.070
+Steven Malliet: and discuss the design of these workshops some techniques that we use to make the online communication.
+
+16
+00:02:44.520 --> 00:02:57.930
+Steven Malliet: As engaging as possible and also some narrative techniques interactive storytelling technique, this will become much more clear and specific once Venus us and Karina start presenting themselves.
+
+17
+00:03:00.510 --> 00:03:02.520
+Steven Malliet: Before we get started with that.
+
+18
+00:03:03.780 --> 00:03:14.460
+Steven Malliet: I think it can be useful to give a bit of introduction on what we do at our school because I feel like we might be a bit an odd one out.
+
+19
+00:03:15.660 --> 00:03:19.350
+Steven Malliet: In a conference on electronic literature, we are a school of arts.
+
+20
+00:03:20.670 --> 00:03:39.180
+Steven Malliet: Which means that the main goal of our programs is to teach people, students, how to make films, how to make animation films and in the case of the three of us how to design and develop games.
+
+21
+00:03:40.350 --> 00:03:44.760
+Steven Malliet: And in that sense, these students, they have a bit of.
+
+22
+00:03:46.590 --> 00:04:00.660
+Steven Malliet: Clear theoretical costs dejan a bit of psychology or sociology a bit of semiotics a bit of artistry, but a lot of the courses that they receive our practical artistic courses and.
+
+23
+00:04:01.170 --> 00:04:14.580
+Steven Malliet: The research that we do is also art based research which might be a bit different from other types of research that have been or are being presented at this conference, and therefore I just wanted.
+
+24
+00:04:15.270 --> 00:04:22.920
+Steven Malliet: To briefly mentioned that so as to sketch the context bit and the sketch a bit where we come from.
+
+25
+00:04:24.720 --> 00:04:38.010
+Steven Malliet: And maybe just shortly i'll show you a trailer of what's been going on at our school in the past year and the goal video just so to give you an idea and make it more tangible.
+
+26
+00:05:48.600 --> 00:05:59.010
+Steven Malliet: yeah it goes on like that, for a bit longer, but these are just some examples and to show a bit what we do with our students in everyday life.
+
+27
+00:06:00.600 --> 00:06:06.270
+Steven Malliet: Actually, the artistic practice is at the heart of what we do and, at the heart of our research.
+
+28
+00:06:06.750 --> 00:06:24.630
+Steven Malliet: And that also is very much the case in the presentation that kareena and finishes will be given in a few minutes before we start on that i'll just give a bit of methodological background on the research to design approach that characterizes our work.
+
+29
+00:06:25.830 --> 00:06:41.880
+Steven Malliet: Which means that the artistic creation artistic experimentation artistic innovation prototyping testing evaluation is the foundation of our research and core essential element of our research.
+
+30
+00:06:43.860 --> 00:06:57.390
+Steven Malliet: Research results are informative on both a theoretical and artistic practical level, so we hope to give some insight into how he literature works.
+
+31
+00:06:57.870 --> 00:07:19.260
+Steven Malliet: In practice, and maybe also on theory building regarding interactive digital narratives and it is our goal to be informative for both the theoretical and the practical level, but probably with more of a practical implication than then, for instance.
+
+32
+00:07:20.940 --> 00:07:24.690
+Steven Malliet: researchers who have a background in semiotics or cultural studies.
+
+33
+00:07:26.550 --> 00:07:33.300
+Steven Malliet: What is also very importantly, that our research results are communicated in a verbal and an artistic form.
+
+34
+00:07:33.690 --> 00:07:38.610
+Steven Malliet: In our case, your verbal form is what we're doing our talking about it we're writing about it.
+
+35
+00:07:39.000 --> 00:07:46.800
+Steven Malliet: Artistic forms the workshops, the that we organize themselves the games that we create themselves are also.
+
+36
+00:07:47.160 --> 00:07:56.160
+Steven Malliet: A vital part of communication about our research, because a lot of information is contained within the artifacts that we create so.
+
+37
+00:07:56.790 --> 00:08:11.100
+Steven Malliet: In this round table or in this session we will spend quite a bit of time and energy just discussing the artistic form the game rules that we developed and showing.
+
+38
+00:08:11.670 --> 00:08:24.240
+Steven Malliet: How it goes in practice and, later on, reflecting upon it, and it kind of mirrors the iterative approach that was proposed, for instance by Donald cerrone.
+
+39
+00:08:25.260 --> 00:08:34.500
+Steven Malliet: As core elements of design research we proceeding in an iterative cycle, consisting of three stages seeing is a.
+
+40
+00:08:34.980 --> 00:08:46.260
+Steven Malliet: phase of reflection on beforehand, there are some theories that we read on Community building on game design and based on that we reflect on how we are going to make.
+
+41
+00:08:46.770 --> 00:08:58.830
+Steven Malliet: something and then the second phase, moving is the actual process of creating doing of artistic experiment and once we created something we test it.
+
+42
+00:08:59.310 --> 00:09:16.140
+Steven Malliet: And there is another phase of reflection on behind side, based on that we adjust and we start from the beginning again, and this is the cycle that we go through quite often, when we do this type of research.
+
+43
+00:09:17.820 --> 00:09:37.590
+Steven Malliet: And so we could say that both vinny and Karina are now in the stage of they have a first phase of creation behind them and are in the stage of now reflecting upon that on behind side or on hand side.
+
+44
+00:09:38.940 --> 00:09:45.930
+Steven Malliet: And I think the panel discussion, we will be having will include one.
+
+45
+00:09:46.380 --> 00:09:48.090
+Steven Malliet: A description that both give.
+
+46
+00:09:48.150 --> 00:09:56.130
+Steven Malliet: about what they've been doing about their artistic practice and then do guided by some of the design questions that we have.
+
+47
+00:09:57.240 --> 00:10:10.260
+Steven Malliet: A reflection upon what they have been doing, which takes the form of a sort of an informal dialogue we have among one another as moderated by me.
+
+48
+00:10:12.240 --> 00:10:16.320
+Steven Malliet: So that as a sort of introduction I just briefly read on the chat that.
+
+49
+00:10:17.670 --> 00:10:28.560
+Steven Malliet: People are most people are familiar with the artistic approach so maybe it took I spend too much time doing this, my apologies for that, but.
+
+50
+00:10:29.580 --> 00:10:33.360
+Steven Malliet: Yes, I will I will leave it to this, as for the introduction.
+
+51
+00:10:34.770 --> 00:10:35.340
+Steven Malliet: and
+
+52
+00:10:38.040 --> 00:10:38.610
+Steven Malliet: i'm still.
+
+53
+00:10:39.840 --> 00:10:40.980
+Steven Malliet: Wide well done.
+
+54
+00:10:42.000 --> 00:10:53.610
+Steven Malliet: So for the next 20 minutes of each each market will discuss do series of workshops that he's been organizing after which kareena urban will.
+
+55
+00:10:55.110 --> 00:11:14.250
+Steven Malliet: discuss the symposium that she's been organizing the best month and that's actually still ongoing, at the moment and, after which we will have a discussion with the two of them, and most likely, there will be questions from you that we can discuss at the end of this session.
+
+56
+00:11:15.990 --> 00:11:23.940
+Steven Malliet: So yes, I hope that makes up for a bit of context of a bit of a frame and.
+
+57
+00:11:25.260 --> 00:11:30.390
+Steven Malliet: Here by I i'm I am glad to give the word to be nice yes.
+
+58
+00:11:31.590 --> 00:11:39.480
+vinicius marquet: yeah hi hi everybody thanks Stephen for all these description it's really helpful to us.
+
+59
+00:11:40.650 --> 00:11:47.490
+vinicius marquet: Well, good morning a good morning America good morning Mexico City, I am broadcasting from Mexico City.
+
+60
+00:11:47.910 --> 00:11:59.550
+vinicius marquet: I am really close to the airport and so please don't be surprised if any kind of noise appears on the ground or around I cannot really control my apologize for that.
+
+61
+00:12:00.300 --> 00:12:16.650
+vinicius marquet: And I also will appreciate the if you want also to to open your cameras and to interact in a face conversation, if you want, and if it's possible, I really would appreciate it and.
+
+62
+00:12:17.790 --> 00:12:23.400
+vinicius marquet: Well, I am going to start just with the presentation wait a minute I need to.
+
+63
+00:12:24.480 --> 00:12:25.860
+share my screen.
+
+64
+00:12:28.050 --> 00:12:28.800
+Okay.
+
+65
+00:12:32.010 --> 00:12:35.820
+Okay, I guess, now, you see the presentation isn't it.
+
+66
+00:12:46.050 --> 00:12:51.120
+vinicius marquet: hi are you are you watching the presentation sorry, yes, it looks good.
+
+67
+00:12:52.200 --> 00:12:52.680
+vinicius marquet: Thank you.
+
+68
+00:12:56.040 --> 00:13:08.730
+vinicius marquet: start with the beta so what's viera video was a series of online or brief online workshops and and our presentation or our performance.
+
+69
+00:13:09.270 --> 00:13:23.670
+vinicius marquet: That was targeting for the Spanish Community audience at the beginning of 2020, it is a really beautiful project and really nice project that I really like it has emerged as an independent.
+
+70
+00:13:24.330 --> 00:13:43.440
+vinicius marquet: Will you know to to to share knowledge and techniques and to also to to put the outdoors from all the places of the Spanish Community but also from different parts of the world, I mean anybody who speak Spanish were welcome to giambi now and.
+
+71
+00:13:44.580 --> 00:13:58.020
+vinicius marquet: It is also, it is a project that it was linked strongly with a low with the Community of a low So if I mean thanks for that thanks a lot, I really appreciated the it is start by a conversation.
+
+72
+00:13:58.530 --> 00:14:05.970
+vinicius marquet: Between the can get the Sally middle half a year and Leo they're not the florists that's the first build out that happens in.
+
+73
+00:14:06.480 --> 00:14:20.010
+vinicius marquet: The April, the 32,020 so it was just when a pandemic, all the global pandemic start so in a way, all the project and how it has been evolving, it has been.
+
+74
+00:14:20.400 --> 00:14:30.360
+vinicius marquet: Coming from the emergency, it has been moving week a week and I have been learning a lot from that and back in those days.
+
+75
+00:14:31.320 --> 00:14:47.010
+vinicius marquet: I was also applying for for a PhD a study in Belgium, that was accepted, but I didn't know so when I sold, so the opportunity to release workshops and to do workshops, I thought it was a deal and.
+
+76
+00:14:48.450 --> 00:14:54.840
+vinicius marquet: But I already have like some kind of previous experience a my researching and I found this.
+
+77
+00:14:55.890 --> 00:15:09.870
+vinicius marquet: quote you know that the stage the workshop as an Irishman, whereby a group of people learn acquire new knowledge perform creative Problem Solving or innovate relation of to a domain in this specific issue.
+
+78
+00:15:10.590 --> 00:15:23.520
+vinicius marquet: This is given by your Green and levinson, who is also a pedagogue and academic here at the art to university, please sorry if i'm pronouncing ground, the Danish.
+
+79
+00:15:25.950 --> 00:15:39.090
+vinicius marquet: And well like I think this is a really open the definition of the workshop because it's not really meaning about the time is not really minimal this space is not about their day what kind of knowledge, you are providing or.
+
+80
+00:15:39.390 --> 00:15:51.810
+vinicius marquet: or acquiring so from that perspective I really I really like it and but also, I think it's it's really important to look at the history of the workshops itself, you know, like.
+
+81
+00:15:52.590 --> 00:16:03.030
+vinicius marquet: Like since the medieval times you know the workshop was a place to have like a collaborative before you know, he was not only a place to share knowledge.
+
+82
+00:16:03.420 --> 00:16:10.140
+vinicius marquet: You know, it was also a place to produce knowledge and to produce objects so.
+
+83
+00:16:10.740 --> 00:16:31.410
+vinicius marquet: Since that perspective, they worship always has been working as a in some lean tool, you know for society so way to put the people together and to to make things happen and that's also whoa whoa I was motivated to to start with the beetle why instance or with this research.
+
+84
+00:16:33.810 --> 00:16:47.970
+vinicius marquet: And yeah, of course, also there are some other previous experience van instances we went on soon separate or project, you know that I started to realize about this potential to for the workshop itself or with my personality course.
+
+85
+00:16:49.710 --> 00:16:58.020
+vinicius marquet: But anyway, so this is the diagram of build out this is how he was assigned so abrupt workshop is a workshop that last 15 minutes.
+
+86
+00:16:58.560 --> 00:17:05.610
+vinicius marquet: So he was conditioned by time and it happened in a serial in a serial mode, so it happened one, two and three.
+
+87
+00:17:06.240 --> 00:17:16.890
+vinicius marquet: The main idea is to have like certain kind of holistic experience so each series was created and I in a way that the the schools were joining.
+
+88
+00:17:17.460 --> 00:17:30.720
+vinicius marquet: I mean, this is something that the I was learning, you know, like the first series of growl they were not created you know, but as a time you start to pass a start to realize the importance to create.
+
+89
+00:17:31.200 --> 00:17:39.420
+vinicius marquet: Those lines you know, to try to make discourse and the main idea of the our performance, it was not only to show.
+
+90
+00:17:40.260 --> 00:17:54.690
+vinicius marquet: The people about the different kind of practice of electronic litter to or have an English practice, it was also about the idea of create a symbolic element that can make a you know, like.
+
+91
+00:17:56.010 --> 00:18:01.920
+vinicius marquet: someplace to remember you know, so you remember these beautiful series, where it was here a.
+
+92
+00:18:02.580 --> 00:18:13.200
+vinicius marquet: Liliana born they're trying oh yeah I got she was talking about ultimate the ultimate decision of language and language in the rater and song song song.
+
+93
+00:18:13.950 --> 00:18:24.180
+vinicius marquet: So that was the idea of the performance and the domain object it's of the project was to create human interactions during the global pandemic.
+
+94
+00:18:24.690 --> 00:18:30.420
+vinicius marquet: To bring electronic later to end digital control concepts and techniques for the Spanish speaking audience.
+
+95
+00:18:30.870 --> 00:18:50.640
+vinicius marquet: to explore online workshop as a social tool and social in sambol assembler by bringing people from diverse cultural backgrounds together and construct for a small period of time they feel of togetherness, and those are the the main goals of Fidel and.
+
+96
+00:18:52.110 --> 00:18:55.230
+vinicius marquet: I will come back to those ones at the end of the presentation.
+
+97
+00:18:57.420 --> 00:19:10.170
+vinicius marquet: I think also that this is really important, as a as an independent than America project to show like the financial plan, and especially the case that it was strongly support by the Community.
+
+98
+00:19:10.710 --> 00:19:20.580
+vinicius marquet: So it was basically like 25 years the the cost of out of Syria with a 50% of discount.
+
+99
+00:19:21.420 --> 00:19:32.130
+vinicius marquet: For all the students with no matter it doesn't matter where they were coming from on which kind of institutions, they only have to send their ID or any kind of proof.
+
+100
+00:19:32.430 --> 00:19:41.130
+vinicius marquet: That show there were students and that was enough to give them like a 50% discount and then all this one was divided, to the workshops.
+
+101
+00:19:42.600 --> 00:19:49.200
+vinicius marquet: leaders and to the artists that want to the organizer and one to the project itself.
+
+102
+00:19:50.670 --> 00:19:59.940
+vinicius marquet: To continue, you know, like to put ads on Facebook to pay the hostin and all those kind of things you can check all those accounts here.
+
+103
+00:20:00.450 --> 00:20:08.910
+vinicius marquet: Is the same exactly that has been a for for all the all the yeah for the for the worship leaders or since ever and.
+
+104
+00:20:09.900 --> 00:20:23.670
+vinicius marquet: Well, it was by the, by the way, he was based on the my experience in rock bands venues war in rock places, you know where basically they do the same day just shared exactly what they got that day.
+
+105
+00:20:24.720 --> 00:20:45.960
+vinicius marquet: They were a minimum of participants, that was five and a maximum of participants that were 2018 sorry so only one only one series of middle West Council because we couldn't achieve them, the the minimum of participants, and I still feel sorry I hope I can come back with that one.
+
+106
+00:20:47.010 --> 00:20:48.180
+vinicius marquet: And will like.
+
+107
+00:20:50.190 --> 00:21:00.870
+vinicius marquet: This are the artists, that a play like this dynamics I just can't say thanks a lot for for this great experience.
+
+108
+00:21:01.380 --> 00:21:17.400
+vinicius marquet: A I invited to all the different artists and academics to perform a workshop where the dynamics, the social dynamics were articulating their discourse we're trying to in sample so.
+
+109
+00:21:18.210 --> 00:21:25.200
+vinicius marquet: The topic was open, you know all the the the facilitators were open to propose a topic.
+
+110
+00:21:25.830 --> 00:21:46.980
+vinicius marquet: Everybody was also open to to or invited to propose any kind of social dynamic, I will be just like out to her, I was there just to help them, and the only condition was 15 minutes, like the time so for that I own can say thanks a lot for that for those 15 minutes and.
+
+111
+00:21:48.300 --> 00:21:53.580
+vinicius marquet: We got different kind of practice or pedagogic practices.
+
+112
+00:21:54.510 --> 00:22:06.510
+vinicius marquet: One of those ones were coming from the most traditional once you know, like somebody talking and people listening some other were really practical and really hands on you know and.
+
+113
+00:22:07.470 --> 00:22:22.980
+vinicius marquet: Some other were really symbolic in a way, you know I think I have found like really interesting and diverse way how people interact or try to perform a workshop here on the on the web.
+
+114
+00:22:24.000 --> 00:22:26.310
+vinicius marquet: And so, thanks for that as well.
+
+115
+00:22:27.330 --> 00:22:40.080
+vinicius marquet: And here comes also like the idea of the third one that is mutually share feeling of clothes in it that is being and doing something together in a individually mentally construct.
+
+116
+00:22:40.710 --> 00:22:57.840
+vinicius marquet: merging a near and remote location, through our beautiful conference mediation, it was also given by academic listen and a brain here at the painter bobbi kristina here in in the in the in the art art to university.
+
+117
+00:22:59.160 --> 00:23:04.020
+vinicius marquet: And it's quite similar also to the third space that is a sociological turn.
+
+118
+00:23:05.250 --> 00:23:17.190
+vinicius marquet: bread is the talk about and the, and this is basically what we are we're trying now are we are trying to interact, this is where all the dynamics are happening in a way.
+
+119
+00:23:18.330 --> 00:23:27.810
+vinicius marquet: That besides that we are remotely so far we can construct something together and in a way possible, we can feel together in the same room.
+
+120
+00:23:28.500 --> 00:23:37.650
+vinicius marquet: That, in a way that was the the, the main challenge, so the main question during all this time, for without was how to break into the third room.
+
+121
+00:23:38.250 --> 00:23:48.030
+vinicius marquet: and which kind of dynamics, can I apply, you know to do to create this feeling of togetherness between the people that are coming, not only from different kinds of.
+
+122
+00:23:50.190 --> 00:24:02.580
+vinicius marquet: Countries or from different kind of coders also from different kind of language so it's it was all the time in a way, like a challenge and.
+
+123
+00:24:04.230 --> 00:24:06.750
+vinicius marquet: So what I have been doing with those.
+
+124
+00:24:09.600 --> 00:24:19.740
+vinicius marquet: videos or records of beetle it's trying to start in those ones and mapping, the social interactions that were happening between humans and non humans actors.
+
+125
+00:24:20.940 --> 00:24:28.380
+vinicius marquet: So By this I also understand the social as a fluid and momentary association between the human and non human agents, that is.
+
+126
+00:24:28.890 --> 00:24:33.120
+vinicius marquet: Basically, what the Bruno our tool sets also in the actual network theory.
+
+127
+00:24:33.570 --> 00:24:50.580
+vinicius marquet: You know, so in this perspective, you can see, also how the interface, for instance, is playing a strong role in all the experience and how we're interacting like right now, I can see that the Dean and Stephen and Robert our talking in the chat room.
+
+128
+00:24:51.780 --> 00:25:01.230
+vinicius marquet: So all those kind of elements that besides that they are not completely well they are not human or or you know they are playing a strong role in all this kind of experience.
+
+129
+00:25:01.650 --> 00:25:12.660
+vinicius marquet: And, and I think he yeah to try to to start to follow the different kind of interaction is sometimes more blurry it's actually start to happen, what happened in this drawing.
+
+130
+00:25:13.350 --> 00:25:20.130
+vinicius marquet: That you can see, on your screen, you know that that you start to make a follow one line and to follow the conversation between people.
+
+131
+00:25:20.550 --> 00:25:31.740
+vinicius marquet: And then, something that was completely unknown human actor, it could be like an algorithm or it could be the interface and start to they take a role also or two to make.
+
+132
+00:25:32.820 --> 00:25:36.480
+vinicius marquet: To to uncover who has the really the actor, who has the highest.
+
+133
+00:25:37.560 --> 00:25:44.100
+vinicius marquet: Am i'm really fascinated by by this idea so often of Bruno latour but I it's something I still continue.
+
+134
+00:25:45.420 --> 00:25:47.520
+vinicius marquet: studying and well.
+
+135
+00:25:48.810 --> 00:25:51.120
+vinicius marquet: For that I just have to say that they.
+
+136
+00:25:52.350 --> 00:25:59.970
+vinicius marquet: would come up with some studies or about the mappings of of the diverse workshops that happens in parallel.
+
+137
+00:26:00.600 --> 00:26:10.560
+vinicius marquet: And I also have to say that they're from this perspective, be thou has generate an archive of social pedagogic dynamics conditioning by time.
+
+138
+00:26:11.280 --> 00:26:23.460
+vinicius marquet: And, and that Dr that maybe the objective at the beginning of the beat our workshops was really basic or focus in electronic later, too, but I think.
+
+139
+00:26:23.970 --> 00:26:35.070
+vinicius marquet: It has to open to a broader sense, you know, and I, it was something really organic in a way, I mean to start to find people from base and from concrete poetry, also from.
+
+140
+00:26:36.330 --> 00:26:51.060
+vinicius marquet: book, but these books or dancers, that we're really aiming to join and to come into, and they were invited like i'm thinking i'll instances in search on inquiries is a Dutch, French.
+
+141
+00:26:53.070 --> 00:27:02.820
+vinicius marquet: Video artist videographer an artist in an experimental side i'm thinking also about the people who were who were performing about the.
+
+142
+00:27:03.330 --> 00:27:24.180
+vinicius marquet: The book artist books, a Martini Laroche or Vanessa Loftus so in a way, I found that the that the project we're asking for some other audience as well, and it has to be open in a broader sense, and so yeah I just want to mention that.
+
+143
+00:27:26.370 --> 00:27:37.410
+vinicius marquet: Second project, briefly, I wanted to say is solutions that is basically like a little bit like the the starting point of my research.
+
+144
+00:27:37.950 --> 00:27:46.650
+vinicius marquet: Like in here in a way, so together with Stephen Stephen marley that would release solutions at the beginning of September 2020.
+
+145
+00:27:47.220 --> 00:28:01.110
+vinicius marquet: So solution is a platform for online workshops, the main objective was to create social interactions between the students have Lucas school or of the arts in campus see mine.
+
+146
+00:28:01.650 --> 00:28:16.680
+vinicius marquet: and researchers and also with people from reanimate program so the people from running my program is people that are spread all around the globe in different parts of the globe and that, because of the colby.
+
+147
+00:28:17.970 --> 00:28:27.390
+vinicius marquet: Circumstances they couldn't join or they couldn't go to Belgium or in general to Europe, so we start activities with them.
+
+148
+00:28:28.470 --> 00:28:38.400
+vinicius marquet: In workshops activities in a way to make them to come together and to socialize and to build a team and to make a community in a way.
+
+149
+00:28:39.270 --> 00:28:53.700
+vinicius marquet: And that also we invite people from the rural communities or sandwiches workshops always passed on the Facebook and everybody's open to come, there is no cost and everybody's welcome to join at any moment.
+
+150
+00:28:54.540 --> 00:29:05.370
+vinicius marquet: By the moment we have Members from Taiwan did on Karachi tea leaves leaves on board October lean wrong lovin bruce's voter Sao Paolo viewer Janeiro Monterrey Mexico City.
+
+151
+00:29:05.850 --> 00:29:15.690
+vinicius marquet: And as you can imagine, when we do like a home we try to achieve to everybody, at the same time, it has been really interesting experiment.
+
+152
+00:29:16.080 --> 00:29:24.450
+vinicius marquet: You know, like some people is drinking a beer in Belgium, some other people is having lunch in Mexico and some other people is waking up.
+
+153
+00:29:25.110 --> 00:29:35.790
+vinicius marquet: And having breakfast in Taiwan so from that perspective I think the community of solutions is really a collective and really international.
+
+154
+00:29:36.330 --> 00:29:51.810
+vinicius marquet: And I I really, really, really like that, and so as a Steven mentioned, we use the workshop as a methodology that is also something that the second me, as I mentioned the young wrote about it.
+
+155
+00:29:53.760 --> 00:29:59.280
+vinicius marquet: And we eat during the workshops and during that iteration we start to change.
+
+156
+00:30:01.290 --> 00:30:20.250
+vinicius marquet: The game rules that can be applied in that workshop and it's something also really quite sensorial in a way that you start to feel the workshop and to feel the dynamics that are happening, and how can you modify those ones to get the result that it's.
+
+157
+00:30:21.540 --> 00:30:29.910
+vinicius marquet: Better for the concept of the workshop itself but also better for for all the participants and or for for for the same.
+
+158
+00:30:31.020 --> 00:30:47.100
+vinicius marquet: idea, and so, for this, I think there are some elements maintenance like game rooms, a game rules sorry or perform matic elements that play as really strong role, every time you play a workshop.
+
+159
+00:30:49.740 --> 00:30:57.120
+vinicius marquet: At the moment we have released like at this three lines of workshops bit out pastiche tricky I mean, while the order.
+
+160
+00:30:59.100 --> 00:31:03.600
+vinicius marquet: For this talk, I will I will only talk about postage and tracking.
+
+161
+00:31:04.710 --> 00:31:11.520
+vinicius marquet: And so pastiche prestigious an eclectic workshop that creates collaborative knowledge.
+
+162
+00:31:12.060 --> 00:31:30.810
+vinicius marquet: So basically we asked the participants to arrive with some sort of knowledge, we consider everything could be a knowledge, so you only have to write with a knowledge and during the workshop we both for what kind of knowledge, we want to acquire and.
+
+163
+00:31:31.860 --> 00:31:41.580
+vinicius marquet: Then the main idea or behind the scenes as a Pal afraid of mentioned is whoever teacher learns in the act of teaching and whoever learns teach in the act of learning.
+
+164
+00:31:42.150 --> 00:31:54.300
+vinicius marquet: So everybody at this workshop is a teacher itself, it has been quite difficult in the sense that it's of course it's it's sometimes it can be even like chaotic.
+
+165
+00:31:56.700 --> 00:32:05.550
+vinicius marquet: But what i'm trying to say with this is that, at the beginning, we were asking to people to come with certain kind of knowledge or with any kind of knowledge.
+
+166
+00:32:06.030 --> 00:32:16.230
+vinicius marquet: And for these people is really difficult to some people it's really difficult to realize that they do have knowledge and that they do have something to teach to somebody.
+
+167
+00:32:16.650 --> 00:32:27.030
+vinicius marquet: You know, and that that they have the potential as well to do it and to make them realize and to bring breach breach ago to jump this.
+
+168
+00:32:27.870 --> 00:32:39.570
+vinicius marquet: Mental block is quite difficult sometimes so we realized my instance that by using wonders, it was much more easier for the people.
+
+169
+00:32:39.960 --> 00:32:54.660
+vinicius marquet: To arrive with certain kind of knowledge, so in nowadays, instead of asking for to sort of knowledge, we asked them for wonders, so you for this workshop, you have to write with a wonder.
+
+170
+00:32:55.230 --> 00:33:05.970
+vinicius marquet: You know, and he was inspired by the sound of sixth or Diaz Rodriguez about the wonders, you know that is strikingly beautiful song, I really love it and.
+
+171
+00:33:06.900 --> 00:33:11.940
+vinicius marquet: When I was making the call for participant and say okay let's why don't we ask for a wonder.
+
+172
+00:33:12.840 --> 00:33:21.780
+vinicius marquet: And it's it's really weird, by the way, because I think in Spanish, the wonder is a really, really unique work because it's.
+
+173
+00:33:22.530 --> 00:33:31.770
+vinicius marquet: Not only about the will is also about the question, there is something there like playing in India, I mean i'm not a native English speaker and i'm sure.
+
+174
+00:33:32.250 --> 00:33:54.870
+vinicius marquet: People that speak English and my feeling completely different, but I think in Spanish, there is no really completely or yeah similar work anyway, and this is the diagram for for pastiche so those ones are the different participants that arrived, with a wonder.
+
+175
+00:33:55.920 --> 00:34:04.110
+vinicius marquet: During the workshop we make a boating and we also create the workshop, or we realized, we can create them.
+
+176
+00:34:04.530 --> 00:34:15.630
+vinicius marquet: So, at the beginning, we were asking them to come with any kind of knowledge about any kind of topic that he was really cool you know, because we can come with sometimes with that really.
+
+177
+00:34:17.520 --> 00:34:24.000
+vinicius marquet: talks about politics talks about the video games different kinds of knowledge and.
+
+178
+00:34:25.050 --> 00:34:29.370
+vinicius marquet: And then we also start to aid them in a in a sense, to place a topic.
+
+179
+00:34:29.820 --> 00:34:43.320
+vinicius marquet: You know so to write with a wonder about the politics to arrive with a wonder about foot, you know, but this, it has to be really open also you know for the people also to to just show up and come with a natural wonder.
+
+180
+00:34:44.040 --> 00:34:53.160
+vinicius marquet: And we also place like at this this element that we call it the mysteries or they're random random Alma mater of language.
+
+181
+00:34:53.580 --> 00:35:04.980
+vinicius marquet: That that it's basically about them, that is, takes all the wonders and mix and create some phrases in a really easy going algorithm and.
+
+182
+00:35:05.730 --> 00:35:17.460
+vinicius marquet: This is done when the people doesn't know what to say or doesn't know what to ask you know that's the main idea behind so far nobody has using this in a way i'm happy for that.
+
+183
+00:35:19.560 --> 00:35:22.230
+vinicius marquet: All these experiences what I call pastiche.
+
+184
+00:35:25.770 --> 00:35:33.570
+vinicius marquet: This is a little bit like the last how you call it the interface that we have been using in the workshop.
+
+185
+00:35:35.160 --> 00:35:54.870
+vinicius marquet: Have a nickname email title, what do you wonder for today and try to develop your idea, and so we have different kinds of rooms, thank you, yes, media manager was mentioned that I was thinking with this picture and so anyway so have different kind of.
+
+186
+00:35:55.890 --> 00:36:00.660
+vinicius marquet: Rules for people to the participants can go by themselves to do rooms.
+
+187
+00:36:02.760 --> 00:36:10.110
+vinicius marquet: And we have also like here the program so they know what is going to happen, this is the suggestion board.
+
+188
+00:36:11.220 --> 00:36:21.480
+vinicius marquet: And I know this is connected also to system, both in the in the Google, we are using right now, Google, but I hope we can change that.
+
+189
+00:36:22.650 --> 00:36:23.010
+vinicius marquet: and
+
+190
+00:36:24.150 --> 00:36:25.590
+vinicius marquet: And well that's a stitch.
+
+191
+00:36:26.160 --> 00:36:28.050
+vinicius marquet: The other one is tracking that this.
+
+192
+00:36:28.260 --> 00:36:30.210
+vinicius marquet: means is another workshop.
+
+193
+00:36:30.270 --> 00:36:32.580
+vinicius marquet: That is that means exchange beyond reason.
+
+194
+00:36:33.480 --> 00:36:47.010
+vinicius marquet: During this workshop, we are changed digital objects digital services and it very old objects I call it the object in the idea of ideas, you know, like dreams, or like.
+
+195
+00:36:47.640 --> 00:37:02.490
+vinicius marquet: gossips and stuff laid out, so this is also the the diagram for for for tracker so during this workshop with trade it's really open it's like a market like going to any kind of market to the people who arrived.
+
+196
+00:37:03.030 --> 00:37:23.430
+vinicius marquet: There, the main role of the workshop be just to certificate, the trade, so people arrived and they arrived with memes or with your favorite picture or with your favorite the document or your MP3 collections from I don't know who or somebody may arrive with digital services such as.
+
+197
+00:37:24.660 --> 00:37:33.240
+vinicius marquet: Digital marketing coding graphic design and so on and so on, and some other people might say Okay, I will arrive with a terrier object.
+
+198
+00:37:33.570 --> 00:37:44.550
+vinicius marquet: An idea, you know I may arrive with a Garcia, with a dream, with the thought a or we arrived, with a performance, I will arrive to play guitar and you can also change it.
+
+199
+00:37:45.090 --> 00:38:03.840
+vinicius marquet: And then the main role is to all this is by the way, close by your creative common activity so participants choose previously what kind of license they want to have in their object and and, at the end of the workshop basically I just certificate each trade.
+
+200
+00:38:05.400 --> 00:38:09.330
+vinicius marquet: Is it is really funny really karthik as well, sometimes.
+
+201
+00:38:10.980 --> 00:38:21.600
+vinicius marquet: depends also how many people is inside the room, and this is the interface, so you have like a nickname email title, what kind of category, you want to play.
+
+202
+00:38:22.440 --> 00:38:27.000
+vinicius marquet: Do you choose a category, but doesn't mean that you cannot exchange with the other categories.
+
+203
+00:38:27.600 --> 00:38:36.390
+vinicius marquet: And you have also a license so all those license are coming from creative comments, so please check all those ones, because they changed a lot.
+
+204
+00:38:37.050 --> 00:38:55.740
+vinicius marquet: And I think, by the way that they license really can play this trunk a stronger level of interaction, but I think that people sometimes doesn't realize about that, and then we have what kind of things you want to trade and what are you looking for, and so you.
+
+205
+00:38:55.800 --> 00:38:57.870
+vinicius marquet: know people to know what you are looking for.
+
+206
+00:38:58.590 --> 00:38:59.070
+Steven Malliet: Denise is.
+
+207
+00:38:59.520 --> 00:39:12.930
+vinicius marquet: Here, like the program we have different kinds of rooms, also in the case of material objects if people ask me for a room to have a natural exchange at that moment I create a room for them.
+
+208
+00:39:13.410 --> 00:39:31.980
+vinicius marquet: All this is done in GT platform, by the way, like Oh, we are basing Open Source technologies and stuff like that, and this is what the participants look This is like they can check the title that the license that they have the object and what is, they are looking for.
+
+209
+00:39:33.870 --> 00:39:43.740
+vinicius marquet: And what this is part of the Community and so far, thanks, a lot, I will come will come with some questions, I hope I didn't.
+
+210
+00:39:46.080 --> 00:39:46.350
+vinicius marquet: Oh.
+
+211
+00:39:48.540 --> 00:39:51.090
+vinicius marquet: yeah I think it's sort of kareena.
+
+212
+00:40:11.820 --> 00:40:12.150
+Hello.
+
+213
+00:40:16.920 --> 00:40:26.940
+Steven Malliet: Yes, I will just give the word to kareena I don't know if I if people can hear me still I was trying to interrupt finishes but apparently didn't hear me.
+
+214
+00:40:28.140 --> 00:40:33.090
+Steven Malliet: yeah we're going a bit out of time, but I think we're still good So yes, kareena go on.
+
+215
+00:40:33.690 --> 00:40:35.040
+carina erdmann: All right, then I will go on.
+
+216
+00:40:36.930 --> 00:40:38.310
+carina erdmann: I will also switch.
+
+217
+00:40:40.350 --> 00:40:42.300
+carina erdmann: To present term oh.
+
+218
+00:40:53.730 --> 00:40:56.040
+carina erdmann: what's funny Oh, here we go.
+
+219
+00:41:00.000 --> 00:41:01.230
+carina erdmann: Could you give me a quick.
+
+220
+00:41:04.140 --> 00:41:06.810
+carina erdmann: yeah just let me know what you see actually.
+
+221
+00:41:10.260 --> 00:41:10.950
+Steven Malliet: But also.
+
+222
+00:41:12.060 --> 00:41:12.600
+carina erdmann: yeah.
+
+223
+00:41:13.830 --> 00:41:14.610
+Steven Malliet: address.
+
+224
+00:41:14.700 --> 00:41:19.560
+carina erdmann: I have not, I have not really figured out how to change that.
+
+225
+00:41:20.940 --> 00:41:21.150
+carina erdmann: But.
+
+226
+00:41:22.020 --> 00:41:35.160
+carina erdmann: I think it's Okay, because when I do it full screen, then I cannot look at my own notes anymore, and I think you would prefer to see the screen in case you now see also this other window.
+
+227
+00:41:36.690 --> 00:41:37.200
+No.
+
+228
+00:41:39.120 --> 00:41:45.030
+carina erdmann: You don't see the other, the other window that you just see the presentation.
+
+229
+00:41:45.390 --> 00:41:46.680
+Steven Malliet: you're the browser window.
+
+230
+00:41:47.250 --> 00:41:55.470
+carina erdmann: yeah just the presentation Okay, not the other window that is now layering on top okay good good Thank you.
+
+231
+00:41:57.540 --> 00:42:00.900
+carina erdmann: Okay yeah so thanks so much goodness yes.
+
+232
+00:42:01.110 --> 00:42:02.130
+carina erdmann: Really cool.
+
+233
+00:42:04.200 --> 00:42:07.320
+carina erdmann: And yeah thanks also for in writing me.
+
+234
+00:42:08.700 --> 00:42:15.060
+carina erdmann: So I will go through the symposium lenten pleat, which is a.
+
+235
+00:42:16.350 --> 00:42:34.380
+carina erdmann: Basically, a bit of a kickoff for myself to start the PhD research distant bodies and accomplices, which researchers hybrids of online gaming and performance and as part of the Luca see mine.
+
+236
+00:42:35.490 --> 00:42:39.900
+carina erdmann: and research cluster meaningful play, and yes.
+
+237
+00:42:41.130 --> 00:42:46.410
+carina erdmann: i'll tell you a bit more about some concepts around that later, but first.
+
+238
+00:42:47.910 --> 00:42:51.570
+carina erdmann: It doesn't work it doesn't work, yes, so blend and bleep.
+
+239
+00:42:52.710 --> 00:42:58.020
+carina erdmann: Is an online symposium on France reality and pervasive play and.
+
+240
+00:42:59.490 --> 00:43:00.000
+carina erdmann: It.
+
+241
+00:43:01.020 --> 00:43:13.050
+carina erdmann: yeah basically can drawers synergies, you could say between different fields so it's artistic research but it's also large performance game interaction design and i'm mostly.
+
+242
+00:43:13.710 --> 00:43:29.280
+carina erdmann: interested in the crossover sexually so that's also why you can see in the I mean, I will not go through all of this, no, no worries, but you can see, maybe a little bit in the programming here that.
+
+243
+00:43:30.690 --> 00:43:41.460
+carina erdmann: It is generally two people who are brought together for for a session that is running so every every week basically every weekend there was one session.
+
+244
+00:43:41.880 --> 00:43:51.990
+carina erdmann: And it brought together always to practitioners to give an interactive workshop or sometimes a lecture, but most of the works really focused on interactivity.
+
+245
+00:43:52.500 --> 00:44:01.740
+carina erdmann: And, in some cases, people were just doing this as a good neighbor, so to say, but in many cases, and this was really great also for me.
+
+246
+00:44:02.730 --> 00:44:13.740
+carina erdmann: People actually decided to work together on that and so merging basically in the spirit of the symposium itself blending their own practices to some also and.
+
+247
+00:44:14.370 --> 00:44:41.340
+carina erdmann: This was really a beautiful process in many cases, and so yeah you can see, this is the, these are the 12 days that the most of them lie in the past there's two more that one is happening, this weekend and next weekend that of course you're welcome to join and it really is.
+
+248
+00:44:42.360 --> 00:44:45.600
+carina erdmann: been a series of playful experiments.
+
+249
+00:44:46.620 --> 00:44:58.830
+carina erdmann: Around digital presence and embodiment and also ways of relating and it reflected on the psychological, but also social or political implications of distance and.
+
+250
+00:45:00.510 --> 00:45:01.860
+carina erdmann: yeah it.
+
+251
+00:45:04.320 --> 00:45:05.580
+carina erdmann: It it really.
+
+252
+00:45:06.630 --> 00:45:09.210
+carina erdmann: was also for me sort of.
+
+253
+00:45:10.290 --> 00:45:26.550
+carina erdmann: A way of of going thinking through a certain certain topics and also methodologies and seeing seeing what worked and how it worked on people, yes, this is an invitation to conspire That was the invitation that people got.
+
+254
+00:45:28.020 --> 00:45:37.860
+carina erdmann: to inspire means to breathe together, this is what's pointed out for me to me but similar sensor who also was part of the symposium and.
+
+255
+00:45:39.690 --> 00:45:49.980
+carina erdmann: who had it actually from another friend artists alien or even remember who said on an Andy warhol poster and I actually think that it means to let each other brief.
+
+256
+00:45:52.110 --> 00:46:00.240
+carina erdmann: And so, just before I go into the symposium itself, I just want to really briefly go through a few of sort of.
+
+257
+00:46:01.590 --> 00:46:11.190
+carina erdmann: accomplices, I could even say so cut some concepts that have been accomplished being me a bit throughout this whole start of the research and the.
+
+258
+00:46:12.780 --> 00:46:23.880
+carina erdmann: Research the PhD itself is called this and bodies and accomplices, because accomplices and that's an in that case meant the avatars.
+
+259
+00:46:25.920 --> 00:46:36.120
+carina erdmann: In remote game situations remote life real life game situations so basically bit like an alarm itself and.
+
+260
+00:46:37.350 --> 00:46:40.290
+carina erdmann: But yeah so basically real life avatars that.
+
+261
+00:46:41.550 --> 00:46:53.940
+carina erdmann: Worse, where I say let's instead of having an Avatar that is disobedient creature that just shoots if you say shoot or dies, if you fail to play the game really well that.
+
+262
+00:46:55.200 --> 00:47:06.330
+carina erdmann: You would have there's some some other subject that also can maybe disagree, but also, you have to then enter into a specific relationship with that person and.
+
+263
+00:47:08.430 --> 00:47:14.160
+carina erdmann: The relationship between this interacting bodies.
+
+264
+00:47:15.390 --> 00:47:18.360
+carina erdmann: This young people who play together.
+
+265
+00:47:19.620 --> 00:47:25.410
+carina erdmann: As a conspirator attitude and I like to think that the accomplices, a little bit of.
+
+266
+00:47:27.480 --> 00:47:38.310
+carina erdmann: Has a little bit of the notion of the trickster so there's also maybe in the idea of the complex there's maybe also bit this idea that maybe not all the rules have to be followed, some rules can be broken.
+
+267
+00:47:38.820 --> 00:47:52.080
+carina erdmann: which can also apply, of course, to two rules of a game, and they are bound by a common goal, which I think is also important they're not the same they they are just simply on the same.
+
+268
+00:47:53.760 --> 00:48:13.230
+carina erdmann: yeah in the same game, and they have an enduring mutual relatedness that carries consequences, which is another really important, leading to a really important part of this whole research, I think, for me, that is, the idea of critical empathy.
+
+269
+00:48:14.400 --> 00:48:19.530
+carina erdmann: which does not refer to the process of imagining not only at least to the.
+
+270
+00:48:20.100 --> 00:48:36.330
+carina erdmann: process of imagining another person's point of view or emotional state, but also to an awareness that the limitations that there's limitations to this empathy and complications, so I really love sorry for according to the heart rate and it's been done so much, but I love this.
+
+271
+00:48:38.940 --> 00:48:58.710
+carina erdmann: Quote by her him if you take anybody seriously, one of the things you learn is not knowing and yeah I think it's really smart and it brings me quite well as a segue to speaking about worlds, because a big part of the.
+
+272
+00:49:00.240 --> 00:49:06.240
+carina erdmann: symposium but also of the practice of creating large is worth building collective worth building and.
+
+273
+00:49:08.160 --> 00:49:11.370
+carina erdmann: So, first I want to say that.
+
+274
+00:49:12.390 --> 00:49:33.870
+carina erdmann: World a welding for me really takes the theory of multiple worlds as a point of departure, which is a theory that devote dissolves the illusion of worlds in common that have already appears co opted by satisfying hegemonic claims for some order or its order and.
+
+275
+00:49:35.730 --> 00:49:59.070
+carina erdmann: So this, this is really more about understanding that we don't live in the same world necessarily, but we can come together and and try to sort of communicate through this and create a temporary collective spaces in which we do share maybe a world yeah so building as a practice.
+
+276
+00:50:00.420 --> 00:50:10.650
+carina erdmann: yeah well as an activity has there's different ideas, but that can be can really range from the imagination and fostering of fantastical cosmology is.
+
+277
+00:50:11.370 --> 00:50:20.490
+carina erdmann: utopias or or simply futures that you, you, you want to believe in all that you can believe in, even so, it can also be very practical talking about the future.
+
+278
+00:50:22.770 --> 00:50:33.450
+carina erdmann: Okay, so a lot of talk about worlds, now the title bleed or maybe should also say what is that because not everyone may be as familiar with the term.
+
+279
+00:50:34.170 --> 00:50:45.720
+carina erdmann: And it is a term used in large to come to describe this Gray zone between fiction and reality so where the border between player and character dissolves I have a little.
+
+280
+00:50:47.130 --> 00:50:53.700
+carina erdmann: schema here, you can see, this because, when we speak of games we speak of the magic circle that they can.
+
+281
+00:50:54.300 --> 00:51:00.930
+carina erdmann: That they happen in in that it's it's an imaginary reality we we are in a role play, we have not fictional character.
+
+282
+00:51:01.290 --> 00:51:14.370
+carina erdmann: And then there's some real world, so to say, where we are ourselves, whatever that is and we have a physical reality that has specific yeah just hard hard consequences if we cut ourselves, we bleed.
+
+283
+00:51:15.720 --> 00:51:26.160
+carina erdmann: And then there's this Gray zone in between where these two worlds actually bleed into each other and where these boundaries become a little bit blurry and.
+
+284
+00:51:27.060 --> 00:51:37.950
+carina erdmann: This is not always comfortable, because when yeah It can also happen that may be very strong emotions come up in a game, and then we find that after game went back in our real world, but still.
+
+285
+00:51:38.880 --> 00:51:46.290
+carina erdmann: They they they hang on and they they work on us, and this can be perceived as nice, but it can also in some cases be, of course.
+
+286
+00:51:47.370 --> 00:51:51.570
+carina erdmann: distressing or or just some something hard to chew on.
+
+287
+00:51:53.160 --> 00:51:59.340
+carina erdmann: So there's there's definitely a lot of sort of carefulness that that also happens around that or maybe.
+
+288
+00:52:00.990 --> 00:52:09.870
+carina erdmann: It is really good to have, for example, debriefing sessions after such workshops that help people to understand how to deal with these emotions, but.
+
+289
+00:52:11.190 --> 00:52:23.490
+carina erdmann: I would say that the people who I have invited for the symposium or in many cases interested in that specific moment where where these things inform each other, also where they.
+
+290
+00:52:25.650 --> 00:52:34.920
+carina erdmann: yeah where where we take something like a learning from from from the imaginary world to the so called real world.
+
+291
+00:52:36.000 --> 00:52:36.390
+Yes.
+
+292
+00:52:37.590 --> 00:52:45.060
+carina erdmann: yeah just very quickly, maybe Why am I even interested in all this, like why remote games or remote.
+
+293
+00:52:46.710 --> 00:52:48.900
+carina erdmann: yeah, so I think it's really thinking through.
+
+294
+00:52:53.400 --> 00:52:54.030
+carina erdmann: This.
+
+295
+00:52:55.230 --> 00:53:03.570
+carina erdmann: Almost a bit like I was really interested in creating connecting worlds, also to, so to say, and creating portals and.
+
+296
+00:53:05.010 --> 00:53:12.810
+carina erdmann: So the physical and the imagined is our in this case.
+
+297
+00:53:14.310 --> 00:53:17.940
+carina erdmann: Definitely really helpful to.
+
+298
+00:53:19.050 --> 00:53:19.500
+carina erdmann: To.
+
+299
+00:53:21.330 --> 00:53:30.090
+carina erdmann: to connect and imagination can change our perception of reality on a neural level actually so it's really.
+
+300
+00:53:31.260 --> 00:53:35.250
+carina erdmann: A very imagination is actually the strongest technology, I think so it's.
+
+301
+00:53:37.020 --> 00:53:56.160
+carina erdmann: yeah that's maybe just something to keep in mind, and I also why i'm interested in this is not just to create some kind of fantastical things but also to actually let's say learn how the cake is made in some cases, to understand that we already are living in a reality that is so much.
+
+302
+00:53:58.860 --> 00:54:05.250
+carina erdmann: That has so much of the bleed already, and where the blurring of fiction, in fact, is already all around us actually so we.
+
+303
+00:54:06.780 --> 00:54:11.880
+carina erdmann: in contemporary media or politics, for example, and and, and this was also something that.
+
+304
+00:54:13.740 --> 00:54:20.790
+carina erdmann: was very important to me in the in the symposium so there was also this came also up.
+
+305
+00:54:21.870 --> 00:54:25.860
+carina erdmann: Talk about like, for example, we're talking about conspiracy theories.
+
+306
+00:54:28.140 --> 00:54:42.900
+carina erdmann: Yes, and the physical and virtual I mean we're probably all almost a bit sick of hearing about it because lately it's been so much about this, these these things, but they also still are really kind of a bone to chew and.
+
+307
+00:54:44.910 --> 00:54:50.190
+carina erdmann: I think what is interesting me there is really the.
+
+308
+00:54:51.990 --> 00:54:58.530
+carina erdmann: kind of almost mature reality of that also because wealth to to to to understand also, how can we.
+
+309
+00:54:59.100 --> 00:55:04.320
+carina erdmann: It feels also virtual but actually the there's very much material consequences also that.
+
+310
+00:55:04.830 --> 00:55:17.370
+carina erdmann: Are we if we talk about Ross raw materials of the server farms that are hanging out somewhere it's not all it's not all in the cloud it's actually it exists somewhere also physically and this is.
+
+311
+00:55:18.570 --> 00:55:22.260
+carina erdmann: For the data but also of course for humans, on the other end and.
+
+312
+00:55:23.550 --> 00:55:32.730
+carina erdmann: So the spaces are physically connected and we have a responsibility to words the real and and body person so here is like an image.
+
+313
+00:55:33.960 --> 00:55:39.390
+carina erdmann: When you Google cyberbullying, then you get this Frankenstein temporary monster.
+
+314
+00:55:41.070 --> 00:55:49.560
+carina erdmann: and well, what do you see up there, probably an image, you also have seen before it's a drone operator inside a control cabin where.
+
+315
+00:55:50.430 --> 00:56:05.400
+carina erdmann: yeah you know, probably that people are killed in these kind of game like setups, and so the question here really is, how does distance can contributes to behavior and also and how, how can we make.
+
+316
+00:56:06.480 --> 00:56:11.160
+carina erdmann: create a sense of responsibility towards digital virtual.
+
+317
+00:56:12.270 --> 00:56:12.780
+carina erdmann: beings.
+
+318
+00:56:14.880 --> 00:56:15.360
+carina erdmann: and
+
+319
+00:56:16.440 --> 00:56:23.010
+carina erdmann: So yes, remote live games, this is basically the the the core, I would say, of my research.
+
+320
+00:56:23.610 --> 00:56:32.160
+carina erdmann: And simply put it involves a group of performers participants interacting in real time through video and voice call i'm really interested, also in.
+
+321
+00:56:32.700 --> 00:56:49.800
+carina erdmann: continuously using more of of movement and really going away just from simply sitting in front of the screen, but for this yeah for this symposium, you will see that there was really many different techniques that were explored.
+
+322
+00:56:52.110 --> 00:57:08.610
+carina erdmann: That sort of informed a bit the research behind what these can what that could be and what i'm interested in what we can learn from the collective fictions that our mind produce this and also, most importantly, from the choices that we make in.
+
+323
+00:57:09.720 --> 00:57:11.040
+carina erdmann: When we play them so.
+
+324
+00:57:13.350 --> 00:57:21.600
+carina erdmann: One thing that is part of the so now i'm going to go a bit through the methodologies and i'm actually going to have some more graspable hard facts.
+
+325
+00:57:22.110 --> 00:57:35.100
+carina erdmann: factual examples of the symposium so first of all let's think about structures, enabling structures, I think that's been something that actually has been interesting to me.
+
+326
+00:57:36.900 --> 00:57:51.270
+carina erdmann: For a long time already really also when I was working more with performance, I was interested in or also with films, I was interested in creating structures in which other people's could speak or.
+
+327
+00:57:53.340 --> 00:58:04.560
+carina erdmann: To create a space that enabled other people to speak, or to have conversations or two, but also in a way, almost seducing them to to become active or to be critical and.
+
+328
+00:58:05.640 --> 00:58:11.280
+carina erdmann: To always have a bit also this balance, of course, how much structure, you need and how little.
+
+329
+00:58:13.980 --> 00:58:25.440
+carina erdmann: And the conversation tools yeah that helps the improvisation and can guide and explore new ways of communication, specifically, we were interesting for me, I mean.
+
+330
+00:58:26.220 --> 00:58:42.930
+carina erdmann: like an example in the race of allies, I think, is it's really simple algorithm, but it really made people open up and share their most intimate things because of how it was asking questions, and I think this could be an interesting.
+
+331
+00:58:44.910 --> 00:58:46.350
+carina erdmann: way to think more.
+
+332
+00:58:47.910 --> 00:58:51.120
+carina erdmann: So human algorithms this was now one of the.
+
+333
+00:58:52.680 --> 00:59:03.780
+carina erdmann: One of the sessions, that was the wonder machine, it was an interactive performance, which was led by the interactions and it experimented.
+
+334
+00:59:04.650 --> 00:59:16.260
+carina erdmann: With emergence at the level of collective intuitive intuition, so I must admit this is their post, they have like their posters, so to say it's not a real zoom call.
+
+335
+00:59:16.740 --> 00:59:24.210
+carina erdmann: So what they actually did it but it's a nice picture and and there's not really an interesting picture of the zoom call itself, because what they did is.
+
+336
+00:59:24.660 --> 00:59:37.320
+carina erdmann: Basically, being with a group of people in zoom call and then having you hadn't an order so in order to speak and then people just always started the sentence with, I wonder, and then.
+
+337
+00:59:38.370 --> 00:59:47.730
+carina erdmann: You wondered what you wondered in that moment, but as you would cycle through the different ones, you would more and more, of course, start to wonder about what the other people's were wondering about.
+
+338
+00:59:48.270 --> 01:00:03.360
+carina erdmann: So it started to really be become a very beautiful it's super simple and in in a way, very restricting you can just talk about anything but still, it was a really beautiful way to collectively think anyway and.
+
+339
+01:00:04.410 --> 01:00:07.830
+carina erdmann: yeah it's in a way, something you really have to experience.
+
+340
+01:00:09.180 --> 01:00:11.250
+carina erdmann: But maybe you get a bit of an idea.
+
+341
+01:00:12.750 --> 01:00:23.670
+carina erdmann: Then performance scores yeah these kind of systems almost I would say, could also be used to really think about scientific things.
+
+342
+01:00:24.120 --> 01:00:40.200
+carina erdmann: Scientific trying to grapple with very hard to understand things that are hard to understand, like, for example, how delusion forms in our brain and prediction error was a workshop by Brody condon which was held in yet, together with.
+
+343
+01:00:41.340 --> 01:01:01.050
+carina erdmann: Well, not together with, but with the help of the neuroscientist Philip Colette and also he to style of us therefore conversation afterwards and it yeah was basically the the, as you can see here the participants, they were.
+
+344
+01:01:02.550 --> 01:01:17.790
+carina erdmann: Playing neural nodes in the brain that are it's a quite complicated process i'm not going to go into explaining it now, but they have to pass on information and as it becomes more and more complicated and there's sort of.
+
+345
+01:01:19.050 --> 01:01:25.800
+carina erdmann: A yak I kind of a prediction error added than the informant you can see how the information derails and.
+
+346
+01:01:27.390 --> 01:01:30.330
+carina erdmann: Of course, this was really a way also to talk about.
+
+347
+01:01:31.380 --> 01:01:36.600
+carina erdmann: How does delusion form and the Philippines is actually also researching on.
+
+348
+01:01:37.980 --> 01:01:49.260
+carina erdmann: Whether this could be applied to a larger scale so can can this even be applied to societies and the level of societies which related really.
+
+349
+01:01:49.890 --> 01:02:00.270
+carina erdmann: yeah interestingly, with another session we had about conspiracy theories and where you could actually make your own conspiracy theory was the game designer.
+
+350
+01:02:01.470 --> 01:02:06.660
+carina erdmann: Read berkovitz who wrote about it also a lot lately and yeah.
+
+351
+01:02:07.830 --> 01:02:20.160
+carina erdmann: Where we were trying to yeah, I think, to understand basically how how this works and how how appealing, it is, I think that was what he really wanted to to present that's.
+
+352
+01:02:21.990 --> 01:02:27.360
+carina erdmann: How it functions on us how it functions in how triggering, it is because it is essentially a game.
+
+353
+01:02:28.470 --> 01:02:35.670
+carina erdmann: And yeah another when it now it's like i'm really a bit going through the different methods that people use.
+
+354
+01:02:36.750 --> 01:02:41.670
+carina erdmann: Another method would be to use movement to really use the body to.
+
+355
+01:02:42.990 --> 01:02:53.580
+carina erdmann: That today dance, but also to actually go outside go outside using location based napping location based technology not mapping for.
+
+356
+01:02:55.050 --> 01:02:56.970
+carina erdmann: So hotel bardo was actually.
+
+357
+01:02:58.560 --> 01:03:10.230
+carina erdmann: A workshop by on social club who does do a lot of large, by the way, really wonderful herbs or real gameplay that's how they call it, because it's a bit different.
+
+358
+01:03:11.370 --> 01:03:22.800
+carina erdmann: sensors on a journey outdoors and into the analog technology of mythmaking to reconsider the source socialization of technology, so you were basically sent out with an APP.
+
+359
+01:03:23.340 --> 01:03:30.660
+carina erdmann: Which is called random Now you can you can see here kind of a I don't know it's, not even a meme I think it's actually just a video.
+
+360
+01:03:31.770 --> 01:03:39.540
+carina erdmann: So there's a huge traffic around this render not to get up in the Internet because people think that it's it's.
+
+361
+01:03:41.010 --> 01:03:53.370
+carina erdmann: Very scary because when you go to this location, that this APP tells you, which is supposedly quantum get generated and people often find I think bottles of piss actually it's very strange.
+
+362
+01:03:54.390 --> 01:03:56.370
+carina erdmann: So there's a huge mythology.
+
+363
+01:03:57.600 --> 01:04:12.720
+carina erdmann: In the in the Internet and omsk was a little bit maybe taking that also with it, this this idea of charging almost you now all of a sudden, you go through space which you would maybe.
+
+364
+01:04:13.470 --> 01:04:21.300
+carina erdmann: Either never go or randomly go, but all of a sudden, you had you have a goal, you have you have you you sort of.
+
+365
+01:04:22.410 --> 01:04:39.270
+carina erdmann: You have a almost a fiction around it and you start to see science you start to see different things and yeah, for example, this is now one photo that people shared afterwards, and I suppose the picture of a son and there was a whole story about what she thought about the sun and.
+
+366
+01:04:41.130 --> 01:04:48.930
+carina erdmann: What I found really beautiful about it is like, yes, we all went out to separately and we had our own experiences all over the world.
+
+367
+01:04:49.440 --> 01:05:05.160
+carina erdmann: in different places, but then afterwards we were sharing this together, and it was in a way it really was time, so we, we were all doing the same thing at the same time in different places, and it really created a feeling of being connected, even though we were apart.
+
+368
+01:05:06.540 --> 01:05:06.990
+carina erdmann: and
+
+369
+01:05:08.640 --> 01:05:20.970
+carina erdmann: erotic sociability for webcam was a workshop by Isabel Lewis, who shared It tears around sociality and embodiment based on feminists sociologists rosalynn H bolo.
+
+370
+01:05:22.230 --> 01:05:25.890
+carina erdmann: who wrote about erotics that shows your ability which is kind of.
+
+371
+01:05:28.260 --> 01:05:31.620
+carina erdmann: An idea that really sees.
+
+372
+01:05:33.060 --> 01:05:36.690
+carina erdmann: erotics not necessarily as purely sexual, but as a way of.
+
+373
+01:05:37.740 --> 01:05:39.240
+carina erdmann: Relating to each other.
+
+374
+01:05:40.620 --> 01:05:45.900
+carina erdmann: yeah outside of coercion and and competition, but really kind of.
+
+375
+01:05:46.980 --> 01:05:48.120
+carina erdmann: Seeing each other.
+
+376
+01:05:49.410 --> 01:05:52.710
+carina erdmann: Also, as others and being being actually.
+
+377
+01:05:54.420 --> 01:05:58.710
+carina erdmann: seduced by each other's differences and instead of trying to.
+
+378
+01:05:59.760 --> 01:06:10.440
+carina erdmann: overpower each other but trying liking being in love with each other's differences and so here, people were dancing in front of the camera and really.
+
+379
+01:06:12.210 --> 01:06:21.870
+carina erdmann: yeah in a way flirting with each other, although this was not necessarily again sexual it was more about revealing themselves to each other, also getting in a bit.
+
+380
+01:06:22.890 --> 01:06:39.690
+carina erdmann: Maybe, as we would say, maybe embarrassing situations, but actually not because we were all sort of really there yeah we were really open to each other and sharing this a bit goofy situation of dancing in front of the camera and.
+
+381
+01:06:41.820 --> 01:06:47.400
+carina erdmann: yeah the census bureau of also often really a big part in this workshops.
+
+382
+01:06:48.720 --> 01:06:56.730
+carina erdmann: So touching smelling also, of course, hearing in a more concentrated way even tasting.
+
+383
+01:06:58.350 --> 01:06:58.920
+carina erdmann: and
+
+384
+01:07:00.420 --> 01:07:00.660
+carina erdmann: yeah.
+
+385
+01:07:01.710 --> 01:07:06.990
+carina erdmann: So size, so my tech is a was a workshop by Susan pilots who.
+
+386
+01:07:08.550 --> 01:07:13.740
+carina erdmann: Actually, extensive Lee works with alarms that focus on the symmetric so on the.
+
+387
+01:07:15.510 --> 01:07:29.520
+carina erdmann: Physical experiences and she explored embodied extra sensory techniques inside the fictional framing of speculative institution founded in a time of crisis, so actually what people were doing here after.
+
+388
+01:07:31.290 --> 01:07:39.120
+carina erdmann: Almost a guided meditation in which people were crafting an own character future character from which they could speak.
+
+389
+01:07:40.230 --> 01:07:43.620
+carina erdmann: or sent actually rather and.
+
+390
+01:07:44.700 --> 01:07:57.330
+carina erdmann: Then they would basically be sending each other images via telepathic means and then draw what they received, and it was quite uncanny that people but.
+
+391
+01:07:59.730 --> 01:08:20.400
+carina erdmann: yeah strange that people seem to actually receive a lot of for me through this practice, yes, and then yeah also relating to the idea of the census, I think that what was also explored in the situation of.
+
+392
+01:08:21.540 --> 01:08:31.500
+carina erdmann: Have a zoom call basically or life call that you can actually create almost Cinematic effects wish for each other, using light and camera.
+
+393
+01:08:32.610 --> 01:08:41.490
+carina erdmann: got, for example, by going close to the camera with your hands you create some sort of yeah I don't know.
+
+394
+01:08:42.510 --> 01:08:43.920
+carina erdmann: New landscapes and.
+
+395
+01:08:46.530 --> 01:08:56.010
+carina erdmann: This was something that people explored quite extensively even having some props and how can this experience, be more.
+
+396
+01:08:58.770 --> 01:09:16.710
+carina erdmann: yeah more kind of attuned to our senses and this was part of a workshop theatre as laboratory experimenting with non human partners in experiment expanding dramatic geez, which was a workshop by Rebecca Ross and Ashley pharaoh Murray and.
+
+397
+01:09:18.210 --> 01:09:28.140
+carina erdmann: Actually, who you see here is in essence drop, who was also part of the symposium and she had already previously also done a workshop.
+
+398
+01:09:29.550 --> 01:09:32.040
+carina erdmann: playing with methods were also these kind of.
+
+399
+01:09:33.360 --> 01:09:35.250
+carina erdmann: effects were really yeah.
+
+400
+01:09:36.360 --> 01:09:43.380
+carina erdmann: explored and she did a video now for for the theater as laboratory workshop that we can see see here.
+
+401
+01:09:45.750 --> 01:09:50.940
+carina erdmann: So yes, collective world in this has been a, as I said in really core.
+
+402
+01:09:52.290 --> 01:09:56.220
+carina erdmann: Of the symposium, and so one of the.
+
+403
+01:09:57.480 --> 01:10:21.000
+carina erdmann: One of the workshops was magical materialism world factory, it was a wealth building workshop by a car that takes its cues from psycho analysis and post social list perspective of Andrew Platon of concept of the literature literature factory, so it was a kind of personal wealth building.
+
+404
+01:10:22.260 --> 01:10:22.680
+carina erdmann: But.
+
+405
+01:10:24.240 --> 01:10:42.330
+carina erdmann: ya know it was really a bit sad because I couldn't find the mirror board anymore, which he had developed this incredibly beautiful mural board that was really leading you through different steps, and I could I would have liked to show it to you, but now you can just see one small.
+
+406
+01:10:42.660 --> 01:10:42.990
+Marina.
+
+407
+01:10:44.730 --> 01:10:49.320
+Steven Malliet: Be because you are talking for half an hour now, and if we still want to do.
+
+408
+01:10:50.130 --> 01:10:51.480
+carina erdmann: Okay i'm almost done with.
+
+409
+01:10:51.690 --> 01:10:52.860
+Steven Malliet: From the audience.
+
+410
+01:10:52.950 --> 01:10:55.140
+Steven Malliet: Okay, one need to wrap up.
+
+411
+01:10:55.710 --> 01:10:58.650
+carina erdmann: Thanks a lot yeah that's great I will just yet, then.
+
+412
+01:11:01.230 --> 01:11:11.790
+carina erdmann: yeah I think i'm also almost done exactly, so this is wealth building another one was the Congress of future love and connection, it was a fictional Congress, it was also using.
+
+413
+01:11:12.840 --> 01:11:24.480
+carina erdmann: A card game actually to to create fictional characters and to create a fictional world really quickly and then yeah the memory weaving I will maybe.
+
+414
+01:11:25.260 --> 01:11:38.280
+carina erdmann: Just jump through it is on I will actually skip it, I think, maybe then we have more talk, it is the upcoming workshop still so actually I don't have to talk about the maybe just come.
+
+415
+01:11:39.480 --> 01:11:49.290
+carina erdmann: And maybe I should also say thank you to all the people who supported me in this endeavor So you can see, who it is, and I think you yeah.
+
+416
+01:11:51.630 --> 01:11:52.050
+carina erdmann: Okay.
+
+417
+01:11:54.780 --> 01:12:06.990
+Steven Malliet: Okay um apparently we have to stop I thought we still had 20 minutes for discussion um but apparently the session has to stop, in a few minutes.
+
+418
+01:12:10.200 --> 01:12:12.870
+Steven Malliet: yeah otherwise I would have been more strict on the time to.
+
+419
+01:12:13.890 --> 01:12:18.660
+Steven Malliet: To stop you so yeah I had quite a bit of questions.
+
+420
+01:12:20.310 --> 01:12:41.700
+Steven Malliet: And I think you have that you had such interesting talks that could result in a lot of discussions and conversations and I would have been really curious what others have to say about it, maybe I will just quickly share my my own screen again so so I can show you the email addresses.
+
+421
+01:12:43.440 --> 01:12:45.540
+Steven Malliet: That I included on the first slide.
+
+422
+01:12:50.190 --> 01:12:57.690
+Steven Malliet: So this is where you can these are the email addresses can reach us, I also.
+
+423
+01:12:59.460 --> 01:13:01.380
+Steven Malliet: posted a link to the.
+
+424
+01:13:02.850 --> 01:13:06.120
+Steven Malliet: symposium of kareena the blend and leads to the program so you can use it.
+
+425
+01:13:07.350 --> 01:13:15.690
+Steven Malliet: to contact all the loppers and all the performers and maybe vinnie you can also post a link to the sandwiches there.
+
+426
+01:13:32.370 --> 01:13:47.700
+Steven Malliet: Yes, thank you all for staying and i'm really sorry that we don't have time for questions anymore, I was really looking forward to that, but one way or another, I had it in my head that we had time to 415 so I just let him talk with I should have been more strict than.
+
+427
+01:13:48.750 --> 01:13:49.080
+Steven Malliet: Sorry.
+
+428
+01:13:53.970 --> 01:13:55.620
+vinicius marquet: yeah sorry thanks a lot.
+
+429
+01:13:56.790 --> 01:13:57.510
+carina erdmann: Thank you.
+
+430
+01:13:57.690 --> 01:14:06.090
+Steven Malliet: Yes, thank you very much for listening and for all the Nice remarks on the chat and hope to get Dutch in soon to get in touch soon with all of you.
+
+431
+01:14:08.130 --> 01:14:08.610
+yeah.
+
+432
+01:14:10.020 --> 01:14:11.880
+vinicius marquet: Well, I love comments on laughs.
+
+433
+01:14:12.330 --> 01:14:13.140
+yeah.
+
+434
+01:14:16.410 --> 01:14:20.610
+Steven Malliet: So yes, enjoy the rest of the conference and um.
+
+435
+01:14:21.720 --> 01:14:22.590
+Steven Malliet: let's stay in touch.
+
+436
+01:14:24.570 --> 01:14:25.620
+vinicius marquet: yeah hi.
+

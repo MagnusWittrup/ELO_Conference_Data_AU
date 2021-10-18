@@ -1,0 +1,1938 @@
+WEBVTT
+
+1
+00:00:08.670 --> 00:00:18.060
+Winnie Soon: So you are welcome, everyone to this panel which is around okay so let's see that area let's see the jungle.
+
+2
+00:00:37.980 --> 00:00:51.690
+Winnie Soon: Alright, so welcome everybody to this tracker three year old conference with panel title around artificial and generate attacks so right now here.
+
+3
+00:00:52.290 --> 00:01:03.150
+Winnie Soon: On soon we have three panelists we're going to give the short presentation, so, while we are also waiting for the last panelists as well.
+
+4
+00:01:03.960 --> 00:01:14.640
+Winnie Soon: So hopefully she will she is now connecting it's good to see you yeah just on time and let's see what we can see yeah great.
+
+5
+00:01:15.450 --> 00:01:26.190
+Winnie Soon: thanks for all joining so regarding for today protocol, which is the same as every track, so we will have a short presentation by each panelists.
+
+6
+00:01:26.700 --> 00:01:46.950
+Winnie Soon: And after that we'll have around 2025 minutes each panel will ask ask each other questions and we will start the debate and then afterwards, at the very last 2025 minutes, we will open up the floor for everybody to to ask the question so Natalia also sent out.
+
+7
+00:01:48.090 --> 00:01:48.780
+A Program.
+
+8
+00:01:50.520 --> 00:02:00.780
+Winnie Soon: Maybe we can take a look later so shall we just kick start with the first panelists we have Alex Mitchell, so I will pass the floor to you.
+
+9
+00:02:01.950 --> 00:02:05.910
+Alex Mitchell: Okay, thank you, let me just share my slides.
+
+10
+00:02:09.330 --> 00:02:17.250
+Alex Mitchell: Okay, hopefully that's working I think so ensure not blocking anything Okay, thank you, everybody it's good to be at elo again.
+
+11
+00:02:17.820 --> 00:02:25.050
+Alex Mitchell: So i'm going to be doing a short talk, based on the paper that I prepared for the session, which is looking at two different.
+
+12
+00:02:25.800 --> 00:02:34.500
+Alex Mitchell: text generation systems, I entered sort of storytelling systems a dungeon and project December, which are both built on the same platform so they're both using open a is either.
+
+13
+00:02:38.640 --> 00:02:48.210
+Alex Mitchell: generative storytelling says gen X generation system and what i'm basically going to be focusing on is looking at how look at the differences between these two systems, the dungeon is a very sort of straightforward.
+
+14
+00:02:48.840 --> 00:02:57.990
+Alex Mitchell: system that tries to get people to come in and play essentially a generative sort of version of the text adventure, whereas protect December is a chat Bot, but it's sort of.
+
+15
+00:02:59.310 --> 00:03:06.240
+Alex Mitchell: Basically wrapped in a fiction, as if you are a researcher in the 1980s, working on some sort of fictional Ai system.
+
+16
+00:03:06.510 --> 00:03:13.770
+Alex Mitchell: And what i'm going to claim is that that use of so de familiarisation of the process of attracting with Ai in project December is.
+
+17
+00:03:14.070 --> 00:03:23.340
+Alex Mitchell: It encourages the the interactive to think a bit more critically about what's going on in terms of the API so just to give it a little bit of sort of theoretical background this.
+
+18
+00:03:23.820 --> 00:03:31.740
+Alex Mitchell: Is the concept i'm making use of losses, so one is the idea of different color ization which is from rushing formalism from Victor schlocky this idea that.
+
+19
+00:03:32.190 --> 00:03:43.740
+Alex Mitchell: art in general, and what in from the Russian foremost perspective is basically all about using certain devices that try to make things that are sort of familiar to us unfamiliar to sort of break us out of optimization and make us slow down our process of.
+
+20
+00:03:44.190 --> 00:03:48.840
+Alex Mitchell: experiencing things or the world around us and pay attention to them to maybe see them in a new way.
+
+21
+00:03:49.320 --> 00:03:55.320
+Alex Mitchell: And in some of my work on art games i've taken this and used it to propose something called poetic gameplay, which is the idea of.
+
+22
+00:03:55.680 --> 00:04:06.030
+Alex Mitchell: Taking the mechanics in the game and doing something similar to what poetic language and so sort of break people's expectations, so they stop and think about what they're doing so sort of the basic short version of my.
+
+23
+00:04:06.360 --> 00:04:08.040
+Alex Mitchell: claim, and this is that that's something that.
+
+24
+00:04:08.070 --> 00:04:16.830
+Alex Mitchell: Project December does this next generation process, which is something that's completely absent in a identity and it creates a very different sort of experience for the user.
+
+25
+00:04:17.850 --> 00:04:23.160
+Alex Mitchell: So yeah attention if no one's come across it is it's essentially an adventure game built on top of.
+
+26
+00:04:25.080 --> 00:04:30.690
+Alex Mitchell: Ai text generation system from openai and it's very much framed like an adventure games it.
+
+27
+00:04:30.840 --> 00:04:41.010
+Alex Mitchell: was like something you'd see in the start screen of the game, you can go in and start a new game, and this, which was from a number of different worlds and it's very sort of clear about how great it is right it's like.
+
+28
+00:04:41.610 --> 00:04:48.150
+Alex Mitchell: A lot of the text you see around it is really proclaiming the in a very uncritical way the technology that's being used.
+
+29
+00:04:48.630 --> 00:04:51.510
+Alex Mitchell: So, essentially, it looks like a text adventure you've got.
+
+30
+00:04:51.960 --> 00:05:04.200
+Alex Mitchell: Some information about what you're seeing you can type in pretty much anything you want, and it will try to from its purpose of text generate a response and it's somewhat coherent, but often quickly goes sort of often strange directions.
+
+31
+00:05:04.860 --> 00:05:14.370
+Alex Mitchell: So what's interesting about this is sort of trying to, I think, give the player really a feeling of control over this somewhat uncontrolled what your system so it's very like a game.
+
+32
+00:05:15.120 --> 00:05:23.790
+Alex Mitchell: The text around it very much that of uncritically celebrates this of cutting edge Ai Ai talks about how great this system is how you can do virtually anything you like there's never been a game like this before.
+
+33
+00:05:24.090 --> 00:05:31.890
+Alex Mitchell: Right so it's really, really pushing this is something wonderful and exciting and it is sort of fun to play with, but there are limitations with it.
+
+34
+00:05:32.490 --> 00:05:37.830
+Alex Mitchell: And one thing that the interface really does is it sort of puts you in this position of control, or at least the the the illusion that you have control.
+
+35
+00:05:38.130 --> 00:05:48.210
+Alex Mitchell: So you can use a whole bunch of these different features to interactively undo what the the I said to you if you don't like the what the response was you can step back and change it, and try again.
+
+36
+00:05:48.420 --> 00:05:55.890
+Alex Mitchell: So, for example, if I didn't like this response to when I asked the service, where the King isn't here, I can try it again and it'll keep running those same phrases past the Ai.
+
+37
+00:05:56.190 --> 00:06:03.120
+Alex Mitchell: and regenerate them until you get something that you like, and then you can move forward, of course, you don't really have control, but it gives you this feeling of control.
+
+38
+00:06:03.570 --> 00:06:12.060
+Alex Mitchell: And you can actually even go back and Edit some of the earlier parts of the text so it's very, very much sort of pushing you into this position where you feel like you are in control of what's going on.
+
+39
+00:06:12.360 --> 00:06:18.720
+Alex Mitchell: And everything around it and sort of making you feel like this is sort of a wonderful Ai that you have control over, and you can get it to do what you want.
+
+40
+00:06:19.530 --> 00:06:24.240
+Alex Mitchell: me, there are some sort of acknowledgments of possible limitations within the system, so if you poke around the help.
+
+41
+00:06:24.540 --> 00:06:34.170
+Alex Mitchell: They don't say like anything is possible literally anything, although it does admit the is hard right and that they're still working on this and things are going to improve gradually but it's still very much sort of.
+
+42
+00:06:34.920 --> 00:06:41.490
+Alex Mitchell: uncritical and celebratory which i'm saying this a few times because I want to contrast contrast this with the way that.
+
+43
+00:06:42.270 --> 00:06:47.490
+Alex Mitchell: Particular sample portrays itself right and recently there actually was a an incident where.
+
+44
+00:06:48.210 --> 00:06:54.360
+Alex Mitchell: The company that makes the identity and attitude they started putting in filters, because there were some issues with them people using so.
+
+45
+00:06:54.660 --> 00:06:59.940
+Alex Mitchell: Basically, creating stories that were not safe for work and moving into areas that were very questionable, such as.
+
+46
+00:07:00.510 --> 00:07:07.290
+Alex Mitchell: involving children, so they they put in some filters, but this filters were very primitive and there was a major backlash from the user community.
+
+47
+00:07:07.590 --> 00:07:14.190
+Alex Mitchell: which I think actually they were sort of unprepared for, and I feel it comes out of the fact that they were so uncritical about their technology.
+
+48
+00:07:14.490 --> 00:07:22.800
+Alex Mitchell: So I think this sort of goes along with this idea of just accepting this technology is wonderful, I mean that that someone posted on reddit about in response to what was happening.
+
+49
+00:07:23.460 --> 00:07:29.250
+Alex Mitchell: If there's a boy in this case it's the phantom menace the VI would respond to that, and so you say something weird happened let's stop.
+
+50
+00:07:29.580 --> 00:07:39.780
+Alex Mitchell: So of course it's important that they put in these filters, but the fact that the user Community was completely unprepared and the company themselves and completely unprepared, I think, reflects that and critical attitude towards the technology.
+
+51
+00:07:40.500 --> 00:07:45.600
+Alex Mitchell: So, in contrast, i'd like to talk a little bit about project December, which is similarly is built upon.
+
+52
+00:07:45.990 --> 00:07:52.110
+Alex Mitchell: open a is typically typically three texts generation system in this case is it's an art piece created by Jason roller.
+
+53
+00:07:52.530 --> 00:07:58.410
+Alex Mitchell: And it starts off with the sense of the celebratory tone, but I don't know if this is too small to see, but if you look at their splash page.
+
+54
+00:07:58.650 --> 00:08:08.580
+Alex Mitchell: it's basically a sort of an all looking tech poster from an ad tech conference talking about their their exciting new Ai and it doesn't tell you much about this, and so that you can pay $5 to get access.
+
+55
+00:08:09.420 --> 00:08:14.610
+Alex Mitchell: And if you're like me and you're thinking Oh, this is interesting, maybe I want to write a paper about this i'm going to pay $5 you will go in.
+
+56
+00:08:14.940 --> 00:08:25.920
+Alex Mitchell: And then you discover that actually the whole thing is wrapped in this fiction of you, being a researcher in the 80s working on some Ai so the interface itself looks like it's from two to 20 or something.
+
+57
+00:08:27.120 --> 00:08:32.400
+Alex Mitchell: teletext terminal it's 1982 you are having to enter the password to get in.
+
+58
+00:08:32.880 --> 00:08:37.650
+Alex Mitchell: Once you get in the sort of the fiction actually sort of is embodied throughout the entire interface in the interaction.
+
+59
+00:08:37.920 --> 00:08:45.930
+Alex Mitchell: So you seem to be playing this character, Professor Professor pettersen you can go and if anyone remembers unix systems, you can check your can file to see what you're supposed to be doing.
+
+60
+00:08:46.320 --> 00:08:54.210
+Alex Mitchell: And you gradually have to try and figure out what it is actually what the purpose of the system is so you can poke through these these menu systems, you can have a look at your account details.
+
+61
+00:08:54.510 --> 00:09:02.310
+Alex Mitchell: You gradually figure out some of the commands so you can actually spin up these matrices which are the eyes that are running on the 22 or 23 system.
+
+62
+00:09:03.030 --> 00:09:10.860
+Alex Mitchell: and start to gradually figure out the commands but the thing about these commands is that they're very sort of evocative the way their name so, for example, you can you can kill.
+
+63
+00:09:11.610 --> 00:09:18.330
+Alex Mitchell: A matrix to bring it to an early death, which is very different from the sort of just going back and undoing and redoing stuff that you see in the engine.
+
+64
+00:09:19.560 --> 00:09:24.960
+Alex Mitchell: And there's also there seems to be sort of a game like aspect of this is a few things that you are sort of tasks to do as professor of medicine.
+
+65
+00:09:25.890 --> 00:09:31.620
+Alex Mitchell: And as you start to interact with the eyes, you start to get this sort of feeling that there's something else going on right it's a bit more so.
+
+66
+00:09:32.070 --> 00:09:35.520
+Alex Mitchell: than just trying to create the best next adventure, you can so eventually these.
+
+67
+00:09:36.090 --> 00:09:45.390
+Alex Mitchell: These Ai start to degrade and die and, as you can see here, hopefully, the output starts to become corrupted and sort of glitchy and eventually the matrix actually dies.
+
+68
+00:09:45.960 --> 00:09:48.690
+Alex Mitchell: And there was some interesting discussion on the reddit threads.
+
+69
+00:09:49.200 --> 00:09:56.610
+Alex Mitchell: Around the system where the the artist Rover was talking to those users and thinking about sort of how to deal with some of the facts, like, for example, sometimes.
+
+70
+00:09:56.820 --> 00:10:05.490
+Alex Mitchell: Maybe the Ai discussion isn't going the way that you want it and you'd like to sort of restart and they were trying to figure out a nice way to do this and the discussion actually sort of reveals how.
+
+71
+00:10:05.610 --> 00:10:11.880
+Alex Mitchell: Clearly, they were thinking about the evocative miss of the experience so one of the the users was saying, oh yeah actually they like the idea of a kill command.
+
+72
+00:10:12.210 --> 00:10:21.660
+Alex Mitchell: Because it sort of keeps this idea that perhaps you don't have complete control over what's going on, and even the idea of kill I think it's starting to think about what are you doing, can you just kill the Ai.
+
+73
+00:10:22.230 --> 00:10:27.360
+Alex Mitchell: And Roger suggested actually what you'd like to do is have the I have the last word, so that he could actually.
+
+74
+00:10:28.800 --> 00:10:33.030
+Alex Mitchell: sort of give you some feeling as to how the I might feel that you killing it right.
+
+75
+00:10:33.390 --> 00:10:43.410
+Alex Mitchell: and actually that's that's what you did right, so you can kill the Ai and, in this case, it will say I survived you really are not bad for a movie infected human and this case as a mentor one of the eyes.
+
+76
+00:10:43.980 --> 00:10:54.840
+Alex Mitchell: So it starts to call out to the artists like Jason Jason help i'm dying i'm scared and it sort of goes on and eventually dies right, so it, I think, at least for me, it creates a little bit of a different sort of connection to the.
+
+77
+00:10:55.230 --> 00:11:02.700
+Alex Mitchell: What you're doing as opposed to just thinking, this is a tool that I can work with and, for me it reminded me of, for example, how 9000 dying in.
+
+78
+00:11:03.390 --> 00:11:13.260
+Alex Mitchell: 2001 as he was sort of being a sort of showing that he's afraid and as David said pulling out his memory cards so it's a very different feeling from just using open API as a tool.
+
+79
+00:11:13.920 --> 00:11:17.700
+Alex Mitchell: So I haven't been taking my time, but I think i'm just about the point of wrapping up so.
+
+80
+00:11:18.270 --> 00:11:24.450
+Alex Mitchell: The main point I want to get across here is, I think there's a very different big difference in the way in which the whole Ai dungeon experiences is wrapped.
+
+81
+00:11:24.930 --> 00:11:31.170
+Alex Mitchell: In is framed it's a very sort of unintentionally enthusiastic and critical to the portrayal of what you've been do with next generation.
+
+82
+00:11:31.440 --> 00:11:41.970
+Alex Mitchell: And it, for me it sort of felt like that was partly why both the company and the users were sort of unprepared for the problems that come up with a set of technology and led to the the current backlash from the user user community.
+
+83
+00:11:42.360 --> 00:11:48.090
+Alex Mitchell: In contrast, project December is really grounded in this particular fiction, everything is sort of through this frame of this next to the 1980s.
+
+84
+00:11:48.840 --> 00:11:54.540
+Alex Mitchell: teletext terminology if you're this professor and, at least for me it encouraged more reflective and critical view of the technology.
+
+85
+00:11:54.870 --> 00:12:04.890
+Alex Mitchell: So I think that perhaps this way of sort of framing things and taking more visible evocative approach, maybe it can help us to think more critically about technologies we use both for easy and we're generally in our lives.
+
+86
+00:12:05.760 --> 00:12:12.810
+Alex Mitchell: Okay, so that's that's my quick summary of the paper, of course, you can go and read the paper it's linked from the program Thank you thanks.
+
+87
+00:12:12.870 --> 00:12:16.680
+Winnie Soon: Thank you Alex for your comparative analysis.
+
+88
+00:12:17.760 --> 00:12:32.310
+Winnie Soon: And for the next one, we have David Wright who will give us the priests representation around this topic page rise platforms fantastic who wrote the code and rubella take poetics so I hand over to you.
+
+89
+00:12:33.990 --> 00:12:41.010
+David Wright: Yes, so I will introduce the top title again, as you can see dystopic plagiarize platforms, so this paper over this presentation seeks to.
+
+90
+00:12:42.690 --> 00:12:45.030
+David Wright: interrogate and I suppose sub 10 to this.
+
+91
+00:12:46.350 --> 00:12:52.050
+David Wright: creative work I created called the autobiography of Kim Jong, on which I created with Brett Griffin.
+
+92
+00:12:53.280 --> 00:13:04.140
+David Wright: So it can be regarded as I have found text in the sense of you know, a kind of Goldsmith um it's a form of overt plagiarism masquerading as covert plagiarism in accordance with Holland button Jeffrey.
+
+93
+00:13:04.650 --> 00:13:19.200
+David Wright: And it's somewhere between I think a second generation third generation eel it I think again it's a second gen you lit masquerading as the generation 11 in that that many parts of a within it kind of stolen or read remixed or repurposed.
+
+94
+00:13:20.850 --> 00:13:33.930
+David Wright: I originally had the idea, not to focus on Kim Jong on but to focus on Mickey decide, and I had this larger broader scale project of this idea of corrupting the code with text corrupting not in the computational sense, but in the in the moral sense.
+
+95
+00:13:34.680 --> 00:13:40.500
+David Wright: And I can see that this this work of corrupting multiple works of either using decides text.
+
+96
+00:13:41.670 --> 00:13:51.330
+David Wright: This was kind of problematic instance and coding to readings of side by liberal in Boston called South ski the author is certainly far from dead when it comes to the production of obscene literature.
+
+97
+00:13:51.780 --> 00:13:58.440
+David Wright: And in my experiments with this, the author was far from dead, and the result was I was simultaneously a failure and success and as much as.
+
+98
+00:13:58.800 --> 00:14:06.060
+David Wright: It was just so obscene and and for the purposes of exhibition it was just I wasn't comfortable with what I was what I.
+
+99
+00:14:06.720 --> 00:14:10.260
+David Wright: You know, ended up producing it kind of made me a bit uncomfortable.
+
+100
+00:14:11.130 --> 00:14:16.980
+David Wright: Which again was sort of the point and I sort of thought of making a more palatable decide, but that seemed If not you know.
+
+101
+00:14:17.430 --> 00:14:28.110
+David Wright: At least disingenuous but almost tomorrow, so I went to another form of have seen literature, I suppose, a more palatable or not some palatable obscene literature of propaganda.
+
+102
+00:14:28.620 --> 00:14:33.870
+David Wright: Then, focusing on North Korean propaganda I then took a bunch of works from the publication taper.
+
+103
+00:14:34.470 --> 00:14:48.090
+David Wright: So six separate works, and so, for example, and injected them with North Korean propaganda so, for example, I took this work for the pool players at the goal and shovel by Lillian Yvonne but from, as you can see here if you click it.
+
+104
+00:14:48.210 --> 00:15:00.360
+David Wright: It generates text and I recreated it to to look like to use North Korean propaganda so here, you get you know trust noblest toughest course and see a great design miraculous historic at someone and someone.
+
+105
+00:15:00.870 --> 00:15:04.020
+David Wright: In addition to the to the propaganda, I also incorporated.
+
+106
+00:15:04.230 --> 00:15:17.520
+David Wright: vocabulary and phrases from journalism critical of the North Korean regime into these generative works so very occasionally you get flashes of sort of criticism, so something like this, then tend to talk Crecy nauseated demilitarized.
+
+107
+00:15:18.420 --> 00:15:22.860
+David Wright: But it was of course greatly outweighed proportionally by the North Korean propaganda.
+
+108
+00:15:23.280 --> 00:15:29.520
+David Wright: So, on the one hand, I guess, this work is an experiment in propaganda delivery it emulates the relentlessness up in the north.
+
+109
+00:15:29.970 --> 00:15:39.150
+David Wright: Korean indoctrination indoctrination machine and shows how born digital writing can be stolen misused and so doing, I hope it reveals digital literature's authority.
+
+110
+00:15:39.990 --> 00:15:49.140
+David Wright: This work also seeks to capture the perspective of a curious intelligent yet powerless Dr K citizen and demonstrate how they might struggle to engage with local culture.
+
+111
+00:15:50.490 --> 00:16:00.030
+David Wright: I was interested in these questions from from a Marina is critical code studies, particularly in relation to the idea that I was kind of doing a fictionalized plagiarism of code.
+
+112
+00:16:00.930 --> 00:16:07.380
+David Wright: You know, but the code is not enough in and of itself, it is crucial to explore context, who wrote the code when and why what language was the code written.
+
+113
+00:16:07.650 --> 00:16:14.370
+David Wright: What programming paradigm was used was written for a particular platform How did the code change over time, and these are italicized.
+
+114
+00:16:14.640 --> 00:16:24.780
+David Wright: As questions that I suppose over most interest to me what material or social constraints impacted the creation of this code, how does this code respond to the context in which it was created, how was the code received by others.
+
+115
+00:16:25.020 --> 00:16:39.210
+David Wright: And it was this last question in terms of this idea of stealing coding corrupting code is their inherent in this through the code, even if you kind of pump it full of of material that's perhaps not at all intentional and perhaps potentially nefarious.
+
+116
+00:16:40.470 --> 00:16:48.330
+David Wright: Beyond these generational works, a robotic Kim Jong Hoon was created to read the generational works this emulated a potential propaganda device similar to the.
+
+117
+00:16:48.510 --> 00:16:57.480
+David Wright: The radio is there installed in North Korean homes is volume can be turned down, but never off and here's just a short video of it in action visit myself as.
+
+118
+00:17:07.620 --> 00:17:08.220
+David Wright: A coach three.
+
+119
+00:17:10.410 --> 00:17:11.250
+David Wright: Good luck.
+
+120
+00:17:17.940 --> 00:17:18.420
+David Wright: On you if.
+
+121
+00:17:20.820 --> 00:17:26.850
+David Wright: i'm quoting window, who wrote all about robotic poetics isn't there is a fundamental link between language and robots.
+
+122
+00:17:27.060 --> 00:17:34.380
+David Wright: Whatever material constitution, they may have arms and legs cogs and wheels and engines, the crucial ingredients, the ones that separate robots for wrenches.
+
+123
+00:17:34.650 --> 00:17:43.710
+David Wright: of their instructions instructions are perhaps inscribed in some concrete medium, but they are quintessentially abstract existing more in the netherworld of code that in concrete form.
+
+124
+00:17:44.160 --> 00:17:47.550
+David Wright: That code netherworld is where humans and robots inevitably meets.
+
+125
+00:17:47.670 --> 00:17:51.180
+David Wright: Is where humans are most robotic and my robotics almost human.
+
+126
+00:17:52.140 --> 00:18:03.510
+David Wright: So the generative works, I suppose, produce new content, at the same time, they very much the limited and it's this the limitation that is exploited by this fictionalized North Korean creator of the autobiography of Kim Jong and.
+
+127
+00:18:03.930 --> 00:18:13.860
+David Wright: So, I suppose, as a general question for the panel is an s which which kind of ties into the keynote which was for me this morning for you probably yesterday as a general question for the.
+
+128
+00:18:14.640 --> 00:18:21.960
+David Wright: is artificial general text a liberating experience or limiting one or I suppose as Raymond quinoa put it in criticizing realists.
+
+129
+00:18:22.230 --> 00:18:27.660
+David Wright: Another very wrong ideas equivalence of the subconscious and liberation between chance automatism and freedom.
+
+130
+00:18:27.990 --> 00:18:39.420
+David Wright: Now this sort of inspiration which consists in blindly obeying every impulse is in fact slavery, the classical author, who wrote his tragedy observing a certain number of known rules it's free other than the poet who writes down whatever comes into his head.
+
+131
+00:18:40.680 --> 00:18:52.710
+David Wright: he's obviously not talking about robotic poetics, but I still feel that this this anecdote from a long time ago is still very it's very prescient I noticed this discussion today so i'll stop there, thank you very much.
+
+132
+00:18:53.760 --> 00:19:01.800
+Winnie Soon: Thank you, David for showing us a very different sort of this kind of physical manifestation of language and generative tax.
+
+133
+00:19:02.910 --> 00:19:13.980
+Winnie Soon: Which is really enlightening so, then we have the next presenter so because they haven't upload a tax before, but I think they have put it in the chat.
+
+134
+00:19:14.370 --> 00:19:27.030
+Winnie Soon: So it can see the PDF here we have Natalia federal law and eagle concerto I hope I pronounced it correctly, which they will talk about generated mendelssohn.
+
+135
+00:19:28.650 --> 00:19:30.150
+Winnie Soon: Thank you, so I hand over to you.
+
+136
+00:19:31.770 --> 00:19:36.750
+Natalia Fedorova: Please, you have wonderful to be back hats are the yellow even in digital form.
+
+137
+00:19:37.350 --> 00:19:39.330
+Natalia Fedorova: So we are going to be talking about.
+
+138
+00:19:39.810 --> 00:19:44.700
+Natalia Fedorova: The process of creation vocabulary for milestone based or three generator.
+
+139
+00:19:45.750 --> 00:19:47.280
+Natalia Fedorova: So this point regenerate.
+
+140
+00:19:47.520 --> 00:20:03.930
+Natalia Fedorova: is based on what is concerts program on composing a program for composing verse that was created in 1978 and can be probably considered as the earliest noun version poetry in January.
+
+141
+00:20:05.370 --> 00:20:23.370
+Natalia Fedorova: So it is based on the Mandel stance of first volume of poetry stone which has undergone three additions and the initial program is based on the first edition We actually had to base.
+
+142
+00:20:23.400 --> 00:20:24.990
+Natalia Fedorova: Our work on the.
+
+143
+00:20:25.320 --> 00:20:26.460
+Natalia Fedorova: third edition.
+
+144
+00:20:27.780 --> 00:20:28.650
+Natalia Fedorova: So this.
+
+145
+00:20:31.110 --> 00:20:32.700
+Natalia Fedorova: Creating a creating.
+
+146
+00:20:32.700 --> 00:20:37.950
+Natalia Fedorova: An emulating digital Mandelstam was actually the second attempt.
+
+147
+00:20:38.370 --> 00:20:43.560
+Natalia Fedorova: And in the first time the vocabulary was created manually well.
+
+148
+00:20:44.010 --> 00:20:46.830
+Natalia Fedorova: This not necessarily causes mistakes, but in our.
+
+149
+00:20:46.980 --> 00:20:49.920
+Natalia Fedorova: case it did so we have to.
+
+150
+00:20:50.040 --> 00:20:50.400
+Svetlana Kuchina: On.
+
+151
+00:20:50.970 --> 00:20:53.880
+Natalia Fedorova: To creating you vision and.
+
+152
+00:20:53.970 --> 00:20:54.390
+Natalia Fedorova: i'll say.
+
+153
+00:20:54.600 --> 00:20:56.070
+Natalia Fedorova: The words about the.
+
+154
+00:20:56.100 --> 00:20:57.000
+Svetlana Kuchina: context.
+
+155
+00:20:57.060 --> 00:20:57.840
+Natalia Fedorova: So in order.
+
+156
+00:20:57.900 --> 00:20:59.580
+Natalia Fedorova: In the context of the.
+
+157
+00:21:00.420 --> 00:21:03.870
+Natalia Fedorova: program on composing program for composing.
+
+158
+00:21:04.380 --> 00:21:05.220
+Svetlana Kuchina: For those.
+
+159
+00:21:05.850 --> 00:21:09.870
+Natalia Fedorova: In order to understand the concept or enrich on.
+
+160
+00:21:10.920 --> 00:21:22.860
+Natalia Fedorova: program composing words by Buddhist counselors prettiest, we have to know that, unlike any other language contexts, the first January the worms and Russian appeared later on musical compositions.
+
+161
+00:21:23.730 --> 00:21:31.590
+Natalia Fedorova: Even though the moons of statistical analysis date back to the end of the 19th century, so the.
+
+162
+00:21:32.370 --> 00:21:43.590
+Natalia Fedorova: Research in statistical analysis allowed to examine the properties of production Sullivan botanic prosody and represent the pool as a formula so in case.
+
+163
+00:21:44.370 --> 00:21:55.080
+Natalia Fedorova: Of this article that you see, which is a translation, or what is called says article that would be tax generator that includes one subject.
+
+164
+00:21:56.190 --> 00:22:00.660
+Natalia Fedorova: predicate one object on either an adorable modifier one attribute.
+
+165
+00:22:02.640 --> 00:22:03.300
+Natalia Fedorova: So.
+
+166
+00:22:04.800 --> 00:22:13.290
+Natalia Fedorova: Russian language generated with three do not base it's aesthetics of own for more experiments.
+
+167
+00:22:13.650 --> 00:22:25.290
+Natalia Fedorova: With the rather than classical forums inherited in the 19th century, even though it was the research or formula lists that contributed to understanding how to model.
+
+168
+00:22:25.920 --> 00:22:51.450
+Natalia Fedorova: The computational text, so what scott's computer linguist at MIT and the moment and that moment mathematical mechanical faculty of Moscow university graduate was working on his research from 1972 to 1975 and he was trying to see if there is anyone in the Soviet Union.
+
+169
+00:22:52.560 --> 00:23:03.330
+Natalia Fedorova: Working on the same team, but he failed, and he failed because there was a mathematical community and the research was done in the linguist Community so he didn't know.
+
+170
+00:23:05.100 --> 00:23:12.630
+Natalia Fedorova: The several years of working on bessemer for which is big electronic calculating machine.
+
+171
+00:23:13.650 --> 00:23:26.820
+Natalia Fedorova: He noticed he actually couldn't succeed what caused his success was was part of the contemporary Russian verse metrics and it makes published in 1974.
+
+172
+00:23:27.210 --> 00:23:42.480
+Natalia Fedorova: But the book analyzed contemporary and traditional way to reverse and general laws of organization of Russian poetic word and this made considerable contribution to the work, so I hand it over to you what.
+
+173
+00:23:43.980 --> 00:23:55.200
+Egor Goncharov R33362: And hello, as the first they've been volt creating correct and directly mark coverage of voice understands stone this program will be addressing.
+
+174
+00:23:55.950 --> 00:24:12.660
+Egor Goncharov R33362: Unlike in the first version of zoom later it is through the jungle full program completion was the governor to eliminate one factor imposing stress, for instance, was the purpose of creating digital Calgary, it was important to find.
+
+175
+00:24:13.680 --> 00:24:17.130
+Egor Goncharov R33362: Alternative for digital edition as opposed.
+
+176
+00:24:18.600 --> 00:24:20.100
+Egor Goncharov R33362: Or is this conversions.
+
+177
+00:24:23.430 --> 00:24:23.760
+Egor Goncharov R33362: Which.
+
+178
+00:24:25.140 --> 00:24:34.650
+Egor Goncharov R33362: One dish Tom collected the works, I think it is work as because 2014 that was mostly based on 19 28th edition of stone.
+
+179
+00:24:35.340 --> 00:24:42.570
+Egor Goncharov R33362: As a next step that need to be taken, was the elimination elimination of the repeated the words and punctuation marks.
+
+180
+00:24:43.080 --> 00:24:57.180
+Egor Goncharov R33362: Once we had the purpose of four unique words and the part of speech of each one needed to be defined, was the purpose of labeling the parts of speech reduced my stem instrument from yandex and.
+
+181
+00:24:57.450 --> 00:24:58.530
+Egor Goncharov R33362: It is a library for.
+
+182
+00:24:58.560 --> 00:25:22.500
+Egor Goncharov R33362: wise is the instrument, mostly provided execute, but we still had to do some manual verification, in order to generate Ryan blank lines, we have a calorie needs to contain information about the syllabus and threats this broke broke the gizmos so Labor consuming our toes the project.
+
+183
+00:25:23.730 --> 00:25:25.770
+Egor Goncharov R33362: And one of the reasons, was it is.
+
+184
+00:25:27.000 --> 00:25:38.880
+Egor Goncharov R33362: Very the streets in rushing towards mom wants to zone line service would deal with the words and August leytonstone understand we use this word into focus on.
+
+185
+00:25:39.780 --> 00:25:50.910
+Egor Goncharov R33362: windows case and number, with considerable time limitation and we are able to solve this problem automatic automatically, with the help of morphing into true.
+
+186
+00:25:51.600 --> 00:26:13.140
+Egor Goncharov R33362: However, the limit to the number of words to consider consider building assault downs of work on the generator despite all the difficulties mentioned above, where we were able to build the correct vocabulary, which you can see, on this image on our presentation so.
+
+187
+00:26:13.530 --> 00:26:28.830
+Natalia Fedorova: In the vocabulary, you see number of syllables about a stitch the initial form all these part of speech of this word, so those before the stress and stressed syllable on syllables after the stress.
+
+188
+00:26:30.720 --> 00:26:31.980
+Natalia Fedorova: So what we.
+
+189
+00:26:33.330 --> 00:26:44.220
+Natalia Fedorova: What we plan to do next, is to implement the algorithm and to prepare the translation of this algorithm English Thank you.
+
+190
+00:26:47.160 --> 00:26:51.480
+Winnie Soon: Thank you for your presentation in Italia, and you go it's also.
+
+191
+00:26:52.530 --> 00:27:04.560
+Winnie Soon: really great to bring in Russian you lead into the platform, you know that we're sort of like someone from Japan and then and then also Singapore and then for you.
+
+192
+00:27:05.370 --> 00:27:12.690
+Winnie Soon: So it's really enlightening and I also see there's maybe also connection to the next presenter because also focusing on the structure.
+
+193
+00:27:13.320 --> 00:27:32.130
+Winnie Soon: Of the of the literature, so we have the next presenter us when lana cucina I can pronounce that correctly, so you will be presenting the topic on generate attacks reading strategy and interpretation or options I hand over to you okay.
+
+194
+00:27:32.640 --> 00:27:36.780
+Svetlana Kuchina: So everyone, let me share the screen and.
+
+195
+00:27:48.120 --> 00:27:50.160
+Svetlana Kuchina: i'm not sure if you can see my presentation.
+
+196
+00:27:53.970 --> 00:27:54.480
+Svetlana Kuchina: Thank you.
+
+197
+00:27:54.810 --> 00:28:02.280
+Svetlana Kuchina: So much my talk is devoted to the reading and critical reflection of the generated electronic literary texts.
+
+198
+00:28:02.760 --> 00:28:17.100
+Svetlana Kuchina: From the structural point of view, all stones have generated decks can be divided into standard schemes or patterns word combinations or the hill sentences that are switched according to the software algorithms.
+
+199
+00:28:18.750 --> 00:28:27.210
+Svetlana Kuchina: Authors use these schemes to make generated text close to the natural language, most of the world patterns of degenerative.
+
+200
+00:28:28.560 --> 00:28:41.190
+Svetlana Kuchina: literature works look like meaningful expressions, but what makes them meaningful and what kind of meaning can reduce get from the Spartans, is it possible to get the static idea of the whole generated to work.
+
+201
+00:28:42.300 --> 00:28:51.480
+Svetlana Kuchina: analyzing this horrible part one of the strategies to reveal the authorship ascetic concept of the generated work is to identify the key.
+
+202
+00:28:51.900 --> 00:29:06.060
+Svetlana Kuchina: The key words greed of the separate extol as well as the whole work, the key words great allows to catch this magic dominant and then move to the interpretive strip strategies of the whole of the whole world.
+
+203
+00:29:08.430 --> 00:29:17.640
+Svetlana Kuchina: As some electronic with regenerated texts are based on classical way through tax fragments of which i'm mortified because in various combination options.
+
+204
+00:29:19.290 --> 00:29:32.280
+Svetlana Kuchina: For example, the scenes between bionic man for 10 seconds triplet, which is based on the, as we know, on the covers of text by Emily Dickinson and moby Dick or the white whale by Henry mobile.
+
+205
+00:29:33.090 --> 00:29:41.280
+Svetlana Kuchina: Here are some examples of this is generated status in the scenes, but it's been from the structural point of view.
+
+206
+00:29:42.600 --> 00:29:52.800
+Svetlana Kuchina: All texts isley parsed into typical schemes used by the software algorithm to form unique stones, so the externals can be divided into the color schemes.
+
+207
+00:29:54.090 --> 00:30:03.390
+Svetlana Kuchina: Some of them, you can see, on the screen each dancer can see self for non brand lines with no punctuation marks, except for dashes.
+
+208
+00:30:03.720 --> 00:30:16.770
+Svetlana Kuchina: Which facilities to the process of combining global elements, the use of refrains I mean the repetition of individual words or lines leads to the formation of this magic.
+
+209
+00:30:17.310 --> 00:30:27.630
+Svetlana Kuchina: Cement as magic greed of the work which contributes to the recording of this magic content of both a single stone or the whole set of stones and the word.
+
+210
+00:30:28.500 --> 00:30:35.520
+Svetlana Kuchina: The words that form there's magic read are in the same spot between it food groups of nouns with the meaning of.
+
+211
+00:30:35.880 --> 00:30:49.080
+Svetlana Kuchina: A large space or unlimited numbers, such as time sky eternity the second group of look sense includes most nouns and works with the semantics of space restriction coughing nailed to.
+
+212
+00:30:50.130 --> 00:30:52.650
+Svetlana Kuchina: And the third group is formed by predicted.
+
+213
+00:30:53.910 --> 00:31:03.930
+Svetlana Kuchina: predicates with the meaning of an incentive to election aimed at getting out of a blow space station or restricted restricted movement.
+
+214
+00:31:04.590 --> 00:31:23.610
+Svetlana Kuchina: The wheel is on, for example, the the divers on the loops on centers are verbal blocks containing calls to perform certain actions, the first two lines of the stones in the scenes Bob between usually contain calls for protection directive outside, for example, costume less.
+
+215
+00:31:25.350 --> 00:31:43.170
+Svetlana Kuchina: toyland climb customers don't leave and so on the last lies, on the contrary, in implements the semantics of attachment work of freedom, no movement in ability to leave a particular place for example they'll do must nail tech offering to.
+
+216
+00:31:46.080 --> 00:31:56.280
+Svetlana Kuchina: The stones are generated in the sense by between can be easily integrated into set of meetings with the help of the recipients interpretive efforts.
+
+217
+00:31:56.640 --> 00:32:07.620
+Svetlana Kuchina: The involvement of the region in the cement semantic formation of the generated text is one of the immutable conditions of electronic generated part.
+
+218
+00:32:08.040 --> 00:32:14.580
+Svetlana Kuchina: One of the probable interpretation of the scenes Bob between is to implement the idea of contrast.
+
+219
+00:32:14.940 --> 00:32:23.460
+Svetlana Kuchina: Which is generally come into the world order in the technocratic era it's becoming more and more obvious that the first space.
+
+220
+00:32:23.880 --> 00:32:32.730
+Svetlana Kuchina: it's configured in the world with the infinity of this see sky eternity and the virtual virtual space of the World Wide Web.
+
+221
+00:32:33.180 --> 00:32:43.440
+Svetlana Kuchina: Is contrasted with the isolation of a particular person the limitations of natural communication in the modern world, the interpretive tactic.
+
+222
+00:32:44.400 --> 00:32:53.250
+Svetlana Kuchina: In this case is like whoa cool interpretation when the first line uses a key words image for action in cocoa, this is an award.
+
+223
+00:32:53.970 --> 00:33:03.660
+Svetlana Kuchina: In the second and third lies this image is distributed, with a single sentence and the last line is a metaphor, the key words in this case are.
+
+224
+00:33:04.200 --> 00:33:24.420
+Svetlana Kuchina: Like primitive texts like minimal models of the text content which they are the key the interpretation of keywords suggests the consideration as indicators, or the word content and even its style, so this is my brief summary of my work.
+
+225
+00:33:27.900 --> 00:33:32.490
+Winnie Soon: Thank you, thanks so much for your structural analysis that linked.
+
+226
+00:33:32.520 --> 00:33:56.460
+Winnie Soon: to your incredible interpretative approach to work, so I think for the coming 1520 minutes we just more around to see whether the panelists have any questions to each other and then afterwards we'll open the floor, so do you have anything you want to clarify or between the panelists.
+
+227
+00:33:57.630 --> 00:34:01.830
+Winnie Soon: They they are like some ego and Italia and savannah.
+
+228
+00:34:12.810 --> 00:34:18.270
+Winnie Soon: I can also kick start with some of the questions that I also have in mind as well because.
+
+229
+00:34:18.810 --> 00:34:29.070
+Winnie Soon: When I read through the papers, I feel like there are different forms of critical ality that is addressing in each of the papers some make it explicit, for example, like Alex.
+
+230
+00:34:29.460 --> 00:34:41.040
+Winnie Soon: You make it explicit like by doing the comparative analysis like one is critical one is less critical and the other papers also mentioned about these kind of critical refreshing to technologies.
+
+231
+00:34:41.460 --> 00:34:50.370
+Winnie Soon: So I guess is like just to open up the floor in a way i'm just wondering, we often use the term right is critical critical reality and.
+
+232
+00:34:50.790 --> 00:35:05.850
+Winnie Soon: Often relates to how to create the space with the literature for reflection, but it's at the same time, is also a subjective interpretation by the readers how they How are they able to read through the structure in order to understand.
+
+233
+00:35:06.990 --> 00:35:27.330
+Winnie Soon: This kind of generating aspects, so I guess it's like can can you all, maybe sort of like responding to the questions or thinking about what what is the critical critical ality is doing here in your paper and and how How does this kind of critical perspective and evil forms of discussion.
+
+234
+00:35:34.110 --> 00:35:41.700
+Alex Mitchell: guess I don't know how we how we decide who's going to start with, we can't look across the stage and see who wants to grab the microphone so i'm just going to jump in.
+
+235
+00:35:43.140 --> 00:35:47.820
+Alex Mitchell: yeah I think there's I was trying to think of how this criticality is coming across and all the different.
+
+236
+00:35:48.750 --> 00:35:55.410
+Alex Mitchell: Talks that we just heard, I guess, I can start from mine, I think I mean what I was thinking about is trying to consider what.
+
+237
+00:35:56.190 --> 00:36:07.680
+Alex Mitchell: The response of the reader is sort of being triggered by as part of what we're doing, which I do think something comes across petroleum in the solanas discussion is now it's sort of the structure of these.
+
+238
+00:36:08.850 --> 00:36:11.340
+Alex Mitchell: generative poems I think what maybe.
+
+239
+00:36:12.690 --> 00:36:16.830
+Alex Mitchell: I think doesn't get looked at so much is the sort of.
+
+240
+00:36:17.550 --> 00:36:23.130
+Alex Mitchell: The way in which were interacting with the creative work well that's what I was trying to focus on right now, the way in which he identified and.
+
+241
+00:36:23.370 --> 00:36:33.840
+Alex Mitchell: sort of frames, the experience and how that may be affects the readers response versus the way that project december's doing that and I think that's for me so i'm sort of trying to focus my critical.
+
+242
+00:36:34.260 --> 00:36:52.770
+Alex Mitchell: lens I guess on the way in which the presentation and the framing of the work, maybe reveal certain things or hide certain things from the the reader slash player, which I think is maybe something that should be carefully thought about more than that often is.
+
+243
+00:36:54.780 --> 00:36:56.250
+Alex Mitchell: that's just my quick thought.
+
+244
+00:36:56.850 --> 00:36:59.910
+Winnie Soon: No thanks and how about amy for yours.
+
+245
+00:37:00.030 --> 00:37:08.670
+David Wright: um yeah I mean my my intention with this as well as the work and, in some ways it is a form of practice lead research in that I wanted to take.
+
+246
+00:37:09.450 --> 00:37:14.160
+David Wright: Some existing you literature and repurpose it and re.
+
+247
+00:37:14.640 --> 00:37:25.290
+David Wright: Do something the complete opposite of the you know intention of the work and then see I suppose what's left, what do they have in common, what do they set right Is there something from the initial work that retains that is.
+
+248
+00:37:25.830 --> 00:37:32.580
+David Wright: You know intentionally that in the inner retaining code that exists in the form that exists and and.
+
+249
+00:37:32.640 --> 00:37:34.680
+David Wright: In that regard i'm know kind of trying to.
+
+250
+00:37:34.980 --> 00:37:40.170
+David Wright: To sub 10 the work i'm still seeing the progress process of doing that um.
+
+251
+00:37:42.150 --> 00:37:43.170
+David Wright: yeah I think.
+
+252
+00:37:44.070 --> 00:37:51.480
+Winnie Soon: Because I also think you'll work is is also, I think, like, for example, like Alex work the way of how he described is.
+
+253
+00:37:52.230 --> 00:38:00.600
+Winnie Soon: Very focusing on the regional experience or how the audience interacting with the word or whether there's a space created for reflections right.
+
+254
+00:38:01.020 --> 00:38:09.900
+Winnie Soon: And for yours is also like any cell is is very politically, I mean your work is about propaganda and also the platform what what is the platform is doing.
+
+255
+00:38:09.960 --> 00:38:21.600
+Winnie Soon: There, and then the last two presenters the talia ego and select lana also talk about like structure is a very different approach in terms of the critical reality, I think.
+
+256
+00:38:24.780 --> 00:38:48.330
+Natalia Fedorova: When diesel criticality with the digital mental stamina this point Mandelstam was not exactly officially allowed or it, so the gestural criticality on the bottle for the Scots comes into choosing this particular work for for his generator though I was.
+
+257
+00:38:49.350 --> 00:39:06.420
+Natalia Fedorova: My background I was mostly studying generated text which is not following classical liberals in case of gods of this is a very classical 19th century born with Ryan numbers so doesn't really.
+
+258
+00:39:07.560 --> 00:39:33.030
+Natalia Fedorova: engage in any critique of language, except for being the search of the minimal unit of me, so what guts states is that the main one unit of meaning is just produced by this for four parts of the sentence, so you take subject predicate object and modify and you get a sentence which.
+
+259
+00:39:34.260 --> 00:39:55.440
+Natalia Fedorova: can be connected to what the poetic experience is not probably connects us with this question that we had in the chat about the fictional author, so these four parts of sentences are enough to create this experience of not mumble stumble some kind of fictional author.
+
+260
+00:39:58.590 --> 00:40:05.490
+Winnie Soon: And me a lot of us have a chat you have a comment on a tractor you want to sort of elaborate on that.
+
+261
+00:40:07.740 --> 00:40:12.330
+Natalia Fedorova: Well, the the method, a Meta data comment well.
+
+262
+00:40:15.600 --> 00:40:16.950
+Natalia Fedorova: In did have.
+
+263
+00:40:18.450 --> 00:40:27.840
+Natalia Fedorova: To spend a lot of time and since that's my second attempt is generated to spend a lot of time creating this data and.
+
+264
+00:40:29.070 --> 00:40:29.400
+Natalia Fedorova: well.
+
+265
+00:40:31.080 --> 00:40:34.140
+Natalia Fedorova: there's not much else come to such.
+
+266
+00:40:34.620 --> 00:40:37.590
+Winnie Soon: yeah yeah yeah.
+
+267
+00:40:38.940 --> 00:40:48.480
+Leonardo Flores: yeah just to just to build that like you know I it's amazing to me that the kind of work that has to go on behind the scenes, just to.
+
+268
+00:40:49.080 --> 00:40:58.890
+Leonardo Flores: Prepare language and prepare that test that so that it can recreate rhyme it can capture the stress patterns right because Ryan, is just sounding.
+
+269
+00:40:59.370 --> 00:41:15.930
+Leonardo Flores: Like it's it's sounding like after certain stress patterns and so on, and then I think about so first of all, it puts us huge burden on on us as programmers to encode all that whenever you're generating like in Spanish.
+
+270
+00:41:17.250 --> 00:41:19.860
+Leonardo Flores: I don't know if Russia does that the kinds of.
+
+271
+00:41:21.000 --> 00:41:22.950
+Leonardo Flores: conjugations that happened.
+
+272
+00:41:23.910 --> 00:41:24.360
+Natalia Fedorova: For sure.
+
+273
+00:41:25.230 --> 00:41:31.020
+Leonardo Flores: So so that's I mean, how do you encode all that So those are real challenges.
+
+274
+00:41:32.280 --> 00:41:37.770
+Leonardo Flores: it's interesting that in English, of course, there's this service called word Nick.
+
+275
+00:41:38.220 --> 00:41:46.890
+Leonardo Flores: That that it's it's i'm sharing a link to their about page it's it's a nonprofit organization it's the it's an online dictionary.
+
+276
+00:41:47.370 --> 00:41:55.950
+Leonardo Flores: That encodes all that data and then you can ask oh so give me a word that rhymes with this and through their API you can.
+
+277
+00:41:56.610 --> 00:42:17.400
+Leonardo Flores: You can you can get that it even has romantic connections in terms of related words so so, so this is, you know it escalates right at some point it gets to where it's sort of larger than than what a an artist funnel programming practice can do.
+
+278
+00:42:18.840 --> 00:42:26.370
+Leonardo Flores: Without without I mean I love the article right like I I engage in it, and I think it's a board it.
+
+279
+00:42:27.480 --> 00:42:46.680
+Leonardo Flores: To do it, but I wonder, I wonder, I mean what the stakes are, and all this like we do all kinds of language generation and we saw some examples with David Wright taking repurposing a poem from taper a minimalist engine right to then.
+
+280
+00:42:48.390 --> 00:43:02.580
+Leonardo Flores: add this language and then produce these neat generated pieces, but then also we have alex's work with Ai dungeon right that that that you know it.
+
+281
+00:43:04.920 --> 00:43:08.460
+Leonardo Flores: You just kind of throw it into this sort of black box, that is.
+
+282
+00:43:09.390 --> 00:43:23.700
+Leonardo Flores: Supposedly user friendly and and you know all really you know natural language so so we're seeing all these parents have have sort of little and large right the same with see as far between where we have.
+
+283
+00:43:24.690 --> 00:43:38.280
+Leonardo Flores: A fairly constrained elegant engine that then produces is incredible variability right so so again here we have the challenges right the sort of self contained data sets.
+
+284
+00:43:39.720 --> 00:43:41.670
+Leonardo Flores: are typically kind of.
+
+285
+00:43:42.750 --> 00:43:50.820
+Leonardo Flores: encoded right to give the results we want, and then the sort of more corporate or large nonprofit.
+
+286
+00:43:52.590 --> 00:44:10.590
+Leonardo Flores: develop things that then become the sort of services and black box things that you use to access that so I just kind of made it a question kind of blasted it towards everyone i'd love for you all to kind of talk a little bit about some of those tensions.
+
+287
+00:44:13.410 --> 00:44:17.130
+Winnie Soon: Do you have any response for other presenters.
+
+288
+00:44:23.400 --> 00:44:34.350
+Alex Mitchell: i'm sorry I was trying to multitask I was reading chat questions and there's some good deals questions we send them a little bit they sort of overlap, to some extent yeah I mean I guess we're going to try and say something that somehow relates.
+
+289
+00:44:36.150 --> 00:44:41.250
+Alex Mitchell: For me, I think what's very interesting here is sort of this these struggles, we sort of seem to have with controlling these things.
+
+290
+00:44:41.670 --> 00:44:51.660
+Alex Mitchell: And sort of knowing what we're going to get and I know I mean that's when i've sort of dabbled in making my own stuff there's always this sort of once you start working with something generative and you sort of.
+
+291
+00:44:52.200 --> 00:44:59.550
+Alex Mitchell: have a sense of how the stuff you're putting into the system is going to give you a result and I mean sometimes as an artist you want us to have control over things.
+
+292
+00:44:59.850 --> 00:45:08.040
+Alex Mitchell: But at the same time it's interesting when you don't have control, and I think some of what's going on here is particularly with the maybe like the identity and stuff is that you.
+
+293
+00:45:08.550 --> 00:45:18.780
+Alex Mitchell: have this I mean there's sometimes there isn't a clear sort of acknowledgement from the way in which something is framed or the way it's put out that it is not really controllable.
+
+294
+00:45:19.290 --> 00:45:28.260
+Alex Mitchell: And I think that's I mean for as an artist it's exciting when things do stuff that you don't expect it to right, but at the same time, I mean so Zack mentioned.
+
+295
+00:45:29.430 --> 00:45:37.470
+Alex Mitchell: To aim in the Microsoft chat Bot, that when really offensive within like an hour or something right, so I think it's when things sort of.
+
+296
+00:45:37.980 --> 00:45:45.060
+Alex Mitchell: Go like that, particularly when they're they're put out by my personal, for example, that you start to realize that there's all this stuff happening underneath which.
+
+297
+00:45:45.930 --> 00:45:50.850
+Alex Mitchell: It may be it'd be good if we were more aware of and more sort of encouraged to think about and not just trust.
+
+298
+00:45:51.240 --> 00:46:01.170
+Alex Mitchell: The system right, I mean for me that also sort of just goes beyond things like a lead, I mean it makes me think about like Why do I see certain people in Facebook and other times I don't see certain people.
+
+299
+00:46:01.530 --> 00:46:08.160
+Alex Mitchell: Right, and I should I be thinking a bit more about the algorithm that decides which things I will see in my.
+
+300
+00:46:08.940 --> 00:46:18.420
+Alex Mitchell: In my news feed, so I think this this whole sort of idea of being a bit more aware of what's going on underneath and thinking about it in a reflective way is important for us in our.
+
+301
+00:46:19.110 --> 00:46:25.980
+Alex Mitchell: personal lives in general, not just in and I guess maybe that's what it can do for us to help us to to be more reflective and and sort of.
+
+302
+00:46:26.820 --> 00:46:39.510
+Alex Mitchell: focused on to not just our literature that we're consuming and enjoying but also our everyday life, I don't know if that's just a sort of throwing out a reaction that may or may not connect to some of the things that you guys are asking.
+
+303
+00:46:40.590 --> 00:46:45.270
+Winnie Soon: But there's also like a chat dialogue here from robot.
+
+304
+00:46:46.320 --> 00:47:01.830
+Winnie Soon: So do you want to read allow your questions, I know, David Salam also respond as well, but will be also good to put it up on the floor so us asking something about beyond the availability of the Open Source do you want to elaborate on your question.
+
+305
+00:47:05.160 --> 00:47:11.220
+Winnie Soon: I can also read as well Okay, can you can you can you hear me yeah.
+
+306
+00:47:11.550 --> 00:47:21.420
+Roberta Iadevaia: Okay yeah Thank you, yes, I was just curious about so the the parameters that David choose.
+
+307
+00:47:23.130 --> 00:47:23.460
+Roberta Iadevaia: For.
+
+308
+00:47:24.720 --> 00:47:33.750
+Roberta Iadevaia: Basically, to choose the word see a reuse the works of electronically, two, three, you want to reuse so yeah.
+
+309
+00:47:35.160 --> 00:47:41.400
+David Wright: Thanks um yeah it's a good question um one thing i've tried recently through the digital review was to.
+
+310
+00:47:41.850 --> 00:47:56.730
+David Wright: Do reviews of electronic literature through electronic that are so you're actually take the code and criticize or you know critique the work within the code, so I did a piece with gel Communism pleasure up the coast and actually situated kind of criticism about within the code and.
+
+311
+00:47:57.780 --> 00:48:05.190
+David Wright: i've been in touch with Amir Amir enough he has given me permission to do similar with the decree of the revolution, where I would like to try and actually.
+
+312
+00:48:06.030 --> 00:48:14.910
+David Wright: You know, write a criticism or write an essay using the code within the code so it's sort of criticism electronic literature within electronic literature, this kind of you know i'm.
+
+313
+00:48:15.420 --> 00:48:22.170
+David Wright: twisting back on in and of itself, which I think is fascinating because it sort of you know critiques the work on its own terms.
+
+314
+00:48:23.160 --> 00:48:34.020
+David Wright: You know, I was sort of inspired by you know God kind of foods would always say you know I don't I don't write film criticism I film film criticism, and so I think we should kind of be looking towards doing the same way with a look.
+
+315
+00:48:35.490 --> 00:48:43.290
+David Wright: I think it's a fascinating idea um it's interesting you know, on this question of generators I pose this question, the end of whether or not um you know.
+
+316
+00:48:44.520 --> 00:48:54.570
+David Wright: generated text is limiting or sort of liberating from a poetic standpoint or and you know I think it's sort of a one hand kind of both I think it is like you know.
+
+317
+00:48:54.900 --> 00:49:03.480
+David Wright: In the same way poets kind of have a difficult Brian scheme or something to try and you know limit that point, you know you can kind of liberated way because I am.
+
+318
+00:49:04.140 --> 00:49:08.220
+David Wright: I had a poem I wrote recently where I used to poetry generator and then sort of human edited it.
+
+319
+00:49:08.610 --> 00:49:12.300
+David Wright: And it was a sort of political Palmer I took it in Australia that had a horrible policy where they've.
+
+320
+00:49:12.630 --> 00:49:21.450
+David Wright: response to sort of covert tensions and a lack of global education students, they decided to put a 300% increase on the fields for specifically for humanities degrees.
+
+321
+00:49:22.080 --> 00:49:26.490
+David Wright: So I took the speech by the education minister who who said.
+
+322
+00:49:26.820 --> 00:49:36.810
+David Wright: By all means do humanities, but you should be doing things like it and learning a language things like that, so I said well okay i'll create an eel at home, which is using it and I took a translated version of.
+
+323
+00:49:37.680 --> 00:49:43.560
+David Wright: Leaving missus on generosity and I combined it with his speech and it created a line called.
+
+324
+00:49:44.190 --> 00:49:49.410
+David Wright: A petite use this horrible word that they want to introduce called micro credentials in education.
+
+325
+00:49:49.710 --> 00:50:00.870
+David Wright: And so I created this line called a participation micro credential miss participation misalignment veiled heavenly within the economy and I just know that's a phrase I would never have written on my own, so I found that.
+
+326
+00:50:01.320 --> 00:50:09.120
+David Wright: By using a poetry generator it's sort of it liberated my creativity in a way that that uh you know, otherwise wouldn't have happened, I think.
+
+327
+00:50:11.040 --> 00:50:11.400
+David Wright: So that.
+
+328
+00:50:12.810 --> 00:50:18.930
+Winnie Soon: Maybe I should jump a little bit to mark marino's your comment around the sea and spa.
+
+329
+00:50:20.370 --> 00:50:30.510
+Winnie Soon: So i'm just wondering like is also about commentary in the code so i'm just thinking about sweater you do, you have anything that you want to respond to this.
+
+330
+00:50:32.730 --> 00:50:37.290
+Winnie Soon: And you here, because she has a big issue with the connections before.
+
+331
+00:50:37.620 --> 00:50:38.730
+Alex Mitchell: I mentioned the drop down.
+
+332
+00:50:41.430 --> 00:50:42.570
+Alex Mitchell: So I will.
+
+333
+00:50:43.020 --> 00:50:46.230
+Winnie Soon: continue this question with her maybe you know, in a minute.
+
+334
+00:50:47.880 --> 00:50:49.080
+Winnie Soon: looking into the chat.
+
+335
+00:50:50.190 --> 00:50:54.960
+Natalia Fedorova: started calling in passing to what David was saying so looks like.
+
+336
+00:50:56.040 --> 00:51:01.470
+Natalia Fedorova: The code functions, like a mask which is liberating you but also hiding.
+
+337
+00:51:05.400 --> 00:51:10.800
+Alex Mitchell: That seems to be some interesting sort of thread through all of what we're talking about in terms of sort of fictional author.
+
+338
+00:51:11.400 --> 00:51:12.480
+Alex Mitchell: yeah creating sort of.
+
+339
+00:51:12.840 --> 00:51:22.710
+Alex Mitchell: I mean for me that the two things I wrote down in my notes here from all that presentation sort of fictional authors and plagiarism and to what.
+
+340
+00:51:23.160 --> 00:51:28.530
+Natalia Fedorova: Is this original author, if we have the fictional there is this original author, which is always present.
+
+341
+00:51:29.130 --> 00:51:36.630
+Alex Mitchell: yeah which is sort of like maybe a ghost that's haunting all of it right and somehow we're yeah we're always stealing I mean.
+
+342
+00:51:37.230 --> 00:51:43.860
+Alex Mitchell: It in the cases and identity you don't even know what you're stealing from visits got such a massive corpus and then you have.
+
+343
+00:51:44.640 --> 00:51:55.950
+Alex Mitchell: Things showing up that you didn't even expect to be there, so this is a multiple authors that are being either deliberately or unintentionally plagiarized all the time, so, then you never really know who's.
+
+344
+00:51:56.940 --> 00:52:04.620
+Alex Mitchell: yeah who's the actual author he's The co op who is your who are your co authors I think yeah someone posted something in the discord where it was a.
+
+345
+00:52:05.070 --> 00:52:13.470
+Alex Mitchell: Co authoring of number of poems with with like a series of like Emily Dickinson and a bunch of other famous authors, together with with JP three.
+
+346
+00:52:14.010 --> 00:52:22.440
+Alex Mitchell: And he decided to be a teacher as one of the co authors it's I think it raises a lot of interesting issues that I do said cyborg authors yeah.
+
+347
+00:52:24.120 --> 00:52:38.400
+Winnie Soon: But he's also speaking about these kind of co authorship is also something has been a huge debate right in generative language or generative art, which is something that is the machine thinking about the machine Agency but i'm.
+
+348
+00:52:39.450 --> 00:52:46.560
+Winnie Soon: I think it's one of the different as well, for you Alex, especially for for how you talk about it, I think, mark Marino, also have a comment.
+
+349
+00:52:47.040 --> 00:52:53.910
+Winnie Soon: In relation to this kind of API version or or eliza effect so i'm just thinking about like, how do you see this kind of.
+
+350
+00:52:54.420 --> 00:53:06.510
+Winnie Soon: Co authorship or these kind of the notion of authorship that is changing, with the use of Ai technology like tbd two or three and how is it different from this kind of structural.
+
+351
+00:53:08.040 --> 00:53:21.210
+Winnie Soon: Like structural constraints or ruby's generated language poetry, how do you see Ai add to it, or how does it be solved or enable a different kinds of machine agency.
+
+352
+00:53:23.340 --> 00:53:26.820
+Alex Mitchell: Now it's a very interesting question actually i'm just thinking like.
+
+353
+00:53:27.930 --> 00:53:32.310
+Alex Mitchell: How complex do we have to sort of think our rules are or how sort of.
+
+354
+00:53:32.910 --> 00:53:43.650
+Alex Mitchell: autonomous are they I mean I have this set of dice called rory story cubes it's like nine dyson us roll them and then you got a bunch of pictures and if I write something based on that do I feel like brewery story cubes as a co author.
+
+355
+00:53:44.670 --> 00:53:53.850
+Alex Mitchell: Know right, but then, if I throw stuff into a dungeon and sort of get something back and then think about that as the the inspiration for my story.
+
+356
+00:53:54.300 --> 00:54:00.570
+Alex Mitchell: Do I somehow feel like that's more of a Co author or do I feel like the grammar checker and Microsoft word is my co author.
+
+357
+00:54:01.020 --> 00:54:08.640
+Alex Mitchell: They don't know there's like this sort of a continuum of like how much do we think this thing, even maybe isn't is somehow my partner.
+
+358
+00:54:09.390 --> 00:54:14.520
+Alex Mitchell: versus just a tool that i'm using or do something that gives me inspiration, or like a bunch of prompts.
+
+359
+00:54:15.090 --> 00:54:21.690
+Alex Mitchell: So yeah I think that's something that maybe we don't think about enough, and maybe it's worth thinking about some more on part of it is that we tend to sort of.
+
+360
+00:54:22.500 --> 00:54:31.620
+Alex Mitchell: anthropomorphize and sort of see these things that seem how somehow more complex, as if they actually have autonomy and maybe they don't, even though we can control them I don't know how much.
+
+361
+00:54:35.190 --> 00:54:36.960
+Alex Mitchell: about the honesty thinking about.
+
+362
+00:54:37.710 --> 00:54:55.080
+Winnie Soon: yeah also like although Alex work, maybe more directly to these kind of Ai generated tax but also i'm interested to see how they Natalia or swim Nana also like think about these kind of machine agency differently with with your work.
+
+363
+00:54:56.190 --> 00:55:02.430
+Winnie Soon: or even carry in the in the text, there is a question what either medium is to offer.
+
+364
+00:55:02.790 --> 00:55:03.360
+Winnie Soon: question mark.
+
+365
+00:55:04.770 --> 00:55:06.270
+Winnie Soon: Do you have I mean respond to this.
+
+366
+00:55:07.020 --> 00:55:14.250
+David Wright: I mean, with my work, I don't I wouldn't say I wrote it because I didn't take the ride anything I didn't write the code I didn't write the text I pumped into it.
+
+367
+00:55:14.880 --> 00:55:25.740
+David Wright: So it feels more like a conceptual artwork in that case I mean I write traditional fiction, in a very classical sense as well, and so this is something else I think it's sort of.
+
+368
+00:55:26.730 --> 00:55:41.010
+David Wright: it's is it even is a literary imminent it's something I think it's it's crossed the border from being creative writing to concept arts and said some point, I think, for this, this will work in question um.
+
+369
+00:55:42.840 --> 00:55:51.750
+Winnie Soon: yeah I think yeah how about Natalia and eagle you have any respond to this offer sheet questions or machine agency with.
+
+370
+00:55:52.320 --> 00:56:12.750
+Winnie Soon: Ai or even your in your analysis of Russian poetry's these kind of structural composition, how do you see that because you're also paying attention to the speech as well, so how does it help us to also think about this notion of office or reading or listening no different.
+
+371
+00:56:14.040 --> 00:56:24.810
+Natalia Fedorova: So, on one hand, all this agenda rate is certainly one of them, you can be sensing the very specific Mandelstam of accountability.
+
+372
+00:56:25.290 --> 00:56:44.700
+Natalia Fedorova: When the other hand, the only response for this work that I have received was the response of boy scouts who's pointing up the mistakes on the code so looks like a here the authorship is more delegated to in our case to you.
+
+373
+00:56:47.250 --> 00:56:51.540
+Natalia Fedorova: Because of the importance of the authorship of the algorithm.
+
+374
+00:56:54.660 --> 00:56:56.610
+Natalia Fedorova: Good like to anything.
+
+375
+00:56:58.680 --> 00:56:59.760
+Winnie Soon: Are you here you go.
+
+376
+00:57:00.210 --> 00:57:00.780
+there.
+
+377
+00:57:07.890 --> 00:57:33.060
+Natalia Fedorova: So in this case, if we continue this notion of medium as an author, be the code itself the algorithm definitely plays the part of the author and someone who, who wrote that and yet someone who wrote it also and it has this idea of what the 15 hours and shouldn't be producing.
+
+378
+00:57:35.700 --> 00:57:41.550
+Winnie Soon: Thank you and Magda has a question to David do you want to read allow Mecca.
+
+379
+00:57:42.960 --> 00:57:45.750
+Winnie Soon: Or you want to elaborate your curatorial question.
+
+380
+00:57:46.770 --> 00:57:48.450
+magdalena tyzlik-carver: hey Thank you.
+
+381
+00:57:50.850 --> 00:57:51.150
+So much.
+
+382
+00:57:52.410 --> 00:58:00.570
+magdalena tyzlik-carver: And it's quite late actually i'm sorry about that, but I was jumping between different rooms, but it was interesting to come and.
+
+383
+00:58:01.320 --> 00:58:13.590
+magdalena tyzlik-carver: hear your discussion at this point, no, I was just interested in this, you know in this idea of kind of moving things around rather than writing them to add that you mentioned, or you said that you don't you didn't write anything so.
+
+384
+00:58:13.770 --> 00:58:26.580
+magdalena tyzlik-carver: So my question was really about what is this process if you don't feel that you've written it but still, you are kind of in some kind of control of organizing these things and to me as a curator Of course I kind of immediately think about.
+
+385
+00:58:27.450 --> 00:58:42.090
+magdalena tyzlik-carver: Organizing and managing and kind of moving things around in space, you know, and so I was kind of thinking about these relations that, of course, coming from a different discipline literary discipline, there are other practices that support that so I just wanted to know.
+
+386
+00:58:43.230 --> 00:58:57.120
+David Wright: Is what's going like pre pre digital I mean you know you could go far back to like borrows cut ups right where it just cuts up your word and tourism around and it's yeah it's essentially the same thing I guess i'm just you know now we're throwing Code into the mix.
+
+387
+00:58:58.380 --> 00:59:08.220
+David Wright: And so you know is borrows a bar is, I suppose, would consider himself for writers, but he's making a conscious choice, whereas i'm kind of just checking this into that i'm not you know.
+
+388
+00:59:09.240 --> 00:59:11.850
+David Wright: Something more as I suppose I suppose that's not a good analogy.
+
+389
+00:59:15.120 --> 00:59:15.660
+magdalena tyzlik-carver: Sorry.
+
+390
+00:59:15.870 --> 00:59:18.990
+magdalena tyzlik-carver: I was also thinking about assemblage you know, even though it's it's kind of.
+
+391
+00:59:19.590 --> 00:59:26.160
+magdalena tyzlik-carver: You know, like how these materials, even though they are kind of database and digital how they also kind of operate in space.
+
+392
+00:59:26.520 --> 00:59:36.780
+magdalena tyzlik-carver: But it's so many dimensions, not just three dimensions, but many other dimensions and the way how they throw things at us that allow us to kind of connect creatively with these.
+
+393
+00:59:37.320 --> 00:59:51.390
+magdalena tyzlik-carver: elements and and you know ultrasound also something that use that or one of you said that it allowed you to see things that otherwise you wouldn't have been able to see without this kind of support of generative element of.
+
+394
+00:59:51.750 --> 01:00:00.720
+David Wright: yeah yeah i'm in that particular case, I suppose I was, I was still at the end you know human editing it and sort of making it more conscious choice words with this it's still.
+
+395
+01:00:00.900 --> 01:00:07.410
+David Wright: I mean obviously i've made a conscious choice as to what i've done enough framed it in a kind of way that that functions um.
+
+396
+01:00:07.800 --> 01:00:19.380
+David Wright: But at the same time, I suppose the language i've chosen the credentials, and you know I have it's just a matter of collage or as lay of puts it quite eloquent yeah I think it's a good Michelle start using.
+
+397
+01:00:20.310 --> 01:00:20.730
+Good.
+
+398
+01:00:21.810 --> 01:00:22.320
+magdalena tyzlik-carver: Thank you.
+
+399
+01:00:22.620 --> 01:00:32.910
+Winnie Soon: Thanks, but also follow up on that I think david's your work, I remember when you present the piece, you also mentioned about struggle.
+
+400
+01:00:33.450 --> 01:00:42.000
+Winnie Soon: So you sort of like these pieces as a way to for the readers to sort of get a sense of the struggles or the citizens so.
+
+401
+01:00:42.330 --> 01:00:53.670
+Winnie Soon: I mean, can you can you elaborate a little bit more about these these struggles as as a critical forms of reflections or or how do you see language arts sort of enable this sort of struggling.
+
+402
+01:00:56.220 --> 01:00:58.620
+David Wright: By struggle, do you mean the sort of the decide you're.
+
+403
+01:00:59.280 --> 01:01:06.900
+David Wright: picturing what it would be like for a North Korean trying to struggle against culture, I mean, I have some experience with North Korea right.
+
+404
+01:01:07.170 --> 01:01:15.570
+David Wright: I used to teach with a lecturer Ching hua University, which had a handful of North Korean students who had that little badges and and I went to North Korea, through a.
+
+405
+01:01:16.440 --> 01:01:26.520
+David Wright: With a British filmmaking company for holiday get away, and it was interesting to meet some North Korean citizens, you know i'm the tour guide said she had written a novel.
+
+406
+01:01:26.910 --> 01:01:41.520
+David Wright: um I told her, I was teaching creative writing she said, I wrote a novel and I showed it to my father, when I was 16 and he said never do this again, please put it away and she said, so I never, never wrote again and then she just she joked that i'd be published, posthumously.
+
+407
+01:01:43.080 --> 01:01:54.480
+David Wright: But yeah this idea I suppose that you have this bombarding of propaganda and then I originally just put the propaganda into it, and then I sort of thought I need something else that needs, and I think this is something for for generational.
+
+408
+01:01:55.110 --> 01:01:58.470
+David Wright: At least in using this kind of found poetry technique, I found.
+
+409
+01:01:58.830 --> 01:02:09.900
+David Wright: Is you can't just use the found poetry needs sort of something to clash against it sort of I like the idea of taking taking one type of language and then another type of language and sort of jamming it together, and I think that actually.
+
+410
+01:02:10.140 --> 01:02:15.300
+David Wright: produces interesting results in terms of of text generators and poetry generators.
+
+411
+01:02:17.250 --> 01:02:22.680
+David Wright: And so, in this case I had you know the North Korean propaganda which is dominant and then this critical.
+
+412
+01:02:22.980 --> 01:02:32.970
+David Wright: language, which was subtle and I thought you know that would be how a North Korean citizen operates particularly instead of the wealthier portions of uptown Yang which has kind of Potemkin cities.
+
+413
+01:02:33.930 --> 01:02:41.070
+David Wright: Where they would be they're not wholly ignorant of everything you know they have an idea of what's going on, but they still kind of.
+
+414
+01:02:41.820 --> 01:02:52.500
+David Wright: In terms of a kind of bombarding of language that doesn't kind of come through, and I suppose that's what I kind of tried to emulate that that struggle, whether or not I succeed or not, as a question yeah.
+
+415
+01:02:53.580 --> 01:03:00.720
+Winnie Soon: Thanks so in a chat we also have Roberto you have a question to all do you do you want to read allow on that.
+
+416
+01:03:04.800 --> 01:03:14.820
+Roberta Iadevaia: Yes, if you want, yes, I was thinking about so one of the road, you know you know the experiments putting the I in a car and driving.
+
+417
+01:03:16.080 --> 01:03:34.500
+Roberta Iadevaia: Around for four days, if I can remember, and so my question is, in your opinion, what changes when an artificial intelligence can moving in space in real time and what could change and non generic later today with the with the diffusion of the Internet of Things.
+
+418
+01:03:35.850 --> 01:03:46.800
+Roberta Iadevaia: So when we we had a lot of smart objects that could sort by themselves, we can say I don't know, thank you.
+
+419
+01:03:52.140 --> 01:03:53.850
+Winnie Soon: So do you have any which one.
+
+420
+01:03:54.300 --> 01:03:57.960
+Alex Mitchell: i'm just trying to imagine i'm trying to imagine that journal written by the traffic it's.
+
+421
+01:03:58.860 --> 01:04:03.390
+Alex Mitchell: it's very interesting, I guess, I mean for me my my first thought was good, but not really based on anything is that.
+
+422
+01:04:03.930 --> 01:04:11.490
+Alex Mitchell: Maybe what would be interesting, there is sort of what corpus of text, something is drawing from as opposed to like.
+
+423
+01:04:12.060 --> 01:04:19.020
+Alex Mitchell: I don't haven't done much digging into what openai did to to train up to two or three but i'm assuming it's taking a lot of stuff from this.
+
+424
+01:04:19.770 --> 01:04:27.840
+Alex Mitchell: From the wild wild west of the Internet right is getting whatever it can, but if, in addition, I don't know I mean just imagine like it was.
+
+425
+01:04:28.650 --> 01:04:35.010
+Alex Mitchell: trained on a corporate of just things that alexa is listening to in the two or three minute buffer before it actually activates.
+
+426
+01:04:35.370 --> 01:04:40.410
+Alex Mitchell: or your or your siri on your phone or something they are it's like Drake getting all the audio from all the live.
+
+427
+01:04:41.070 --> 01:04:49.440
+Alex Mitchell: photos you've taken on your ios device it's going to be a very different corpus of stuff and yeah maybe it would generate a very different type of.
+
+428
+01:04:50.070 --> 01:05:02.040
+Alex Mitchell: poetry or stories if it's just from these little snippets of everyday conversation or things that people said, as they were like half a week in the morning, or whatever, as opposed to stuff that was posted online, so it might have a very different flavor to it.
+
+429
+01:05:04.650 --> 01:05:06.930
+Alex Mitchell: good or bad I don't know but it'd be very different yeah.
+
+430
+01:05:08.130 --> 01:05:08.280
+Winnie Soon: You.
+
+431
+01:05:08.370 --> 01:05:22.770
+Natalia Fedorova: can do you have something functions these say talking objects perform so they can be I don't know telling you a weather forecast or they can be.
+
+432
+01:05:24.120 --> 01:05:33.750
+Natalia Fedorova: working as as a legislator, or they can be working as some kind of public announcement so depending on this function in which.
+
+433
+01:05:34.800 --> 01:05:35.400
+Natalia Fedorova: The.
+
+434
+01:05:36.420 --> 01:05:48.030
+Natalia Fedorova: Ai is producing text like what kind of pragmatics and certainly what Alex was talking about what corpus of texts, this is based on.
+
+435
+01:05:49.890 --> 01:06:07.470
+Natalia Fedorova: Definitely, the effect would depend on the corpus of text, but also on you know what powers is what power does this text health so whether it actually has an impact on events in reality.
+
+436
+01:06:12.060 --> 01:06:23.460
+Winnie Soon: But also, I think, speaking about this notion of source is also interesting like also in relation to David when you mentioned about found tax or these kind of like collage.
+
+437
+01:06:23.970 --> 01:06:30.960
+Winnie Soon: Bad I some you know these kind of cut up tradition and also in Italian your work is not, of course, is not necessarily a.
+
+438
+01:06:31.590 --> 01:06:40.560
+Winnie Soon: Big corpus that you're trained you're getting from as a source, but the source in a different ways, I think, in your work Natalia like saucy know, in the form of.
+
+439
+01:06:41.010 --> 01:06:53.910
+Winnie Soon: Like different grammatical rules or different forms of calculations or combining different things now how how, how do you maybe maybe to all as well, like like this notion of souls.
+
+440
+01:06:55.110 --> 01:07:15.540
+Winnie Soon: So so as a resource, but also as a form of moves as a way to be appropriate, so how i'm just wondering like how How does this notion of source and relate to generativity or these kind of different kinds of leading and the roles of sourcing.
+
+441
+01:07:19.830 --> 01:07:22.260
+Alex Mitchell: I think just My first reaction is like like david's where.
+
+442
+01:07:22.650 --> 01:07:28.350
+Alex Mitchell: it's the sources also source code right, I mean it's which is different from sort of what I will usually thought of I use like part of.
+
+443
+01:07:28.620 --> 01:07:37.020
+Alex Mitchell: Their core pieces of text, as in the content text right, but if you're also pulling in a bunch of source code and then recombining that that's that's a very different way of.
+
+444
+01:07:37.410 --> 01:07:48.090
+Alex Mitchell: sort of thinking about it, because then your generative system is also generating systems that are generated so it's like an extra layer of generation, which I think can be very interesting.
+
+445
+01:07:50.850 --> 01:08:01.290
+David Wright: i'm sort of what comes to mind with that, I mean, I think it depends on what you choose to put into it, as well as what in what you choose to leave out and i'm sort of reminded of derrida's archive FIBA where he kind of says, you know.
+
+446
+01:08:02.490 --> 01:08:20.160
+David Wright: The archive is this sort of you know, political act and it's the you know what it chooses to to put in and not put out, and I think that's that's kind of the same thing, and that was that was sort of came up in the keynote this morning or yesterday that uh you know.
+
+447
+01:08:21.180 --> 01:08:37.530
+David Wright: When it was talking about Java is rewrites how, in fact, the original source material, even though we had this huge body of corpus it had it was predominantly masculine it, you know it always came up with he had very rarely came up with she he had to input that into it, and so I think.
+
+448
+01:08:38.580 --> 01:08:49.740
+David Wright: It goes back to this, even though I haven't written anything I have decided what to put in not put out, and I think that is that is still an autonomous decision that's still a human choice, and I think that's perhaps you know.
+
+449
+01:08:51.900 --> 01:08:57.240
+David Wright: Another way to look at it, as you know that the text generator as an archive I suppose.
+
+450
+01:08:59.100 --> 01:09:00.180
+David Wright: Like a mini archive.
+
+451
+01:09:01.980 --> 01:09:23.190
+Natalia Fedorova: two thoughts, so I just realized in david's work we asked him this propaganda generator in real life, no one actually is propaganda propaganda is something that you don't notice it's just kind of default situation so probably the most reading propaganda.
+
+452
+01:09:24.930 --> 01:09:32.370
+David Wright: yeah and in the paper I kind of put it, you know really this this the work tells you more probably about neoliberal culture.
+
+453
+01:09:32.760 --> 01:09:37.170
+David Wright: To do this, as opposed to you know what it's like in North Korea in that regard.
+
+454
+01:09:37.560 --> 01:09:45.900
+David Wright: i'm you know i'm interested in in censorship and it was a comment on censorship that you know, one of my favorite novels of the past couple of years is a book Iranian novel.
+
+455
+01:09:46.230 --> 01:09:50.100
+David Wright: That was written at brown university by an Iranian author called sure I am and then it poor.
+
+456
+01:09:50.940 --> 01:09:58.620
+David Wright: who wrote this book century Iranian love story, and he he's in this kind of predicament of he wants to write a love story, but he can't and so he writes it.
+
+457
+01:09:58.950 --> 01:10:07.380
+David Wright: With words with strike through that availed but not censored, and so you can see how would be censored, and then he has this sort of Meta.
+
+458
+01:10:07.650 --> 01:10:17.670
+David Wright: narrator that that talks to you the Trans national audience, who is the only potential reader of the book who kind of and it's very condescending it's like you don't know about around to have to explain it to me.
+
+459
+01:10:18.960 --> 01:10:27.750
+David Wright: And so I think you know yeah so actually representing these things is the question of audience then becomes problematic, I suppose, as well yeah.
+
+460
+01:10:28.950 --> 01:10:43.440
+Natalia Fedorova: Regarding the question that's when he was asking I remember it was actually but it cuts, the author of the generator was a sane and the article is saying that surely the source text doesn't matter.
+
+461
+01:10:44.160 --> 01:11:04.680
+Natalia Fedorova: that the same operation can be produced with any text, and this takes us back to the early ages of artificial intelligence when the most important task was to produce the model that works in in any source text so some kind of universal model.
+
+462
+01:11:06.540 --> 01:11:22.050
+Winnie Soon: For how do you see, I because I find like your your work is very much dealing with the structural analysis of the rules right So how do you see them in in your work is is like the.
+
+463
+01:11:23.490 --> 01:11:29.100
+Winnie Soon: The materializing the source that is happening in your in your presentation, if you.
+
+464
+01:11:32.460 --> 01:11:34.350
+Natalia Fedorova: blow, it is.
+
+465
+01:11:35.640 --> 01:11:46.920
+Natalia Fedorova: Even go according to cause the source doesn't matter, we had a lot of discussions over which edition, which should be taking and depending certainly on the addition.
+
+466
+01:11:48.480 --> 01:11:49.770
+Natalia Fedorova: Of Mandelstam you have.
+
+467
+01:11:50.910 --> 01:11:56.970
+Natalia Fedorova: The outcomes of slightly different based slightly different stylistics.
+
+468
+01:11:57.780 --> 01:12:08.100
+Natalia Fedorova: Yet I mean we we probably still need to decide what is the most important thing, whether we want to be most faithful to the original generator whether we want to be most faithful to.
+
+469
+01:12:08.610 --> 01:12:22.530
+Natalia Fedorova: The Mandelstam collected forms, or what what exactly we want to be faithful to what we are emulating this this fairly generate applause film history teaches.
+
+470
+01:12:23.820 --> 01:12:35.610
+Winnie Soon: A follow up question from the audience, Korea, I think, mentioned about wasn't it medicine, who said connections matter much more than the elements anything from anything.
+
+471
+01:12:37.590 --> 01:12:38.640
+Natalia Fedorova: Interesting his.
+
+472
+01:12:40.500 --> 01:12:48.630
+Natalia Fedorova: writing about the speech of wonder he's saying that it's not the words that method of the connections that metal.
+
+473
+01:12:49.440 --> 01:13:00.330
+Natalia Fedorova: and other stone itself, he was seeing it as a kind of release of meaningful ways of connections, so it is actually an interesting.
+
+474
+01:13:00.780 --> 01:13:13.200
+Natalia Fedorova: An interesting test on seeing whether any of them on those terms initial connections can be steel restored in the generated text but i'm afraid to show this to Mandelstam community.
+
+475
+01:13:15.450 --> 01:13:21.150
+Natalia Fedorova: And i'm kind of feeling that I will be cursed with whatever is holding mondal style.
+
+476
+01:13:23.280 --> 01:13:41.970
+Winnie Soon: So i'm afraid like times almost objects wondering whether it is a last line for the presenters you have like a further reflections or think that you want to take up the last 30 seconds or so to you know say something to the audience or something to remind us.
+
+477
+01:13:44.820 --> 01:13:45.210
+anything.
+
+478
+01:13:47.880 --> 01:13:48.180
+Alex Mitchell: I guess.
+
+479
+01:13:49.230 --> 01:13:54.810
+Alex Mitchell: Thank the curator of the papers, because I think these papers, could it really nicely together, I wasn't sure they weren't but.
+
+480
+01:13:55.170 --> 01:14:07.800
+Alex Mitchell: When I read them this morning, and then I yeah It just seems like it's a very nice second set of complimentary paper and so thank you to the program committee every period and the I also thank you to the moderator you did a great job.
+
+481
+01:14:07.890 --> 01:14:08.580
+David Wright: Thanks so much.
+
+482
+01:14:09.630 --> 01:14:15.570
+Winnie Soon: So thanks for everyone, joining but, but if you have any questions or questions, please join the discord.
+
+483
+01:14:16.170 --> 01:14:32.550
+Winnie Soon: there's already track created I think it's Marino your mark Marino your your team, helping to maintaining the lightness of this call so feel free to continue the discussion there, so I hope you have a good conference for the remaining time, thank you for joining us.
+
+484
+01:14:32.610 --> 01:14:33.960
+Alex Mitchell: Thank you see on the coffee break.
+

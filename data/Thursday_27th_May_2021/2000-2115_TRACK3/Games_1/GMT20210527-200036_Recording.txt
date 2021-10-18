@@ -1,0 +1,60 @@
+00:29:35	Nick LaLone:	Question: What's the best version of clue?
+00:30:23	Krista-Lee:	Firefly - and if it hasn't been made yet I still say It is the best
+00:33:41	Nick LaLone:	Clausewitz's opening salvo about how badly wargames will prepare anyone for war is a great opening salvo about ludology
+00:38:33	Nick LaLone:	First 20 years of the 1900s had so much to say about a computer-mediated world.
+00:46:42	Krista-Lee:	this conf feels pretty diverse - you shouldn't apologize for that
+00:46:57	Nick LaLone:	Slide Deck: https://www.dropbox.com/s/9mo39868jgkdzl6/LaLone%20-%20ELO.pptx?dl=0Medium post about this: https://nick-lalone.medium.com/games-as-summary-6b2d112c43ae
+00:47:17	Alan Sondheim:	and in fact it is as much e-lit as everything else! :-)
+00:48:03	Daniel Cox:	We can see the presenter notes.
+00:48:15	Krista-Lee:	its like cheating
+00:55:06	Alan Sondheim:	the Tournier book is amazing!!
+01:04:07	Nick LaLone:	I love it so much
+01:04:14	Jack Murray:	https://www.jackademia.com/files/ELOppp.pdf
+01:04:37	Nick LaLone:	Tournier's book and the Dispossessed from Ursula K LeGuin would be the 2 textbooks if I ever teach sociology again
+01:04:50	Krista-Lee:	so many ppl in florida - I think I missed something
+01:05:03	Nick LaLone:	Florida man is also a fantastic recruiter I guess.
+01:05:09	Krista-Lee:	lmao
+01:06:08	Daniel Cox:	It's probably just that ELO has been promoted internally to T&T students.
+01:06:26	Nick LaLone:	Evan! I hope he finished his phd.
+01:07:50	Alan Sondheim:	they're also somatic and psychological
+01:08:54	Krista-Lee:	i lost audio
+01:08:59	Krista-Lee:	is it me or them?
+01:09:00	Nick LaLone:	Also lost audio
+01:09:07	Erin Kathleen Bahl:	lost audio
+01:09:09	Anastasia Salter:	yep
+01:09:10	Alan Sondheim:	lost audio as well
+01:09:23	Krista-Lee:	don't think he can hear us
+01:09:43	Krista-Lee:	if he was a twitch streamer he'd be reading chat ll
+01:10:11	Krista-Lee:	welcome back jack
+01:11:03	Krista-Lee:	English is hard - we all forget the words
+01:11:30	Nick LaLone:	ole nyctaphobia. When my dislike of being touched meets my interest in weird games
+01:14:26	Nick LaLone:	Nicktophobia. Fear of the Nick-hivemind.
+01:17:25	Nick LaLone:	Rumble control and a blank screen
+01:17:42	Kenton Taylor Howard:	Shandalar is still my favorite MTG game
+01:18:01	Nick LaLone:	Paul Dourish's What We Talk About When We Talk About Context is also a great resource for adaptation and design as well.
+01:19:46	Nick LaLone:	Gimli only
+01:24:43	Kenton Taylor Howard:	Jack, I'd be curious how Magic's adaptations of other narrative content recently (The Walking Dead and the upcoming DnD set come to mind) fit into this.  Is it just different theming or is there more to it? (I can also ask this on voice chat if you prefer)
+01:24:50	Daniel Cox:	QUESTION: Jack - How might affective vectors, and your work in mapping along the axis of remediation, work for things like D&D in Roll20 and Fantasy Grounds?
+01:25:24	Nick LaLone:	Question for Jack: where do online platforms like Lackey, GEMP, OCTGN, Jinteki fit in with this idea of intimacy?
+01:25:53	Devin:	Question: How do AR platforms factor into this conversation? (I am specifically thinking about this device https://www.tiltfive.com/ )
+01:26:35	Erin Kathleen Bahl:	thank you all for an excellent panel!
+01:28:34	Nick LaLone:	To Virtualize or Not? The Importance of Physical and Virtual Components in Augmented Reality Board Gameshttps://link.springer.com/chapter/10.1007/978-3-642-24500-8_64
+01:28:54	Nick LaLone:	PDF link here: https://link.springer.com/content/pdf/10.1007/978-3-642-24500-8_64.pdf
+01:32:57	Nick LaLone:	Taking advantage of the potential of the medium
+01:35:22	Alan Sondheim:	Dominos are a great example of the relationship between real-life community and game-play - the boards, the different sounds of the pieces on different parts of the table and so forth. It's dirty analog - like the body itself -
+01:37:29	Kenton Taylor Howard:	There have been cards that have been banned specifically in Arena and not in the paper magic version
+01:37:40	Kenton Taylor Howard:	Because they caused gameplay problems
+01:38:31	Kenton Taylor Howard:	This one, if I remember right, is one example: https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nexus+of+Fate
+01:38:33	Alan Sondheim:	What kind of cards?
+01:39:07	Krista-Lee:	i have to cut out early - but wanted to say thinka you all! Interesting thoughts here
+01:39:14	Kenton Taylor Howard:	Basically it was causing problems because games are mostly played one on one online, as Jack mentioned, and it was hard to counter in that format
+01:39:14	Jack Murray:	Thanks for coming!
+01:39:15	Krista-Lee:	thank you all*
+01:39:29	Anastasia Salter:	Thank you!
+01:39:30	Alan Sondheim:	Thanks! and thank you all!
+01:42:27	Daniel Cox:	There have been new adjustments within hobbyist space to switch up things like spells and feats in D&D between sessions that were "against" the rules -- re-specing, in a digital sense. That's a change from the digital making its way back into the more analog game design space.
+01:42:52	Kenton Taylor Howard:	I had to do that in my own recent campaign because a class I was using was changed
+01:43:01	Kenton Taylor Howard:	Also I loved 4e and it's not talked about enough!
+01:43:50	Alan Sondheim:	thankyou all so much!
+01:43:57	Devin:	This was an awesome talk! Thank you to everyone.
+01:44:10	Kenton Taylor Howard:	This was a great talk for sure!

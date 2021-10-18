@@ -1,0 +1,935 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.000
+I'll start recording now as well.
+
+00:00:13.000 --> 00:00:30.000
+Yes No sound on the jingle visual jingle.
+
+00:00:30.000 --> 00:00:37.000
+I think the conference, I think that panel just started.
+
+00:00:37.000 --> 00:00:38.000
+Hi.
+
+00:00:38.000 --> 00:00:43.000
+Hi everyone. Hello.
+
+00:00:43.000 --> 00:00:46.000
+We are atomics.
+
+00:00:46.000 --> 00:01:03.000
+We will discuss the performance we did yesterday, and our whole research and performance project that started in, I think, November 2019 or something like that.
+
+00:01:03.000 --> 00:01:06.000
+We have prepared a little bit, and to be.
+
+00:01:06.000 --> 00:01:22.000
+You can find some notes. Some provocations, some ideas on farmer, but what is a farmer, that I will put the link in the chat.
+
+00:01:22.000 --> 00:01:25.000
+So you can find it there.
+
+00:01:25.000 --> 00:01:34.000
+And you can go there, you can watch it, and listen to us. And at the same time, you can read and write.
+
+00:01:34.000 --> 00:01:36.000
+Put your thoughts.
+
+00:01:36.000 --> 00:01:39.000
+Put your reactions.
+
+00:01:39.000 --> 00:01:44.000
+Somewhere in an on this band band.
+
+00:01:44.000 --> 00:01:52.000
+And the last 20 minutes, maybe even longer. We will come to this panel to, we won't be in zoom anymore.
+
+00:01:52.000 --> 00:02:05.000
+And we will go right and go with you to try to answer questions if you have, and converse in that way.
+
+00:02:05.000 --> 00:02:19.000
+Me, I would just add that. If the link to the farmer patch it is because wherever it's been live streamed selected people are watching online you can also join
+
+00:02:19.000 --> 00:02:32.000
+me when you share your screen you could put it in a text document that would get archived in the video, so that even later if there's no chat.
+
+00:02:32.000 --> 00:02:44.000
+Yeah, but then we won't be talking on the head later so yeah that's nope I can share it now for five seconds just to, so people can find it. Okay.
+
+00:02:44.000 --> 00:02:46.000
+That might be a good idea.
+
+00:02:46.000 --> 00:02:50.000
+I hope it works at sea.
+
+00:02:50.000 --> 00:02:54.000
+There's no audio so do you see it.
+
+00:02:54.000 --> 00:02:59.000
+You see the link.
+
+00:02:59.000 --> 00:03:00.000
+Yeah.
+
+00:03:00.000 --> 00:03:02.000
+Can I do.
+
+00:03:02.000 --> 00:03:05.000
+I'm not very good at these kind of things.
+
+00:03:05.000 --> 00:03:12.000
+Yeah, I can zoom but not really not the link Okay, well, we'll put the link on top.
+
+00:03:12.000 --> 00:03:14.000
+Yeah.
+
+00:03:14.000 --> 00:03:22.000
+So devotees stays there for some time.
+
+00:03:22.000 --> 00:03:35.000
+We plan to show you two or three minutes of yesterday's performance, that is for people who are not allowed, or not capable of coming.
+
+00:03:35.000 --> 00:03:38.000
+I think I do that now.
+
+00:03:38.000 --> 00:04:02.000
+And I will share, again, my screen but now I will do it with the audio.
+
+00:04:02.000 --> 00:04:11.000
+CD.
+
+00:04:11.000 --> 00:04:36.000
+get.
+
+00:04:36.000 --> 00:04:47.000
+Cut, cut, cut, cut,
+
+00:04:47.000 --> 00:04:51.000
+kick, kick,
+
+00:04:51.000 --> 00:05:21.000
+Kick.
+
+00:05:25.000 --> 00:05:33.000
+It's difficult for me to rewatch this, but it must be done.
+
+00:05:33.000 --> 00:05:47.000
+So I'll start talking and then it will just be us talking, as it precedes the promise of this panel was toward a Supra semiotic telepresence communication, and in the description.
+
+00:05:47.000 --> 00:05:56.000
+It was promised some reference to the theorists, the literary theorists Mikhail Buxton.
+
+00:05:56.000 --> 00:06:01.000
+He has the theory of the utterance that's.
+
+00:06:01.000 --> 00:06:30.000
+I would say central to his, His whole all of his writing and briefly, it's there in the from a pet. The, the button quotes that I find most relevant that briefly he says that the live utterance event is this crucial node in the evolution of language.
+
+00:06:30.000 --> 00:06:34.000
+Boxing doesn't believe.
+
+00:06:34.000 --> 00:06:48.000
+Like a semi Titian like Noam Chomsky Bogdan doesn't believe that language is a series of systems and grammars and words on a page.
+
+00:06:48.000 --> 00:06:51.000
+He's saying languages.
+
+00:06:51.000 --> 00:06:53.000
+At least two parts.
+
+00:06:53.000 --> 00:06:58.000
+One is that those words on the page, and all the grammar rules.
+
+00:06:58.000 --> 00:07:10.000
+But the other is live content contextual utterances so people ordering coffee. People talking to each other at the grocery store, husbands and wives arguing.
+
+00:07:10.000 --> 00:07:12.000
+Even people reading.
+
+00:07:12.000 --> 00:07:23.000
+When I read a book that is an utterance. When the book sits on the shelf, it is not uttering and what happens according to box in his
+
+00:07:23.000 --> 00:07:32.000
+as the other words event occurs, you would understand that language enters into lived human space time.
+
+00:07:32.000 --> 00:07:46.000
+But what he says also happens is the language that's on the page all the grammar rules all the syntax, it gets changed itself during the utterance event, because every time I use the word love.
+
+00:07:46.000 --> 00:07:55.000
+I think differently about the word love. And as this word is used all over the world every day. That word changes in meaning every day.
+
+00:07:55.000 --> 00:08:10.000
+And so when a sense.
+
+00:08:10.000 --> 00:08:16.000
+And so,
+
+00:08:16.000 --> 00:08:20.000
+He also says that there are certain.
+
+00:08:20.000 --> 00:08:34.000
+He calls these technical accidents almost that get folded into language in the utterance. If I'm reading a book at a coffee house and the coffee tastes particularly hot.
+
+00:08:34.000 --> 00:08:39.000
+Then the words I'm reading then change a little bit in meaning.
+
+00:08:39.000 --> 00:08:45.000
+Due to that, if the typography is in Helvetica, rather than Times New Roman.
+
+00:08:45.000 --> 00:09:00.000
+If, as I'm talking I'm waving my arms a lot. All of these live effective non semiotic things through the incident. Cover language and changes.
+
+00:09:00.000 --> 00:09:15.000
+And he says, The utterances a very important node in communication and language. And so with this project, we get together online where we're not smelling each other.
+
+00:09:15.000 --> 00:09:25.000
+We're in different time zones at different levels of tired. We're in different air conditioned or non air conditioned environment.
+
+00:09:25.000 --> 00:09:35.000
+And then zoom is clutching and dropping and stuttering and breaking up, and all these things are part of the lived utterance of him.
+
+00:09:35.000 --> 00:09:40.000
+Yesterday the context of the way in which our performance started was part of the event.
+
+00:09:40.000 --> 00:09:54.000
+We were part of the introduction of the conference. And then he said something, and there we were at other performances, it doesn't start that way. We just dropped straight into us all being on the frame.
+
+00:09:54.000 --> 00:09:59.000
+And then we try to listen to each other.
+
+00:09:59.000 --> 00:10:04.000
+Whether in real time or call and response.
+
+00:10:04.000 --> 00:10:18.000
+And sometimes we speak words, French words and Portuguese words in English words and it sounds like sometimes they speaking Japanese words.
+
+00:10:18.000 --> 00:10:38.000
+Sometimes so it sounds like someone they speaking German words but who knows. But the idea is, what would happen if we got together and attuned ourselves to each other and to the moment, and began a series of other things that were not stolen drawing
+
+00:10:38.000 --> 00:10:43.000
+on the history of our human spoken languages.
+
+00:10:43.000 --> 00:10:54.000
+But we're responding bodily, and someone else could perhaps could talk about the, the triggers and the attainments.
+
+00:10:54.000 --> 00:11:01.000
+So these are just tricks that we use to get ourselves prepared for this event. But it's always improvisational.
+
+00:11:01.000 --> 00:11:04.000
+This is maybe the eighth one we've done.
+
+00:11:04.000 --> 00:11:10.000
+I believe we've done some conferences where other people have have participated.
+
+00:11:10.000 --> 00:11:22.000
+And it's a research project so yesterday felt like a performance I think because of the context of the conference or something. But sometimes it just feels like a private conversation.
+
+00:11:22.000 --> 00:11:41.000
+Sometimes it's very calm. Sometimes it's very musical sometimes it's more. It sounds more like speaking sometimes it sounds like room noises, but rather than sort of coming with a predetermined idea of what it's going to be.
+
+00:11:41.000 --> 00:12:03.000
+We come with a kind of readiness to see what what will happen, and and so for each one is more or less different, but there are similarities. So that's my introduction, and I will stop talking now.
+
+00:12:03.000 --> 00:12:11.000
+but maybe it would make sense to talk about the triggers,
+
+00:12:11.000 --> 00:12:24.000
+or anyone can talk about what they want.
+
+00:12:24.000 --> 00:12:33.000
+Yeah, I was I was gonna add to cart sag about, I think.
+
+00:12:33.000 --> 00:12:41.000
+I think it's better if we like started engaging, some sort of conversation. I think that's how we know how to do it.
+
+00:12:41.000 --> 00:12:45.000
+But I was going to speak about the tournament.
+
+00:12:45.000 --> 00:12:50.000
+And, like, the preparation that we make, I think.
+
+00:12:50.000 --> 00:13:08.000
+I think that that puts us all, even though we're all like card said not checking in different places and we're all connecting here and already doing with all the transformation that, that the digital space is doing to our own sounds, but we all come into
+
+00:13:08.000 --> 00:13:29.000
+with with with the same frame of mind because of. We all listen to a piece, or to work before each, each encounter, I rather call them encounters where we experience, this, this, this way of communicating between, between us all.
+
+00:13:29.000 --> 00:13:43.000
+And, and, and yes the context changes, but I think the that that plays a very important role the beautiful achievement which we choose to be the.
+
+00:13:43.000 --> 00:13:48.000
+Maybe it is the first trigger, if we want to talk about triggers.
+
+00:13:48.000 --> 00:13:53.000
+It is the first trigger that we put ourselves into.
+
+00:13:53.000 --> 00:14:10.000
+into sharing some sort of saying predisposition to, to, to the utterance or to the uttering that we engage in
+
+00:14:10.000 --> 00:14:13.000
+want to add more into that.
+
+00:14:13.000 --> 00:14:19.000
+I can, I mean, The idea is that, so when we get together.
+
+00:14:19.000 --> 00:14:23.000
+We are four to six people.
+
+00:14:23.000 --> 00:14:31.000
+There is very, very shocker who's not here today but so this is the, what we call the band.
+
+00:14:31.000 --> 00:14:52.000
+And we have had themes, we've had, we've had, there is always something that, that leads the improvisation in a way it can be a theme, it can be the attunement but then once we get into a performant we blindfold ourselves and so we we only here we don't
+
+00:14:52.000 --> 00:14:55.000
+have the visual stimulus anymore.
+
+00:14:55.000 --> 00:15:17.000
+And pretty early on, we, we decided to introduce the idea of triggers so if we each for ourselves, we decide if this happens, then I do this. So, an example is could be if I hear a high pitch sound.
+
+00:15:17.000 --> 00:15:20.000
+I will lift my arms.
+
+00:15:20.000 --> 00:15:26.000
+Or, if I hear something that to me sounds like a word.
+
+00:15:26.000 --> 00:15:29.000
+I will produce a growl.
+
+00:15:29.000 --> 00:15:43.000
+I'm just giving examples, just to give you ideas and we've created this with the idea that, to have these will always bring us back into a place where we can't just do what we want.
+
+00:15:43.000 --> 00:16:04.000
+But we will, it will give us material to improvise be in relation with the others and also go into places that are uncomfortable to us. So the idea of trying to push ourselves a little beyond what feels comfortable or what fields within our records.
+
+00:16:04.000 --> 00:16:13.000
+And one important discovery that we made with the triggers was the aid of introducing also bodily triggers so not just local ones but also physical one.
+
+00:16:13.000 --> 00:16:31.000
+So how, what is the relationship between listening and the body and how does moving so it could be that you get up at a certain point or turn around with that you do something with your hand or if you cover your face, whatever it is, what that physical
+
+00:16:31.000 --> 00:16:41.000
+movement also brings you to do in relation with the others, and how would we do with the others but also in connection with your body.
+
+00:16:41.000 --> 00:16:51.000
+Because listening is a physical action and so the importance of staying connected connected to the body is rather important.
+
+00:16:51.000 --> 00:17:01.000
+So that's four triggers, I don't know if anybody wants to add a little bit about that or what triggers hadn't brought.
+
+00:17:01.000 --> 00:17:06.000
+Maybe, maybe, I was thinking that triggers for me.
+
+00:17:06.000 --> 00:17:12.000
+And the movements, or the actions that go with it.
+
+00:17:12.000 --> 00:17:17.000
+For me, they are functioning as kind of rules.
+
+00:17:17.000 --> 00:17:34.000
+And those rules. They helped me to liberate things because I am convinced that having a few minor rules makes open opening up for all kinds of other things that are outside of those rules.
+
+00:17:34.000 --> 00:17:40.000
+so that's one thing, but on the other side.
+
+00:17:40.000 --> 00:17:41.000
+I don't like.
+
+00:17:41.000 --> 00:17:46.000
+So rules, also makes me know.
+
+00:17:46.000 --> 00:17:55.000
+And so these triggers these rules that we have inside of the rings, makes for a situation.
+
+00:17:55.000 --> 00:18:03.000
+That for me is really creative and makes me
+
+00:18:03.000 --> 00:18:14.000
+every time we do this very happy because I can go somewhere in my life or in my body, or in where I never go on normal days.
+
+00:18:14.000 --> 00:18:18.000
+And in normal relationships with people.
+
+00:18:18.000 --> 00:18:35.000
+So that's, that's for me how they why I liked them so much, and why they are important, and and the blindfold is important, also because if I look at you now.
+
+00:18:35.000 --> 00:18:55.000
+I'm aware of something that I am, it brings me in a social situation. And so, that social situation, really triggers habits of being polite, or doing certain things and not other things by blindfolding, I take that all the way.
+
+00:18:55.000 --> 00:19:05.000
+And I'm just there with the sound, they give me and my own environment and my own body, and the machines in between.
+
+00:19:05.000 --> 00:19:11.000
+That's. Yeah,
+
+00:19:11.000 --> 00:19:23.000
+I guess I can just add something because we seem to be establishing the paradoxes of mutterings. So it's like, we have
+
+00:19:23.000 --> 00:19:34.000
+Navigate everywhere between, you know, freedom and chaos, or freedom and constraints, let's say, freedom and constraints.
+
+00:19:34.000 --> 00:19:40.000
+And we also navigate everywhere in between courtesy and chaos.
+
+00:19:40.000 --> 00:19:50.000
+And, and, and both are necessary and the balances between them are very.
+
+00:19:50.000 --> 00:20:02.000
+I think are constantly looking at each iteration, and sometimes indeed we are very purchase, and we open up spaces, and we really.
+
+00:20:02.000 --> 00:20:10.000
+It's like we're, we're eager to to welcome something more than to put forth something.
+
+00:20:10.000 --> 00:20:20.000
+And yesterday. For instance, I think we were all very.
+
+00:20:20.000 --> 00:20:26.000
+All of us were proposing. We're at some points even too many propositions.
+
+00:20:26.000 --> 00:20:40.000
+And we, I think we never really know what's going to be what's going to sound best or what's going to satisfy us more.
+
+00:20:40.000 --> 00:20:48.000
+So I think there's there's this this paradoxical nature to it,
+
+00:20:48.000 --> 00:20:55.000
+which also involves the fact that, yes, we are aware that we are performing.
+
+00:20:55.000 --> 00:21:12.000
+But we don't want to be obliged to deliver a proper performance or a satisfying performance even. So again, yet another level of paradox. We're doing this publicly.
+
+00:21:12.000 --> 00:21:19.000
+And we're not abstaining from from being a flop.
+
+00:21:19.000 --> 00:21:24.000
+It's, it's, it's a possibility, it needs to be a possibility.
+
+00:21:24.000 --> 00:21:32.000
+And, and so yeah I think the three levels of paradox, or are sufficient for now.
+
+00:21:32.000 --> 00:21:42.000
+I think that, paradoxically, in, in the beginning before we knew each other as well.
+
+00:21:42.000 --> 00:21:46.000
+In this context and trusted each other as well in this context.
+
+00:21:46.000 --> 00:21:50.000
+I think we generally we're more courteous.
+
+00:21:50.000 --> 00:22:12.000
+And I think the more we trust each other, the more we really are able to risk discourtesy which paradoxically may be because the point is not to be courteous, or discourteous or pretty or ugly, but to see where it leads so I think we're all stewarding
+
+00:22:12.000 --> 00:22:26.000
+where this thing leads beyond where each of us any individual one of us wants it to go. So to me that's why it keeps working, is because we keep caring about what is going to emerge.
+
+00:22:26.000 --> 00:22:42.000
+I think we're, we're all curious to see what this what the how the sun becomes more than the parts because individually, I would not be doing this, if, if I had this as my art practice.
+
+00:22:42.000 --> 00:22:46.000
+I wouldn't be on performance number eight.
+
+00:22:46.000 --> 00:22:53.000
+I mean I have to blindfold myself and repeat the same phrase for hours on end to get anywhere.
+
+00:22:53.000 --> 00:22:56.000
+New as a single performer.
+
+00:22:56.000 --> 00:23:02.000
+But when you have a group of people. There's so much variability in that.
+
+00:23:02.000 --> 00:23:09.000
+And maybe that's because language is not a monologue.
+
+00:23:09.000 --> 00:23:17.000
+So to learn something new about language you need a community or you're talking to yourself.
+
+00:23:17.000 --> 00:23:26.000
+Yeah, I think, adding a little bit on that because it's, I always feel that.
+
+00:23:26.000 --> 00:23:41.000
+And I think it's, it's also important to mention that, that is happening in a very specific context with cheese through a video conferencing platform and, and God.
+
+00:23:41.000 --> 00:24:00.000
+And how do you negotiate the things that you would negotiate normally on a conversation or on or some sort of verbal communication and. And this certainly when it started when we started doing this because of coming from different backgrounds and different
+
+00:24:00.000 --> 00:24:23.000
+experiences, I think it's also a way of exploring what this space allows us to do, and that articulation between humans and, I mean, within the group that we are, how, like, how, how do we deal with the constraints that are already imposed by the medium
+
+00:24:23.000 --> 00:24:24.000
+itself.
+
+00:24:24.000 --> 00:24:42.000
+And, and, or not deal with them but integrate to integrate that there were moments where we we we spoke about. What if we try to and this is putting putting it up for discussion.
+
+00:24:42.000 --> 00:25:04.000
+And there were moments where we're talking about maybe we should get better microphones better when maybe we should have like a reliable sound system, where we can hear properly, each other, and somehow better to do some communication better.
+
+00:25:04.000 --> 00:25:24.000
+But so far we haven't done that and so far that the fragility of the environment, and all the glitches and the transformations, it makes like the ones that's happening that are happening in the closed caption thing.
+
+00:25:24.000 --> 00:25:41.000
+How do you deal with that. How do we deal with it remains the question for me and I think each experience. Each experience I'm, I'm aware of it because it's also part of my, my artistic practice and and try to understand what does it mean.
+
+00:25:41.000 --> 00:25:55.000
+Also, I'm bringing it up for the context of this conference that we're in, I was reading like the post pandemic and these started before and like how do we continue.
+
+00:25:55.000 --> 00:26:07.000
+Didn't started because she was the only way to do it. Starting before that, I guess that's also important to say,
+
+00:26:07.000 --> 00:26:16.000
+if I may, because since we've been speaking, I've been thinking about the question of why I do this,
+
+00:26:16.000 --> 00:26:33.000
+and I work with words like, that's my medium. I write and I work with words and why go in a space where there are no words anymore and where, in theory, words are not allowed in theory, because in practice.
+
+00:26:33.000 --> 00:26:54.000
+Sometimes there. And sometimes, also you make our words in something that isn't words but our brain does put together, things that are or aren't there our brains new things for us and our bodies do so how,
+
+00:26:54.000 --> 00:27:08.000
+how, how do you play with that and I don't really have a definite answer if not that I would like to add a paradox to what consensus said.
+
+00:27:08.000 --> 00:27:22.000
+So consensus spoke about freedom and constraint and courtesy and chaos and for me it's maybe we can put it in diagonally but it's the idea of the individual and the self.
+
+00:27:22.000 --> 00:27:25.000
+In other words,
+
+00:27:25.000 --> 00:27:34.000
+to how, how do we use language to communicate and be with others.
+
+00:27:34.000 --> 00:27:53.000
+Even in a place of not understanding. So what, how, where is the importance of not understanding in being with one another and being like, not talking to one another but being.
+
+00:27:53.000 --> 00:28:14.000
+And I think that's what we've been feeling our way through and the tools that we have so the achievements that triggers the blindfold are really tools to try to to hone a sensitivity and to hone a presence, somehow, so how do we use the tools that are
+
+00:28:14.000 --> 00:28:27.000
+at our disposal to go towards something that makes sense to us. And I think this is even more important in the context in which we find ourselves because we have.
+
+00:28:27.000 --> 00:28:44.000
+It's not that we have new tools is that the world is different. The question for me remains Why do I want to work on work on and what tools do that, do I have, or can I use to go deeper into the direction and I think this is an example of something where
+
+00:28:44.000 --> 00:29:02.000
+by defining certain rules, you can go deeper into things and stretch and see and and see what what comes of it and keep building that material, and I know that in one of our early attorneys I spoke about building.
+
+00:29:02.000 --> 00:29:12.000
+And I use the word building, how do we build the, the offerings. And I know that and he looked at me like what do you mean by building.
+
+00:29:12.000 --> 00:29:16.000
+I'm not building anything.
+
+00:29:16.000 --> 00:29:31.000
+And so that opens up the conversation how each of us actually imagines the space in which we work and it is quite different. We all have very different.
+
+00:29:31.000 --> 00:29:42.000
+Triggers we all have different basis will have different things that push us and through which we articulate ourselves and yet we're all in a common space.
+
+00:29:42.000 --> 00:29:45.000
+And I think that's very important.
+
+00:29:45.000 --> 00:29:56.000
+That's a very important thing to bring up and actually to recognize that even the fact that we're here is more important than our differences, in a way.
+
+00:29:56.000 --> 00:30:00.000
+So,
+
+00:30:00.000 --> 00:30:02.000
+it makes me think about.
+
+00:30:02.000 --> 00:30:13.000
+I hate to bring up Claude Shannon. I'm not a fan of Claude Shannon but but just the idea of overcoming the myth of a pure signal.
+
+00:30:13.000 --> 00:30:25.000
+You know that some information theory idea that there's not a pure signal, and the signal to noise ratio is what gives the signal it's signaling this.
+
+00:30:25.000 --> 00:30:41.000
+And I think that you know to get into the ethics of it perhaps you know it's it's to to imagine that there is a way people could communicate without effective glitches and interruptions, even in a coffee house across the table from a person.
+
+00:30:41.000 --> 00:30:53.000
+That never happens there's some song playing that reminds you of the 80s and then you know you stop paying attention and then, or you're wearing a mask and you can't see what the person saying or.
+
+00:30:53.000 --> 00:31:12.000
+So that's all part of, you know, there's the most pure communication. Anyone could have is still full of all these effective eruptions, rather than trying to bracket that, or even sort of quarterly sort of cheesy foreground that and say oh look at all
+
+00:31:12.000 --> 00:31:23.000
+these glitches, look at the glitches we made, but to say there are going to be enough glitches. Even if you try to keep it pure the glitches will come.
+
+00:31:23.000 --> 00:31:50.000
+And, and to say you know this is, this is not an abnormal thing, this is the world, even yes so digital so what this is the way human communication oh is this, it's just that the, the texture of the bodily effect is different, but not impure or on human,
+
+00:31:50.000 --> 00:31:55.000
+it's, it's in the real world, it's all part of real.
+
+00:31:55.000 --> 00:31:57.000
+It's not virtual.
+
+00:31:57.000 --> 00:32:04.000
+So it's a real communication that we're doing. But in, In this particular context.
+
+00:32:04.000 --> 00:32:11.000
+And something that you may not touched and you touch again on it somehow is.
+
+00:32:11.000 --> 00:32:22.000
+I think I know where my motivation comes from my motivation comes from not speaking the language of the most people around me.
+
+00:32:22.000 --> 00:32:37.000
+It comes of being in strange environments where people don't understand me, or somehow we act as if I'm a bit stupid because I don't pronounce the words right rightly.
+
+00:32:37.000 --> 00:32:39.000
+That's all very frustrating.
+
+00:32:39.000 --> 00:32:48.000
+And it's makes things very unequal. If you are in a group of people, the one who speaks the best gets the most attention.
+
+00:32:48.000 --> 00:32:58.000
+So people who come from another country and don't speak this well, their place is already from the start somewhere.
+
+00:32:58.000 --> 00:33:18.000
+On the bottom of the letter. If you have to talk like that, and that that makes my relation to language somehow difficult and make me very happy to go to an environment where we work with all kinds of other things and not with meaning of with the meaning
+
+00:33:18.000 --> 00:33:22.000
+of the words.
+
+00:33:22.000 --> 00:33:36.000
+So somehow for me this is political. It's a political project also, what we are doing, and it's called two words, a Supra semiotic telepresence communication.
+
+00:33:36.000 --> 00:33:40.000
+So my thought, what is that potential.
+
+00:33:40.000 --> 00:33:54.000
+It's not possible. But at the same time and that's also paradox I want to believe in it. So, and we are doing it in a certain way.
+
+00:33:54.000 --> 00:33:57.000
+So, yeah.
+
+00:33:57.000 --> 00:33:58.000
+Yes.
+
+00:33:58.000 --> 00:34:01.000
+I think I'd like to add something sorry.
+
+00:34:01.000 --> 00:34:03.000
+No, go ahead.
+
+00:34:03.000 --> 00:34:06.000
+Um,
+
+00:34:06.000 --> 00:34:14.000
+I don't think we've ever really discussed, you know, the, the, like the effects on each of us.
+
+00:34:14.000 --> 00:34:31.000
+And I would have to say that no matter how the state are our meetings have been,
+
+00:34:31.000 --> 00:34:37.000
+And this is, there's no objective.
+
+00:34:37.000 --> 00:34:54.000
+I mean, modifiable reason for this, for me at least, because, I mean, these are public instances of meeting so there's a stressful ness of being seen.
+
+00:34:54.000 --> 00:35:10.000
+But at the same time, and this is again personal there's the. There's liberal lease from language in what it means in its burden of correction, and surveillance.
+
+00:35:10.000 --> 00:35:31.000
+I can see how for any this would be political in a sense, and for me it would be political in another sense, which is that, I, I want for language to remain with no taboos or maintaining its taboos and for sound to do as well.
+
+00:35:31.000 --> 00:35:52.000
+And so it's, you know, I find myself as someone who also works with words, and text, and who deals with people who are very skilled speakers, very learned speakers.
+
+00:35:52.000 --> 00:36:06.000
+My daily activities are filled with the sort of underlying surveillance and need to not be, you know, Incorrect.
+
+00:36:06.000 --> 00:36:10.000
+And it's, it's an unlivable situation I have to say.
+
+00:36:10.000 --> 00:36:14.000
+So
+
+00:36:14.000 --> 00:36:32.000
+earnings is somehow free, and also somehow ascetic like in it nears, it comes near some sort of meditative practice where i,
+
+00:36:32.000 --> 00:36:39.000
+where i purge maybe some things, and let go of
+
+00:36:39.000 --> 00:36:48.000
+a level of awareness of myself as an observer, which is always there.
+
+00:36:48.000 --> 00:37:03.000
+And so that's very that's very that ends up being very calming and very energizing. So, you know, all of the richness of the constraints and the, even the morals of language.
+
+00:37:03.000 --> 00:37:06.000
+I feel I am free from.
+
+00:37:06.000 --> 00:37:10.000
+And in that sense, I am very happy.
+
+00:37:10.000 --> 00:37:32.000
+And things are easier, and. And if indeed someone treads on my toe, or steps over my sound there, they're free to do so, and I can strike back, and we can, you know, this can be the star wars of ugly sounds, and that's fine.
+
+00:37:32.000 --> 00:37:50.000
+It's so different from every you know from most of my living experience. And so, it's, it's, yeah, I don't know how best to explain this, but um, but really the release of
+
+00:37:50.000 --> 00:37:55.000
+the panopticon that I have in my head as a speaker
+
+00:37:55.000 --> 00:38:00.000
+is very important.
+
+00:38:00.000 --> 00:38:04.000
+Can you
+
+00:38:04.000 --> 00:38:15.000
+please. I was, I was just gonna add been a comes in my continuation with what you were saying because yesterday, Kurt said, We created a monster.
+
+00:38:15.000 --> 00:38:18.000
+I said a baby dinosaur, baby.
+
+00:38:18.000 --> 00:38:20.000
+No.
+
+00:38:20.000 --> 00:38:25.000
+Baby monster okay baby monster. but it was a baby monster.
+
+00:38:25.000 --> 00:38:46.000
+And yesterday we didn't do it there were moments where we try other visual configurations for dreams. One of them was using like the overlay of all of our video feeds and indeed look like a weird monster, trying to communicate something.
+
+00:38:46.000 --> 00:39:02.000
+And I think it's interesting with those types of brings this this experience which can free us from from any any, any of you say any in positions that you put yourself in.
+
+00:39:02.000 --> 00:39:17.000
+In, perhaps other other conditions and sometimes while doing an encounter of veterans I always have this weird image of how does it look from the outside here in my room, that when I'm doing it.
+
+00:39:17.000 --> 00:39:28.000
+And what I, and then I picture all of us alone in different places with our eyes, we blindfolded, and we're just like this.
+
+00:39:28.000 --> 00:39:41.000
+Individually, we're all I picture us as as incomplete parts of this monster that it's happening, which is an energetic, which I can call feel like an energetic monster.
+
+00:39:41.000 --> 00:39:47.000
+I keep using the word master because that's also how you feel about it some time.
+
+00:39:47.000 --> 00:40:11.000
+And I think it comes tied with the ugliness, that we allow ourselves here. So, there's something interesting to be sad in this, this, this incomplete version of ourselves in our physical instances of each one when we come together here to do this.
+
+00:40:11.000 --> 00:40:19.000
+And I think in this sense of what what is communication. I think I feel it.
+
+00:40:19.000 --> 00:40:33.000
+It's precisely that it's it's like a sum of all these incomplete bits and parts that we're all trying to make sense of as human being.
+
+00:40:33.000 --> 00:40:45.000
+Yeah, as a humanity, I would say,
+
+00:40:45.000 --> 00:40:55.000
+like, I'll go to any and climate if you want to say something as well. But I think it's something for that.
+
+00:40:55.000 --> 00:41:03.000
+Yeah, it's open for if you if you have you, you can put either,
+
+00:41:03.000 --> 00:41:09.000
+But you can also just unmute yourself and ask questions, no problem.
+
+00:41:09.000 --> 00:41:24.000
+It's very easy with us together. I think we touched on the most, most points we wanted to touch on something we forgot to talk about.
+
+00:41:24.000 --> 00:41:27.000
+Let's think a little bit.
+
+00:41:27.000 --> 00:41:51.000
+For me, the thing that I from what consensus said about language I mean I also have the same experiences any of being a feeling inadequate in all languages in the sense that I always feel I'm not whole that I'm always missing words that I'm
+
+00:41:51.000 --> 00:41:58.000
+that I don't have a good grasp of language, whatever language that is,
+
+00:41:58.000 --> 00:42:21.000
+and what I know that what uttering has contributed me with is the idea of how do you stay in that sensitive sensitive spot where you can just be here and listen and speak at the same time and whether it is right.
+
+00:42:21.000 --> 00:42:39.000
+Doesn't really matter, as long as it's juiced, as you said in French, like it's, it feels it feels right. And so I think that's part of what is so touching and also for me it's not only about the utterance per se.
+
+00:42:39.000 --> 00:42:45.000
+It's also about the relationship that leaves us together, like
+
+00:42:45.000 --> 00:43:01.000
+the fact that I like all of the five of you makes me want to come back. If I didn't like you, as people I wouldn't want to come back. And so I think that's
+
+00:43:01.000 --> 00:43:18.000
+language as a way to meet people together and to have conversations and I really think this is what's important and what sometimes we forget is that language is a tool to talk and yes it's messy yes we don't understand each other, of course, because each
+
+00:43:18.000 --> 00:43:24.000
+of us has their own language in a way, but
+
+00:43:24.000 --> 00:43:37.000
+how do we how do we get to that sensitive right spot in a way that's and. This experience has been helping me with that. I don't know how, but it has.
+
+00:43:37.000 --> 00:43:51.000
+I like what you're saying that language is just a tool to connect. I mean this is related to my personal explorations theologically.
+
+00:43:51.000 --> 00:44:00.000
+The goal of having a relationship with God is not to come to some sort of knowledge of facts.
+
+00:44:00.000 --> 00:44:08.000
+It's not even to come to a communication where meaning is conveyed.
+
+00:44:08.000 --> 00:44:13.000
+It's to be known and to know.
+
+00:44:13.000 --> 00:44:16.000
+Beyond language.
+
+00:44:16.000 --> 00:44:32.000
+And maybe that's true with every human and every human other human with my wife I don't want to know facts about her or even, you know i mean i need if she wants me to take out the garbage I need to know, literally, that's what she's conveying to me.
+
+00:44:32.000 --> 00:44:44.000
+But the goal of humans, being intimate with each other is it's not that you understand or know something, there's there's a there's a game. There's an end game beyond that.
+
+00:44:44.000 --> 00:44:46.000
+This is just some means.
+
+00:44:46.000 --> 00:44:54.000
+So I think and it is it is a, you know, a spiritual practice to speak in tongues where you don't understand what you're saying.
+
+00:44:54.000 --> 00:45:00.000
+And, you know, there's the practice of Apple faces where
+
+00:45:00.000 --> 00:45:19.000
+you use words to undo words so that you don't over determine God or rely so much on words, any god worth worshiping is is going to have to be beyond words, or you got the wrong person.
+
+00:45:19.000 --> 00:45:21.000
+If you want to.
+
+00:45:21.000 --> 00:45:26.000
+That was, I was thinking of someone else, something else.
+
+00:45:26.000 --> 00:45:32.000
+We didn't touch on that yet, is, is why is it performance that we are doing.
+
+00:45:32.000 --> 00:45:36.000
+Why do we need the ID of an audience.
+
+00:45:36.000 --> 00:45:48.000
+And because somehow that's important in what we do. And I think for me, that is, because if there is an audience for what you do.
+
+00:45:48.000 --> 00:45:53.000
+you have a shared collaboration towards something else.
+
+00:45:53.000 --> 00:45:59.000
+and it's something that unites us
+
+00:45:59.000 --> 00:46:03.000
+is that understandable, what I say or not.
+
+00:46:03.000 --> 00:46:13.000
+Yeah. Yes, I think one, at least from yesterday from the few reactions that I could see written.
+
+00:46:13.000 --> 00:46:22.000
+It made me think about that from from performance we did yesterday there were a few reactions and they all mentioned, where they kind of mentioned the.
+
+00:46:22.000 --> 00:46:27.000
+The power of President, that we were able to deliver.
+
+00:46:27.000 --> 00:46:29.000
+With the performance.
+
+00:46:29.000 --> 00:46:34.000
+I don't know like I'm not saying the exact words but it had something to do with this and.
+
+00:46:34.000 --> 00:46:45.000
+And I guess that's when you say and either. It gives it opens up about for a shirt.
+
+00:46:45.000 --> 00:47:05.000
+Not just between us but towards something else which is also being communicated to someone else. And what would meaning this the audience makes it that I think it's another layer of this process.
+
+00:47:05.000 --> 00:47:23.000
+language, or like we say like going above rationality but leaving the door open for interpretations that might come through from the other end, who, whoever is watching us or doing it with us because we've had government sweater.
+
+00:47:23.000 --> 00:47:30.000
+Diamond performant workshops with people that joined from one or two times.
+
+00:47:30.000 --> 00:47:48.000
+And I see that also is not a performance per se but we're opening up to other people and there's this exchange also beyond this group of people that keep on practicing this.
+
+00:47:48.000 --> 00:47:54.000
+We add something. We're going to say something nice Okay, go for it.
+
+00:47:54.000 --> 00:47:56.000
+Keep it short.
+
+00:47:56.000 --> 00:48:10.000
+I think this is yet another paradox is that we were really intimate without having been friends, your number not my friend.
+
+00:48:10.000 --> 00:48:13.000
+I mean,
+
+00:48:13.000 --> 00:48:18.000
+I've not been with you I've never even touched you. We don't smell each other, I am.
+
+00:48:18.000 --> 00:48:23.000
+You know, I'm a touchy feely 3d person.
+
+00:48:23.000 --> 00:48:26.000
+I'm demanding of that if my friends.
+
+00:48:26.000 --> 00:48:32.000
+Then he knows.
+
+00:48:32.000 --> 00:48:43.000
+And I think the having an audience in this moment of in history when having a conversation is almost impossible.
+
+00:48:43.000 --> 00:48:57.000
+You know, because everything is so polarized or trial arise or just ossified in, you know, I know this I think this and this is what I stand for.
+
+00:48:57.000 --> 00:49:07.000
+And here we are doing something outside of that, and I think.
+
+00:49:07.000 --> 00:49:14.000
+I think we've reasons to be hopeful. You know I didn't, I didn't expect to be saying this about other things.
+
+00:49:14.000 --> 00:49:19.000
+But what happens to us is evidence of that.
+
+00:49:19.000 --> 00:49:24.000
+What happened in the workshops is evidence of that.
+
+00:49:24.000 --> 00:49:39.000
+And, yeah, I'm going to quit because I'm going to start crying so. No, never seen this is You're not my friend. Now,
+
+00:49:39.000 --> 00:49:44.000
+the thing I wanted to say is that
+
+00:49:44.000 --> 00:49:54.000
+I'm always wondering why anybody would want to see a not trees, like, I'm, I'm, I'm puzzled by it.
+
+00:49:54.000 --> 00:50:11.000
+But people come and watch this and people want to be part of it and then I'm like okay I cannot decide whether this works or not, like, intimately with my partner we call attorneys Hollings because like he he walks into the apartment and I'm they're making
+
+00:50:11.000 --> 00:50:16.000
+the weirdest sounds with the cats looking at me like I'm insane.
+
+00:50:16.000 --> 00:50:30.000
+And this is to answer part of Danny's question on what happens, like, but, you know, were there and we are howling all together to the moon somehow in our own digital way, I don't know.
+
+00:50:30.000 --> 00:50:33.000
+No, but it's it's it's.
+
+00:50:33.000 --> 00:50:47.000
+I liked.
+
+00:50:47.000 --> 00:50:56.000
+Yeah, literally yesterday we were howling it is full moon it's happening.
+
+00:50:56.000 --> 00:51:00.000
+Yeah.
+
+00:51:00.000 --> 00:51:03.000
+We go to the.
+
+00:51:03.000 --> 00:51:17.000
+Is there something more to. Thank you for having been with us.
+
+00:51:17.000 --> 00:51:21.000
+So see you all on the farmer but.
+
+00:51:21.000 --> 00:51:51.000
+Yes.
+

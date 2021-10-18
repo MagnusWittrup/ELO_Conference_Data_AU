@@ -1,0 +1,91 @@
+00:13:47	Deena Larsen:	Great to see everyone! Hello!
+00:14:09	Rebecca Rouse - she/her:	Hello!
+00:14:32	Kate T:	http://katetyrol.com/ELONarrative/ELO2021_LiveInPerson.html
+00:15:17	Kate T:	https://discord.gg/dB4fcXRZCN
+00:15:18	Rebecca Rouse - she/her:	Our channel is #twines-end in the discord if you’re already in there!
+00:15:29	iqra khurshid:	hello everyone
+00:19:55	Andy:	Hi everyone, great to be here. Karen Ann Donnachie and Andy Simionato (my profile says only Andy though).
+00:20:09	Rebecca Rouse - she/her:	Hi!
+00:23:57	Deena Larsen:	Data as commerce, and content as liable...
+00:23:59	Deena Larsen:	Arrgh
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:35	Kate T:	/*-
+00:31:36	Kate T:	/*-
+00:31:36	Kate T:	/*-
+00:31:36	Kate T:	/*-
+00:31:36	Kate T:	/*-
+00:31:36	Kate T:	/*-
+00:31:58	Kate T:	My apologies, all. I dropped my keyboard.
+00:33:03	annie:	:)
+00:33:22	Alan Sondheim:	sounds very much like Occupy -
+00:33:22	Rebecca Rouse - she/her:	Just re-posting our IF link for everyone in case it was too far up in the chat: http://katetyrol.com/ELONarrative/ELO2021_LiveInPerson.html
+00:34:23	Deena Larsen:	THe IF is fun but there are so many channels here
+00:35:19	Alan Sondheim:	but isn't it a political failure on the backs of the local community?
+00:36:24	Rebecca Rouse - she/her:	Great point Alan
+00:36:39	annie:	!!
+00:39:05	Alan Sondheim:	"aesthetic failure" or "aesthetic success" - it's not like a faucet, and these terms are problematic, no?
+00:39:27	Rebecca Rouse - she/her:	I guess I’d ask failure/success for who?
+00:39:41	Alan Sondheim:	yes
+00:39:53	Deena Larsen:	always the eye of the beholder or the mind of the reader
+00:44:21	Alan Sondheim:	open structures aren't new - you also get them in Carnival for example, gardens, the baroque, etc. -
+00:47:48	Alan Sondheim:	images of concentration camps aren't aesthetically adjusted, they're operative within the idea of the witness - not completeness at all -
+00:48:49	Rebecca Rouse - she/her:	I wonder if the idea of completeness/incompleteness is connected to McLuhan’s hot and cold media concepts?
+00:49:51	Alan Sondheim:	it might but all of these including McL at this point are over-simplifications I think - I keep thinking we need to look at neurophysiology, not traditional aesthetics, in these regards -
+00:50:37	Andrew Klobucar:	I see this dichotomy in the performance sculpture because you didn’t know what the big picture of Hirschhorn’s work might be…
+00:52:18	Deena Larsen:	The big picture can drill down to the details and vice versa
+00:52:38	Alan Sondheim:	it's always messy...
+00:53:19	annie:	Can you see what Kyrill is doing?
+00:53:19	Andrew Klobucar:	Ands we felt disconnected from the Bronx Project.
+00:53:28	Rebecca Rouse - she/her:	Is big picture like canonical/intended meaning? If yes maybe there is not one for Hirschorn’s piece, and that might be part of the problem in terms of its political failure?
+00:54:04	iqra khurshid:	it is messy, which deals with the minds of every users. because here the reader or the user is the author himself.
+00:57:10	erik zepka:	thank you lovely presentations both Andrew and Kirill.  I think of connections in Andrew's problematization of the document and Kirill's separation of what we expect within an engine like Gamemaker, and the reality (and the many theory frameworks to look at that).  I've been thinking about libraries and their history as social edifices as a mode to store societal information but also to steer social activity - as a game or social event might
+00:58:42	erik zepka:	control machines buried in the objects of creation
+00:58:47	Alan Sondheim:	maybe machine time references scientific concepts of time, which underlies all of this?
+00:59:02	erik zepka:	I like that
+00:59:37	Alan Sondheim:	me too, I've written about playing music a great deal along similar lines
+00:59:53	erik zepka:	great quote...
+01:00:28	erik zepka:	interesting Alan - how does musical time compare with scientific and machine time for you?
+01:00:51	Alan Sondheim:	that's a long discussion, wd love to talk to you about that sometime -
+01:00:58	erik zepka:	please
+01:01:08	Deena Larsen:	How do you see people playing with musical time and developing analytical skills needed for reading/interacting with/playing with electronic lit?
+01:01:16	Malthe Stavning Erslev:	I'm thinking about where a musical/technical/micro-temporal practice such as live coding/algorave fits into this fascinating discussion. Thoughts?
+01:01:39	Andrew Klobucar:	Yes - I can see Alan’s musical work as a different experience of time…
+01:04:26	Deena Larsen:	Math as code as music as math--
+01:04:56	Alan Sondheim:	music is fundamentally somatic and immersive
+01:04:58	erik zepka:	Malthe I thought about this when I did my performance on Wednesday.  A couple things I thought of: the piece itself operated on a dialectic between order and chaos, my participation was... queue'd around "how well I could fit into the machine" - that is, I could do a limited amount of things, whereas the machine could do... so much more, however limited in scope - somehow there's something flattened and multiplied in that time, and there is a continual dialogue in matching my time with that time
+01:04:58	Andrew Klobucar:	But my Fitbit tells me when I am dreaming
+01:05:04	Deena Larsen:	Godel, Escher, Bach (douglas Hofstadter ish)
+01:05:34	Andrew Klobucar:	It identifies REM sleep
+01:06:25	Malthe Stavning Erslev:	@Erik, that's really interesting! Really liked your performance :-)
+01:06:42	erik zepka:	oh wow thank you so much :)
+01:06:46	Malthe Stavning Erslev:	Did you live code during?
+01:08:19	Alan Sondheim:	terrific chart here!
+01:09:15	erik zepka:	yeah so some things are coded into the objects and structures - lots of loops and evolving patterns - and then things like track queuing and camera switching and movement was user decision ("chaos" and "order"), that was how I tried to find a balance this time
+01:10:22	Andrew Klobucar:	So you shouldn’t play with them….?
+01:10:40	Deena Larsen:	THe ethics of robotic care are eerily similar to the ethics of content creation and production and hosting in Twine and other writing platforms
+01:10:40	Alan Sondheim:	god help people when the battery runs down
+01:10:58	Deena Larsen:	and the ethics are very similar to Alexa--see Lai-Tze's keynote
+01:11:01	Andrew Klobucar:	That’s fascinating Deena
+01:11:11	Kate T:	The eye contact in this photo really gets me
+01:11:27	Alessia Pannese:	Thank you!
+01:11:37	erik zepka:	battery death in the middle of a zoom hug - the nightmare of the machine
+01:11:46	Malthe Stavning Erslev:	@Erik, I see. A great way of interfacing with the coded elements!
+01:11:56	erik zepka:	so many great ideas Rebecca loved that presentation
+01:12:38	Rebecca Rouse - she/her:	Thanks Erik! Looking forward to chatting :)
+01:13:14	erik zepka:	thank you Malthe!  Honestly I was mostly like - what's my limit without blowing up my brain?  Ok I'll try this
+01:14:07	Waliya Yohanna:	Wonderful presentation!
+01:14:33	Deena Larsen:	thank you
+01:15:52	Rebecca Rouse - she/her:	Interesting to think about “leading questions” as a technology for mining the attention economy
+01:16:47	Andrew Klobucar:	Like any decryption - you need a “narrative” to confirm that something is worth decrypting…
+01:17:57	Alan Sondheim:	also has to do a lot with the simplified privatization of knowledge -
+01:21:29	Andrew Klobucar:	We might see Qanon as partly an aesthetic response to more mainstream “hegemonic” politics
+01:21:37	erik zepka:	manufacturing exile is trending
+01:22:27	Rebecca Rouse - she/her:	Is manufacturing exile (separation) a strategy of some big tech platforms, which then offer themselves as a “solution” to connect people?
+01:22:58	erik zepka:	such a good description
+01:31:45	Alessia Pannese:	Thank you all
+01:31:53	Rebecca Rouse - she/her:	Thank you!

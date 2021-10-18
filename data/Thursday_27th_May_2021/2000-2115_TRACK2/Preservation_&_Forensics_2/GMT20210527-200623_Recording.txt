@@ -1,0 +1,88 @@
+00:29:57	Álvaro Seiça:	All right!
+00:46:17	Dene Grigar:	It reminds me of Strasser and Waber’s >>Oh<<
+00:46:32	Dene Grigar:	wonderful
+00:47:30	Álvaro Seiça:	This is a great resource! Is it possible to access this mural to document works?
+00:47:42	Dene Grigar:	I agree
+00:47:54	Dene Grigar:	It makes for a terrific interactive poster
+00:48:00	Álvaro Seiça:	I am documenting on ELMCIP on the fly
+00:51:09	Perla Sasson-Henry:	Excelente!!
+00:52:02	Andréa Catrópa:	Very nice!
+00:52:13	Miluska Falero Casafranca:	excelente pamela!!! :DDD
+00:52:26	Pamela Medina:	thanks to everyone!
+00:53:06	Pamela Medina:	Michael Will show you the rescue from some digital object that he done tha last and this year
+00:53:36	Pamela Medina:	from all this material we can see three categories
+00:53:47	Pamela Medina:	in the latinoamerican context
+00:54:19	Pamela Medina:	the presentation from Michael is going to be from the latinoamerican to peruvian poetry
+00:54:51	Pamela Medina:	he makes a questions ¿what is the way to rescue this works?
+00:55:46	Pamela Medina:	He says that is necesary a taxonomy
+00:55:54	Dene Grigar:	A very sad thing.
+00:56:33	Pamela Medina:	First we hava the Works with flash
+00:56:38	Pamela Medina:	*have
+00:57:34	Dene Grigar:	gorgeous
+00:57:53	Pamela Medina:	hay muchas obras que han desaparecido a causa del flash. un ejemplo de esto es "arcoiris" (arcoiris )de José Aburto.
+00:58:07	Pamela Medina:	there are many works that have disappeared because of the flash. an example of this is "arcoiris" (rainbow) by José Aburto.
+00:59:11	Dene Grigar:	We used Ruffle for about 1/2 of the works in the afterflash exhjibiton
+00:59:39	Pamela Medina:	To rescue this work, he used ruffle, a complement that he identified in social media forums.
+01:01:10	Pamela Medina:	After recovering pieces like those of José Aburto, he began to rescue other pieces in flash, as if it were an adventure. Like this of José Ignacio López, who is a Peruvian living abroad.
+01:02:16	Pamela Medina:	As you can see, these works were already being talked about in newspapers. JOsé Ignacio is a musician, but he is also a poet. His works are at the intersection of music and poetry.
+01:03:10	Pamela Medina:	This work was on the old website of José Ignacio. After meeting with him, she was able to retrieve some images of his work through the Way back Machine.
+01:03:36	Perla Sasson-Henry:	A real archeological work in e-lit in Spanish...
+01:03:43	Pamela Medina:	It was very exciting to rescue this work.
+01:04:12	Dene Grigar:	Such gorgeous work. I would love to see an exhibition based on this presentation for The NEXT
+01:04:58	Pamela Medina:	A problem with this other work is Grita by José Aburto, who originally used the microphone. It is a beautiful piece that now, being rescued with Ruffle, there is a problem. If I yell, it doesn't work.
+01:05:23	Perla Sasson-Henry:	Isn't Grita in the ELO collection?
+01:06:10	Claudia Kozak:	Yes, Grita is in the ELO Collection 3.
+01:06:29	Pamela Medina:	yes!
+01:07:31	Claudia Kozak:	but I think it does not work now, because of the obsolescence of Flash. Dene and her team are working on the ELO Collections to make available all Flash pieces
+01:08:01	Pamela Medina:	This work is Poemas binario by the Peruvian poet Enrique Beó, made in wix, which I have not been able to recover.
+01:08:02	Dene Grigar:	He is using Ruffle so he is saving this work, which is so impoerant
+01:08:11	Perla Sasson-Henry:	As always, thank you Dene for your great efforts!
+01:08:28	Dene Grigar:	Wix, wow.
+01:09:09	Pamela Medina:	This work is by a Peruvian poet Oswaldo Chanove, who is on his personal website. Make a collage from hyperlinks.
+01:10:03	Pamela Medina:	in tha map there is more :)
+01:11:05	Perla Sasson-Henry:	Felicitaciones!!
+01:11:12	Pamela Medina:	This is a data visualization at work with categories that identify its characteristics.
+01:11:31	Miluska Falero Casafranca:	🎉
+01:11:38	Perla Sasson-Henry:	Is this published anywhere in the Web?
+01:11:46	Pamela Medina:	not yet, Perla
+01:11:49	Pamela Medina:	very son!
+01:12:06	Perla Sasson-Henry:	This is amazing work!
+01:12:46	Álvaro Seiça:	Thanks so much for rescuing so many incredible works!
+01:13:00	Andréa Catrópa:	Amazing work
+01:14:59	Pamela Medina:	"Interpoema" is a category created by Miluska to understand the practices carried out by young people in Peru with new media and social networks.
+01:18:40	Dene Grigar:	Why has this form emerged? What is driving it? Do you know?
+01:20:47	Pamela Medina:	you mean interpoems?
+01:20:51	Dene Grigar:	yes
+01:21:56	Pamela Medina:	It is a way for young people to interact with technologies and social networks, a situation that has grown during the pandemic. Miluska's works are precisely from 2020 and 2021.
+01:22:40	Dene Grigar:	So they are inflected by social media and mobile practices?
+01:23:01	Pamela Medina:	many of them are students who present and carry out their work from collaborative media or social networks that allow them to edit their own content.
+01:23:12	Dene Grigar:	<nods>
+01:23:33	Pamela Medina:	yes, they are
+01:23:39	Perla Sasson-Henry:	Thank you for this insightful presentation!!!
+01:23:50	Claudia Kozak:	It would be worthy to compare these (3rd generation) Interpoemas with 82nd generation) Interpoesia by Philadelpho Menezes and Wilton Azevedo in Brazil.
+01:24:42	Dene Grigar:	I am also thinking of the early web work where young people (then) were experimenting with video cams and websites
+01:25:04	Claudia Kozak:	(2nd generation) Interpoesia, I meant.
+01:25:18	Track Two: Conference Admin:	This is just a time reminder :)
+01:25:45	Pamela Medina:	Miluska is now writing her thesis on this topic. That comparison would help her a lot.
+01:26:34	Perla Sasson-Henry:	My apologies. I have to leave. Thank you ! Gracias!!
+01:27:05	Pamela Medina:	thanks a lot, Perla!!
+01:27:08	Claudia Kozak:	Yes, I thought this comparison would be a resources for her thesis. She can find Interpoesia at Lit(e)Lat Anthology
+01:27:10	Dene Grigar:	bye
+01:28:10	Pamela Medina:	yes, we can!
+01:28:52	Michael Hurtado:	Recuerdo de una muestra organizada por Philadelpho titulada interpoesía
+01:29:53	Claudia Kozak:	Menezes y Azevedo publicaron un CD-ROM titulado Interpoesia. Está como descargable en la Antología Lit(e)Lat  vol 1
+01:30:06	Michael Hurtado:	sí, lo he visto
+01:30:15	Álvaro Seiça:	Yes, the cf. with Brazilian interpoesia is essential
+01:31:19	Judith A Pintar:	thank you to all the presenters!
+01:34:15	VMarquet:	siii!!!
+01:35:41	Álvaro Seiça:	Yes!
+01:35:56	Andréa Catrópa:	Yes, this is very importante.
+01:36:05	Track Two: Conference Admin:	Just a time reminder (2 min) :)
+01:36:36	Álvaro Seiça:	Thanks all for your great work and efforts!
+01:37:43	Andréa Catrópa:	Thank you for your presentation!
+01:37:44	Álvaro Seiça:	Have a great eve/afternoon/morning
+01:37:45	VMarquet:	Thanks  Pamela Michael and  Miluska ! Gracias por la presentacion !
+01:38:13	Claudia Kozak:	Excelente presentación!!
+01:38:59	VMarquet:	Gracias a ustedes bro !! por la energia tan positiva 
+01:39:04	Judith A Pintar:	Thank you1!!!
+01:39:11	VMarquet:	abrazossss !!

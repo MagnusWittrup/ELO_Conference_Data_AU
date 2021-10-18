@@ -1,0 +1,1148 @@
+WEBVTT
+
+00:00:51.000 --> 00:00:56.000
+Hello, Good afternoon.
+
+00:00:56.000 --> 00:01:10.000
+Hi. I think we can start now.
+
+00:01:10.000 --> 00:01:20.000
+And we have three wonderful presentations, and I will start with Hartmut Kunitz a million.
+
+00:01:20.000 --> 00:01:35.000
+I love Harry, Sandy Lockhart and Frank knocked, and they will be presenting solving the Babylonian confusion and encyclopedia for interactive digital narrative.
+
+00:01:35.000 --> 00:01:37.000
+So whenever you like.
+
+00:01:37.000 --> 00:02:07.000
+The floor is yours.
+
+00:02:57.000 --> 00:03:00.000
+Hello.
+
+00:03:00.000 --> 00:03:02.000
+Hello. Hello. Yeah. Did you.
+
+00:03:02.000 --> 00:03:10.000
+Did you. I already presented the first speakers, and probably having some problems.
+
+00:03:10.000 --> 00:03:16.000
+I think we're having some connection problems can you,
+
+00:03:16.000 --> 00:03:17.000
+Can you hear me now.
+
+00:03:17.000 --> 00:03:30.000
+Yes. Okay. All right, so I'm awkward crewmates and I think I'm representing before speakers of his paper that I'm representing.
+
+00:03:30.000 --> 00:03:40.000
+And let me share my screen with you.
+
+00:03:40.000 --> 00:03:43.000
+Okay, can you know see my screen.
+
+00:03:43.000 --> 00:03:44.000
+Yes.
+
+00:03:44.000 --> 00:03:46.000
+Okay, wonderful.
+
+00:03:46.000 --> 00:03:54.000
+Thank you. Okay, so I'm talking about the encyclopedia project for interactive digital narratives.
+
+00:03:54.000 --> 00:04:15.000
+And this this project basically came out of basically an analysis of the field whether undertook give me a hard day a couple years ago of something that we understood as being the Babylonian confusion, the leg offer shared vocabulary in a very interdisciplinary
+
+00:04:15.000 --> 00:04:33.000
+context. So I mean if you think of the field of electronic literature and on a wider sort of scalar field of interactive digital narratives. And what we see is that this is a very interdisciplinary enterprise, and then means many people from different
+
+00:04:33.000 --> 00:04:42.000
+fields pedagogy game studies narrow technology literary studies Film Studies complexity studies might be engaged with it.
+
+00:04:42.000 --> 00:04:59.000
+Um, and this interdisciplinary is of course a clear indication of the richness of, kind of this field basically but of course it also produces all kinds of problems in Spain, specifically in terms of vocabulary.
+
+00:04:59.000 --> 00:05:17.000
+And so, Miriam and I two of the offers of his paper talked about fat in 2019 as challenges of interactive Dictionary of research and teaching. And we identified five major changes is basically the dependency and legacy analytical frameworks, which we
+
+00:05:17.000 --> 00:05:33.000
+call the groundhog day, the lack of shared vocabulary, which we call the Babylonian confusion and missing institution memory of the field that leads to, you know, sort of a reinventing of the vo something that we understood as amnesia.
+
+00:05:33.000 --> 00:05:51.000
+And then an absence of established benchmarks. So the lack of yardstick and overproduction of tools were many, many people who fear constantly make your own tools which are venue sponsor tries and unfortunately abandoned and forgotten and Miriam is with
+
+00:05:51.000 --> 00:06:06.000
+amazing artists she made illustrations for all of these five topics so again. These five major challenges Groundhog Day, I mean we really need to start looking at to investigate the limitations of the existing and other two instruments and basically it
+
+00:06:06.000 --> 00:06:25.000
+the opportunity to introduce specific frameworks to understand, interactive and digital forms of narration. The second challenge is really black have a shared vocabulary when somebody uses a term like narrative, or plot or anything related to about, depending
+
+00:06:25.000 --> 00:06:37.000
+depending on where they come from, they might have a very different understanding of what that actually means. And if you look at it sounds from other fields such as robotics where they have been, you know, successful based and creating something that
+
+00:06:37.000 --> 00:06:41.000
+is much more share for a sustainable vocabulary.
+
+00:06:41.000 --> 00:06:57.000
+And another challenge is, is really this missing institutional memory, we have so many things with it already have been created and and so we felt there was a need to build a library of find directorship cannon and especially since we have the assault
+
+00:06:57.000 --> 00:07:13.000
+upon digital works. There is a real problem of losing some of his memory that are some of his great works that we have, and there are some reasons are for example efforts by the British Library to help out in this regard.
+
+00:07:13.000 --> 00:07:21.000
+And of course, it all has undertaken some steps to help in this regard, but best much more it's needed.
+
+00:07:21.000 --> 00:07:38.000
+And another big problem is of course the absence of established benchmarks and and key or VB need to think, what can we do in this regard to establish benchmarks for example for computational creation of narratives and things like that.
+
+00:07:38.000 --> 00:07:48.000
+And, and, and finally we have these, you know, age old problem of somebody once said to me, Jay Bolger everybody in the field on strategy tool.
+
+00:07:48.000 --> 00:07:53.000
+I think there is a need here for critical offering tool studies.
+
+00:07:53.000 --> 00:08:07.000
+But let's go back to the particular challenge I want to talk about today but Babylonian confusion of the field, which has a lot to do with, you know, but that is basically describing the leg of a shared vocabulary.
+
+00:08:07.000 --> 00:08:29.000
+So, what can be done about that. Basically, automatically, a shared language has not emerged in the last over 30 years of nearly 40 years by now of research in interactive forms of narration and and I'm going back to the first PhD thesis is here in the
+
+00:08:29.000 --> 00:08:35.000
+field from 85 and 86 Bye bye Brenda local and
+
+00:08:35.000 --> 00:08:40.000
+I forgot to be everyone right now with It's from 85.
+
+00:08:40.000 --> 00:08:57.000
+And, and of course we have private and competing meanings that are the norm, unfortunately some papers just use much of the vocabulary before actually defining what we actually mean right BBC sometimes are really sort of yeah somebody's frozen verse like
+
+00:08:57.000 --> 00:09:15.000
+narrative but never never really say what they actually mean by that, and various really an impediment for evaluation and collaboration also towards you know scholars from more like outside this particular field and and so we need to really made a collaborative
+
+00:09:15.000 --> 00:09:18.000
+effort and how can do something like this organized basic.
+
+00:09:18.000 --> 00:09:32.000
+So, I proposed and and, but eventually granted European possibility Burke. In for is concerned with interactive narrative designed for complexity representations.
+
+00:09:32.000 --> 00:09:41.000
+You can find more at in for you, and actually personally I'm in the middle often often in core cost meeting.
+
+00:09:41.000 --> 00:10:00.000
+Maybe our colleagues are just working on different aspects and and so in in defining this action with actions program and I'm not sure if you heard of cost, cost is basically it's a networking, a measure by the, you have it you can apply for and it's
+
+00:10:00.000 --> 00:10:13.000
+of these long before instruments that are available, and is also something that can grow over time which is a particular aspect of last year.
+
+00:10:13.000 --> 00:10:27.000
+And so, currently the network represents 47 country and has more than 160 members. And so we identified and of course these members come from all kinds of different disciplines.
+
+00:10:27.000 --> 00:10:37.000
+So we identified or an acute need to create a shared vocabulary in order to even enable work for this diverse group of scholars.
+
+00:10:37.000 --> 00:10:45.000
+And so BB started thinking about I mean we had our first deliverables talking to create such a thing.
+
+00:10:45.000 --> 00:10:53.000
+And by the way business oppressor representation variables colors of it better included come from right now.
+
+00:10:53.000 --> 00:11:14.000
+And so we divided verb up in four different verb groups. One that is sponsored essentially with design aspects of interactive dictionary, it is in relation to complexity work group two is concerned with from the conceptual development work for free is
+
+00:11:14.000 --> 00:11:26.000
+concerned with evaluation evaluation and vertical for is concerned with the societal impact of such artifacts.
+
+00:11:26.000 --> 00:11:46.000
+And so, so we started discussing how can we create a shared vocabulary and in the end, we decided we need to base it on one consistent model and and here we can use basically the model that I have been developing for a number of years, and it is based
+
+00:11:46.000 --> 00:12:03.000
+of the difference between traditional forms of narrative and interactive additional narratives which you can see here, and the understanding is here but we you know have of course, the traitor will be offered we have a process of creation of designing
+
+00:12:03.000 --> 00:12:06.000
+of programming of writing.
+
+00:12:06.000 --> 00:12:18.000
+But we have been riffing of print literature or movies we have about this, the output is, is it's a fixed product basically is a printed book. It's a Final Cut, and practical live release of a movie.
+
+00:12:18.000 --> 00:12:33.000
+Free Africa live release of a movie. And in contrast, if you think about what we have in British for Iran. What we're really creating and these are the elements that do not exist in traditional forms of media is to create a digital computational artifact,
+
+00:12:33.000 --> 00:12:52.000
+and just computation artifact is made for interaction, and only if we run, then go on to record play through his through his experiences we produce an output a fixed stable steady output that might be comparable to something like a movie or a book.
+
+00:12:52.000 --> 00:13:08.000
+And so really but you know but a model is needed that takes into account with additional elements.
+
+00:13:08.000 --> 00:13:27.000
+system that we go through. I mean, we have to go through a process of interaction. In order to create outputs. And of course we can have an interaction bond which creates an output bond we can have an exchange action to make trades not put to be can have
+
+00:13:27.000 --> 00:13:29.000
+an interaction and benefits and output and.
+
+00:13:29.000 --> 00:13:42.000
+And what that means is, is from the same system many different outputs can be generated and if you think of procedural generation and can go towards infinity.
+
+00:13:42.000 --> 00:13:46.000
+If you think of things like No Man's Sky which can produce.
+
+00:13:46.000 --> 00:13:50.000
+Several trillion different planets why we fly to them.
+
+00:13:50.000 --> 00:13:59.000
+So this is what's captured in in the SPP model that I created which understand story is something that exists in the product in the sense and the output.
+
+00:13:59.000 --> 00:14:13.000
+And what we have in the system but creating but but Nick Monfort has what's called potential narratives that's what's in the system. And the trading through the process of instantiate instantiated narratives of products.
+
+00:14:13.000 --> 00:14:27.000
+Basically we can skills, save it all from design over the performance of the interactive to a recorded output and where we might identify sort of traditional narrative structures.
+
+00:14:27.000 --> 00:14:45.000
+So from that point on, we talked about in the course of action as a basic analytical perspective and half develop that fervor into a full taxonomy of interactive digital marriages, and you'll see the conversation of the taxonomy here.
+
+00:14:45.000 --> 00:14:54.000
+This is version 1.0 of course we are we are still making you know Google's make additions to that.
+
+00:14:54.000 --> 00:15:11.000
+But we're trying to cover sort of a fair amount of terminology here, and relate that to each our trade really tax on on an acre relations here, and it's not done here is a second page.
+
+00:15:11.000 --> 00:15:32.000
+We are in the process of process of improving this taxonomy. In, we now have, they'll start a process of writing these entries by it from a formal teams of members of the cost action but we also plan to reach out beyond to additional scholars, for for
+
+00:15:32.000 --> 00:15:52.000
+input, and we have put in place and editorial board, and these things will be peer reviewed. And I'm sort of, I'm very happy to announce announce behalf now secured a contract with Rutledge so Robert is published his work as the Rutledge encyclopedia
+
+00:15:52.000 --> 00:15:54.000
+for interactive dictionary.
+
+00:15:54.000 --> 00:16:11.000
+It will be an open access publication supported by the cross brand, and again it will be a peer review which community driven output. Again we are resetting the startup phase getting all of us, and actually going to source up for me right now our colleagues are
+
+00:16:11.000 --> 00:16:13.000
+in a writing workshop.
+
+00:16:13.000 --> 00:16:34.000
+And we're really starting to write these entries that we really aim to also reach out to bike rider community calls I mean, several also prominent lo member actually serve and and and Scott are both members of the pulse network.
+
+00:16:34.000 --> 00:16:42.000
+So there is a clear connection here. And yeah, so this is what we're currently working on wrapping up.
+
+00:16:42.000 --> 00:16:59.000
+This is post in for business. One of the things that we're working on. You will hear more from us. And I talked about what I have to find together with Neil Young alohar ideas for five minutes and major challenges, beer, are addressing bond, the balloon
+
+00:16:59.000 --> 00:17:18.000
+confusion between Encyclopedia of course this much more to work to be done in Vancouver. And also if you're interested is already in an organization, which I'm president of that organizes yc is fun friends and the same same conference and look at what
+
+00:17:18.000 --> 00:17:28.000
+we're doing. If you're interested, and that's it from me and thank you from Sandy Frank Miriam and me questions.
+
+00:17:28.000 --> 00:17:48.000
+Thank you very much for fascinating presentation very ambitious ambitious project. And yes, we have a few minutes for questions from the audience. Thank you.
+
+00:17:48.000 --> 00:18:05.000
+And I just unmute myself and start asking. Yeah, of course very very welcome to. Thanks. So, we will later in this panel present our tools for extracting link structures.
+
+00:18:05.000 --> 00:18:18.000
+So I have a question. You mentioned in the fifth point of your said there's overproduction of tools, and do you mean such tools like for.
+
+00:18:18.000 --> 00:18:28.000
+Yeah so analyzing the interactive narratives and
+
+00:18:28.000 --> 00:18:48.000
+we have our tool is developed for that sites, and I was just wondering, are there so many tools to analyze narratives of computer games for example that they are also like, Yeah, I don't know, automatically, analyze.
+
+00:18:48.000 --> 00:18:52.000
+No, I mean what I'm talking about is offering tools.
+
+00:18:52.000 --> 00:19:00.000
+I mean I think analytical tools are super welcome beneath them, I'm looking really forward to your talk and hear more about that.
+
+00:19:00.000 --> 00:19:15.000
+But events come when it comes to offering tools, I mean, so, Vine ago master students of mine started looking into tools, and within about a month six weeks he found about 300 tools.
+
+00:19:15.000 --> 00:19:34.000
+Unfortunately, many of them sort of described in like one paper and maybe it was twice and then quickly forgotten and bad is a bit of a shame, right i mean variables wants an attempt many years ago in India Iris project to create sort of and, you know,
+
+00:19:34.000 --> 00:19:47.000
+open source mail is easily accessible tool that everybody can put contribute unfortunately it didn't work out for a number of reasons. But, I mean, I think if we could move to.
+
+00:19:47.000 --> 00:19:53.000
+I mean, first of all we need to have a better understanding what are the tools doing that exist.
+
+00:19:53.000 --> 00:20:06.000
+And actually the paper of it your time road for it it's 2018 gives you a starting point of a classification for that. and he actually continues with for presently in our cost per action.
+
+00:20:06.000 --> 00:20:23.000
+We actually have now so there for a new more extensive classification system, and actually the task force impossible present read tonight and tomorrow we will have an extra session where people will put additional tools in there.
+
+00:20:23.000 --> 00:20:30.000
+And it's a classification system if I think I have right now I think about 49 categories.
+
+00:20:30.000 --> 00:20:40.000
+In order to understand offering tools. So, yeah, that's what I was telling you about I think analytical tools. Yay, great I want to hear more about it.
+
+00:20:40.000 --> 00:20:44.000
+Thank you.
+
+00:20:44.000 --> 00:20:47.000
+I don't know if there are any more questions.
+
+00:20:47.000 --> 00:20:52.000
+And I would have another maybe so.
+
+00:20:52.000 --> 00:21:03.000
+I don't know how, how I don't, I don't have a picture of this what I can do with this vocabulary.
+
+00:21:03.000 --> 00:21:13.000
+Is it because, like, in the archive on the library where we have our, our works of literature.
+
+00:21:13.000 --> 00:21:17.000
+and they have
+
+00:21:17.000 --> 00:21:26.000
+and descriptive metadata, like, author, title URL and
+
+00:21:26.000 --> 00:21:49.000
+their ID and taxonomy, is it also describing. Is it on the level of the work and describing what the whole work is capable of or what what is possible with the interaction or is it like really describing, step by step, what interaction.
+
+00:21:49.000 --> 00:22:00.000
+Real like really like okay this interaction a and this makes the input of the interaction is the output of the interaction and like really drawing.
+
+00:22:00.000 --> 00:22:01.000
+Yeah.
+
+00:22:01.000 --> 00:22:06.000
+Narrative narrative with this with this media data.
+
+00:22:06.000 --> 00:22:23.000
+You understand, I think I do understand, I mean, so right now there are three big categories basically and one is really sort of offering. One is the artifact itself and one is societal impact is this over free super top level categories of the taxonomy.
+
+00:22:23.000 --> 00:22:41.000
+That means yes we work is described here and it's also a means to analyze works basically and and in man's regard I mean we working actually with the British Library and and before British Library metadata team to make it.
+
+00:22:41.000 --> 00:22:48.000
+Put a useful for them to categorize interactive narrative works.
+
+00:22:48.000 --> 00:22:51.000
+Cool.
+
+00:22:51.000 --> 00:22:54.000
+Thanks.
+
+00:22:54.000 --> 00:23:12.000
+I don't know if there are any more questions. Yeah, if I may. So in your paper you mentioned, the project which I'm very excited about. But the project draws his inspiration from the living Handbook of neurology, which is a very useful to on the neurologist
+
+00:23:12.000 --> 00:23:18.000
+I'm a neurologist myself I, I, visit the website regularly.
+
+00:23:18.000 --> 00:23:33.000
+And the living Handbook of neurology and brings together some of the most common concept within this field and every article has a similar structure. So it provides a definition and then it gives an historical overview of the discussions among charitable
+
+00:23:33.000 --> 00:23:48.000
+just on this topic, and it ends with some perspectives for further research. Is this how you envision the media as well or do you different approaches so I'll be interested to be hear more about that.
+
+00:23:48.000 --> 00:23:58.000
+Well I mean it's quite it's it's it's similar i think you know the end of our paper which you should be able to see basically has the overall structure, so that if I mean the the form that they're using we have developed the form of be hella have developed
+
+00:23:58.000 --> 00:24:17.000
+So if I mean the the form that we're using we have developed the form of we have developed an entry structure. And actually, if you Google for eight you will find the provide paper version of hBh has a full example entry attached to it.
+
+00:24:17.000 --> 00:24:26.000
+Right. I mean at the same time, we have also identifying to add more top level entries that will probably be shorter.
+
+00:24:26.000 --> 00:24:41.000
+Because I mean if you're thinking of a top level entry if that would define everything there's not really much left to define underneath, basically in the taxonomy the sort of top level entries might be much shorter, in order to leave space for the articles
+
+00:24:41.000 --> 00:24:58.000
+underneath forbidden in the hierarchy to develop things so we have also attached, I think, a very short version of ideation and pitches much in a much shorter most distinct description, so they're not all of the same length.
+
+00:24:58.000 --> 00:25:08.000
+It really depends on the order on our level of every on the hierarchy.
+
+00:25:08.000 --> 00:25:10.000
+Any other questions.
+
+00:25:10.000 --> 00:25:15.000
+Yes, I was. I would like to ask a question.
+
+00:25:15.000 --> 00:25:19.000
+Close Michelle is
+
+00:25:19.000 --> 00:25:33.000
+does the taxonomy you develop relate in any way to the cell categories to the categories, introduced by the Consortium on electronic literature
+
+00:25:33.000 --> 00:25:36.000
+for their
+
+00:25:36.000 --> 00:25:41.000
+combined cataloging efforts.
+
+00:25:41.000 --> 00:26:03.000
+Or if you if you, if you, if you are aware of this, of this of these categories, do you relate to them in any way. I'm asking this because I see this also as a very necessary and important effort in in finding common categories that that different archives
+
+00:26:03.000 --> 00:26:06.000
+and and catalogs may use.
+
+00:26:06.000 --> 00:26:28.000
+And I know that the new electronic literature organization repository makes use of these cell categories. And we also working on doing metadata schemas and we are wondering, should we relate to sell can we relate to sell Will this be developed any further.
+
+00:26:28.000 --> 00:26:36.000
+So, that's the background for my question to you in any way related to these sell categories.
+
+00:26:36.000 --> 00:26:57.000
+Man, I mean not not presently I mean I'm happy to look at that.
+
+00:26:57.000 --> 00:27:03.000
+look into.
+
+00:27:03.000 --> 00:27:11.000
+Okay. Any, any one last question maybe if there are any
+
+00:27:11.000 --> 00:27:23.000
+now. Okay, so we move on to allow, you know, as an amount of time to everybody for questions and this position congratulations again for very interesting project.
+
+00:27:23.000 --> 00:27:28.000
+And now I would like to introduce you to class.
+
+00:27:28.000 --> 00:27:31.000
+Michael slashing Mona.
+
+00:27:31.000 --> 00:27:48.000
+Pascal Hi, on Andrew blessing, who will be presenting the project networks and net, a teacher modeling structuring and visualizing link based networks in the DL a corpus of net literature.
+
+00:27:48.000 --> 00:27:53.000
+So, whenever you like.
+
+00:27:53.000 --> 00:28:01.000
+Great, thank you. Thank you very much for for the moderation and for everyone for being here.
+
+00:28:01.000 --> 00:28:28.000
+I apologize for not having a full presentation. I was under the impression that we all read the papers. And so I hope that we will be able to have a discussion about our approach but I will make an introduction, but it's just audio I hope that is okay.
+
+00:28:28.000 --> 00:28:45.000
+And I will try to, to name the important points in our paper so that everyone who hasn't read the paper itself will be able also to join the discussion and, to, to.
+
+00:28:45.000 --> 00:28:55.000
+to ask about about these points and we're happy to to also develop on certain key elements of questions should arise.
+
+00:28:55.000 --> 00:28:59.000
+So, yes,
+
+00:28:59.000 --> 00:29:10.000
+I'll start with two words about the background of our project, we are situated in a larger project which is called the science data center for literature.
+
+00:29:10.000 --> 00:29:16.000
+The science data center for Literature brings together different partners.
+
+00:29:16.000 --> 00:29:33.000
+The most important maybe being at the German literature archive other partners include infrastructure experts and computational analytics and digital humanities.
+
+00:29:33.000 --> 00:29:51.000
+We are working mostly on bond digital collections at the German literature archive. The German literature archive is the German national archives for modern literature, which means that they have important collections.
+
+00:29:51.000 --> 00:30:07.000
+Important bond digital collections, comprising of authors estates and of web literature, which includes artistic net literature, but also literary blocks, and several journal websites.
+
+00:30:07.000 --> 00:30:20.000
+In our talk here we focus on this web literature corpus so we won't talk about authors estates and focus on web literature.
+
+00:30:20.000 --> 00:30:38.000
+The got the main goals of the SEC for lit the science data center for Literature project is to support research on these bond digital collections and make these archival collections accessible again.
+
+00:30:38.000 --> 00:30:45.000
+So, this is an important goal of the project,
+
+00:30:45.000 --> 00:30:56.000
+making this material accessible, again means also to define and implement regular processes in order to continue archiving German speaking a net literature.
+
+00:30:56.000 --> 00:31:05.000
+This also includes and that's why I'm really looking forward to the last presentation and the discussion because I think there is a very common question.
+
+00:31:05.000 --> 00:31:21.000
+This also includes the question of how can we expand the scope on what to archive, and how to do this in regard of social media, especially
+
+00:31:21.000 --> 00:31:36.000
+the third goal is for of the project is to develop computational methods to support for research cycles on net literature, which also includes functions, regarding research data management.
+
+00:31:36.000 --> 00:32:00.000
+Yeah. Our paper focuses on a tool that we have developed. When working with the deal a literature corpus net literature couples, which you call walk to graph it has to be said that the objects in this collection exists as mainly as walk files mainly in
+
+00:32:00.000 --> 00:32:12.000
+the walk format, which is the standard format for web archiving.
+
+00:32:12.000 --> 00:32:16.000
+We work with these archives objects.
+
+00:32:16.000 --> 00:32:36.000
+And in dealing with these objects we thought it would be interesting to extract reference networks from these objects in order to understand how different elements how different subsets of a web literature site relate to each other, what what are the
+
+00:32:36.000 --> 00:32:38.000
+links.
+
+00:32:38.000 --> 00:32:47.000
+Frankly speaking, what are the links, where do they point to what other central elements in a work of net literature.
+
+00:32:47.000 --> 00:33:06.000
+And that's why we analyze these objects in a very concrete sense, which means we split them up into the elements, meaning, images, meaning HTML sites, meaning any media, which is embedded in these HTML sites, and we then construct reference networks,
+
+00:33:06.000 --> 00:33:21.000
+which we put into a network visualizations. In order to get an overview. And in order to supplement experiential and analytical itineraries through these works and the work with these words.
+
+00:33:21.000 --> 00:33:40.000
+We want to stress this because we don't aim to make a full analysis of a work by just visualizing the reference network, but we think that is that this is a supplemental approach in dealing with these web archived net literature.
+
+00:33:40.000 --> 00:33:53.000
+There are several prerequisites for this analysis, especially, we had to model references and walk object, which we did I think this is an important element in our work.
+
+00:33:53.000 --> 00:34:12.000
+And of course we checked out existing tools like the archives unleashed tool kit, or other tools which provide this function of extracting reference information or link information from walk archives.
+
+00:34:12.000 --> 00:34:23.000
+Yeah, this is basically it, the perspective of this tool the tool is now usable we have we providing this tool already we have published this tool.
+
+00:34:23.000 --> 00:34:29.000
+Actually we published this tool for the electronic literature organizations, conference.
+
+00:34:29.000 --> 00:34:36.000
+So we, we made an effort to be ready to publish a version before the conference or.
+
+00:34:36.000 --> 00:34:46.000
+And it is now accessible, you will find the link in the paper, which you can find through the yellow conference program.
+
+00:34:46.000 --> 00:35:11.000
+And the outlook for our project is, we will implement a platform that will provide access to the archive material, and that will provide access to computational methods like our walk to graph module that is needed in order to extract this reference information
+
+00:35:11.000 --> 00:35:25.000
+and provide visualizations. So the basic goal is to insert walk to graph into the platform and provide this functionality to researchers and readers of the.
+
+00:35:25.000 --> 00:35:30.000
+net literature works in the DLA archive.
+
+00:35:30.000 --> 00:35:33.000
+Thank you.
+
+00:35:33.000 --> 00:35:52.000
+Well, thank you very much. And now the floor is open for questions or comments.
+
+00:35:52.000 --> 00:35:55.000
+no questions no comments.
+
+00:35:55.000 --> 00:36:11.000
+So, we also happy for questions regarding what is a walk, archive, or things like this, we, we, we experience these interdisciplinary level problems ourselves when when working together for the first time.
+
+00:36:11.000 --> 00:36:16.000
+So, our team consists of archivists infrastructure experts.
+
+00:36:16.000 --> 00:36:35.000
+Literary scholars, etc etc. So, if I, if I haven't really found that spot where most of the things are understandable, please don't hesitate to ask any questions also pertaining to the work format.
+
+00:36:35.000 --> 00:36:52.000
+More now, who is here today, who's a collaborator in this project is our archive expert and we are happy to add to answer also any questions regarding this.
+
+00:36:52.000 --> 00:37:03.000
+Someone I would you like to add anything to what Michael has just mentioned. Since we have time, maybe.
+
+00:37:03.000 --> 00:37:13.000
+And when there's no question about the walk, I don't have to explain, I don't know how the knowledge is here about archiving.
+
+00:37:13.000 --> 00:37:43.000
+Yeah, maybe I would add, we, we, what we think is why we think this is necessary or why we want to provide this is because it opens up, or it opens up a new approach for analyzing or to start looking where to start looking at the work so and and I think
+
+00:37:48.000 --> 00:38:13.000
+most important is to have an overview because when you have a website, you don't know, of how many web pages and resources this object consists of, and it could be five webpage, this could be 500 and researcher had to click through the links and navigate
+
+00:38:13.000 --> 00:38:32.000
+through this object and how, like how our website is looked at but to really have a have an overview of the subject you need to know the boundaries and, and how big this object is and because it's a website you can see it.
+
+00:38:32.000 --> 00:38:48.000
+And that's why we think know of you like this where where where the structures and the, the, the building off of this object is viewable as helpful for risk for researchers.
+
+00:38:48.000 --> 00:38:49.000
+Yes.
+
+00:38:49.000 --> 00:38:53.000
+Maybe I wanted.
+
+00:38:53.000 --> 00:39:03.000
+Thanks mana and Roberta was typing a question whether the site is owning Garmin.
+
+00:39:03.000 --> 00:39:07.000
+Yes. Unfortunately the side is now only in.
+
+00:39:07.000 --> 00:39:17.000
+Yeah, for now only in German, but we are in the process of providing an English version of it.
+
+00:39:17.000 --> 00:39:31.000
+Okay. And, yes, yes, I see. Yeah, the paper made me very curious to use the tool, and congratulations on on publishing the tool for this press conference.
+
+00:39:31.000 --> 00:39:50.000
+Maybe I'm running a little bit ahead of things but I was wondering, what is the next step for you is, do you know that the two is published Do you think these two can maybe be applied to other forms of a ton of literature, or what how do you help this
+
+00:39:50.000 --> 00:39:55.000
+tool to be used and when you develop the to further from that on.
+
+00:39:55.000 --> 00:40:00.000
+Just an open question about the future of the two.
+
+00:40:00.000 --> 00:40:19.000
+So this is really a tool that is just developed for for web pages because, and for, and mainly for archive pages because the methods of of extracting the links is based on HTML so we do HTML parsing and looking for HTML text.
+
+00:40:19.000 --> 00:40:23.000
+And so,
+
+00:40:23.000 --> 00:40:32.000
+yeah, but we will implement this tool in our platform, now is to see for Literature platform.
+
+00:40:32.000 --> 00:40:40.000
+And we will provide graphs and maybe we will provide.
+
+00:40:40.000 --> 00:40:57.000
+And also, like
+
+00:40:57.000 --> 00:41:11.000
+the idea is, how I explained to get an overview but when when when really analyzing and working with those graphs, it can be difficult.
+
+00:41:11.000 --> 00:41:20.000
+When starting because it's not always that makes an analyst ation easier, because
+
+00:41:20.000 --> 00:41:30.000
+you you have, for example, in the paper, I write about a website with a lot of frames.
+
+00:41:30.000 --> 00:41:49.000
+And so the graph is very complicated to read because it's, it's, it can it's don't can't read as the website so it's it's different. And the first steps into this analyzes can be difficult.
+
+00:41:49.000 --> 00:42:14.000
+So, and we are thinking of how to make those graphs maybe more readable and maybe when we think, what can be how this can be, yeah. How can we put something on top of this graph it would be maybe annotation or that the user can.
+
+00:42:14.000 --> 00:42:37.000
+Yeah view this graph in the platform and maybe annotate it. So, all we cannot extract from the walk files are from the website can be edited by analyzing this what we've we discovered would be good because yeah it's you, the graphs and that easy maybe
+
+00:42:37.000 --> 00:42:45.000
+are not always that easy and it would be helpful to to notice something.
+
+00:42:45.000 --> 00:42:54.000
+Martin campus trainees asking, how does the visualization look in the chat.
+
+00:42:54.000 --> 00:42:58.000
+I don't know if you can actually maybe share the screen and show something.
+
+00:42:58.000 --> 00:43:01.000
+Yes, I would.
+
+00:43:01.000 --> 00:43:10.000
+YLY Mona is sharing her screen until we see something I would like to add a few words regarding the development and further development.
+
+00:43:10.000 --> 00:43:12.000
+Okay.
+
+00:43:12.000 --> 00:43:13.000
+Yeah.
+
+00:43:13.000 --> 00:43:18.000
+Now we see first first we have a network. Okay.
+
+00:43:18.000 --> 00:43:22.000
+And you can also talk I'm not hundred percent done.
+
+00:43:22.000 --> 00:43:32.000
+Actually the the focus of the the focus of the tool is to extract the network data. So visualization.
+
+00:43:32.000 --> 00:43:42.000
+When when we do visualization it's always difficult to to choose visualization algorithms. So
+
+00:43:42.000 --> 00:43:50.000
+we have three default visualizations, which which the tool will spit out.
+
+00:43:50.000 --> 00:44:10.000
+But we also say that, analyzing a work of literature, always makes it necessary to, to go into the work and see which visualization algorithm is actually
+
+00:44:10.000 --> 00:44:20.000
+the correct one which which which visualization algorithm fits the structure of the work. So what Mona is showing here is her.
+
+00:44:20.000 --> 00:44:29.000
+Her analyze her analysis of a certain work of net literature, which is called the tongue.
+
+00:44:29.000 --> 00:44:50.000
+And you see the work on the right and the visualization. On the left individualization in this case is made with goofy which is a tool in its own right, it's a visualization network virtualization tool which is commonly used in the digital humanities,
+
+00:44:50.000 --> 00:45:05.000
+and what our tool does and what what the main focus of our tool is to extract the graph data from the work, the visualization is a second module and we provide default visualizations.
+
+00:45:05.000 --> 00:45:23.000
+But we also don't claim that these default visualizations are ready to ready to go and we say that it is necessary to construct the visualizations according to the works structure.
+
+00:45:23.000 --> 00:45:31.000
+So thank you very much, it seems. Fascinating any more questions,
+
+00:45:31.000 --> 00:45:35.000
+comments,
+
+00:45:35.000 --> 00:45:41.000
+but to me these projects, sounds so difficult I'm literary scholar.
+
+00:45:41.000 --> 00:45:48.000
+So very, I know very little about algal algorithms and the kind of stuff you're doing.
+
+00:45:48.000 --> 00:45:53.000
+So thank you very much. It's very, very interesting.
+
+00:45:53.000 --> 00:46:00.000
+And maybe we can move on to the last presentation.
+
+00:46:00.000 --> 00:46:13.000
+So let me introduce Eb bluish. I hope I pronounce it correct more or less correctly, and he's going to speak about institutional approach to building a platform of digital literary works.
+
+00:46:13.000 --> 00:46:26.000
+The case, cases of Dutch and Flemish digital literature. So whenever you're like, welcome to the presentation.
+
+00:46:26.000 --> 00:46:28.000
+Are you able to see my screen.
+
+00:46:28.000 --> 00:46:31.000
+Yes, Yes, perfectly.
+
+00:46:31.000 --> 00:46:42.000
+Recently, a group of researchers from guts universities, and both the national and local libraries, formed the Dutch digital literature Consortium.
+
+00:46:42.000 --> 00:47:00.000
+And this group aims to develop and launch an online catalog of works over at a front of literature that were created in the Netherlands and Flanders between 1970 and 2023, and then turn this collection into a publicly accessible digital database, and
+
+00:47:00.000 --> 00:47:12.000
+the category catalog is targeted at three different domains academic research, education and public libraries.
+
+00:47:12.000 --> 00:47:29.000
+And in preparation for the catalog which will be launched in 2023 hopefully the courts or the consortium grace gratefully makes use of the MC infrastructure and combining professional list of electronic literature from the Low Countries, as you can see
+
+00:47:29.000 --> 00:47:33.000
+here, and I will post a link in the chat as well.
+
+00:47:33.000 --> 00:47:36.000
+Later on
+
+00:47:36.000 --> 00:47:52.000
+the development of such a catalog gives rise to several theoretical and methodological questions, and the first category of questions, concerns the problem of documentation, which works, and genres are eligible to be included in the database and On what
+
+00:47:52.000 --> 00:48:06.000
+grounds, can we make the selection as a postdoctoral research on the project is my role to formulate answers to these questions and to as such to lay of theoretical foundation for the catalog.
+
+00:48:06.000 --> 00:48:11.000
+The second category of question concerns the issue of implementation.
+
+00:48:11.000 --> 00:48:22.000
+How can we make the collection final accessible interoperable and reusable, can we develop a system to consistently metadata works of electronic literature.
+
+00:48:22.000 --> 00:48:36.000
+Second postdoctoral researcher who will start in October of this year will be responsible for this second face. We have a job vacancy opening up very soon anybody's interested.
+
+00:48:36.000 --> 00:48:42.000
+Right now, we are still very much preoccupied with the question of documentation still.
+
+00:48:42.000 --> 00:48:58.000
+And these questions critically hinge on the more fundamental question, what electronic literature is and world is not very productive to try to pin down the phenomenon based on an unlimited number of fixed characteristics.
+
+00:48:58.000 --> 00:49:05.000
+We nevertheless need a starting point on which to base the selection criteria.
+
+00:49:05.000 --> 00:49:22.000
+And we find such a starting point in an institutional approach to electronic literature, because the question what belongs to the domain of electronic this church has been answered, both explicitly and implicitly by different actors and institutions involved
+
+00:49:22.000 --> 00:49:33.000
+with the material and symbolic production of it, such as funding institutions libraries academic scholars and under such gatekeepers.
+
+00:49:33.000 --> 00:49:46.000
+And, in our view, and institutional analysis of the field is productive for a number of reasons. First, it is valuable because it provides insights into processes of inclusion and exclusion.
+
+00:49:46.000 --> 00:49:54.000
+Secondly, it allows us to consider transformations, and both the media landscape and the literary landscape.
+
+00:49:54.000 --> 00:50:09.000
+And lastly, our approach brings the specificities of the Dutch and Flemish electronic literature tradition into focus, because it considers the art form in relation to specific technical cultural context.
+
+00:50:09.000 --> 00:50:25.000
+The preliminary results of our institutional approach show that the traditional gatekeepers of electronic literature in the Low Countries have framed the genre, as a form of a highbrow experimental literature at was at its peak at the beginning, or in
+
+00:50:25.000 --> 00:50:28.000
+the first decade of this millennium.
+
+00:50:28.000 --> 00:50:36.000
+Well literary experimentation is without a doubt important aspect of the forms history and its genealogy.
+
+00:50:36.000 --> 00:50:54.000
+There are other possible conceptions and forms of electronic literature that can and maybe should have a place in its historiography as well, a renewed look at a different literature can shed light on both the present and the past of this art form and
+
+00:50:54.000 --> 00:51:02.000
+recent international scholarship on electronic literature offers starting points for such approaches.
+
+00:51:02.000 --> 00:51:17.000
+For instance, in addition to stressing eat its connection to the addition of experimental literature, we should consider how the form relates to the history of digital media in a larger sense in such an approach the history of video games over next week,
+
+00:51:17.000 --> 00:51:32.000
+have fun at literature.
+
+00:51:32.000 --> 00:51:39.000
+Unless we, we should consider that he uses of digital media have institutional agency as well.
+
+00:51:39.000 --> 00:51:52.000
+So in this regard. The popularity of forms like Instagram poetry or Twitter poetry. For instance, also challenges, these traditional conceptions of electronic literature in a lot of countries.
+
+00:51:52.000 --> 00:52:05.000
+So to conclude, considering that the first volume of the electronic literature collection dates from 2006, one can say that our catalog arrives, somewhat late to the party.
+
+00:52:05.000 --> 00:52:19.000
+But this late arrival, however, gives gives us the opportunity to draw on the extensive international scholarship on the electronic literature. And therefore, I feel this is a great privilege to have been able to present the project for you today at this
+
+00:52:19.000 --> 00:52:26.000
+conference, and I look forward to your comments and questions.
+
+00:52:26.000 --> 00:52:28.000
+Thank you very much.
+
+00:52:28.000 --> 00:52:34.000
+And I'm sure there'll be questions for you very interesting presentation again.
+
+00:52:34.000 --> 00:52:41.000
+Wonderful, three presentations in this panel.
+
+00:52:41.000 --> 00:52:45.000
+I would have a question, if I may.
+
+00:52:45.000 --> 00:52:48.000
+Of course, Klaus whatever. Yes. Great.
+
+00:52:48.000 --> 00:52:59.000
+First of all, do you plan to also provide access to materials. So are you also working with collections of archive materials.
+
+00:52:59.000 --> 00:53:12.000
+So yes, that's definitely part of the project is to first of all to collect all these works of electronic literature, also tried to think about ways to get to preserve them and disseminate them.
+
+00:53:12.000 --> 00:53:28.000
+So, the National Library. The Royal Dutch national library is involved with a project as well as well as several local libraries, and after the catalog or, along with making this catalog.
+
+00:53:28.000 --> 00:53:47.000
+And we aim to inform the public of these libraries, and also reach out to schools, secondary education to maybe to get to look at the users that, and trying to the literature could have, in, in, in literature classes.
+
+00:53:47.000 --> 00:53:57.000
+So it's part of a bigger project that involves the presentation and the dissemination of electronic literature as well.
+
+00:53:57.000 --> 00:54:10.000
+But Atlanta has a question also in the chat, where are these works now, are they are somewhere already. Do you have a list already, or are you compiling this list.
+
+00:54:10.000 --> 00:54:27.000
+Oh yeah, that's a good question. So, some of these works are already archives by some of these institutions. So, the letter fonts are the Dutch funding institution for literature.
+
+00:54:27.000 --> 00:54:40.000
+They are very involved with the material production of edified literature and they they collect some of those works on their website, although it's not very, it's not very stable website.
+
+00:54:40.000 --> 00:54:55.000
+Unfortunately, so that they don't they don't have this incentive to preserve these works for the ages, so that is where we think the National Library comes in and definitely hasn't passed.
+
+00:54:55.000 --> 00:55:05.000
+So yeah, there's kind of scattered all over the internet is something that I'm also working on now right to to to collect those and to look up.
+
+00:55:05.000 --> 00:55:13.000
+These works and how our government was trying to share the link to the,
+
+00:55:13.000 --> 00:55:17.000
+to the, provisionary database. That's an alum.
+
+00:55:17.000 --> 00:55:21.000
+I'll post it again.
+
+00:55:21.000 --> 00:55:42.000
+So this is a list that I've been working on for the last couple of months, along with my colleagues, and this will be added on in the future until the catalog is has been launched, and it is a work in progress document, and also some things are included
+
+00:55:42.000 --> 00:56:01.000
+in this list that may not make it in the final list but this is also a discussion document is list for our group as well so sometimes we include works that are sometimes not so obvious that it is a form of literature or there is a form of electronic literature.
+
+00:56:01.000 --> 00:56:08.000
+So, yeah, gives us some food for thought.
+
+00:56:08.000 --> 00:56:20.000
+There are a couple of questions on the chat box, one from Martine chemistry. What's the role of public libraries in the project and he says, maybe you already answered these, I don't think so.
+
+00:56:20.000 --> 00:56:30.000
+You mentioned the Dutch library being involved but yeah he specifically asked, asking what's the role of the public libraries.
+
+00:56:30.000 --> 00:56:43.000
+So there's the national royal touch National Library and their role is mainly within the realm of preservation of these works.
+
+00:56:43.000 --> 00:57:05.000
+And we're also involved with more local libraries, and one of one of their roles is to, to, to disseminate, these, these works as well by having installations, for instance, within these local library where users can can stumble upon works with electronic
+
+00:57:05.000 --> 00:57:20.000
+literature, we're also thinking. Yeah, just this larger question, how should we include these works into the catalogues of the national and local libraries, this isn't a question that's very much on our minds.
+
+00:57:20.000 --> 00:57:35.000
+It's part of the project that I'm less involved in some of my colleagues who work at the center libraries for doesn't maybe some topic for for a different presentation in the future.
+
+00:57:35.000 --> 00:57:47.000
+Because we also get wish to share this knowledge and or learn from other other countries how they do this.
+
+00:57:47.000 --> 00:58:00.000
+And this jet another question from finishers and he says the. Did you include in your corpus international authors who live in the Netherlands, or Dutch Flemish authors who live in other countries.
+
+00:58:00.000 --> 00:58:08.000
+I mean, how did you circumscribe your corpus on that, and Flemish literature.
+
+00:58:08.000 --> 00:58:19.000
+Yeah, that's a very good question and it touches on the problematic aspects of this kind of work right of making lists, like these.
+
+00:58:19.000 --> 00:58:31.000
+First of all is the question of what is electronic literature, it means that you have to be found some, some things that may include some other aspects.
+
+00:58:31.000 --> 00:58:54.000
+So, because it is about Dutch and Flemish, we want to be able to give an overview of Dutch and Flemish electronic literature, and also trying to figure out what it is, so this institutional approach is also trying to answer, which actors and institutions
+
+00:58:54.000 --> 00:59:09.000
+are involved within the context of that you claim is electronic literature. So, For me, international authors living in the Netherlands are definitely a part of that.
+
+00:59:09.000 --> 00:59:19.000
+And the same. Yeah, maybe. The same goes for Dutch and Flemish authors who live in other countries and written, electronic literature.
+
+00:59:19.000 --> 00:59:28.000
+But yeah, for me, the question is whether their, their work is.
+
+00:59:28.000 --> 00:59:41.000
+And we say this, whether their work, shows the traces of these institutional framework of claims literature, but this is yeah this is a good question.
+
+00:59:41.000 --> 00:59:45.000
+I don't have a definitive answer on this.
+
+00:59:45.000 --> 00:59:48.000
+Yeah.
+
+00:59:48.000 --> 01:00:03.000
+Okay. Any more questions or interventions commentaries, whether in the chat or speaking your voices do have a few minutes. Yes, Yes. Sorry for interrupting.
+
+01:00:03.000 --> 01:00:06.000
+That's fine.
+
+01:00:06.000 --> 01:00:22.000
+Yeah. This aspect of your paper resonated with me very much because we are also thinking about how the German literature archive is a very canonical institution which has a very canonical collection policy.
+
+01:00:22.000 --> 01:00:33.000
+So, I am working in this project but I wonder what can I do now that I am at the gate keeping institution to open the gates.
+
+01:00:33.000 --> 01:00:48.000
+And it is more difficult than one would think to open the gates even if you are working. I'm not working inside this industry institution but I'm working in a project where this institution is a plays an important role.
+
+01:00:48.000 --> 01:00:53.000
+And you described all this, the institutional approach of yours.
+
+01:00:53.000 --> 01:00:58.000
+And regarding Dutch.
+
+01:00:58.000 --> 01:01:13.000
+This, the focus on that literature, I wondered how do you how do you think about the colonizing these collections that you work with. What does, for example, so in a nice literature.
+
+01:01:13.000 --> 01:01:24.000
+What role does the tsunamis, community or other postcolonial communities play in this in this, in this field.
+
+01:01:24.000 --> 01:01:44.000
+Because often it is my impression that that their artworks that there are artistic communication literary communication in these communities that don't make it into the canons of the established institutions, and I'm really, I'm wondering, and I'm asking
+
+01:01:44.000 --> 01:01:54.000
+myself, how can how can we be colonized these canonized institutions that we work with
+
+01:01:54.000 --> 01:02:04.000
+because I had the feeling that you are working on this question and that you you are trying to do this do you do you have any systematic approach.
+
+01:02:04.000 --> 01:02:08.000
+Yeah.
+
+01:02:08.000 --> 01:02:13.000
+Yeah, that's, that's a good question.
+
+01:02:13.000 --> 01:02:24.000
+So, that that's one of the benefits of an institutional process that takes account of this historical
+
+01:02:24.000 --> 01:02:45.000
+Yeah, the importance of institutions in this dynamics of inclusion and exclusion so that's why I think we first of all need to take a look at that history, and also take a critical look at at at the involvement of institutions within this dynamics.
+
+01:02:45.000 --> 01:03:04.000
+At the same time, it also complicates the question somewhat So, already we are dealing with two countries, the Netherlands and Flanders region in Belgium, the chair a language, and to some extent, a literary history but also the cultural differences and
+
+01:03:04.000 --> 01:03:10.000
+institutional differences. Also, are there, and we need to take that into account.
+
+01:03:10.000 --> 01:03:21.000
+And the same is true for Suriname which has its own cultural and institutional traditions. When it comes to electronic literature as well.
+
+01:03:21.000 --> 01:03:27.000
+So, one, one solution would be to include serving them.
+
+01:03:27.000 --> 01:03:32.000
+Or, serving them electronic literature within our project.
+
+01:03:32.000 --> 01:03:40.000
+Maybe if it is written in touch or if it is somehow related to, to the Dutch context.
+
+01:03:40.000 --> 01:03:43.000
+At the same time,
+
+01:03:43.000 --> 01:03:51.000
+I also don't think we should just include it for the sake of this inclusion because that's also a form of.
+
+01:03:51.000 --> 01:04:02.000
+You could understand that there's a form of colonization as well right by saying this is Dutch and, or Flemish literature, which you need to have a good argument for that.
+
+01:04:02.000 --> 01:04:08.000
+So, yeah, while we're working on the project these these questions come come up.
+
+01:04:08.000 --> 01:04:16.000
+And that's part of why we take on this institutional approach is to to get our head around.
+
+01:04:16.000 --> 01:04:25.000
+What kind of issues and questions of inclusion and exclusion are. Yeah, coming up.
+
+01:04:25.000 --> 01:04:41.000
+So I don't, again I don't have a definitive answer on the, on Surinam economic literature and whether it should be included, or not depends on on the, on the work, I would say, that's my view.
+
+01:04:41.000 --> 01:04:44.000
+Yeah.
+
+01:04:44.000 --> 01:05:01.000
+Okay, We have a few more comments and questions on the chat box or just like, let me voice them finishes says that the top, the questions that you just raised regarding post colonialism and stuff.
+
+01:05:01.000 --> 01:05:06.000
+And this is a challenge for projects in Latin America as well. You mentioned.
+
+01:05:06.000 --> 01:05:19.000
+And then, Atlanta has a question, are you collaborating with any media archaeology projects or institutions. Is that an element of your research to
+
+01:05:19.000 --> 01:05:28.000
+media archaeology on this point not part of this project. In this stage of the project.
+
+01:05:28.000 --> 01:05:37.000
+When the second postdoc will have more technical background or more technological knowledge.
+
+01:05:37.000 --> 01:05:42.000
+He or she probably will collaborate with media are quite archaeologists.
+
+01:05:42.000 --> 01:05:46.000
+At this point, so much.
+
+01:05:46.000 --> 01:06:03.000
+And then Roberta has a very important question to and this is how do you deal with copyrighted works for example, I think of those in escape, she says, I mean, in that case, is it not possible to extract the references but only mentioned the work and
+
+01:06:03.000 --> 01:06:22.000
+it to the publisher site. Right. She says yes this is a very important topic for the libraries librarians are working on the project they already raise some questions about that.
+
+01:06:22.000 --> 01:06:35.000
+As far as I know, because this is, again, this is a little bit outside of my expertise within, within the projects. So, my, my, my colleagues working in the library in the libraries can answer this question maybe better, but the copyright of electronic
+
+01:06:35.000 --> 01:06:52.000
+But the copyright of electronic literature is is sometimes with the funding institutions, so the letter forms, for instance, like I mentioned earlier, they have a great deal of the copyright.
+
+01:06:52.000 --> 01:06:56.000
+Also the National Library.
+
+01:06:56.000 --> 01:07:06.000
+They include all the works that have been published in The Netherlands into their catalog so they, they have a lot of experience with this.
+
+01:07:06.000 --> 01:07:22.000
+Maybe with electronic literature, not so much yet but I believe drawing on their expertise and their experience with, with Printworks, they, they will figure out a way to include these works within our catalog.
+
+01:07:22.000 --> 01:07:42.000
+And, like you mentioned, linking to the publishers website, of course is always an option, but we very much would like to also preserve these works right so the disadvantage of just providing links is that digital erosion, these words will disappear.
+
+01:07:42.000 --> 01:07:55.000
+So, But yeah, fortunately I would almost say it's very hard to make money with electronic literature so that it always makes questions of copyright a little easier.
+
+01:07:55.000 --> 01:07:59.000
+Right.
+
+01:07:59.000 --> 01:08:07.000
+Maybe I can add something, because in the with the German literature archive,
+
+01:08:07.000 --> 01:08:27.000
+all websites for all websites we archive, we contact the authors, and they give us permission to archive and to republish again and when they can also say, you can only archive it and not republish it.
+
+01:08:27.000 --> 01:08:45.000
+And as long as my way, as long as the original website is still on and or something so there are options, but yeah when, when there is no permission to archive, then it will not be archived.
+
+01:08:45.000 --> 01:08:47.000
+Okay.
+
+01:08:47.000 --> 01:08:56.000
+All clear, they say in the chat box. Any other questions. We still have five minutes.
+
+01:08:56.000 --> 01:09:06.000
+Martine, what about interactive installation pieces, or other words that are not accessible online.
+
+01:09:06.000 --> 01:09:25.000
+Yeah, this is something that the databases like MC but also struggle with or, at least, you cannot include the entire work, your catalog, which you can include photographs or clips or descriptions.
+
+01:09:25.000 --> 01:09:37.000
+Yeah, this is something that we have to work around and try our best to documented as, as well as possible.
+
+01:09:37.000 --> 01:09:55.000
+Some of these words are not intended to be to be sitting in archive right they're located for their temporary ephemeral. Yeah, this is something that you cannot
+
+01:09:55.000 --> 01:09:58.000
+any final comments.
+
+01:09:58.000 --> 01:10:12.000
+I wonder because I also see that at least the avatar of arrival, say sir, I don't know how to, how to say this, And I know that that. Oh, hi.
+
+01:10:12.000 --> 01:10:16.000
+I think that maybe I'm also.
+
+01:10:16.000 --> 01:10:18.000
+Maybe I'm also Miss.
+
+01:10:18.000 --> 01:10:22.000
+Miss understanding or miss conceding any names.
+
+01:10:22.000 --> 01:10:30.000
+My question is getting to the point that we have, I think, now.
+
+01:10:30.000 --> 01:10:38.000
+Several archiving on for for many many years we already have that several archiving initiatives.
+
+01:10:38.000 --> 01:10:56.000
+Often they are kind of focused on languages like the German literature archives like your project now, there's this great archive and Portugal, which has been collecting and presenting for a long time now.
+
+01:10:56.000 --> 01:11:05.000
+There was the cell initiative that tried to bring together these bring together different archives.
+
+01:11:05.000 --> 01:11:18.000
+I wonder, do you do you think with your Consortium, do you think about how can we bring together different materials from different countries and European on a worldwide perspective.
+
+01:11:18.000 --> 01:11:23.000
+We wonder how how are we going to go about this.
+
+01:11:23.000 --> 01:11:38.000
+To not stay in our own in our own focus but also transcend the perspective for researchers and users who interact with our material
+
+01:11:38.000 --> 01:11:56.000
+is touch this question touches on the I think the nature of electronic literature because it transcends national boundaries, right. So, it's sort of counterintuitive to make a collection of works from a specific geographical area.
+
+01:11:56.000 --> 01:12:02.000
+At the same time, however, and this is what I argue in the paper.
+
+01:12:02.000 --> 01:12:16.000
+I believe the institutional context and the technical cultural context of these specific geographical locations, give rise to yeah also very different traditions of electronic literature.
+
+01:12:16.000 --> 01:12:32.000
+And I think that's what we try to show for the Dutch and Flemish context. And this is what the, the other databases that are out there, show for their respective context.
+
+01:12:32.000 --> 01:12:41.000
+And I very much a plot initiatives like back cell which brings together, because it also highlights, these differences and these.
+
+01:12:41.000 --> 01:12:51.000
+Yeah, I don't, I don't feel a project like ours is redundant in that, in that respect, because, yeah.
+
+01:12:51.000 --> 01:13:03.000
+An overview of W Clement editor and literature is lacking. And that's a shame for purposes of education for for the National Library for preservation.
+
+01:13:03.000 --> 01:13:11.000
+So yeah, That's what I would say about it. Yeah,
+
+01:13:11.000 --> 01:13:24.000
+many comments on the chat box, and we are almost out of time. One minute, anybody wants to say the last words to conclude this wonderful session. Thank you very much the presenters.
+
+01:13:24.000 --> 01:13:49.000
+Thank you very much for a very great interactive audience, anybody wanted to say the last few words.
+

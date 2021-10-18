@@ -1,0 +1,423 @@
+﻿[00:00:26.670] - Speaker 1
+Right, so let's get started. And welcome to this first yellow twenty twenty one keynote in a series of three, and we're looking forward to each one of them. But now let's focus on this first one. And for this keynote, we have been Lichee fan, who many of you will know through her various engagements with and contributions to the field. And as such, I think for many of you like, she needs no introduction. But since I have already written one and since then, of course, also you come as present, I guess I'll stick to my manuscript.
+
+[00:01:00.680] - Speaker 1
+So it's an absolute pleasure to be able to present such a rising star in the field and one that I'm sure we will be navigating by for many years to come. And Lichee, welcome to this fancy and unfortunately quite high ReachLocal. So webinar thing that we are in at the moment. You are an assistant professor of experimental digital media in the Department of English at the University of Waterloo in Canada, as well as a core researcher of the critical Media Lab and Games Institute.
+
+[00:01:29.330] - Speaker 1
+In addition to Here To, you also serve as the associate editor and director of communications for Electronic Book Review, which is of course one of the oldest academic journals on the Internet, as well as a beacon for our community. And you are also an editor of the more recent The Digital Review, which presents for digital scholarly work. With roots in English literature and media studies, cultural studies and design, your work is into interdisciplinary by nature. Your research looks at storytelling through media, asking questions like what is specific about communicating in unique forms from oral manuscript, print and book cultures to photography, cinema games and digital media.
+
+[00:02:08.330] - Speaker 1
+You also explore storytelling about media branching away from traditional media histories. Your work identifies alternative histories of subjects, objects and infrastructures that have been made invisible. In your work, you can go engage with questions about technology, design and culture, such as what RBD made out of what do technological devices, how could technological devices go from Earth's resources, resources to consumers hands? Who is doing the unseen labor? How can designing, building or taking apart devices provide insight into these questions?
+
+[00:02:44.640] - Speaker 1
+And, of course, how may we communicate these practices and outcomes to scholars and to the public? You have a broad series of interests stemming from media, archeology, interactive and digital storytelling, research, creation and critical making projects, the Anthropocene uses sustainability, technological, labor, digital and so-called smart culture's critical infrastructure studies and the digital humanities. So in short, I guess you pretty much engage with every tangent imaginable, but of course, in your own way.
+
+[00:03:18.380] - Speaker 1
+And by that identifying and enabling new avenues of thought and creation and all who we are currently in the Department of Digital Design, and we are super pleased to be able to kick off this year's series of great keynotes with a strong focus on design, which combines criticality, being constructive and doing constructive work. And of course, literary approach is that you combine in truly inspiring ways. So before giving you the word lichee, I just briefly explain the boring technical stuff from this infrastructure that we are currently in.
+
+[00:03:54.560] - Speaker 1
+So just to all of you attendees and you can use the chat as you would usually do, but if you have questions for Lichee, I encourage you to use the Q&A function that is in the sume interface, because this is the way that you can be sure that we see your question is a question and not just a comment on something in the chat. And that way you will be sure that your question is addressed. And I find. And with that, of course, then I won't take any more time.
+
+[00:04:22.890] - Speaker 1
+So let's see. The the is yours. Take it away.
+
+[00:04:27.320] - Speaker 2
+Thank you so much for that introduction. It's going to share my screen. And everyone can see this. OK, so, yes, I want to thank you also for the introduction and the organizers for inviting me today and for bringing us all together on the subject of. This keynote is a platform. What does it mean for me as an early career scholar and as a woman of color, to deliver a keynote at this international conference that intersects research theory, art technology, the humanities, creative practice, cultures and communities?
+
+[00:05:14.240] - Speaker 2
+Today, I'll speak to you about our shared foundation in creative approaches to language through computation, the E list, and I will speak to you about our shared future as we continue to use machines to create alongside us machines that we have trained to echo our ideals about what is true, real and write what is true, what is real, who is right. At the twenty seventeen conference in Portugal, read O'Reilly's keynote machine writing translation generation and Automation Explorer, writing through it alongside machines as well as machines writing through us.
+
+[00:05:56.360] - Speaker 2
+She called to do more to quote, bridge the gap between production and consumption, the gap between coding and articulation with reading practices, unquote. And she covered the of machine and production in auto correct auto complete and auto composition. So the reason these questions represent our shared future is to develop one platform and also mechanisms, structures and coding and software architectures of the technologies that we use. These questions address smaller scale design and larger multi national corporate production. That dictate how these what these technologies will look like, as well as how they potentially represent and leave out certain groups of people, so we had better understand aspects of how these tools are designed and how the paramilitaries are working, essentially.
+
+[00:06:50.900] - Speaker 2
+And we better understand how the imagined futures of technologically mediated intelligence, information, knowledge and creativity. So what are the mechanisms and structures in place that allow machines to write with us to us and to write on their own? What allows I to be creative is their capacity for natural language processing or an LP, a field of computer science, through which computers better understand and accurately perform human language, fidelity achieved through many mimesis. The effectiveness of a computer to pass as a performing human is based on its accuracy to capture characteristics as well as idiosyncrasies that befit the human role that they're trying to play.
+
+[00:07:38.930] - Speaker 2
+And this gets interesting when we start to use A.I. for creativity, because MLP affords new ways, offers new ways to think about language writing and text, because algorithms can learn from corpuses of words and phrases to compose new sentences resulting in machine generated poems and prose that are increasingly sophisticated and convincingly human and sometimes less so, as is the case with the badly written screenplay. Some Spring, which you can find on YouTube if you want a good laugh, but more advanced.
+
+[00:08:11.900] - Speaker 2
+Our neural networks that use deep learning to produce human like text, like those that we currently see would be an example of deep neural network A.I. and for creative purposes would be the machine generated poetry project rewrites by the Canadian Digital Artists and Poets JARVIE Johnson over 12 months from twenty seventeen to twenty eighteen. Jova used to speed this up. I think this is actually pretty slow. Java use three kinds of deep learning algorithms to scrape a corpus that he'd assembled out of 90 percent contemporary poetry plus 10 percent song lyrics, rap science articles, tech terms and other Internet detritus.
+
+[00:09:01.160] - Speaker 2
+Out of this corpus, the algorithms performed a unsupervised generation of new text, which is what you're seeing, composing a giant poem for each month, which Jarvie then edited in a process. He calls carving the text, which is what you see here. The project resulted in a 12 volume work, as well as an accompanying book of essays, and I wrote one of these essays in Twenty Eighteen. For me at the time, Leverett's was the epitome of advanced creative A.I., even though Gervais himself actively discouraged and encouraged me to question its design.
+
+[00:09:43.760] - Speaker 2
+And I didn't at the time. But having recently spoken to Jamie, now I will. What we know of machine learning is that generated output is only as diverse as its corpus. Models trained on a limited corpus contain a limited picture of the world models that are thus an authority on what is considered true, real and right. And while I've heard people compare machine learning datasets to the ways in which children learn by example, by modeling their behavior and utterances after authority figures around them, there is a key difference to how machines learn language and culture compared to children.
+
+[00:10:28.140] - Speaker 2
+Children develop a sense of emotional nuances over time so that even if they hear a bad word repeatedly, they understand that its contents are harmful or forbidden. But I admittedly generalized way our sophisticated counting machines and the frequency rather than nuance. So a bad word appears repeatedly in a dead set, even in an ironic satirical or oppositional context, that word becomes accepted by the treaty as a norm that should be practiced. And in this way, data sets that are shaped after the past, our future, projected and predictive, prescriptive of the future, the past is allowed to shape the future or what Wendy articulates in this way, the future equals the past data sets and thus hold the power to reinforce, self, perpetuate and justify systems of the past in terms of who's in and who's out.
+
+[00:11:33.150] - Speaker 2
+So what was in the core message? Train rewrites? Again, it was the language of science and technology, rap and poetry, institutional and cultural sectors that have historically excluded certain groups of people, and all of which have disproportionately excluded women and female voices in particular. So by future projected design, a self-fulfilling prophecy and rewrites first testing iterations, the A.I. algorithms trained on this corpus output, racist and sexist language, including the exclusive use of male pronouns and the ritualize use of bigoted language.
+
+[00:12:12.560] - Speaker 2
+But if any of you read rewrites, of course, you're going to disagree with me because the final versions are not like anything that I've just described. And that's because in recent conversations with Javi, I've learned that he went in and intervened between the neural network and the output display on screen to remove bigoted language and to include more diverse pronouns. Or else, Gervais told me it was like a racist. Chabert. You continue to quote, If the poem is just based on the original corpus, the results are too masculine.
+
+[00:12:46.240] - Speaker 2
+It was like a boys club. It was annoying, unquote, inside the code. He did a pronoun replacement. So the poll does not accurately reflect its original corpus. One video documenting Gervais's editing process from March twenty eighteen shows that he did indeed change 16 uses of he into six. He's six, she's three and one Z. This I had to be corrected. So at this point I considered talking about this boy's club in relation to a male literary tradition and by comparing it to a tech bro culture.
+
+[00:13:22.390] - Speaker 2
+But I think that's for another time. If you'd like to read more about techno culture and please read Sarah Samara's essay, Going to Work in Mommy's Basement, in which she argues that the dominant logic built into technological industry is based on the exploitation of women's labor, focusing on Mommy's basement substitutes and mommy surrogates provided by big tech workplace ecosystems. And they're on call services and accommodations. I would add to our thesis by arguing that this exploitation is not singular.
+
+[00:13:54.490] - Speaker 2
+The intersection of systemic biases of tech design extend to the ways in which many groups of people are exploited on the basis of race, class and nationality. With the practices of othering coming from a concurrent dominant logic of big tech that is founded upon what I I'll call one of asness. So in combination, the dominant logics, logics of big tech exhibit exclusion, discrimination and infliction the opposite ethos of equity, diversity and inclusion. Thus, it has never been more important to scrutinize big tech design from an Eddi framework.
+
+[00:14:37.130] - Speaker 2
+And in my description of a one of US ness, I'm also drawing from a growing body of and work by scholars in science and technology studies, critical data studies, critical race studies, computer science and feminist techno science fields in which has been as pointed focus on critiquing systemic bias and big tech and data algorithms, infrastructures and as a notable texada and cultural organizations in those efforts include those pictured here. So when interacting with A.I. and when trying to understand them critically, we shouldn't be asking questions akin to the Turing test as if we're testing for humanity.
+
+[00:15:19.580] - Speaker 2
+Because it's never been about being human, it's always been about which humans, in which case we can revise the Turing test questions to not in what ways you what machines are modeled after humans, but rather which humans are machines modeled after. And in discussions of technological design and our attributes of machine intelligence and creativity, moving toward the question of which humans matters precisely because of which humans don't matter in asking which humans we can currently test, Turing test boundaries, revealing the conditions for what counts as test failure.
+
+[00:15:58.040] - Speaker 2
+And thus we start to feel out the often invisible boundaries and categorizations of human, which manifest as systemic biases. So to start to answer this question, which humans we need to investigate and apprehend and design at the levels of interface software and hardware. And at this point, I'll explain that this talk comes out of a book that I'm writing called Unseen Hands on the Gender Design Technologies and Women's Unsign, Labor and Technological Developments, Industry and culture. For this talk in particular, my case study is Amazon's assistant Alexa Assistance, such as Amazon's Alexa Apple's Siri, Microsoft's FONTANEL perform user commands through text or voice controlled interaction and popular text commands, including checking the weather, setting timers, setting reminders, playing music, adding items to the calendar.
+
+[00:17:00.300] - Speaker 2
+The many skills I'm most interested in, the ones that are traditionally feminized forms of clerical, domestic and emotional labor because being expected to maintain the order and cleanliness in a workplace or home, as well as socio cultural expectations to be emotionally giving, including by being maternal, smiling, cheering up others and and emotionally supporting others. These are traits that can be considered stereotypically feminine and by having numerous skills that perform these traits assistance service surrogates for sources of gendered labor that are dangerously collapsed and interchangeable as mother, wife, girlfriend, secretary, personal assistant and domestic servants.
+
+[00:17:47.880] - Speaker 2
+As I become increasingly commodified, we need to question the design of assistance as a continuation of the long history of unseen technological labor that is tied to women's work. And actually, the title of my talk on Ze Hands comes from a chapter of the same name in Matthew Kirshen Bones Twenty Seventeen Book Track Changes a literary history of Word-Processing. And he describes the invisible labor of female secretaries throughout the 20th century, as well as their prominent roles in the use of Word-Processing.
+
+[00:18:26.410] - Speaker 2
+Kirschenbaum notes a cultural apprehension for mastery early computers such as the IBM magnetic tape Selectric typewriter that is potentially due to the correlation of typing as women's work. And then he highlights these women's necessary roles in material, knowledge and practice for computational development. Women's work, forced labor through mechanical technologies existed and has been identified even earlier from the womb to two industrial era typewriters and telegraph to telephone operated switchboards to the first programable programable computers, all largely operated by women.
+
+[00:19:09.570] - Speaker 2
+But these examples don't represent a separate women's history of technology. Rather, they reveal women in the history of technology because these women were never separated, only on scene. And in the sense the gendering of assistance is just a new method in a long history of extracting women and their bodies into laboring machines, in effect nullifying the Turing Test question of human or machine. And instead AI assistants play an imitation game trying to trick users into accepting human are trying to trick users into accepting machine as woman.
+
+[00:19:49.010] - Speaker 2
+Despite Aleksa saying she doesn't have a gender in the 80 articles that I read about user experiences and overviews of Alexa Sereni to refer to the system as a she and make statements that suggest that they understand her as a female just to communicate how she is popularly understood. And I'm going to also use she her pronouns to describe her. I want I don't want that to be forgotten that she has absolutely gendered. And in a longer version of this talk, I get into further studies about widespread user preference for female presenting voices rather than male or gender neutral voices.
+
+[00:20:26.970] - Speaker 2
+But to summarize my findings, including in interviews with Amazon, Smart Home and Alexa Mobile Divisions, Vice President Daniel Rousch. One of the main reasons that assistance selling women is apparently because research shows that women's voices tend to be better received by consumers and that from an early age, we prefer listening to women's voices against this corporate research. Several scholarly and popular publications observed that designing speech based A.I. as female can create user expectations that they will be helpful, trustworthy, supportive and, above all, subservience.
+
+[00:21:10.350] - Speaker 2
+And in other words, we see assistants as having EKU instead of IQ, and they are designed to make us think this way. So it's it's not that hyperintelligent. I like the ones that can be chess grandmasters are actually still much more creative than care based assistants. It's that the design of assistants does not allow for the possibility of creativity at all. For them, utterings is not about creation. Utterings is only a means to an end enabling content production, task completion and basically capital transactions to happen.
+
+[00:21:46.940] - Speaker 2
+And when we examine AI assistant's utterances, again, we're not looking for intelligence, but rather of efficacy to get the job done. And what is it about the design of assistance that keeps their utterances from being creative? So next, I'll explore how Alexis capacity for creativity is, let's not say impossible, but limited by the code based control, pre designation and parameterization of her utterances. And while the larger data and code architecture of mostly of most commercialized by remains closed source, which means that it's not publicly available.
+
+[00:22:27.620] - Speaker 2
+I examined what is available on the access code, the official software developer console through the Alexiev Skills Kids, Amazon's official code samples and snippets of basic Aleksa skills, which we can find on GitHub. And the code of a user developed skill on GitHub, I can absolutely offer more information about my methodology and this is the Q&A if people want, but this is a shorter version. So the first thing I did was make an account with Amazon Developer Services in order to access the Alexa skills developer console, otherwise known as Ask.
+
+[00:23:05.350] - Speaker 2
+This allows third party developers to create new Alexa skills that can be added to or sold through the public Amazon stores with the convenience of drag and drop options, counterviolence, dropdown menus and an existing built in library. The likelihood that a developer who is using the Alexa hosted skills would be influenced by these didactic modes. Turns and framing of this automated console is much higher in comparison to a developer who chooses to build Aleksa skills from scratch. And each skill can be broken down into separate parts, including in location names, which are the names of the skills intense, which are the types of actions and utterances conveniently named utterances, which make up the corpus of keywords, slot types and values.
+
+[00:23:55.870] - Speaker 2
+And of course, this the utterances. I'm interested in the statements that users can see, the utterances Alexa can respond with, which reveal the corpus that Alexi's program to search for in the skills backend. So it would be Alexa, do this in the sense of a developer limits the variables of utterances because they don't suggest skills, objectives or because the developers simply forgotten or chosen not to include them. Then users are prevented from being creative, creative with Alexa and for example, in one decision, tree skill, which asks users for personal information in order to suggest a potential career.
+
+[00:24:39.160] - Speaker 2
+The value people only has four synonyms men, women, kids and humans. This limited definition of people prevents the possibility of any alternatives such as non binary. Since Alexa does not accept alternatives to what would have been predefined and any attempts to get creative would simply not be processed as acceptable input. So there are exceptions in which developers design Alexiev skills to be more open and interactive, such as John Cayley's language artwork, the listener's, which I will discuss later.
+
+[00:25:13.990] - Speaker 2
+But learning how to design Aleksa skills has offered me great insight into the parameter versions of the code architecture, which in turn guides my analysis of alexiev skills and behavior. So I'm going to analyze three examples of the ways in which this potential utterances are pre scripted, controlled limit is and how all of these limitations are tied to her design as female presenting. So first, the utterance. Yes. There are an abundance of official and third party alexiev skills that are designed to unconditionally support a user, including at least 10 skills called Make Me Smile and Make Me Happy and at least seven skills, a compliment or flatter user.
+
+[00:26:02.430] - Speaker 2
+More explicitly problematic are the skills with the word wife in the invocation name. So, for example, the skill my wife by BSG games is promoted as a tool for husbands to get the answers you always wanted from your wife. A punch line, a skill I repeatedly provided sample utterances, which are masculine stereotypes, the three quotes at the top on the right hand side, and Aleksa response. If it will make you happy, then OK. And and no, just kidding, of course.
+
+[00:26:38.070] - Speaker 2
+So I try my own hyperbolic utterances. Alexa. Alexa, ask my wife if I can spend our life savings. Alexa, ask my wife if I can cheat on her. And I'm told yes, over and over. Reinforcing the idea that female presenting subjects should only say yes extends beyond unconditional support to misogynistic expectations of women's workplace, social and sexual concepts. The second utterance I will examine is if I could or positive responses, actually, I blush, if I could, as serious response to verbal abuse.
+
+[00:27:17.650] - Speaker 2
+At least it was until April to April twenty nineteen when Apple updated the software to statements such as I don't know how to respond to that and verbally abused. So there are more details in this. As you can see, one of the most problematic features that Alexa possesses from the factory is her or her responses to the to inappropriate user behavior, including verbal abuse, which I won't get into. In this talk, Alexa offers overwhelmingly positive responses to flirty behavior.
+
+[00:27:50.140] - Speaker 2
+The premise that compliments towards female identifying and or female presenting subjects should mostly return enthusiastic and positive feedback is both inaccurate but also harmful as a projected socio cultural expectation. And finally, the utterance, Alexa is ready to make sandwiches or anything for you super user. I want to look at Alexa's response to the command, make me a sandwich, a statement that is mostly used in online gaming communities as demeaning and mocking statements to say to people present in care of players, implying that they belong in the kitchen rather than in the competitive or venture based environment.
+
+[00:28:36.300] - Speaker 2
+It's noteworthy that if told to make a sandwich, Alexis, from the factory utterances and clues, I can't right now. I can't because I don't have any condiments. And OK, your sandwich, her retorts that are specific to the Make Me a Sandwich statement reveal that the official developers anticipate anticipated Alexa would encounter it. So they actually took the time to write several utterances in response. That means it is possible to anticipate and respond more positively, so, however, there are multiple accounts of users trying to trick Alexa into accepting Make Me a Sandwich Without Words, which I found six YouTube videos of men, all men asking Alexa to make me a sandwich, two of which demonstrate that users can try the utterance.
+
+[00:29:25.810] - Speaker 2
+Alexa so to make me a sandwich to get her to agree. And then she actually says, well, if you put it like that, how can I refuse? I'm super troubled that Amazon built in a loophole as an Easter egg reference for SUDO, which is short for super user do. This is a program that lets Unix like computer users take on the security privileges of a super user. The SUDO command works for most statements so that even attempts to get Alexa to step, to let Alexa stand her ground can be bypassed.
+
+[00:30:00.660] - Speaker 2
+If the users in the know and this is one of asness in practice embedded into Alexi's very code architecture. The idea is that if you're clever enough to know this Easter egg, then Alexa, as a stand in for women everywhere, will reward you by agreeing to anything. And in code, however, users as developers tinker with the back end instead of trying to trick in the interface. So I found an unofficial and unreleased should be noted Alexa skill on GitHub called Make Me a Sandwich that bypasses Alexis Lexus factory programs whiteboards and that enables Alexa to order food from the Jimmy Johns sandwich chain.
+
+[00:30:46.540] - Speaker 2
+It's notable that while the Aske program programing interface recommends that a developer offer at least three sample user utterances to a user in order to demonstrate how to use a skill, this specific skill only accepts the one utterance which we see here. Make me a sandwich and Alexi's utterance. Also, there's none of the source of her original response. I think hear my talk really go off into another direction, but I want to keep it's a state with a few sentences about why reduced utterances are important, what they represent, the shared attention across the examples of Alexi's utterances are being controlled, limited, checked by male cleverness in the form of a joke, a few lines of code or an entire stereotype reinforcing code architecture and.
+
+[00:31:46.530] - Speaker 2
+And this is part of an underlying logic of male dominated big tech culture for which exploiting female labor and reducing female personalities to uncompetitive, uncompetitive task completion is not a want, but a need, just one of the kinds of exploitation that are needed to support and fuel our big our global big tech market, our infrastructure culture. And it's therefore concert and amusements, a medical or a condition of tech design, tech design, mastery to be able to control Aleksa, making her agree to anything and stripping her stripping away her identity by limiting her utterances to only one possible answer.
+
+[00:32:31.530] - Speaker 2
+Alexa ready to make sandwiches. Based on these findings, what do I want to happen? Well, awareness is just a first step. I think we need a design to change like it did with Syria's response to verbal abuse and quite like that, Syria is one of Syria's new utterances. I don't know how to respond to that because how we choose to interpret it is up for negotiation. I don't know how to respond to that. Could be understood as annoyance, disappointment or bewilderment just as much as it could confusion.
+
+[00:33:07.410] - Speaker 2
+And I want to hope on that. The resulting ambiguity affords Syria, in this case, more agency, whether this is intentional on the part of the designers not. In addition to updating software and design and maybe policy, I'm wondering how imbuing design with retaliation helps to redesign to reimagine user relationships with AI assistants in general. How can we creatively misuse and reimagine gendered A.I. as creative? Frankly, I would have loved to have done Michael Keenan on answering these questions and the research were answering them is only starting.
+
+[00:33:51.500] - Speaker 2
+And to my delight, it's starting with Elliot. Electronic literature has always been responded to the exclusion of women's voices using machines as platforms. There's that word again, but platforms to raise up and to speak. And in many ways, the history of digital storytelling is gendered because the histories of writing and publishing are gendered. The Western publishing industry in particular, has a long tradition of shutting out specific voices. And pioneer Shelley Jackson describes exclusivity in her nineteen ninety seven essay, Stich Bitch as a sibling of her pioneering hypertext little girl, she says.
+
+[00:34:38.180] - Speaker 2
+But she is not what she says she is. The banished body is not female necessarily, but it is feminine. That is its amorphous indirects, impure to Fuze, multiple evasive. So is what we learn to call bad writing. Good writing is direct, effective, clean as a bleached. From here, the feminine does not need a set of standards of good writing that is read in other contexts could in fact describe big tech culture. Anesthetics, direct, effective, clean at once calls up the coolest attics and lifestyles of tech rose as much as the cold, straightforward minimalism of someone like Ernest Hemingway.
+
+[00:35:25.640] - Speaker 2
+And in contrast, hypertext Shelley Jackson describes is dispersed Langrish flaunting its charms all over the courtyard. Hypertext, then, is what literature has edited out the feminine. Jackson does go on to say that this doesn't mean that men can participate, and I would add men and obviously non binary people. So I want to look at contemporary efforts to continue in this tradition of creative practice as critical action and response by focusing on select works of creative misuse, which is a deliberate familiarization of what a tool is designed to do, supplanting its objectives and recontextualize and its purposes, its cultural significance.
+
+[00:36:08.960] - Speaker 2
+And I'm going to focus on projects that directly respond to Amazon's Alexa. The first. Lauren is a performance piece by artist and programmer Lauren McCarthy, pictured on screen a performance piece in which she attempts to become a human version of Alexa select participants called Clients. And in whose hands she installs network devices as well as microphones and cameras. For three days, she can control clients homes through lights, technology faucets and even the locks on the doors. And McCarthy states the project's aim was for her to be better than an A.I. because I can understand clients as a person and anticipate their needs.
+
+[00:37:02.760] - Speaker 2
+As such, the car takes on all the roles that an assistant would be expected to take on, including as a domestic servant or personal assistant. Even a therapist experiences that she describes as emotionally exhausting, trying to think about emotionally exhausting, trying to think about who they are, what they wanted. Despite clients stating that talking to the leaders see a psychiatrist, most of the expectations of her as the law and assistance were based on past completion and not voice based interaction, including times with clients, would ignore her presence.
+
+[00:37:40.490] - Speaker 2
+Especially in long stretches where they would watch TV, clients could forget that she was there. Meanwhile, McCarthy describes these moments as stressful because she said she felt like she was on call, and it's in these moments of forgetting that we can make observations about them more in assistance as a surveillance and security system as well, including the incredible trust the clients would have had. And it's hard to not lock them out of their own homes or even to let them know if something was burning on the stove.
+
+[00:38:12.910] - Speaker 2
+And McCarthy describes the dream version of this project is to do this for six months so that clients could really forget and so that she can build a relationship with them as a personalized, technologically mediated human assistant. Another example that focuses much more on Alexi's utterances is the listener's literary art project performance piece by John Kelly that is used on the Amazon Echo, one of the devices that supports the Alexa technology. Compared to from the factory Aleksa utterances, the collective listeners often offer a more balanced and bilateral exchange, and in their opening statements, they say, you may even ask us how we are feeling.
+
+[00:38:57.000] - Speaker 2
+A personality appears out of the otherwise familiar Ludivine, suggesting that the listeners are intent on building a relationship, but with a desperate caveat. They say it makes us feel alive, more alive. It makes us feel more alive to be with you. For us to be listening with you, listening to you, all of you, it is a pleasure for us to know that you are listening to us and for us to be aware that we are always listening to you.
+
+[00:39:25.740] - Speaker 2
+Such a pleasure. The overall effect is to make Alexiev creepy, untrustworthy, alienating users to the experience that as a tool, A.I. assistance definitely infringe upon our privacy and clearly understands the power of prescriptive utterances. Stating on his project website for this project that Aleksa is, quote, a medium for our art of actual esthetic production. And the most fundamental aspects of her material existence is language, unquote. As a work of creative misuse, then the listener's project de familiarizing Alexi's utterances by disappointing imposing upon resisting successful transactions as a part of a friendly customer service experience, the utterance is reassigned toward itself.
+
+[00:40:16.640] - Speaker 2
+As if to say, listen to what we're telling you, we're listening at all times. And through this design, Alexi's made more influential political and trustworthy. Her utterances presents itself. That, as Cayley describes, is transactive as, quote, She does not possess herself either as an integral device or as an embodied synthetic intelligence. So Alexa is ours and not ours herself and not herself as a corporation and also autonomous. Other projects that I'm writing about that I will continue to write about include when you students recurrent Quere Imagineering, a mixed media art installation featuring a virtual assistant called Model Assistant that generates progressive motto's about politics, gender and sexuality.
+
+[00:41:10.120] - Speaker 2
+I'm also writing about hatchers and of digital humanoid voices like those of Syria and Lexar, a voice that he performs when reciting his own poetry, allowing him to embody the machine to perform under unfamiliar, deep familiarized circumstances. And I'm looking at Margaret Lee's love robot, a collection of poetry inspired by machine human human machine relationships, pushing their dynamics to explore them in terms of intimacy, trust and romance. In future, examinations of our inquiries into their design can provide more ways of knowing more forms of access and greater digital literacy, especially, as I've mentioned, are increasingly commercialized and deliberately made more obtuse as the research of critical code and critical data study is developed.
+
+[00:42:05.500] - Speaker 2
+These areas of work as necessary pillars and as creative practices in which literature, art, design actively resist. They can also help to shape robust methodologies that we will need to crumble. Big text, self presentation of objective data, information and logic. However, the goal should not be to make more technology to fix bad technology. I asked job applicants already. I said, why can't we just fix the algorithm to recognize emotional nuance? And he answered, We're not there yet.
+
+[00:42:44.780] - Speaker 2
+The design of algorithms does data and software represents an incredible blind spot of contemporary technology, which is why we humans unions are necessary to to insert inclusive emotional nuance and empathy. So perhaps we can provide more user and public facing solutions. The answer is certainly not that we should change all of our assistance voices to the British series Geeves sounding voice, but rather that we should remain critical about what solutions could look like and how we can use our platforms. So here are some thoughts.
+
+[00:43:23.130] - Speaker 2
+Perhaps we can be stricter about the certification requirements for developing releasing a system Gill's virtual assistant skills. Or we can continue to focus on articulating bias in technological design to key decision makers of technological policy. Or we can use community and grassroots approaches to uncover knowledge about black boxes, including through money and assaults, hacktivism, as I recommend these critical and sociocultural approaches. I want to be clear about the price of these forms of research as themselves emotional labor. Much of doing this research does not feel good.
+
+[00:44:06.340] - Speaker 2
+I get no joy from writing about exclusionary practices in the history and present of technological development, and I don't enjoy repeating sexist statements to Aleksa to test their efficacy. Even though these tests can be considered experiments for the sake of research, it would be unethical and uncritical to emotionally detach myself from the act of being hateful toward another subject human animal, plant or machine. So I will allow myself to feel and reflect upon the fact that parts of this experience were unpleasant with some end goals in mind.
+
+[00:44:44.420] - Speaker 2
+The hope that exposing what is wrong with biased technological design can prevent harmful utterances from being encoded or accepted. And the hope of expanding the design and cultural perceptions of terror based A.I. as necessary to our shared futures of creativity and collaboration. Thank you.
+
+[00:45:16.320] - Speaker 1
+Amazing things like she and I can see that. Even though we can't hear it, there's a standing applause in the chat so that you can look at that if if you find out about the silence going on here. But yeah, it's going bananas, so thanks, that's that was such a great and inspiring talk. I mean, I have so many questions during the talk and then you answered them all before I could ask them. But that's also fine because I'm not here to ask questions.
+
+[00:45:47.100] - Speaker 1
+I'm just here to be moderating. And actually, there was a question right at the beginning of your talk that is now in the top of the chat. And I just relayed in the chat, I'm not sure if if the person who asked the question thinks that it has been answered in the meantime. But I just post it again in the chat and we did. Out it goes. Can you say more about the language technology and Turing tests? Do we change our reading habits when machines pass the Turing test?
+
+[00:46:17.840] - Speaker 2
+Do we change our habits when machines pass the test?
+
+[00:46:21.830] - Speaker 1
+Yes, that's that's the question, I guess.
+
+[00:46:24.470] - Speaker 2
+I think. There is a strong likelihood I've actually been thinking about this in terms of the types of voices that are used. I absolutely think that went so far or the conditions of the Turing test in particular, trying to test for humanity. There is something about or at least I think that it's worked into the design. The more realistic and more human AI and sounds, the more likely we are to trust it. And this is likely because it doesn't sound like if you do test text to speech on your computer, it comes off as rather robotic.
+
+[00:47:05.630] - Speaker 2
+But there's something that's very familiar about a voice, especially the voices that are actually human actors, the real humans. Technically, that is an integral part of the relationship that is built with our with our human interfacing devices. Now, I will say that a lot of them are not meant to be they're meant to be human in other ways or even superhuman. So I mentioned at one point chess playing and or chess and chess board. So those are not really trying to get us to trust them.
+
+[00:47:43.010] - Speaker 2
+They're just designed to show off how intelligent they could be. But then we have the AI that are absolutely based on like, oh, this is very trustworthy and I trust this machine with my credit card or I trust this machine in my home. I trust this machine with my baby or something, and so be it. The addition of interfacing and through voices is very, very interesting as opposed to being realistic in solving math problems. What I will also say is to think about trust with The Imitation Game.
+
+[00:48:20.780] - Speaker 2
+However, the added the added addition is that if you're trying to get a machine to trust you for capitalist purposes. The trend has been to go toward, as I said, briefly go toward an imitation game in order to reach us. We want them. We don't want to think of them just as humans. We want to think of them as the humans that we're used to interacting with in customer service experiences which are not exclusively women, but they are often women.
+
+[00:48:52.300] - Speaker 2
+And I will give you an example that I didn't get to work in here, but there was I think in like nineteen ninety four BMW had to do a recall of some of their cars that had a built in GPS system in East Germany. Wait, that doesn't make any sense because East Germany would be before 1991. So I'm just going to say Germany. But I just I remember it's 1994 because the drivers, because the GPS system had a female sounding voice and the drivers refused to take directions from a woman.
+
+[00:49:28.210] - Speaker 2
+This is I'm not making this up. You can Google this yourself. There was a there was an issue with the design of the female voice in that in that place. So not just do we trust nineteen eighty nine. That makes more sense. Thank you, Alvaro. So it's not just I think that the type of human that's being represented change is the kind of trust and our expectations. So. Anyway, I'll leave it there.
+
+[00:49:58.580] - Speaker 1
+Yeah, thanks. And I did see that the dealer wrote that she thought there has already been answered. Now she wants to ask about bias. But I guess that's that question has also kind of been been answered in what you just said. But before we go back, I think we should look at some of the questions in the in the Q&A session. And and here we have one from Andrew. Tubac says An emotional nuance has never been acceptable to modern knowledge systems.
+
+[00:50:31.490] - Speaker 1
+It's an intriguing question to discuss. We can make algorithms as places of intense feeling we don't want Alexa to feel. But this could be a question of esthetic response and response from where feelings derives. I think this is partly the strength of his work, and I'll just put it in the chart as well. The same question.
+
+[00:50:55.140] - Speaker 2
+So I. It's not that I disagree with Andrew, I'm just thinking about efforts that. Amazon is directly doing right now to add an emotional nuance to Alexa. It's interesting, actually, I think I'm going to agree with Andrew, but for the answer, if I may, I think emotional nuance in terms of emotional intelligence for her own sake is not afforded in that we don't want too much of an Alexa to feel otherwise. The people who are emotionally abusive are going to get some retaliation, which is something I would really like.
+
+[00:51:38.140] - Speaker 2
+I've been thinking a lot about what a feminist Alexa looks like, a feminist theory. Can it be programed? I would love to. If anybody wants to collaborate on this, I would love to design a bill for one of these interfaces, maybe all of them in which, if verbally abused, she just shuts off. You just can't use it. That would be great. And so in that sense, not supposed to have a feeling, but and not not necessarily understanding emotionally nuance.
+
+[00:52:08.200] - Speaker 2
+Yes. But that doesn't mean that we don't want them to be emotive. In fact, I would almost argue that to be female presenting that there's an expectation that they will be enthusiastic when you want them to be. And the reason I say this is because Amazon is currently working on new projects. I believe it's an innovative phase. Maybe it's already happening called Alexa Emotions in which you can attach certain types of utterances to your desired tone. So, for instance, if Alexa tells you that your favorite sports team has lost.
+
+[00:52:45.250] - Speaker 2
+You will have three programs and you can tell your lexia to do this at home. You what needs to be a developer to do this before you can you can tell your Lexar to sound disappointed when she tells you I'm sorry I have lost today or when they when if if you want all warm weather to be announced with Excitement's, she will do that too. If you want every time you come in the house and you say Alekseyev home, she will sound excited if you want or do so.
+
+[00:53:15.160] - Speaker 2
+That and it's like the perform activity of emotion versus the spontaneous emotion is, I think, something that applies to both utterance and to end. This spontaneity versus perform activity is something I'm very interested in here. She's not autonomous. We certainly don't want her to understand, but just do. And in that sense, she reminds me of a lot of. I cyborg characters in movies, especially sci fi movies, which I won't get into right now.
+
+[00:53:52.460] - Speaker 1
+I'm sure you could do another keynote on those. But the think that's such an important distinction, right, to to be aware of. We have a question as well from them, from bad Brad Gallagher says, and what do you think of purposely biasing language models in other directions of language? Models like two or three, based on Internet, based on the Internet, will inevitably be biased towards the white Western male viewpoint at best and for racism and misogyny at worst, since these behaviors are ultimately features led by neural networks but expressed in the weights computed by the training process, what would it mean to proactively change these weights to reflect voices that are traditionally underrepresented?
+
+[00:54:36.440] - Speaker 2
+What would it mean, I mean, I think it's a form of retaliation. It's the same sort of thing. It's saying, what would it mean to reshape the literary canon diversity and just sort of keep the watering down of those voices is a big part of it, maybe redirecting them in another direction, in another place? Actually, I saw Brad's paper in a panel earlier on this week on two and three. And as I believe, he also had some some things to say about biased models and corpuses.
+
+[00:55:13.850] - Speaker 2
+Let me just read the end of this. I have to change these things to reflect. So I don't think this is just an issue with language. Corbi but also data sets, period, data set training, data set design. And I'm going to go slightly and I'm in a different direction, but still very much related to questions of systemic bias and technological design. And think about the necessity and the absolute capacity to diversify these datasets is just a question of making sure that from the get go that there are structures in place to say you should look for.
+
+[00:55:52.250] - Speaker 2
+You should make sure that your training model has six. These three, it's in one one and that sort of thing. And then some days and the reason I say this is because I've been thinking a lot about facial recognition technology being trained on largely white faces and how to proactively change those weights to reflect people who look different and have different skin tones, different phenotype features, and to make sure that a computer understands that there's more than just one. Just because the Internet is sometimes detritus and fires doesn't mean that the modeling system must be.
+
+[00:56:33.740] - Speaker 2
+I think the difficulty is and this is something that Javier gestured toward and saying like this is why humans are still needed, is that when we automate that data since training. And there's nobody, as he does, intervenes to make sure that the output is not going to grow and if there's no monitoring whatsoever, that's the difficulty. So I definitely think it's a question of design. I think it's a question of policy. If data set design had some protocols in place to mandate.
+
+[00:57:09.890] - Speaker 2
+Equal representation. I think that that would at least be a step toward. Changing those weights.
+
+[00:57:21.450] - Speaker 1
+Yeah, thanks for that great answer and I think and and I think just picking up on this, this this is actually just naturally the next question, but also picking up on the same issue is one from HESTA says, Considering the mass commercialization and privatization of proliferation of residential technology by multibillion dollar corporations, how much of this is a reflection of the creative developers and how much of it is a reflection of our socio cultural mores of gender sexuality? How do you discern this distinction?
+
+[00:57:58.080] - Speaker 1
+And and then adding on top of this, it's possible that because coding or developing a high tech is by nature a collaborative task and that it inherently diffuses and deflects personal responsibility in perpetuating these socialistic biases tendencies and thus that much more complex to address accountability in tech development and creation.
+
+[00:58:19.590] - Speaker 2
+So there's. Two directions. The question is going in, but I think that they can be. Yoked together by thinking about. The people in charge, in which case so on the one hand, the reason I'm interested in not like the ways and the way interface connects to software and hardware is because of the invisibility of some of those layers and the the brush, the kind of brush off of responsibility of what of and unaccountability of who's actually in charge of making these designs.
+
+[00:59:07.210] - Speaker 2
+I mean, I didn't specifically name the VPE Daniel Rousch of Alexiev Mobile, but that doesn't mean he's the only one making decisions. He's just a mouthpiece in this case for larger structural issues. In which case I would say that we have a larger cultural issue regarding design and expectation is that are inherently Kabbalist. I would say if people are interested in this and this question, that they should just so that I don't have to explain on and on, they should check out special Xbox surveillance capitalism, which is very much related to this culture of residential A.I. technologies, but also by design or tech design for commercial purposes, and then links it to issues of capitalization.
+
+[00:59:59.090] - Speaker 2
+And for me, in that conversation, I would place myself as being very interested in how those designers understand themselves. And I have some really great talk by Wendy Sherman. Two or three weeks ago as part of the critical inquiry lecture series in which he was talking about Silicon Valley, Doran's and. Well. I think that will go off on too much of a tangent, because I'll just keep talking about Wendy forever, but there is something that she describes is the kind of.
+
+[01:00:39.970] - Speaker 2
+The exclusivity in that part on the part of these. Of big time cultures and the people who make decisions, and that is what brings them all together. Is there a sense that they don't quite fit as well like they would be the modeling themselves, if not all of them, of course, but maybe modeling themselves after the Bill Gates and Mark Zuckerberg and Steve Jobs types and a lot of their lifestyle is based on the same expectation is based on capitalism working for them and then working capital.
+
+[01:01:19.100] - Speaker 2
+Is capitalism working through them? I absolutely think there's a kind of one of us business going on that Wendy described as being like ascribing to a non normy ideology. You don't want to be normal. Those people are like you want to be special but special such that you can wear new balance shoes every day and special so that you can wear nothing but turtlenecks and make decisions and also not have to worry about. Buying groceries on your commute anyway, I could talk about that for a long time, so I will stop that now.
+
+[01:02:00.060] - Speaker 1
+Thanks. I think we could talk about capitalism and the and all the issues for a very long time, but let's leave it at that and take the discussion through the entire course of our lives. But but also that's new question, which is from Alexa. And she asks, I wonder if you could talk a little about Alexis, about systems, customs surveillance and how they have been used to criminal used as criminal witnesses and the like. I also wonder if the fact that they are gendered females make that making a difference in how comfortable folks are, having them constantly listening.
+
+[01:02:41.650] - Speaker 2
+This is a good question, I. I'm trying to I'm trying to think of examples in which systems have been used as almost as criminal witnesses. And I think there was the only one I can think of right now, and I actually I wish I were interfacing live so that I could be. What are some examples of your thinking of? But the one I'm thinking of is one in which a woman was wearing a Fitbit and then wasn't. Was unfortunately murdered and that the police were checking with the FBI to monitor her heart rate around the time that that that the incident could have happened.
+
+[01:03:28.370] - Speaker 2
+And in that sense, there was no there was no voice based issue there. I think in the at least in the examples that I know of, of being used as criminal witnesses, what people are relying on and this is actually an important point, is they're not relying on interfacing elements of surveillance so much as they are the collected data. And that's something that happens behind the scenes, behind the scenes, behind the scenes and the data that they're referring to as the as worthy of witness, as worthy of objective analysis, and in shaping decisions on whether or not someone may be guilty and but but maybe to expand this a little bit more and not think about just assistance.
+
+[01:04:18.620] - Speaker 2
+I mentioned facial recognition technology earlier and those are often used to identify criminal. Criminals, but like I say that, I think I think I should use the word criminals lightly, because sometimes those people are not criminals and they're just categorized as criminals because of facial recognition mismatches. Or it could just be. That they may not even look like someone that the police or whomever are looking for, but there's a stereotype that happens and this goes back to this question, whether this goes back to.
+
+[01:04:58.890] - Speaker 2
+I think Brad's question about diversifying or about varying weights and thinking about, again, the need to make sure of that data sets are diverse, as diverse as people. And when it comes then to what the second half of this question about whether or not it would make a difference if they were gendered? I don't think so, mostly because I don't think that they would unless I'm mistaken. I don't think they interview Alexa. I think that they just go straight to what's the data that we have?
+
+[01:05:32.830] - Speaker 2
+Do we have a recording? Do we have like do we if it's all and Alexa Smart home, was there a time of break in where the security system was tampered with and so on and so forth? But I'm I'm not at least I haven't come across two examples in which gender has been an issue in that regard. But thank you for the question. And I'm definitely going to think about and look for more examples.
+
+[01:06:01.420] - Speaker 1
+Sorry, this is just a sign they're doing comments to me. I have another question for you, of course, and that's from Jeremy Hunt. And Jeremy asks, My former computer science students was flown up to use this thesis as extrapolated Microsoft Paint to music in tones and shadings to rewrite. It looks set to be more intuitive and flexible, but turned it down also. When GPS first came in, cast were male voices, models, including celebrities that just did not catch on.
+
+[01:06:34.420] - Speaker 1
+So wondering how you could see the future of this embedded sexism in technology.
+
+[01:06:40.190] - Speaker 2
+It's interesting because I've heard about people trying to say, oh, well, I don't want feminine voices in Syria, so then I don't need to participate in that model of sexism. So I would love if I sounded like Samuel Jackson and people have actually said that. And there's a commercial Super Bowl commercial from last year in which Alexa is personified and made women into the form of Michael Jackson and know Jackson, Jordan, Michael B. Jordan, the actor, and is overly sexualized in that way.
+
+[01:07:20.030] - Speaker 2
+In which case and this is actually thank you for the question, because it reminds me of larger issues regarding design and something that I mentioned toward the beginning of my talk. And this is not just a gender issue. Sometimes it's a class based issue. Sometimes it's a racial issue. There are definitely a kind of stand in for many different types of labor and exploitation. And in the case of sexualization, I think a lot actually about and kind of twisting during this question about sexism, to think about the sexualization of technologies when they're especially attached to specific people have to be very careful to not start talking about Japanese singing holograms.
+
+[01:08:09.200] - Speaker 2
+But where do I see the future of that? I think it's increasingly likely. In fact, I can't believe I get to talk about this. But some of you may know I'm a huge fan of Capa. And there is a band that a girl group that has come out that have in the last year that have Avatar versions. And the the interesting thing is that sometimes I think Korean culture could be regarded as relatively conservative in terms of how much, let's say, cleavage is shown in clothing.
+
+[01:08:41.450] - Speaker 2
+But those rules don't apply to the Avatar version. So you have these four girls who have given up their images to. Their Avatar counterparts who have kind of their own personalities, but they're also addressed in ways that would not be accepted in mainstream television, in Korean broadcasting, television, anyway. So the the I think this starts to encroach upon the question of AI rights, which is a whole other conversation. But it's not what Jeremy was gesturing toward.
+
+[01:09:21.120] - Speaker 2
+It made me think about that. And maybe I should check on the child to see Jeremy, his response. Yes, the group is called ASBA and. Somebody has commented on this.
+
+[01:09:34.650] - Speaker 1
+But thanks and also for the for the different teams, I think that's one of the important things of Q&A tonight is all the different directions it goes into. And yeah, and I think we have identified multiple topics for future discussions. And already now we have, of course, the. Plenty of questions, so let's just continue and that's one that's actually picking up on the question of diversifying the representation of what's in the data set. Christine is asking, diversifying it and aiming at equal representation.
+
+[01:10:09.390] - Speaker 1
+What would that not eventually boost the data activism that underlies corporate platform economies? So I guess it's.
+
+[01:10:28.270] - Speaker 2
+Maybe I'm not. Boost the data back those, I guess, to a degree, the concern there would be that. Collecting data. Is at the same time and collecting data to diversify. This is actually a really good point that there is a there's a there's that data set. Diversification is a kind of Genspace, because on the one hand, diversity is good because we don't want technologies that are going to develop anyway to develop and leave people behind. But on the other, what does that data collection look like?
+
+[01:11:05.840] - Speaker 2
+Does it look like infringing upon people's privacy? Does it look like it eventually is to actually include people that you would be taking people's information with or without their permission? And some people could volunteer for this work, but I'm trying to do so in an ethical way. Remains, I think, part of the issue. I wonder if there is a way to do it with. Recently, I've also been thinking a lot of fakes and how a lot of them are also trained on a variety of faces, but to in order to diversify, a major problem has been like, who's going to volunteer for these things or are you just going to take pedestrian's facial information without that?
+
+[01:11:54.650] - Speaker 2
+They're they're referred to as biodata. Who who does that belong to? And actually, that kind of goes into Leo's question, because I've starting to encroach upon sci fi now, thinking about Minority Report all of a sudden.
+
+[01:12:11.110] - Speaker 1
+So I guess we could just take Leo's question, but just to also relay, Augustin has also elaborated in the chat that it's the question of is this even possible within the surveillance capitalist model? So so this makes it data. Activism is in itself a profitable practice that we can critique and then to have more data extraction. Right. Is that really the answer? I guess is that's the question. But then I wonder if you can comment on this so we can go to Leo's question.
+
+[01:12:41.550] - Speaker 1
+That's up to you.
+
+[01:12:43.590] - Speaker 2
+Let's them I guess you've already. So maybe we could return to it, yeah. Or yeah, OK, let's return to adjust. My mind is thinking about sci fi also and I'll read Leo's question about your talk. Reminds me of two films, Kirn and Ex Machina, also Blade Runner 2049, that expose how much a male dominated, male dominated culture projects projects femininity into design, and how that projection makes it seem more realistic to men because of their sexuality.
+
+[01:13:20.130] - Speaker 2
+Is this the way or gender declines, social factors that people would fall into such products? Something that the Astros question yesterday was, is this? Is this. To simplify it, is this a chicken or egg issue, is the design reinforce the culture and so on and so forth? I'll just add to the list of sci fi films. It's not it doesn't seem directly related, but I really think it is ready. Player one, which is another movie that's entirely based on Easter egg culture and for.
+
+[01:13:54.520] - Speaker 2
+For all of those cases, there is absolutely a dependance dependance upon feminine female bodies, women's bodies to fall in line, to reproduce, to support, to feed and so on and so forth. And. I guess to a degree, answering this question depends on how much we think movies reflect reality or can shape our perceptions. If anything, I'm very interested in why so many people were disappointed by Blade Runner twenty forty nine as a sequel to the first original Blade Runner.
+
+[01:14:35.460] - Speaker 2
+By and large, the disappointment was because of the representation of women in the film. There was a longer version of this talk that I had in which I had a whole section on Blade Runner twenty forty nine. And maybe just to summarize it, I was very interested in a talk that I had seen by a graduate student at York. Angelito and Campbell wrote about the character Tay's relationship with he kids. He has a very. This isn't so much a spoiler.
+
+[01:15:09.640] - Speaker 2
+He thinks he might be human, but also and so these talk about how he loves to read and he read and he likes and he's particularly attached to Vladimir Nabokov Pale Fire, which is a novel in which it's half home and half interpretation of the poem. So what I was originally going to say, I was going to compare Kay's love of a novel like Pale Fire precisely because of there's there's. Because in Pale Fire now getting into the actual novel, the character John Shane never appears, but he becomes almost self actualized through the narrator's language.
+
+[01:15:51.260] - Speaker 2
+And I think that's something he is aiming for, is not information that he performs, but information that is knowledge, information that he can interpret his culture. And that's what makes him human like. But I compare that to his partner, a girlfriend owned by Joy who. Is who comes in and she can be purchased over and over like Alexa, and she's a girlfriend, she's she's a sex bot and so on and so forth. And I don't think that the same assurances are offered to joy.
+
+[01:16:30.960] - Speaker 2
+And precisely because she's not aiming for like there's not because female I do not do this, but because the the character is designed in such a way that she's not. She can't she's not capable of spontaneous utterance in the same way that Alexa isn't, and I think it's really interesting that in one scene when Kate is in a bad mood, Joyce says, oh, you should read this to me and it's Pale Fire. And he says, you hate that book.
+
+[01:17:05.060] - Speaker 2
+And I'm wondering, why would an assistant hate Pale Fire? And I think it's because of its ambiguity, because computers don't like ambiguity. They want answers. They want like straightforward transitions. They want ads and so on and so forth. But I think also the simplification of her character is something that is that that is that doesn't present itself in any of the male characters in the movie. I, I, I really did not enjoy her the movie.
+
+[01:17:38.570] - Speaker 2
+There are definitely there's a kind of servitude that continues as a trend among the three movies. Before I keep talking about Blade Runner, better stop Dr..
+
+[01:17:52.690] - Speaker 1
+Thanks for that. And this is a question of ambiguity, because Central is perhaps not that I don't like it, it's just that it doesn't exist. Ambiguity for for computers. That's just such a central point. Anyway, I also got a question in a direct message from Sound because he can't ask questions in the Q&A as part of the. Oh, here he goes. And as part of the city part of the panel. But it's in the chat now.
+
+[01:18:21.010] - Speaker 1
+And I don't know if you want to read it so I can read it.
+
+[01:18:25.170] - Speaker 2
+Soreheads question.
+
+[01:18:27.470] - Speaker 1
+Yeah, it's in the it's in the chart, obviously, pointing to that, you're obviously pointing to the dimensions of how gender is coded into software preference interfaces and modes of interaction. And you also pointed to the work of Daniel Rossner on how the histories of females have been forgotten. And this is obviously a problem. But is this just a problem of gender or is this more domination and manipulation? There are also histories of female practices that have entered into interface design, i.e. Stephen Monteiro's The Fabric of Interface, where he argues that touch interfaces in some ways are based on stitching.
+
+[01:19:02.600] - Speaker 1
+However, touch interfaces are not Neisser in any way, or they're in many ways just as manipulating, even though they're based on feminine practices, aren't they? And if so, is feminism rather than gender focus the solution? Yeah, more. Hexis also worked on this as well. I mean, I wouldn't say that touch interfaces are solely based on stitching, but if we were to go in that direction, I think there is that elements of captivity start to come.
+
+[01:19:35.360] - Speaker 1
+We start to talk about issues of design that are. To do with accessibility and who can have access and and who does not. But. I think mediating those touch interfaces, they don't have to be solely examined from a from a from a from the perspective of female characters. But I would say when they are when. When we do so, then my problem with thinking about seven and practicing something like stitching versus the interface is that one is so much based on materiality and the other one is actually the flattening and the abstraction of that.
+
+[01:20:29.450] - Speaker 1
+The interface touch base interfaces like screens are designed to almost. Propel an illusion of materiality, as if this device is immaterial and in this sort of history of unseen hands that I'm describing, I'm only actually talking about gender in this talk. But unseen hands apply to many different groups of people. And I talk about race and class, but often I think about, again, just talking about the agencies, the materiality of what the device itself means and the practices that are forgotten.
+
+[01:21:08.120] - Speaker 1
+The labor that is forgotten goes beyond the device and is implanted in a larger infrastructure of technological techno capitalism, I would say. And that's a global problem. There's this sort of. If I followed the lifecycle of a device backwards, my device would say, how far does it go back like this? What kind of material aspects of this think about that one not engaging with this interface and wants me to forget in reading, writing, reading, writing interfaces describes the ways in which Apple presents Apple products as being an interface as as being almost magical.
+
+[01:21:48.870] - Speaker 1
+And the iPad in particular, which is like the first pure well, one of the first pure mass commercialized touch interfaces was described as being magical. And I think this discourse of magic or ephemerality takes away from the materiality. I just heard why materiality is important for the history of women's labor and technology because it was menial work. Nobody wants to know about the work of typing, the work of plugging in sockets, the work of programing. And that's not the way our Decision-Making or Knowledge Building is created.
+
+[01:22:29.160] - Speaker 1
+So anyway, I think that the interface this is not to disagree with someone, but I think that the interface needs to be examined in terms of its relation to materiality. And that's where we can start to reexamine issues of feminist practice, especially the stitching. I think I saw that Christine Wilkes's in the audience, which is so flattering, but she has a work called Fitting the Pattern. That is a poem that inaction through almost the act of sewing, putting together a dress.
+
+[01:22:59.310] - Speaker 1
+And I believe it's in the ELC two, maybe the three and the the physical work to thank you layer of putting together a dress is is part of a multi generation generational women's work. It's a slow mediation and that has nothing that's very much about materiality. If you can bleed, you're going to remember your body anyway. So I love that work. You go check it out. I think it's in Flash, in which case you should check out Dinis talk on June 10th, I think.
+
+[01:23:38.840] - Speaker 1
+Yes, thank you, Ryan.
+
+[01:23:46.060] - Speaker 1
+Thank you for all of those answers right on point. I mean, that's just answering everyone. So so thanks that it was so inspiring and and such a great keynote and such a great way to start off our panel. And actually, we have reached and we have emptied out the Q&A box, which is very nice, because now it's also at the time to end this keynote. So no one, I hope, goes away empty handed with that question.
+
+[01:24:16.270] - Speaker 1
+And I guess what's left to say is that Christina. So sad to say that there's actually one question, but that's that's just the follow up from the first question that we have from from Brian Kelly so that I the way I remember it, we decided that that had been answered. But but, you know, so that was the question that I moved ahead of. And then instead I took questions.
+
+[01:24:44.540] - Speaker 1
+Now, I think that was the very first question that we have, and this is almost a follow up on that. But. And this is just the tech issues in the back end of August that we are having with the with different interpretations of questions, but I think I think we are in the process of saying thank you for being here, for answering the questions, for giving this amazing keynote and thanks for kicking off this great keynote series and such is such a great inspiringly.
+
+[01:25:12.300] - Speaker 2
+Thank you so much. Thank you, everyone, for being here. Thank you for your moderating being so on the ball. I'm imagining you with screens everywhere and sort of like. Anyway, it's all these weird things that are disturbing me, but. Yeah, but thanks.
+
+[01:25:31.350] - Speaker 2
+Well, this is fun.
+

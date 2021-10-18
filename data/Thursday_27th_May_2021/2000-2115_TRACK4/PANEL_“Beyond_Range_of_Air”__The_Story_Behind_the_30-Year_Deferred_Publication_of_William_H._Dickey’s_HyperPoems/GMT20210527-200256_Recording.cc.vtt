@@ -1,0 +1,1421 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.000
+Okay.
+
+00:00:00.000 --> 00:00:00.000
+The thing is, as soon as you're ready to start you know, tell them and they will pay the England start the recording.
+
+00:00:00.000 --> 00:00:30.000
+Okay. I think we're ready to go.
+
+00:00:42.000 --> 00:00:44.000
+Okay.
+
+00:00:44.000 --> 00:00:48.000
+Good afternoon, everybody.
+
+00:00:48.000 --> 00:01:05.000
+So, Welcome to this panel on the legacy and recovery of William H Dickies last hyper poems. My name is Matthew Kirshenbaum, I'm a professor of English and digital Studies at the University of Maryland.
+
+00:01:05.000 --> 00:01:19.000
+And with me today to help narrate this story. I have Dana Larsen Andrew Fergusson and Susan trace, who I will introduce a little bit more fully in just a moment.
+
+00:01:19.000 --> 00:01:44.000
+But for the next hour and 15 minutes or so. Our objective is to tell you a little bit more about who William Hobart Dickie was why his work and in particular his work in hyper card is of interest to to this community and the story behind how it came to
+
+00:01:44.000 --> 00:02:02.000
+light. After a tour depending on how one measures a 25 or 30 year delay and publication about which he'll you'll hear more about that too. It's a fascinating story that also I think is very just instructive for our community at large.
+
+00:02:02.000 --> 00:02:10.000
+So as I mentioned, and let's say, As I mentioned, with me.
+
+00:02:10.000 --> 00:02:13.000
+We have first.
+
+00:02:13.000 --> 00:02:27.000
+Dr. Susan trace, who is a professor who holds an MA, and PhD in English literature, but who teaches graduate statistics and research methods.
+
+00:02:27.000 --> 00:02:44.000
+In statistics and measurement at Kellogg at Cal State Fred's now. She's published numerous refereed journal articles has won several teaching awards and has supervised over 50 doctoral dissertation dissertations and 200 masters.
+
+00:02:44.000 --> 00:03:00.000
+Over the course of her career, particularly notable for us today as well. Dr trace is also William Dickies literary executor, and you'll hear again more about that story and relationship in just a moment.
+
+00:03:00.000 --> 00:03:19.000
+Also with us is Andrew Ferguson, who is currently completing a master's in Computer Science at the University of Edinburgh, I believe, exams were just taken. He has also the developer of hyper card online, which is the online emulation platform that we
+
+00:03:19.000 --> 00:03:30.000
+use at the Internet Archive to present this poetry and Andrew will be talking to us as you can anticipate about some of the nuts and bolts behind this work.
+
+00:03:30.000 --> 00:03:37.000
+And then, Finally, Dana Larsen who needs no particular introduction to this community.
+
+00:03:37.000 --> 00:03:51.000
+So I will not do a lengthy introduction to it and offer up I believe as fond of introducing Dena as a trickster figure, and there's something to that, but I think in ways that you will again hear about shortly.
+
+00:03:51.000 --> 00:03:59.000
+She has a particularly close and meaningful connection to this particular story.
+
+00:03:59.000 --> 00:04:04.000
+So I'm going to begin with just a little bit of context.
+
+00:04:04.000 --> 00:04:10.000
+William Dickey y'all hear a little bit more about his life and career from Susan.
+
+00:04:10.000 --> 00:04:31.000
+But one thing I would just emphasize about Dickie, um, well perhaps not quite a household name, few, few enough poets are nowadays. But I think he was a poet, with impeccable establishment credentials. He was a Fulbright fellow Iowa Writers Workshop.
+
+00:04:31.000 --> 00:04:53.000
+He won in 1958, the yell younger poets award which led to the publication of his first book is competition that year was another poet, you may have heard of named Sylvia Plath.
+
+00:04:53.000 --> 00:05:15.000
+He became interested in the creative possibilities for poetry and word processing in the early 1980s, the inlet community can sometimes be dismissive of me or word processing, but Dicky grasp the potential for it.
+
+00:05:15.000 --> 00:05:34.000
+Almost. From the moment the technology became popularized and began incorporating it into his writing classes at San Francisco State. He spent most of his professional career as a professor of writing at San Francisco State, the California Association
+
+00:05:34.000 --> 00:05:37.000
+of Teachers of English. this is a wonderful honorific.
+
+00:05:37.000 --> 00:05:42.000
+They dubbed him a quote, friend of the machine.
+
+00:05:42.000 --> 00:06:03.000
+So, very much an early adopter very much somebody who was visible for those reasons, in 1987, he edits, a special issue of the New England review and bread love quarterly on computers and writing, again a very traditional establishment venue, probably
+
+00:06:03.000 --> 00:06:18.000
+the first time many of its readers had given any serious consideration to the role of computing and digital media and the writing process. So, you see decades dates on the screen.
+
+00:06:18.000 --> 00:06:27.000
+In 1994, he dies in San Francisco of complications from HIV.
+
+00:06:27.000 --> 00:06:54.000
+He has survived at the time by his partner and first literary executor named Leonard son is ro, who is since deceased, about six years prior to his death, so around 1998 Dickie bought a Macintosh, and specifically a Macintosh se the system expansion model,
+
+00:06:54.000 --> 00:06:58.000
+and he began working on this immediately with hyper card.
+
+00:06:58.000 --> 00:07:11.000
+He composed a total of 14 homes and hyper card before his death to varying stages of completion. He referred to them as his hyper poems.
+
+00:07:11.000 --> 00:07:28.000
+Three of them are what we would I think categorize as erotic God. They're very explicit very not safe for work, and they are also however unique documents of gay life in San Francisco.
+
+00:07:28.000 --> 00:07:38.000
+In the midst of an earlier pandemic and so very unique and I think very meaningful to this community at this particular moment.
+
+00:07:38.000 --> 00:07:49.000
+Um, so, a Dickies Complete Electronic poems were supposed to have been published by a skate.
+
+00:07:49.000 --> 00:08:01.000
+In, 1995 or 1996 and you see here, a catalog entry from escape at the time, announcing them as forthcoming.
+
+00:08:01.000 --> 00:08:10.000
+Likewise, and Dickies posthumous book the education of desire that which appeared from Wesleyan University Press.
+
+00:08:10.000 --> 00:08:33.000
+In, also in 1996. If you look at the author's note, you can see sort of I find this fascinating, the poems are announced as already having been published, but they, they weren't, it didn't happen for reasons, which are complicated and which perhaps Well,
+
+00:08:33.000 --> 00:08:54.000
+we'll get into in 2003 four of the poems were published on the CD ROM some of you will, of course, some of you right now i'm sure how that's within arm's length for the poems were published on the CD ROM that was included in the new media reader, by Nick
+
+00:08:54.000 --> 00:09:13.000
+Montfort No, no awards grip thrilling interest interestingly, there is no mention whatsoever of Dickie within the printed volumes so it's only the poems on the CD ROM, and it's, I think safe to say that this particular publication did not result in substantial
+
+00:09:13.000 --> 00:09:16.000
+new exposure for for a Dickie.
+
+00:09:16.000 --> 00:09:34.000
+I would again want to emphasize that has worked with hyper card remained largely unknown outside of a small circle of confidence. At the time, at the time of his death, his, his New York Times obituary for example, made no mention of the hyper card work.
+
+00:09:34.000 --> 00:09:38.000
+So I come into this particular story.
+
+00:09:38.000 --> 00:10:04.000
+When, in 2007, and Dina, Dina Larson gifted what she refers to as the great Library of Alexandria for electronic literature to the University of Maryland where I teach and included amongst the components of the great library where two crucial artifacts
+
+00:10:04.000 --> 00:10:06.000
+related to Dickie.
+
+00:10:06.000 --> 00:10:11.000
+One is this box of discounts, which I'm sure Dina recognizes.
+
+00:10:11.000 --> 00:10:27.000
+She will I think tell you a little bit more about the story proper, but this box of displays where the original discuss that she used to copy files from William Dickies Macintosh.
+
+00:10:27.000 --> 00:10:42.000
+Shortly after his death at the behest of Leonard summers arrow who again was his first literary executor. So to the extent that we talk about originals like an original manuscript and electronic literature.
+
+00:10:42.000 --> 00:10:57.000
+These are read these are, these are the first generation files that came directly off of Dickies computers and which now are here at Maryland in this Fujifilm box.
+
+00:10:57.000 --> 00:11:17.000
+And they, they work so we have some Max, here at Maryland, this is a Mac se just like Dickie would have used and you can see me executing very poor archival practice here by just happily taking one of those discounts plugging it into the SC 30 and there
+
+00:11:17.000 --> 00:11:27.000
+was the work, which is amazing, and there's very much something to seeing it on the original screen the original size hearing the sounds the machine makes, of course.
+
+00:11:27.000 --> 00:11:32.000
+To do this you need to be here at the University of Maryland.
+
+00:11:32.000 --> 00:11:38.000
+The other critical artifact for us, is this laptop this.
+
+00:11:38.000 --> 00:12:02.000
+I book belongs to, to Dina This is Dina's laptop which is now part of our collections here. And it is the laptop so you can see there it is booting up running iOS 9.2, and it is the laptop that Dina used to prepare Dickies homes for their posture in this
+
+00:12:02.000 --> 00:12:21.000
+publication with escape systems. So all the Dina's working files from that project, live on this laptop. And you can see for example here's the original cover art, which I believe would have gone on to the sort have been on if you know he skates work
+
+00:12:21.000 --> 00:12:38.000
+you know those characteristics cardboard sleeves, that folio is they publish and I believe this would have been that the package artwork for example, there are the title pages for the two volumes of poetry, and so forth.
+
+00:12:38.000 --> 00:12:48.000
+So these were the two resources that working with, with Dina with Susan and with Andrew.
+
+00:12:48.000 --> 00:12:59.000
+These are the, the manuscripts if we will if you will the source material that we relied on to eventually upload the poetry to the Internet Archive.
+
+00:12:59.000 --> 00:13:19.000
+Well, look around back to the conclusion of that story. But at this point, I'd like to turn things over to Susan tres who will fill us in a little bit more about Dickies remarkable life and accomplishments, so let me turn it over to you, Susan.
+
+00:13:19.000 --> 00:13:21.000
+Thank you.
+
+00:13:21.000 --> 00:13:26.000
+My name is Susan trace and I just want to have one
+
+00:13:26.000 --> 00:13:37.000
+correction my master's is in English literature, but my doctorate is they actually in statistics and measurement. That's how I ended up teaching statistics.
+
+00:13:37.000 --> 00:13:42.000
+Um, let's see, it's my screen on here.
+
+00:13:42.000 --> 00:13:48.000
+Let me let me share my screen I'm not sure if it's not yet.
+
+00:13:48.000 --> 00:14:06.000
+Okay.
+
+00:14:06.000 --> 00:14:09.000
+Okay, so yeah.
+
+00:14:09.000 --> 00:14:11.000
+there it is. Yeah.
+
+00:14:11.000 --> 00:14:26.000
+So, again, my name is Susan trace and the purpose of my presentation here is to provide some background and context into the life of William Dickey, and also to explain how a person is unlikely as me came to be.
+
+00:14:26.000 --> 00:14:29.000
+We have Dickies executor.
+
+00:14:29.000 --> 00:14:43.000
+Now, as many of you know, William Dickey was a quite an accomplished Paul, poet he was the last person chosen by Autumn is the winner of the Yale younger poets Award for his book of the festivities.
+
+00:14:43.000 --> 00:14:56.000
+He wrote 13 books of poetry, not including the works, we'll be discussing today and numerous other works published in compilations and as broadsides.
+
+00:14:56.000 --> 00:15:14.000
+These works include things like brief lives metamorphosis. The rainbow grocery more under Saturn ribbons of the North rivers of the Northwest. The sacrifice consenting joy in the education of desire to name a few of these.
+
+00:15:14.000 --> 00:15:25.000
+Now some of these were published by private presses which were really works of art, in and of themselves and others were published by quite well known publishing houses such as well.
+
+00:15:25.000 --> 00:15:28.000
+So,
+
+00:15:28.000 --> 00:15:34.000
+now, his poetry was well known to my dear friend Leonard Santa zero.
+
+00:15:34.000 --> 00:15:41.000
+And I met Leonard in 1975. When we were both starting our master's degrees in English literature.
+
+00:15:41.000 --> 00:15:58.000
+And we were waiting in line to register with our IBM registration cards in hand for those of you who remember those olden days, and we became fast friends we knew each other well we knew our mothers letter became my son's godfather.
+
+00:15:58.000 --> 00:16:12.000
+And my dad used to say that he fell in love, even before he met him because he loved his poetry so much and letter was also a poet and he was a Sylvia Plath scholar.
+
+00:16:12.000 --> 00:16:27.000
+And when he moved to to Reno Nevada to take a lecturer position at the University of Nevada. He was much closer to build geographically and eventually he met him at a conference in the courting began.
+
+00:16:27.000 --> 00:16:35.000
+They moved in together and the house on the hill on Wall Street and your UCSF and San Francisco.
+
+00:16:35.000 --> 00:16:46.000
+And Bill was a fascinating person it's easy to think of him just as a poet, but he always spoke in this gentle area diet sophistication.
+
+00:16:46.000 --> 00:16:59.000
+Of course he was a recognized poet, but he was a sought after professor at San Francisco State University. He was a valued colleague, but he also was an accomplished calligrapher.
+
+00:16:59.000 --> 00:17:08.000
+Here's a picture of his calligraphy some of the work that he did and he was also an unbelievably fantastic gourmet cook.
+
+00:17:08.000 --> 00:17:15.000
+He was an avid shopper who never had enough leather jackets, and he always had a dog.
+
+00:17:15.000 --> 00:17:27.000
+In fact he dedicated his book in the dreaming for Len and Merlin and Sylvia, and Merlin wants his core D and of course Sylvia Sylvia Plath.
+
+00:17:27.000 --> 00:17:36.000
+And when they left together they always published a Christmas card and they sent it out to people at Christmas and included a poem by each of them.
+
+00:17:36.000 --> 00:17:43.000
+Now we always spent our Christmases with them, either in San Francisco, born for us know.
+
+00:17:43.000 --> 00:17:45.000
+And
+
+00:17:45.000 --> 00:17:50.000
+here you see bill and Leonard with our son Alex and our daughter Ariel.
+
+00:17:50.000 --> 00:17:54.000
+And in the background you can see the calligraphy.
+
+00:17:54.000 --> 00:18:07.000
+Right here you can see the calligraphy that I showed you earlier in here as one of his early computers and surprisingly if you if you know what a sophisticated and polished person he was.
+
+00:18:07.000 --> 00:18:13.000
+He would still get on the forum, play with Alex, and our son Alex was.
+
+00:18:13.000 --> 00:18:21.000
+They, they really hit it off because Alex was a very fluid reader even at the age of four and they just have a lot in common.
+
+00:18:21.000 --> 00:18:22.000
+And so bill.
+
+00:18:22.000 --> 00:18:29.000
+Eventually used Alex's illustrations for his book journey and tonight.
+
+00:18:29.000 --> 00:18:33.000
+Excuse me on my journey.
+
+00:18:33.000 --> 00:18:51.000
+Now around this time of Bill became very interested in computers. And this is some pictures of his very first computer which wasn't as born, and this was a very early early computer and Bill I would say was on the vanguard he was one of the initial people
+
+00:18:51.000 --> 00:18:55.000
+who became very interested in the use of computers.
+
+00:18:55.000 --> 00:18:59.000
+He received grants to work on them.
+
+00:18:59.000 --> 00:19:10.000
+And he also became interested in how readers could interact with a poem, and how there might be multiple paths through a home. And so we started writing is hyper palms.
+
+00:19:10.000 --> 00:19:27.000
+At this time, and this is Dina we'll talk more about this later. And incidentally Dina may not share this with you, but she was a student of bills, he chaired her thesis I believe she finished in 1992 and her thesis had to do with the use of computer
+
+00:19:27.000 --> 00:19:33.000
+technology and how it would change the way we critically look at poetry and other literature.
+
+00:19:33.000 --> 00:19:42.000
+And actually I have a letter from bill to Dina saying how he would urge her to publish this work.
+
+00:19:42.000 --> 00:19:47.000
+Well, around this time also.
+
+00:19:47.000 --> 00:19:59.000
+Sure. The next slide, here's here's a poem that he wrote computer song, this uh this is published in six philosophical songs.
+
+00:19:59.000 --> 00:20:03.000
+But around this time both billing Leonard got tested for AIDS.
+
+00:20:03.000 --> 00:20:18.000
+And Bill was positive and Leonard, was not so they made wills at this time and Leonard may excuse me bill made Leonard his executor a bill then got and was hospitalized for diverticulitis.
+
+00:20:18.000 --> 00:20:28.000
+And one of his doctors told her that he thought that treatment was withheld from Bill because he had AIDS, of course, none of this could ever be proven.
+
+00:20:28.000 --> 00:20:35.000
+The last time I spoke with Bill was on the phone about two weeks before he died in 1994.
+
+00:20:35.000 --> 00:20:38.000
+And he told me that everything would be all right.
+
+00:20:38.000 --> 00:20:46.000
+And he also told me to take care of Leonard, because he was always afraid that Leonard would commit suicide.
+
+00:20:46.000 --> 00:20:58.000
+So, after, After Leonard's passing.
+
+00:20:58.000 --> 00:21:15.000
+There was worked a letter really worked on getting the hyper pumps disseminated and he had a contract for their publication and Dina did yeoman's work editing these poems, but the publication of the publisher never followed through on the contract although
+
+00:21:15.000 --> 00:21:33.000
+there were multiple multiple multiple attempts to make this contract, the follow through on. I remember bill worrying about being sued if he sought out another publisher, and he kept saying I have to do something about those poems.
+
+00:21:33.000 --> 00:21:50.000
+There was also correspondence with MIT, to have some of these works come out and only a few of them did but but not the whole not the entire catalog of those poems in
+
+00:21:50.000 --> 00:21:57.000
+2004 letter did commit suicide, much to the great sadness of all who knew him.
+
+00:21:57.000 --> 00:22:06.000
+And when they made their wills Leonard made bill his executor and he named me as the executor in the case that bill passed.
+
+00:22:06.000 --> 00:22:13.000
+And so bills literary estate which has been passed along to Leonard was now passed along to me.
+
+00:22:13.000 --> 00:22:21.000
+And being a literary executor sounds romantic, but it's actually a lot of work and often a lot of heartache.
+
+00:22:21.000 --> 00:22:26.000
+There was getting bills massive oak desk, who was God's son's mother.
+
+00:22:26.000 --> 00:22:41.000
+The Silver back to Leonard's fair to Bill's family, some furniture back to Shirley who was bills ex wife in the archive of bills papers which Leonard had catalog to the library at retail Reed College.
+
+00:22:41.000 --> 00:22:46.000
+But the problem of the high proponents was more complicated.
+
+00:22:46.000 --> 00:23:04.000
+I consulted with computer expert experts at my college California State University, Fresno about retrieving the palms, and that sort of never was accomplished I started talks with people at San Francisco State, about a project to get these Poems, published
+
+00:23:04.000 --> 00:23:08.000
+but nothing worked out for one reason or another.
+
+00:23:08.000 --> 00:23:18.000
+So finally when Matthew contacted me with the news that Andrew would be able to make these poems which Dina had edited available on the Internet Archive.
+
+00:23:18.000 --> 00:23:24.000
+That long held goal of publishing these poems became a reality.
+
+00:23:24.000 --> 00:23:37.000
+And in closing I have to say that the fact that these poems are fresh and evocative, and as relevant today as they were in the early 90s it's really a testimony to William Dickies genius.
+
+00:23:37.000 --> 00:23:43.000
+Thank you.
+
+00:23:43.000 --> 00:23:48.000
+Thank you so much says and most welcome.
+
+00:23:48.000 --> 00:23:54.000
+So we're going to go to Andrew Fergusson now.
+
+00:23:54.000 --> 00:24:00.000
+Excellent. Okay, I'll just share my screen.
+
+00:24:00.000 --> 00:24:10.000
+I have made things difficult for myself. By doing my slides in hyper card. So any technical issues are entirely my fault.
+
+00:24:10.000 --> 00:24:13.000
+Let's see.
+
+00:24:13.000 --> 00:24:17.000
+Can you see the slide.
+
+00:24:17.000 --> 00:24:18.000
+Yes.
+
+00:24:18.000 --> 00:24:29.000
+Yes. Okay, so I'm aware that several people here may not be familiar with hyper card so first of all, I'll give a quick introduction to what hyper card is.
+
+00:24:29.000 --> 00:24:48.000
+It was developed in 1987 by Bill Atkinson wealth working at Apple, and a load the authoring of presentations, interactive stories databases and software in general, and collectively, a hypercar document is known as a stack.
+
+00:24:48.000 --> 00:24:59.000
+So all of these different things you can do with hyper card or collectively known as stocks hyper card was initially just treated for free, with every Mark sold.
+
+00:24:59.000 --> 00:25:17.000
+This was a condition that bill Atkinson sat down, when he released it with Apple. So, therefore, there was a very large number of users really into the millions because every single month that was sold at the time came with a free copy of hyper card.
+
+00:25:17.000 --> 00:25:28.000
+So one of the really good things about hyper card is that it's really really easy to make stuff in it. All of the authoring tools were included in the same application as the viewer.
+
+00:25:28.000 --> 00:25:46.000
+So these days we've got web browsers, and then separate applications for making websites, but in hyper card, you've got the viewer, and the author. In the same application which means it's incredibly easy to inspect other people's stocks, see how they
+
+00:25:46.000 --> 00:25:50.000
+did something, and then use that in your own stock.
+
+00:25:50.000 --> 00:26:07.000
+An example of that is here as the stock that came with hyper card. Not as editable so I brought up here there's a window that shows the code, buying one of the buttons on the stock included with hyper card.
+
+00:26:07.000 --> 00:26:19.000
+Unfortunately, Apple discontinued hyper card in 2004. The last updated it, and the late 90s, and although there were efforts to make our newer version.
+
+00:26:19.000 --> 00:26:24.000
+They were dropped and Apple focus their priorities on other areas.
+
+00:26:24.000 --> 00:26:39.000
+There's new modern drop in replacement for hyper card and there are some applications that function similar ways, or can attempt to read hyper card stocks, but none of them is a drop in replacement and requires substantial editing on stocks.
+
+00:26:39.000 --> 00:26:51.000
+So therefore, the only way to use hyper card stocks or modern systems, is to use an emulator, but unfortunately emulators are fairly complicated to set up and get working.
+
+00:26:51.000 --> 00:27:06.000
+So that brings me to hyper card online. And the goal of hyper catering are fairly simple. The first of which is to enable people to run their hyper card stacks on modern systems with new technical experience.
+
+00:27:06.000 --> 00:27:13.000
+And secondly, is to function as a showcase to demonstrate what could be created with hyper card.
+
+00:27:13.000 --> 00:27:23.000
+So there's two parts to the system. The first which is the Luder Mrs appear. It's just a simple web form. It allows you to choose a file on your computer.
+
+00:27:23.000 --> 00:27:30.000
+That's a stock provide some basic metadata about it and upload it into the archive.
+
+00:27:30.000 --> 00:27:48.000
+The key thing about the uploader is that it accepts all formats of stocks. The way this works is that I've programmed it to work automatically with the majority of formats of stocks, and if it comes across a format that it doesn't recognize it notifies
+
+00:27:48.000 --> 00:28:00.000
+me, and I go and manually fix it so that way it can handle a huge righty, in stocks because there was a huge Friday, and how these stocks or distributed.
+
+00:28:00.000 --> 00:28:11.000
+The second part of the system is the archive of stocks, and this is hosted by the Internet Archive nonprofit, Library in San Francisco.
+
+00:28:11.000 --> 00:28:24.000
+Hyper card online was launched in 2017 for the 30th anniversary of hyper card. And since then, over 3500 stocks have been uploaded to the archive.
+
+00:28:24.000 --> 00:28:33.000
+One key feature of using Internet Archive for hosting these stocks, is that into the archive provide the in browser and deletion technology.
+
+00:28:33.000 --> 00:28:44.000
+This emulates a Macintosh Plus from 1986, with our own four megabytes of RAM, and an eight megahertz processor directly within your browser.
+
+00:28:44.000 --> 00:28:48.000
+The way this works is you can select any stock within the archive.
+
+00:28:48.000 --> 00:29:01.000
+It has a play button on the screen, you simply press the play button, and this Emily show will boot directly within your browser, and from there you can run the stock.
+
+00:29:01.000 --> 00:29:12.000
+I've got a couple examples here of different stocks that have been created with hyper card and that are in the archive, just to demonstrate the great variety of things that could be made.
+
+00:29:12.000 --> 00:29:29.000
+The first of which is a story from stock. The way this works is it got several provided prompts for stories, and it gives you a prompt, and then it's your job to go and finish the rest of the story.
+
+00:29:29.000 --> 00:29:42.000
+a story behind sure how to begin start writing stories. Second stack is an animation that's very silly little animation about our most under spider running around a computer.
+
+00:29:42.000 --> 00:29:50.000
+Hyper card was used for making quite a lot of animations. And that was another very popular things it was used for
+
+00:29:50.000 --> 00:29:55.000
+another one here is a fairly well known stock called Indigo gets out.
+
+00:29:55.000 --> 00:30:09.000
+And it's a little, choose your adventure game, and you play the role of a cat. And by clicking different parts of the screen you in the cat wander around the house you can wander around outside through a tree of trees.
+
+00:30:09.000 --> 00:30:31.000
+This is a fun little adventure. And finally, we have here. This was a stock used by a US Defense company to teach internally, their employees about how read our systems worked so hyper card was used for a huge variety of things, including of course this
+
+00:30:31.000 --> 00:30:36.000
+presentation is done in hyper card.
+
+00:30:36.000 --> 00:30:50.000
+So when you think about getting a hyper card stock from your computer, or the original computer into a modern system. There are several challenges. These are both physical challenges and digital challenges.
+
+00:30:50.000 --> 00:31:00.000
+If you think about the physical challenges mean one is that moves to the stocks are still on old media. Maybe that's floppy disks, maybe it's all hard drives.
+
+00:31:00.000 --> 00:31:13.000
+Maybe it's zip disks and getting data off these discs is fairly difficult, because often they're unreadable or you don't have the modern hardware to read the discs.
+
+00:31:13.000 --> 00:31:31.000
+An example of this is that old Mac floppy disks spin at different speeds, compared to any other brand of computer. In fact, the speed of the disc changes depending on the position of the reed head on the desk so as the read head moves closer into the
+
+00:31:31.000 --> 00:31:32.000
+center of the disc, the disc spins faster.
+
+00:31:32.000 --> 00:31:51.000
+the disc, the disc spins faster. New other computer system does this. This was done by Apple to save a total of 80 kilobytes of space. So you got an extra 80 kilobits on each floppy disk, compared to a Windows system for context, the email that was sent
+
+00:31:51.000 --> 00:32:06.000
+out for this conference with the link to the zoom links. That's 86 kilobytes. So it's really a tiny tiny amount of space it seemed like back then that was a fairly big deal.
+
+00:32:06.000 --> 00:32:18.000
+to our thankfully modern systems to this I've got two pictures of them here on top, we have here a board called the flux engine. Down Below is a grease weasel.
+
+00:32:18.000 --> 00:32:29.000
+These act like intelligent controllers, allowing you to connect a regular floppy drive to them, and on the other side you have a USB connection to a modern computer.
+
+00:32:29.000 --> 00:32:35.000
+And that allows you to read these more exotic this formats on a modern system.
+
+00:32:35.000 --> 00:32:51.000
+And for the hyper pawns we're fairly lucky to have them on on bi book which is both old enough to be able to have the hype around stacks on them, but modern enough to have USB and basic internet connectivity.
+
+00:32:51.000 --> 00:32:55.000
+So that was very good in this case.
+
+00:32:55.000 --> 00:33:10.000
+Now, once you've got the data off field medium. The second challenge or the digital towns, and that's getting the data into a form that can be interpreted by modern systems or the hyper card stack.
+
+00:33:10.000 --> 00:33:23.000
+So that first of all, involves converting it to a stack, the more important than not. It's a modern system is today will change in 10 years time, because computers are continuously evolving.
+
+00:33:23.000 --> 00:33:38.000
+So it's very important to make sure that things like data loss and data corruption guarded against, otherwise you may lose the stack and all the work you've put into recovering it off the physical media.
+
+00:33:38.000 --> 00:33:58.000
+An example of this is a very strange way that all Mac systems handle files and every Old mac store is a file in two parts, one for the data, called the data fork and one for the resources, called the resource fork, modern operating systems don't understand
+
+00:33:58.000 --> 00:34:09.000
+this at all for a modern operating system, everything is just data, not resources, and therefore it's very easy for the data fork and the Resource Board.
+
+00:34:09.000 --> 00:34:13.000
+Come separated, and subsequently resorts board to be lost.
+
+00:34:13.000 --> 00:34:27.000
+This is a problem because hyper card uses the resource for us to store icons stones and some codes, and therefore, if the resource for is missing. Then the stack won't play properly.
+
+00:34:27.000 --> 00:34:38.000
+This is an issue, we had with the hyper poems. The first time we transferred them, the resource for was missing, and as a result the stones weren't working correctly.
+
+00:34:38.000 --> 00:34:53.000
+The best way to handle this is to transfer the stacks and really counts for any old Mac files, is to use a format, the stores booth resource fork and the data fork in a single file.
+
+00:34:53.000 --> 00:35:12.000
+And if you've used all Mac systems, the software names of stuff at expand or Mac or binary and been hex may be familiar. Those are all the formats that you want to use the transfer the stacks correctly.
+
+00:35:12.000 --> 00:35:20.000
+And of course my emulator has crashed. I knew there'd be issues. Okay.
+
+00:35:20.000 --> 00:35:39.000
+Second of all, another issue you can have is data loss, and I knew this personally as back in March, the company I was using to host the uploader suffered a major fire at the data center, and consequently the Nova servers were destroyed, and I didn't
+
+00:35:39.000 --> 00:35:52.000
+have a backup of the CUDA used for the uploader through to me quite a while to get things to work again. But thankfully I managed to get it working just earlier this week.
+
+00:35:52.000 --> 00:36:06.000
+So in summary, the main points I have is that there's a large archive of stocks available that can be viewed directly within the browser, without any need for installing software or configuring anything technical.
+
+00:36:06.000 --> 00:36:13.000
+And you can do that on archive.org, forward slash details, forward slash hyper card stocks.
+
+00:36:13.000 --> 00:36:25.000
+You can also lose your own stocks the looters that hyper card online Kiki. And as I mentioned earlier, it except through the any format of hyper current stock and it should be able to work with that.
+
+00:36:25.000 --> 00:36:35.000
+And if you have any questions if you've got any stocks of your own or new, someone has please let me know I love assisting people getting their stocks on to the archive.
+
+00:36:35.000 --> 00:36:42.000
+My email addresses on the screen there. And I'm on Twitter as well.
+
+00:36:42.000 --> 00:36:46.000
+Thank you, Andrew.
+
+00:36:46.000 --> 00:37:01.000
+I think Nick Monfort is in the room I think my first extended conversation with Nick was in an airport in Santa Barbara and we were talking about a hybrid this was about 20 years ago talking about a hyper card emulator, and neither of us ever did it,
+
+00:37:01.000 --> 00:37:04.000
+but here we are.
+
+00:37:04.000 --> 00:37:07.000
+So, thank you, Andrew.
+
+00:37:07.000 --> 00:37:16.000
+Last, we have Dana Larsen and Dina I believe it's going to read some poetry for us.
+
+00:37:16.000 --> 00:37:20.000
+Dana.
+
+00:37:20.000 --> 00:37:32.000
+And you're, you're muted Dana.
+
+00:37:32.000 --> 00:37:39.000
+Okay, let me unmute first and then let me share my screen and since I'm very lucky to have three monitors.
+
+00:37:39.000 --> 00:37:43.000
+I have an incredible system now I'm just so nice.
+
+00:37:43.000 --> 00:37:50.000
+Uh, let me know what screen on seeing Do you guys see as a nuclear power.
+
+00:37:50.000 --> 00:37:51.000
+Yes Yes we do.
+
+00:37:51.000 --> 00:38:00.000
+Okay I first wanted to show some. Yeah, here it goes. Okay, so the first thing I wanted to show was how you get into it.
+
+00:38:00.000 --> 00:38:07.000
+This is the emulator that Andrew has so beautifully suggested and it does have all of the poems.
+
+00:38:07.000 --> 00:38:22.000
+The one I wanted to read was the one that Bill and I work, read together, when I was doing my master's thesis at the University of Colorado in 1989 90.
+
+00:38:22.000 --> 00:38:40.000
+I interviewed everybody in the field Stewart's way and Vicki has in some student actually Zach, and we should have his discs up as well. I had stolen them, so they should be on that file will find those and
+
+00:38:40.000 --> 00:38:54.000
+know was an incredible thesis advisor he did it all for free for me.
+
+00:38:54.000 --> 00:39:02.000
+And I got to meet him in person once and Leonard and Bill and I had a wonderful afternoon.
+
+00:39:02.000 --> 00:39:06.000
+And then I will go through as pumps here.
+
+00:39:06.000 --> 00:39:12.000
+But this is the one that means a lot to me, because we did read it together.
+
+00:39:12.000 --> 00:39:14.000
+Let me see.
+
+00:39:14.000 --> 00:39:18.000
+Which screen I use are using this novia.
+
+00:39:18.000 --> 00:39:23.000
+That is somehow not working now. Yes, now we are good enough.
+
+00:39:23.000 --> 00:39:30.000
+I am, but it's not working at the moment so let me try again.
+
+00:39:30.000 --> 00:39:31.000
+Okay.
+
+00:39:31.000 --> 00:39:35.000
+Okay, cool.
+
+00:39:35.000 --> 00:39:38.000
+We can work now.
+
+00:39:38.000 --> 00:39:41.000
+We're going to work now.
+
+00:39:41.000 --> 00:40:00.000
+One of the, I want to read this middle talk about it, but one of the issues here is that bill was very interested in Mystique navigation. So, what did he did was to hide the navigation bars, which is really fun, what he wants to do and I will do this
+
+00:40:00.000 --> 00:40:19.000
+two voices is read the poem, and then play the game. So, the matches for us. You're my dead child met his own image walking in the garden that apparition soul of men he saw not gonna sit there on the
+
+00:40:19.000 --> 00:40:31.000
+left. Left hand holding the right stabs when the gaze centers. Yeah, we're not going to get anywhere stabbing but it's off center
+
+00:40:31.000 --> 00:40:40.000
+was power skeleton. And remember, it's not the brain mouth.
+
+00:40:40.000 --> 00:40:50.000
+And here you see an interface This is part of hyper card, where you could go and program something random says a bit odd.
+
+00:40:50.000 --> 00:40:59.000
+The city generates from the paradigms of anger. No its darkness its anger.
+
+00:40:59.000 --> 00:41:05.000
+Anger of the defeated of the victor for the humiliation of sharing.
+
+00:41:05.000 --> 00:41:10.000
+Thank you Is there but no he's in the corner.
+
+00:41:10.000 --> 00:41:19.000
+A cast about in the dark. After the enemy, not the dark the counts. It's the eyes,
+
+00:41:19.000 --> 00:41:36.000
+where the power gathers the drip of honey, not her. She's being held it sir.
+
+00:41:36.000 --> 00:41:42.000
+The Revenge of the darkness on the wind landward this poor guy.
+
+00:41:42.000 --> 00:41:49.000
+Yesterday,
+
+00:41:49.000 --> 00:42:02.000
+we see the visual repetition, which is very important in this word blindness brings it from multiple to one and the destitution of beginning.
+
+00:42:02.000 --> 00:42:09.000
+And he is blind.
+
+00:42:09.000 --> 00:42:20.000
+And Andrew yeah we are getting this a little bit too slow but it's fine, recognizing and electric dimension having Brett length fire.
+
+00:42:20.000 --> 00:42:33.000
+It's not the dimensions, it's the silver horizon to the pool of mirror, into which the swallow dips and vanishes, it is
+
+00:42:33.000 --> 00:42:42.000
+pages of the spread book confessing to one another and these images will also appear in accomplished night.
+
+00:42:42.000 --> 00:42:44.000
+It is not the mouse.
+
+00:42:44.000 --> 00:42:49.000
+It's the growth.
+
+00:42:49.000 --> 00:42:57.000
+Fresh under the mask stringency is we have to go again to the
+
+00:42:57.000 --> 00:43:02.000
+welcoming the slight wind on the cusp of winter.
+
+00:43:02.000 --> 00:43:09.000
+It's not there, it's not there on by the way, there are more than one button in several days.
+
+00:43:09.000 --> 00:43:16.000
+Under the stone breaking it open within the stone seeding it's crystal hearts.
+
+00:43:16.000 --> 00:43:23.000
+Nope, it's not in the crystal heart itself, it's in the flower.
+
+00:43:23.000 --> 00:43:27.000
+City generates from the paradigms of anger power button.
+
+00:43:27.000 --> 00:43:35.000
+Power animates the lines agenda mouth.
+
+00:43:35.000 --> 00:43:43.000
+Coming together the I the orbit, but the eye doesn't do anything for us, it's the orbits
+
+00:43:43.000 --> 00:43:49.000
+are there are the eyes in the interstices, which is so important here.
+
+00:43:49.000 --> 00:43:57.000
+And again, you get the repetition. This is very much like a jam session of these types of repetitions.
+
+00:43:57.000 --> 00:44:00.000
+And,
+
+00:44:00.000 --> 00:44:09.000
+yeah, I think we're a little slow but it's okay, it's also the zoom. So it's tech. it's everything else extravagance doesn't. Yeah.
+
+00:44:09.000 --> 00:44:19.000
+Yeah. fountains of lace sky of the clenched away says
+
+00:44:19.000 --> 00:44:22.000
+is constellations of mercy.
+
+00:44:22.000 --> 00:44:43.000
+It's in the face. Not in the constellation memory lights faces. This is a random memory of the wide space of sky and Leonard and I designed this page.
+
+00:44:43.000 --> 00:44:51.000
+Because there actually wasn't a call upon and Leonard want to call upon so we provided them.
+
+00:44:51.000 --> 00:44:55.000
+It didn't take us a while to figure out where things were from.
+
+00:44:55.000 --> 00:44:57.000
+But given all of that.
+
+00:44:57.000 --> 00:45:01.000
+Now that you've seen one of the works.
+
+00:45:01.000 --> 00:45:12.000
+I wasn't going to tell the story but I'm going to now because you guys introduced it so basically what happened was we worked together we we corresponded
+
+00:45:12.000 --> 00:45:19.000
+Leonard was a William was one of the ones who talked about Marvel springs and repeat it for escape.
+
+00:45:19.000 --> 00:45:35.000
+And I get to San Francisco after wins death, and I just wanted to hug Leonard and say hey, it's okay. And Leonard opens the door and he says, oh, you're here to edit the work and I'm like, Oh, yeah, yeah that would be cool, man.
+
+00:45:35.000 --> 00:45:44.000
+Oh my god, it is a Mac Quadro Do you know this thing had one entire gig of ram it was cool.
+
+00:45:44.000 --> 00:45:56.000
+Wow, I got to touch this computer It was amazing. And so He leads me in here, I get into this room, and there's a computer with nothing.
+
+00:45:56.000 --> 00:45:59.000
+Or, nothing in order it was just okay here we go.
+
+00:45:59.000 --> 00:46:03.000
+Um, and editing it was really interesting.
+
+00:46:03.000 --> 00:46:20.000
+So, how do you edit hypertext, and new media when both the writer and the program has kept past and enter yeah hyper card might have been around till 1998, but in 1994, it was pretty much still a dead work.
+
+00:46:20.000 --> 00:46:23.000
+It was very difficult to get.
+
+00:46:23.000 --> 00:46:34.000
+Um, so we have this computer. And by the way, so I go through this, you'll see the screenshots of some of William Vicky's work, and you'll see where it came from.
+
+00:46:34.000 --> 00:46:39.000
+And we are not sure what dates, these are so I have to say flourish.
+
+00:46:39.000 --> 00:46:49.000
+But how do you confront the computer that remains How do you walk into a place, how do you determine what Dickie wanted what Bill wanted was they were these finished with a not.
+
+00:46:49.000 --> 00:46:58.000
+We just declared everything finished, which was an interesting choice because you'll see some of the poems are rougher than others.
+
+00:46:58.000 --> 00:47:09.000
+On what order. We had no idea what order we were going to choose so we finally said well let's make it a circle, so that there is no true order.
+
+00:47:09.000 --> 00:47:18.000
+And the circle is based on actually content, and how we saw that these works were working in terms of navigational structure.
+
+00:47:18.000 --> 00:47:34.000
+They are also very much based on not safe for work and safe for work. Volume Two is the erotica that's been later about the stories here, and the faces, I'm not going to talk about it now.
+
+00:47:34.000 --> 00:47:49.000
+How do you determine if something's a bug or a feature for example, in, when I watched bill do the novia Queen of Palmyra Palmyra, he clicked on certain things and they worked and then he clicked on one and it all, it didn't work.
+
+00:47:49.000 --> 00:47:57.000
+Oh, I gotta go back and fix that well he never did go back and fix it, but I happen to know because we read it together, that it was supposed to work.
+
+00:47:57.000 --> 00:48:03.000
+What am I supposed Oh, I don't remember where it was supposed to go I.
+
+00:48:03.000 --> 00:48:04.000
+Yeah.
+
+00:48:04.000 --> 00:48:25.000
+So Susan has and can wave, this wonderful page by page notebook of where I took every page and went okay here are the buttons that work here the ones that don't, what do we do and every editorial decision is in that book, and I thought that was last for
+
+00:48:25.000 --> 00:48:32.000
+until today. So thank you, Susan for saving that. So we do have that at least archival notebook.
+
+00:48:32.000 --> 00:48:45.000
+I did cheap as Andrew was saying it is really easy to cheat in hypercar, you can look up everything. Unfortunately, there was programming behind each of these buttons and some of that code didn't work.
+
+00:48:45.000 --> 00:48:53.000
+There were programs behind the images. It was painful.
+
+00:48:53.000 --> 00:49:01.000
+You have sound and slide transitions as you saw in suburbia. how do you resurrect that when hypercar dies.
+
+00:49:01.000 --> 00:49:14.000
+And you have these invisible buttons which she was really, as you saw, they are really integral to the work, how do you create that we were thinking we could do it on flash Rob swaggered and I were really wondering how we could do this and we got together
+
+00:49:14.000 --> 00:49:34.000
+a couple of times. And we tried to resurrect one of these on flash and we gave up. It was just too overwhelming a task, how to deal with random elements, hyper card was incredible, you could place a random element script in anything, and go places it
+
+00:49:34.000 --> 00:49:36.000
+was amazing.
+
+00:49:36.000 --> 00:49:42.000
+Um, So yeah, it fell through the cracks.
+
+00:49:42.000 --> 00:49:49.000
+This was a daunting task. On a personal note, Susan when you call me in 2004 because you actually finally found my number.
+
+00:49:49.000 --> 00:49:55.000
+I had just collapsed and was just learning how to deal with a wheelchair.
+
+00:49:55.000 --> 00:50:02.000
+And I was like yeah I'm going to get with you and didn't, so my illness.
+
+00:50:02.000 --> 00:50:04.000
+my job interfered.
+
+00:50:04.000 --> 00:50:08.000
+Every time I thought about this project. It was.
+
+00:50:08.000 --> 00:50:16.000
+It was so overwhelming. I couldn't do it. And I wanted to so badly.
+
+00:50:16.000 --> 00:50:25.000
+Sorry.
+
+00:50:25.000 --> 00:50:32.000
+It got pushed to the back of everything else, and it shouldn't.
+
+00:50:32.000 --> 00:50:52.000
+So, I wanted to say here are some lessons learned for everybody listening, and for God's sake, take a copy of this page. Give it to every living, writer, you know for Pete's sake, never ever let this happen to anybody else please a spot No.
+
+00:50:52.000 --> 00:50:54.000
+Oh my god.
+
+00:50:54.000 --> 00:51:02.000
+I'm okay. first thing today, go through your computer, would you mind just getting a folder that says finished work.
+
+00:51:02.000 --> 00:51:16.000
+Nothing else. Label what you've got archive you should, please designate the literary executors and talk to them ahead of time, don't just surprise them like we surprises and say hey this is what's going on.
+
+00:51:16.000 --> 00:51:24.000
+My personal, will I have five literary executors named and I believe I've talked to them all.
+
+00:51:24.000 --> 00:51:35.000
+Um, yeah, and write your damn meta notes. If nothing else, spend an afternoon with a with a recorder. Go on zoom and record yourself and do something and say this is what I meant.
+
+00:51:35.000 --> 00:51:41.000
+This is why I use this platform we all work to the software, God's sake, tell us what you wanted to do.
+
+00:51:41.000 --> 00:51:45.000
+Don't make me to make us read your mind.
+
+00:51:45.000 --> 00:51:49.000
+So, thank you for being rescued.
+
+00:51:49.000 --> 00:51:52.000
+Matt has already shared.
+
+00:51:52.000 --> 00:51:59.000
+The, the URLs go through these words they are amazing.
+
+00:51:59.000 --> 00:52:10.000
+The simulations, I think that was the best solution, particularly for Dickie because he, it stays closer to the original intent. They are available online.
+
+00:52:10.000 --> 00:52:19.000
+And that's pretty much what I wanted to say I meant wanted to make sure there was time for some questions, and if you like Matt, either way you want to do this.
+
+00:52:19.000 --> 00:52:30.000
+I can continue sharing some of the gorgeous work here as we talk, or we can go back to seeing each other's faces whatever you'd like to do.
+
+00:52:30.000 --> 00:52:53.000
+Um, I guess I'm in favor of faces for the conversational part. Um, I did want to just very briefly as a little kind of coda just to contribute another small bit of the poetry.
+
+00:52:53.000 --> 00:52:58.000
+I don't have.
+
+00:52:58.000 --> 00:53:07.000
+I don't have screenshots, the way you do DNA, but I did want to just stop sharing my screen. Oh good reviewing viewing years, great.
+
+00:53:07.000 --> 00:53:20.000
+You're good. I'm Dickie as I think you mentioned, Dina he was fascinated his whole life by by loops by patterns by repetition and recurrences by man dollars.
+
+00:53:20.000 --> 00:53:31.000
+And I came across some of you may have noticed the the title for this session beyond range of there. And this is from the hyper PEM volcano.
+
+00:53:31.000 --> 00:53:47.000
+There's a sense in which to me anyway in my reading it does seem to sort of anticipate this this moment, today, right now, even though it was written 30 years ago so I I just thought I would read it before we have discussion.
+
+00:53:47.000 --> 00:54:07.000
+This is my letter to you. What I had not thought to say, but to fold, as we followed the way the evening, or the butterflies carefully, in the pattern of stiff record creasing it making the fold slide sharp and exact that are only meant to crumble and
+
+00:54:07.000 --> 00:54:31.000
+break from their own weight. Years later, when the person is opened, when what is left. It's a breath of voice rising transparently, the logic behind the perfume, all of what once was since stinking a little at range, beyond range of air.
+
+00:54:31.000 --> 00:54:41.000
+And so with that, we have time for people's questions discussion.
+
+00:54:41.000 --> 00:54:56.000
+No, I just want to make one comment and that is I think there's some somewhat of a sense of loss that it's been such a long time in getting bills or out. But I think we could reframe this to think of it as.
+
+00:54:56.000 --> 00:55:13.000
+Maybe this work was saved for us, and and waiting so long, there's there's a certain increased appreciation of it. So maybe this is the perfect time. and maybe, despite all our efforts and work for so many years and trying to get it published.
+
+00:55:13.000 --> 00:55:20.000
+Maybe this is exactly perfect exactly the way it's supposed to be.
+
+00:55:20.000 --> 00:55:31.000
+I think now with another I think it can reach a broader audience more easily now than it could be when obviously when this was first written.
+
+00:55:31.000 --> 00:55:45.000
+Oh, Susan, you're absolutely right. Thank you so much for reframing that and reframing my life and my guilt at this point. But yes, that is a problem and, and john can talk to this too with Uncle buddies one house with marble springs with Jim Rosen birth
+
+00:55:45.000 --> 00:55:52.000
+Instagrams. We had the work that we did not have the audience at the time and 1990s.
+
+00:55:52.000 --> 00:56:06.000
+For example, just real briefly. The reason why William Dickey became my thesis advisor, was because my real thesis advisors at my real University did not know how to use a mouse.
+
+00:56:06.000 --> 00:56:19.000
+I had to put previous and next version, buttons in because they could not understand links and William Vicki was the only one who got my thesis together because he got it, he understood where we were going.
+
+00:56:19.000 --> 00:56:27.000
+There were very few of us I interviewed everybody in the field, all eight of them, including.
+
+00:56:27.000 --> 00:56:44.000
+Yeah and Judy I think at the time to remember. Yeah. And so, you're right, we didn't have the audience we just had 10 people maybe
+
+00:56:44.000 --> 00:56:52.000
+questions that people may have things folks want to know more about
+
+00:56:52.000 --> 00:57:04.000
+and ij I say, James Ryan, but I think we're a small enough group. So, you know, feel free to just unmute yourself and pose your question or your comment.
+
+00:57:04.000 --> 00:57:09.000
+I, I have to leave right now and so sorry but to the front of the line.
+
+00:57:09.000 --> 00:57:20.000
+That was so amazing so such a fantastic session. I want to show a peculiar artifact for a moment, which is a print version of volcano, the hyper poem that matches read from.
+
+00:57:20.000 --> 00:57:36.000
+I've identified one other copy and existence, I found this for 20 bucks on a use book site. And what it is is a printed out version of the, let me try to show it here, it's a vertical orientation or horizontal whether it's a printed out version of the
+
+00:57:36.000 --> 00:57:44.000
+stack you know I haven't done a detailed analysis analysis of this that's on my to do list, and I'll be documenting this and scanning it and so forth.
+
+00:57:44.000 --> 00:57:56.000
+But a strange, really interesting artifact at the intersection of print and very digital work. I do have to run, I just want to say thank you again and keep your eyes peeled on Twitter or something for me to release this game.
+
+00:57:56.000 --> 00:58:20.000
+All right. Oh yeah. Mother talked about that he didn't have one. I don't think Susan Leonard didn't have that. Okay, I know, I lost his yeah okay so going to be Dr.
+
+00:58:20.000 --> 00:58:23.000
+to do right.
+
+00:58:23.000 --> 00:58:30.000
+I thought identified one other copy. This has the markings of the author prettiness copy.
+
+00:58:30.000 --> 00:58:45.000
+Perhaps it was the only one in maybe I somehow came to acquire the one that I saw identified online. It's not an old cat, no OCLC. It was in the holdings, which I say Sonics press on it.
+
+00:58:45.000 --> 00:59:01.000
+There's no identification of a press the coffin volcano is a microphone, designed by William Dickey in San Francisco in October 1988 is copyrighted by its author clip art is taken from the collection of ends in posted up, and the icons from the icon factory
+
+00:59:01.000 --> 00:59:04.000
+the typeface season upon the Chicago.
+
+00:59:04.000 --> 00:59:08.000
+Perhaps that's the same call from that would be in the, in the record.
+
+00:59:08.000 --> 00:59:23.000
+It's not, it's not Leonard and I had to recreate the telephone from memory I'm sure it's our call if one is wrong. Okay, well, wow, he's anyone reached out and easy enough to find I'm so sorry I really have to go to this next one, so that's a good tease
+
+00:59:23.000 --> 00:59:38.000
+I guess, and definitely hoping to document this and get this artifact.
+
+00:59:38.000 --> 00:59:55.000
+Yeah, I mean one fascinating thing was that Dickie was very much involved in the sort of small press and shop book world. He actually he went to I think it was mentioned he went to read college, as did somebody named Steve Jobs so there's there's another
+
+00:59:55.000 --> 00:59:58.000
+one of those Mandela like patterns there.
+
+00:59:58.000 --> 01:00:18.000
+But I'm at read, he studied calligraphy he also studied letterpress printing, as Steve Jobs himself did. And there's a lot of sort of overlap between Dickie and the kind of one offs and shop books that he was saying, and the the the letterpress and find
+
+01:00:18.000 --> 01:00:21.000
+printing world.
+
+01:00:21.000 --> 01:00:40.000
+So on the one hand connections into to heal it, but also deep tendrils into another kind of writing technology as well specifically letterpress printing.
+
+01:00:40.000 --> 01:00:52.000
+Today, and again folks can just unmute themselves and just jump right in.
+
+01:00:52.000 --> 01:01:02.000
+Judy you're muted.
+
+01:01:02.000 --> 01:01:06.000
+There paleo.
+
+01:01:06.000 --> 01:01:16.000
+I just want to know that in California. Um, there was a little bit more of an audience that it sounds like there is wasn't other parts of the country.
+
+01:01:16.000 --> 01:01:19.000
+I think it was partially because of the well.
+
+01:01:19.000 --> 01:01:26.000
+I'm, both on our comm on the well but the wellhead other parts to it.
+
+01:01:26.000 --> 01:01:45.000
+There was an art conference on the well actually I started. And so, and it was more connected with the tech community in California, I'm talking about the Bay Area and that Southern California, which I didn't know about, um, so those are a lot more exhibitions
+
+01:01:45.000 --> 01:02:03.000
+of works on hyper card, there was more familiarity with what everybody was doing on there was a bit more buzz. And I, I, I'm pretty sure I saw some chick work of Dickies that I don't see anything that looks like it what I've seen so far, and it was more
+
+01:02:03.000 --> 01:02:18.000
+of a textual work was circles in line says that, and the hyper textual links within the page itself that were less graphic diffuse is that ring a bell anyone.
+
+01:02:18.000 --> 01:02:26.000
+Possibly hair say, Okay, I'm not sure though.
+
+01:02:26.000 --> 01:02:47.000
+But his work. If despite that, I know that say it the revealing conversations exhibition in 1989, which included every dance hybrid card work and my name was lucky and lend Horseman's learn to work and do those things work from San Francisco State, that
+
+01:02:47.000 --> 01:02:51.000
+that he was not included in that exhibition I don't know why.
+
+01:02:51.000 --> 01:03:14.000
+And there were some other things that his work wasn't included in. So I don't know if he perhaps being a tour poet as I would say, um he wasn't as involved in the, you know, visual arts aspect I don't know, but I do know that, to go back to the beginning
+
+01:03:14.000 --> 01:03:22.000
+that that his name was known and that there was a certain amount of buzz, much more than 10 people.
+
+01:03:22.000 --> 01:03:34.000
+Yeah, it was difficult for me because I was like, alone, but he also taught, because he had, he had to work from a student James Neff, and some other student work that I think we're still on that desk.
+
+01:03:34.000 --> 01:03:36.000
+Yeah.
+
+01:03:36.000 --> 01:03:39.000
+And I grabbed
+
+01:03:39.000 --> 01:03:54.000
+the Bay Area and his readings were always well well attended, you know, following because he had taught for years and years at San Francisco State University and mentored many poets.
+
+01:03:54.000 --> 01:03:59.000
+And, you know, went to bread loaf and places like that and.
+
+01:03:59.000 --> 01:04:06.000
+But he did go through a phase where he
+
+01:04:06.000 --> 01:04:17.000
+kind of didn't like the work of chasing publications and their whole aspect of of writing.
+
+01:04:17.000 --> 01:04:21.000
+It just has a face of it.
+
+01:04:21.000 --> 01:04:34.000
+So, speaking of San Francisco State and in the spirit of sharing personal. Remember to first thank you so much for this presentation that really wonderful.
+
+01:04:34.000 --> 01:04:52.000
+So I did my masters at San Francisco State in the 1980s, when Bill was there, of course, and, and I did meet him but I didn't have classes with him because I was doing fiction, But I was very aware of.
+
+01:04:52.000 --> 01:05:01.000
+Bill and what he was doing. And as I got into the whole computers and writing scene.
+
+01:05:01.000 --> 01:05:18.000
+San Francisco State did not having an MSA that time, so they created an MFA in the 90s and Bill was still there and so I came back and said, Oh, well now you have an MFA, I'm going to do an MFA but I'm going to do an electronic thing.
+
+01:05:18.000 --> 01:05:34.000
+And I'm going to do a hypertext thing. And so naturally bill was the was would be the guy because he was the only one there doing that kind of thing so I had arranged with him to be my advisor.
+
+01:05:34.000 --> 01:05:39.000
+And I started back into that MFA program and 93.
+
+01:05:39.000 --> 01:05:54.000
+And then of course, unfortunately, bill passed away and I had to make other plans there with my MFA.
+
+01:05:54.000 --> 01:06:07.000
+Again, I was somewhat out of the loop, it was, I was just a student and I wish I had known about Rob and I wish I could talk to you more about it, Judy, there is just so much that was going on at the time to that.
+
+01:06:07.000 --> 01:06:13.000
+And it was also very disconnected.
+
+01:06:13.000 --> 01:06:15.000
+It was tough.
+
+01:06:15.000 --> 01:06:21.000
+And I know Bill and I talked about it a little bit, thinking it was one of those.
+
+01:06:21.000 --> 01:06:26.000
+How many people will get it, how many people can do have the computer literacy.
+
+01:06:26.000 --> 01:06:30.000
+But thank you. Yeah.
+
+01:06:30.000 --> 01:06:38.000
+And it's so interesting to see all the pieces come together 2530 years later,
+
+01:06:38.000 --> 01:06:41.000
+when I was a person who was ahead of his time.
+
+01:06:41.000 --> 01:06:43.000
+Yes.
+
+01:06:43.000 --> 01:06:52.000
+And Nick is here as well with can possibly shed some light on the new media reader, as I recall, Nick.
+
+01:06:52.000 --> 01:07:07.000
+It was relatively difficult to get those Dickey pawns and I saw every call the reason why you could not talk about them was, we got that permission, relatively late in the game.
+
+01:07:07.000 --> 01:07:15.000
+I don't know that there was like a real restriction about talking about the poem so much.
+
+01:07:15.000 --> 01:07:21.000
+You know, we, I mean we will love to publish all of Dickies work.
+
+01:07:21.000 --> 01:07:25.000
+Getting a selection was better than not having any of it.
+
+01:07:25.000 --> 01:07:40.000
+And so, you know, it seemed like what was suitable for the publisher, was that we'd have a selection option might be kept it open for, you know, being able to
+
+01:07:40.000 --> 01:07:48.000
+monetize the publication of the whole collection later on. So, that was, you know, that was what we did.
+
+01:07:48.000 --> 01:08:08.000
+And it worked out. All right. Of course the actual actually being able to access those, those hyper card stacks. I mean, it was, You know, strictly speaking, technically it was possible for some people in 2001, when the new media meter was published,
+
+01:08:08.000 --> 01:08:26.000
+but access to that was diminished I mean as I feel in many ways like Ted Nelson says about this, it's not hypercar didn't die right it still works. It's just that our computers that we use like a computer I'm using now to video conference with everyone
+
+01:08:26.000 --> 01:08:27.000
+else.
+
+01:08:27.000 --> 01:08:35.000
+Well, first of all, it's not a Mac, but even if I were that you know, if I were using a Mac, it wouldn't run hyper card.
+
+01:08:35.000 --> 01:08:52.000
+No, so you know the, the issue is that we expect these things to work on our everyday computers. And obviously that's not the case. But as far as it so I mean actually those those four problems are still in print, because the new media reader is still
+
+01:08:52.000 --> 01:08:59.000
+in print and it comes with that same CD ROM, that it was originally, you know, published with.
+
+01:08:59.000 --> 01:09:06.000
+And so you can buy that from MIT Press and you can get your
+
+01:09:06.000 --> 01:09:15.000
+physical optical disc copy of those four poems by Dickie if you like, Well,
+
+01:09:15.000 --> 01:09:16.000
+what's up.
+
+01:09:16.000 --> 01:09:20.000
+I thought it was a coaster.
+
+01:09:20.000 --> 01:09:23.000
+By enough that you can make a chandelier.
+
+01:09:23.000 --> 01:09:37.000
+If you take the zip drive and you put it to the back of an se se you can actually run it, it's pretty cool the technology. I still have I think I haven't tried them for a few years, but in my attic.
+
+01:09:37.000 --> 01:09:58.000
+I think I still have about 20 of the 250 Mac SES and Mac and, and Mac classics that I got from the Denver Public School System, and an auction bid and kept putting them up I made sure that they worked and I've given those to archives and to other places.
+
+01:09:58.000 --> 01:10:11.000
+Just to show Dickies work, Jim. Jim Rosenbergs uncle buddy Fun House, my marble springs. There were so many incredible works on hypercar. I wish somebody mean of course you know I have a facility.
+
+01:10:11.000 --> 01:10:24.000
+The truck tank, in which you know I present classic computers of various sorts. And yet, to some extent, it's a little bit like having,
+
+01:10:24.000 --> 01:10:28.000
+you know the the
+
+01:10:28.000 --> 01:10:41.000
+auto parts lot where you have, you know like, as you go along in time you have to, you know, go to computers, pull things out of them and repair things and you know, try to keep things working.
+
+01:10:41.000 --> 01:10:55.000
+There are standard processes like you know replacing the capacitors like recapping machines you know and things like this that you can do. And I think that's a, I do it you know i mean i don't i don't touch the hardware I don't use the soldering iron,
+
+01:10:55.000 --> 01:11:12.000
+but I try to maintain these means of access to the hardware, along with it you know I also use emulators. And, you know, modern day interpreters for these systems and I think that's great too.
+
+01:11:12.000 --> 01:11:21.000
+I really think of these sort of different editions of a computer. So you know what's provided on the Internet Archive for you to access hypertext from my standpoint, for you to access hypercar.
+
+01:11:21.000 --> 01:11:32.000
+It's just a different edition of the Macintosh se, so you know it's a it's an artificial edition. And it's not a hardware edition in the same way.
+
+01:11:32.000 --> 01:11:46.000
+But it has many advantages that the hardware edition doesn't. And on the other hand, if you want people to see what the hardware edition was like and to actually have the interactive experience of dealing with that, then you would like to present them
+
+01:11:46.000 --> 01:11:59.000
+with that as well. So, I, you know, so from my standpoint, I wish to do these things, some people will say, Oh, it's a, you know, It's a losing battle Why do you have as hardware and so forth.
+
+01:11:59.000 --> 01:12:08.000
+And again, you can, there's plenty of responses to that also, which is like, you know, why do you take your students to go see a play, it's going to close in a week.
+
+01:12:08.000 --> 01:12:14.000
+It's like, Oh, you might as well take advantage of the stuff that's there right now you know you might as well do it.
+
+01:12:14.000 --> 01:12:25.000
+Yeah, we're, we're getting called on time, and I just want to thank you. And I just want to say a couple of thank yous but before we all break.
+
+01:12:25.000 --> 01:12:32.000
+One thing I do want to say too is that this this work is now out there it's part of our community.
+
+01:12:32.000 --> 01:12:39.000
+And I just really want to encourage everyone is here today to share it.
+
+01:12:39.000 --> 01:12:42.000
+If you have students.
+
+01:12:42.000 --> 01:12:47.000
+You might suggest they worked on it. I think there's there there's a lot of.
+
+01:12:47.000 --> 01:12:58.000
+It's really rich, and there's a, there's a lot that we can do here and just tweeting the URL is great, but in and of itself, that's not enough.
+
+01:12:58.000 --> 01:13:03.000
+So that's one one comment and then I do want to thank.
+
+01:13:03.000 --> 01:13:18.000
+I want to thank sarin and Scott red Berg, and all of the the conference organizers for the venue and the occasion, and all of the virtual work behind the scenes from our Student Assistance.
+
+01:13:18.000 --> 01:13:40.000
+Thank you for the, for the platform today. And I especially, I want to thank, Susan, Dina and Andrew I am really the the least a central part of this operation I'm just the coordinator, but each of them really contributed and valuable labor without which
+
+01:13:40.000 --> 01:13:45.000
+we wouldn't have this work today. So thank you so much everybody.
+
+01:13:45.000 --> 01:14:05.000
+Thank you so much and we can continue this on the tracks and discord and I am having a private, public celebration today on discord after this, so we can continue this conversation thank you guys so much.
+
+01:14:05.000 --> 01:14:13.000
+record that shouldn't be out that orange, and I actually work that I'm going to try to find intended.
+
+01:14:13.000 --> 01:14:16.000
+So Judy you should talk to me.
+
+01:14:16.000 --> 01:14:17.000
+Yes.
+
+01:14:17.000 --> 01:14:35.000
+I didn't have a Mac, I had to, they let me go over to the whole earth review offices, actually, when I record came out and try it. And I created a work then I use a scanner which I never use it came from Apple, and I could not edit it at home and have
+
+01:14:35.000 --> 01:14:49.000
+a Mac, but I use the one of my old card catalogs and made the work from a card catalog, using the images and the text and it was actually pretty good, but I've never been able to look at it.
+
+01:14:49.000 --> 01:14:51.000
+Okay, yeah.
+
+01:14:51.000 --> 01:15:05.000
+I couldn't afford a Mac, and I had the reason why I did marble Springs is my thesis was because of the MATLAB have Max, and I could use them. I mean, my God, a Macintosh was like a month pay.
+
+01:15:05.000 --> 01:15:09.000
+It was a lot of money.
+
+01:15:09.000 --> 01:15:15.000
+Yeah, I was a single parent I could not afford a Macintosh
+
+01:15:15.000 --> 01:15:21.000
+and William Dickies bill setup was.
+
+01:15:21.000 --> 01:15:26.000
+I'm still lusting after it I still want it.
+
+01:15:26.000 --> 01:15:33.000
+Get a MAC I'M GOING TO, I need to thank you.
+
+01:15:33.000 --> 01:15:38.000
+I hope that doesn't crash the room.
+
+01:15:38.000 --> 01:15:48.000
+I don't think it will and I will get back over to the discord, but thank you guys very very much everyone and true care.
+
+01:15:48.000 --> 01:15:55.000
+Thank you, Andrew. Do you want my firstborn son, I mean other than that we're gonna have kids, I mean what effort.
+
+01:15:55.000 --> 01:15:59.000
+Anything from Colorado, I mean, my God, Thank you.
+
+01:15:59.000 --> 01:16:16.000
+Thank you, very glamorous, people seeing all the stocks. Yeah, maybe when I get if I ever get back over to myth I can uncover Tom to Logans with improved game on hyper card is amazing.
+
+01:16:16.000 --> 01:16:21.000
+It was so many hyper cards and if monks had max oh my god we gotta have that.
+
+01:16:21.000 --> 01:16:27.000
+Yes, with that we have that Yeah, That one's on.
+
+01:16:27.000 --> 01:16:28.000
+Is it on. I think so, yes.
+
+01:16:28.000 --> 01:16:33.000
+I think so, yes. Oh, you gotta,
+
+01:16:33.000 --> 01:16:36.000
+you gotta show the discord.
+
+01:16:36.000 --> 01:16:51.000
+Yeah, thank you guys so much. Okay, we'll see you guys in discord in a bit like discord on and 45 minutes or is that I know it's on now, and I'm going to just take a few moments.
+
+01:16:51.000 --> 01:17:00.000
+Today is my freedom day, or may 19 was my freedom day. I've worked now for 30 years for the government, I've been at their beck and call Yes sir. No, sir.
+
+01:17:00.000 --> 01:17:18.000
+Everything else is a technical writer, and now I have health insurance for the rest of my life, and I can do whatever I want. I'm still at the government for right now, until I decide what my second career is, but after 30 years I'm free to write, so
+
+01:17:18.000 --> 01:17:20.000
+it's going to, so we're celebrating.
+
+01:17:20.000 --> 01:17:36.000
+Congratulations. That's why I went into the government instead of academia deliberately, just because I have a rare disease and Susan you know yeah, it was really bad without health insurance I'd be dead in about two to five months.
+
+01:17:36.000 --> 01:17:40.000
+So it was really important that I get this.
+
+01:17:40.000 --> 01:17:43.000
+And thank you for understanding.
+
+01:17:43.000 --> 01:17:44.000
+Sorry.
+
+01:17:44.000 --> 01:17:53.000
+Yeah, and I know I keep disappearing because of illness, and so sorry over the years, but I think you're absolutely right.
+
+01:17:53.000 --> 01:18:00.000
+Now, you repair like the Phoenix from the ashes.
+
+01:18:00.000 --> 01:18:08.000
+Nearly dying and that I don't die, actually that's why I'm Matt has met, you know, I just met my wife.
+
+01:18:08.000 --> 01:18:19.000
+We met, I had food poisoning, I was in the ICU in three days. So I'd met my wife in a week. She read my novel disappearing rain on my wall, she was amazing.
+
+01:18:19.000 --> 01:18:32.000
+And so we're sitting there in the ICU, I'm looking at death. And she's like, I've got this Library of Alexandria What the hell do we do, so we call Matt up and he says yeah I'll take it and I lived.
+
+01:18:32.000 --> 01:18:39.000
+And so Matt like three months later, A week later says, So where's my stuff.
+
+01:18:39.000 --> 01:18:56.000
+We packed it all up and he said it all to MIT. That's a total hodgepodge never organized. I mean, talk about being a hypocrite, what Matt got was probably worse than what Bill left on his computer.
+
+01:18:56.000 --> 01:19:26.000
+I mean, by an order of magnitude, cuz I didn't die, I was
+

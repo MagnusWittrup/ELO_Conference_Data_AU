@@ -1,0 +1,44 @@
+00:28:46	CLARA CHETCUTI:	I can't help but think about how ironic it is that only the words remain when the platforms obsolesce, losing electronic literature its distinguishing feature which is really platform and what the writers do with the affordances of platform.
+00:31:51	Dene Grigar:	Clara, in cases like Flash work, we cannot even get the words back without saving the work first
+00:34:09	Melinda White (she/her):	Yes, and the loss of the interactivity is devastating. I recorded some play-throughs of my favorite Flash works but it’s not near the same. I know it’s like that for you, Dene with the Traversals too—capturing a moment, an instance of the reading.
+00:35:23	CLARA CHETCUTI:	Yeah that's true Dene, unless of course someone like me comes along and takes down citations and takes screenshots of several frames! In which case a few survive but cruelly extracted from their original contexts and behaviours.
+00:36:14	Dene Grigar:	Yes, documentation is very important, Clara. And as Melinda suggests it is all that left after a platform is lost
+00:42:09	Melinda White (she/her):	Yes, in the bodies session this morning they talked about how html and javascript are the building blocks of the web, so they won’t go away. I’m also finding my students using accessible and free software, but who knows if some of those platforms will survive long-term.
+00:43:34	Nicholas Schiller (he/him):	I have a question about platform, irony, and unreliable narration.
+00:47:37	Melinda White (she/her):	I think that’s what’s so valuable about Traversals as well, that it provides history, biography, context of the texts.
+00:48:19	Dene Grigar:	I like capturing the author’s voice.  This is a large part of what drives the work
+00:49:06	Nicholas Schiller (he/him):	I concur. "Layering of memory and experience is what drives Sinha's view of online communication and imagination" My ? is what does *preservation* of this layered veneer of constructed meaning look like?
+00:49:44	Perla Sasson-Henry:	That is wonderful .. to try to capture the author's intention.. How does the platform /different codes  affect the meaning of  an e-lit piece ?
+00:50:44	Dene Grigar:	I always liked that definition of poetry, very human-centered
+00:51:03	Agnieszka Przybyszewska:	I have just been at Jason Boyd's presentation and he was talking about "Maginary". In context of palimsests (and irony that Nicholas has just mentioned) it is a wonderful example of the problem
+00:51:34	Melinda White (she/her):	I had an honors thesis student who chose Twine even though it limited what he wanted to create because of its political implications, which reflected his message
+00:52:13	Colin Post:	I'm thinking about comparisons to transitions between scribal practices and the printing press -- as writers took up new technologies, both understandings of fixity and practices of fixing a text changed. Maybe our current understandings of the fixity of a text are/need to change too?
+00:52:21	CLARA CHETCUTI:	I'm curious Melinda, which poltical implications were those?
+00:52:40	Melinda White (she/her):	As a platform for marginalized voices.
+00:53:04	Melinda White (she/her):	accessible/easy to disseminate
+00:53:18	Perla Sasson-Henry:	That is what I was referring to .. how much a certain platform/affordances of the platform/ code / contribute to the original meaning...Uribe's Ani Poems..
+00:53:23	CLARA CHETCUTI:	Right, everything that Porpentine's Twine works represent...
+00:53:35	Melinda White (she/her):	Yes!
+00:54:39	Nicholas Schiller (he/him):	translation and applying descriptive metadata are explicit and fixed they seem like the wrong tools to capture irony and implied meanings, but they are what we have.
+00:55:05	CLARA CHETCUTI:	@Colin, that is such an incisive thought but it does render our scholarly exercises much harder to let go of fixity - even something as simple as quoting and close reading depends on some degree of fixity in the text. So our activities would also need to change
+00:56:29	Colin Post:	right, Clara - our current scholarly practices developed around print technologies, and we're still trying to apply (though stretching and sometimes breaking) those same practices in a different media environment
+00:57:32	Melinda White (she/her):	it’s a “single story” when it’s really meant to be multiple stories, individual, subjective
+00:58:32	Perla Sasson-Henry:	The same was discussed in the pedagogical panel.. it is important to allow students to express their reading of e-lit with a hands on approach that allows them to produce a reading as Melinda said with Twine...
+00:58:54	CLARA CHETCUTI:	that's true, we are sometimes like that king in Borges' story trying to commission a map which is the exact same size as the territory it is trying to map. Essentially we might as well send people to the e-lit texts instead of trying to describe and contain them.
+01:01:03	Melinda White (she/her):	Yes. Love the Borges reference. And I so appreciate that Storyspace texts are still available digitally for students. My cd rom of afternoon stopped working with an iOS update.
+01:01:51	Dene Grigar:	Melinda, I may be able to help you with that. Contact me after the conference
+01:03:25	Melinda White (she/her):	Thank you! I have it installed now. My new computer doesn’t even have a cd drive. I think it’s funny my master’s thesis is on a Zip drive. Haha
+01:04:58	CLARA CHETCUTI:	Because you're thinking about what you want the words to *do*. Words don't *do* as much as they do in e-lit in print!
+01:05:25	Agnieszka Przybyszewska:	Dene, but only when you think about the book as a invisible interface. You can ask similar question to the book form...
+01:08:09	Melinda White (she/her):	And the beauty of Flash works was the interaction that created a layer of metaphor and meaning for the reader.
+01:15:21	Timothy Wilcox:	I have a comment about The Fugue Book and ethics.
+01:20:36	Dene Grigar:	This will be our last comment. The Conference Administrator is reminding me that we have to end our session at 8:15
+01:20:47	Nicholas Schiller (he/him):	Timothy, it is also curious how the data aggregators, like Facebook, now obscure the level of detail and resolution of their data from us.
+01:21:01	Agnieszka Przybyszewska:	Dene, it is 4.15:-) (just a joke)
+01:21:08	Dene Grigar:	:)
+01:21:18	Melinda White (she/her):	11:15 :)
+01:22:26	Melinda White (she/her):	Thank you so much, everyone!
+01:22:36	Nicholas Schiller (he/him):	foreground/background content/context
+01:23:12	Melinda White (she/her):	Motto.io is such a great one that integrates your photos as you participate
+01:23:16	Claus-Michael Schlesinger:	Thank you!
+01:23:25	Nicholas Schiller (he/him):	Thank you all!

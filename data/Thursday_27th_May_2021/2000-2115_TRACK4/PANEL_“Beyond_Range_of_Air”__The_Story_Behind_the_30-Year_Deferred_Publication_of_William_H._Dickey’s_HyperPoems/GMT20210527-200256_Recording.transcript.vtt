@@ -1,0 +1,2002 @@
+WEBVTT
+
+1
+00:00:42.660 --> 00:00:43.380
+Matthew G. Kirschenbaum: Okay.
+
+2
+00:00:44.760 --> 00:00:57.630
+Matthew G. Kirschenbaum: Good afternoon, everybody so welcome to this panel on the legacy and recovery of William H Dickies last hyper phones.
+
+3
+00:00:58.020 --> 00:01:08.760
+Matthew G. Kirschenbaum: My name is Matthew kirshenbaum i'm a professor of English and digital studies at the University of Maryland and with me today to help narrate this story.
+
+4
+00:01:09.150 --> 00:01:19.500
+Matthew G. Kirschenbaum: I have Dana Larsen Andrew fergusson and Susan trace, who I will introduce a little bit more fully and in just a moment but.
+
+5
+00:01:20.070 --> 00:01:30.900
+Matthew G. Kirschenbaum: For the next hour and 15 minutes or so, our objective is to tell you a little bit more about who William Hobart Dickey was.
+
+6
+00:01:31.620 --> 00:01:45.690
+Matthew G. Kirschenbaum: Why his work and, in particular, his work in hyper card is of interest to to this community and the story behind how it came to light after a.
+
+7
+00:01:46.410 --> 00:01:57.570
+Matthew G. Kirschenbaum: While depending on how one measures, a 25 or 30 year delay and publication, about which he'll you'll hear more about that too it's a fascinating story that also I think is very.
+
+8
+00:01:58.800 --> 00:02:16.950
+Matthew G. Kirschenbaum: instructive for our community at large, so, as I mentioned, and say, as I mentioned, with me, we have first Dr Susan trays, who is a professor.
+
+9
+00:02:17.580 --> 00:02:25.950
+Matthew G. Kirschenbaum: who holds an ma and PhD in English literature, but who teaches graduate statistics and research methods.
+
+10
+00:02:26.760 --> 00:02:37.680
+Matthew G. Kirschenbaum: In statistics and measurement at Keller at cal state fresno she's published numerous refereed journal articles has won several teaching awards.
+
+11
+00:02:37.950 --> 00:02:45.780
+Matthew G. Kirschenbaum: and has supervised over 50 doctoral dissertation dissertations and 200 masters over the course of her career.
+
+12
+00:02:46.110 --> 00:02:58.620
+Matthew G. Kirschenbaum: particularly notable for us today as well, Dr trace is also William Dickies literary executor and he'll hear again more about that story and relationship in just a moment.
+
+13
+00:02:59.280 --> 00:03:11.490
+Matthew G. Kirschenbaum: i'm also with us is Andrew Ferguson, who is currently completing a master's in computer science at the University of Edinburgh I believe exams were just taken.
+
+14
+00:03:11.760 --> 00:03:22.770
+Matthew G. Kirschenbaum: On he has also the developer of hyper card online, which is the online and mutilation platform that we use at the Internet archive to present this poetry.
+
+15
+00:03:23.160 --> 00:03:36.240
+Matthew G. Kirschenbaum: and Andrew will be talking to us, as you can anticipate about some of the nuts and bolts behind this work and then finally Dana Larsen who needs no particular introduction to this Community.
+
+16
+00:03:36.960 --> 00:03:47.400
+Matthew G. Kirschenbaum: So I will not do a lengthy introduction Stewart and i'll throw up, I believe, is fond of introducing dina as a trickster figure and there's something to that, but.
+
+17
+00:03:47.760 --> 00:04:02.160
+Matthew G. Kirschenbaum: I think in ways that you will again hear about shortly, she has a particularly close and meaningful connection to to this particular story so i'm going to begin with just a little bit of context.
+
+18
+00:04:03.300 --> 00:04:12.660
+Matthew G. Kirschenbaum: William Dickey y'all hear a little bit more about his life and career from Susan on, but one thing I would just emphasize about dickie.
+
+19
+00:04:13.200 --> 00:04:21.930
+Matthew G. Kirschenbaum: Well, perhaps not quite a household name a few few enough poets are nowadays, but did he was a poet.
+
+20
+00:04:22.740 --> 00:04:38.220
+Matthew G. Kirschenbaum: with impeccable establishment credentials, it was a Fulbright fellow iowa writers workshop he won in 1958 the yell younger poets award which led to the publication of his first book.
+
+21
+00:04:38.640 --> 00:04:52.290
+Matthew G. Kirschenbaum: Is competition that year was another poet, you may have heard of named Sylvia Plath, and so a dickie was very much an establishment poet and moved in those circles.
+
+22
+00:04:53.040 --> 00:05:01.770
+Matthew G. Kirschenbaum: He became interested in the creative possibilities for poetry and word processing in the early 1980s.
+
+23
+00:05:02.730 --> 00:05:13.950
+Matthew G. Kirschenbaum: The ila community can sometimes be dismissive of me or word processing but dicky grasp the potential for it.
+
+24
+00:05:14.670 --> 00:05:26.880
+Matthew G. Kirschenbaum: Almost from the moment the technology became popularized and again incorporating it into his writing classes at San Francisco state he spent most of his professional career.
+
+25
+00:05:27.420 --> 00:05:40.500
+Matthew G. Kirschenbaum: As a professor of writing at San Francisco state the California association of teachers of English, this is a wonderful honorific they dubbed him a quote friend of the machine.
+
+26
+00:05:41.910 --> 00:05:58.410
+Matthew G. Kirschenbaum: so very much an early adopter very much somebody who was visible For those reasons in 1987 he edits a special issue of the New England review and bread love quarterly on computers and writing again a very.
+
+27
+00:05:58.950 --> 00:06:26.280
+Matthew G. Kirschenbaum: Traditional establishment venue probably the first time, many of its readers had given any serious consideration to the role of computing and digital media and the writing process, so you see Dickies dates on the screen in 1994 he dies in San Francisco of complications from HIV.
+
+28
+00:06:27.450 --> 00:06:39.030
+Matthew G. Kirschenbaum: He has survived at the time by his partner and first literary executor named Leonard son as aro who is since deceased i'm.
+
+29
+00:06:39.630 --> 00:06:57.240
+Matthew G. Kirschenbaum: about six years prior to his death so around 1998 dickie bought a MacIntosh and specifically a MacIntosh se the system expansion model and he began working on this immediately with hyper card.
+
+30
+00:06:57.960 --> 00:07:19.830
+Matthew G. Kirschenbaum: He composed, a total of 14 homes and hyper card before his death to varying states of completion he referred to them as his hyper poems three of them are what we would, I think categorize as erotica they're very explicit very not safe for work.
+
+31
+00:07:20.940 --> 00:07:41.940
+Matthew G. Kirschenbaum: And they are also, however, unique documents of gay life in San Francisco in the midst of an earlier pandemic i'm so very unique and I think very meaningful to this Community at this particular moment um so a Dickies complete electronic.
+
+32
+00:07:41.970 --> 00:08:02.670
+Matthew G. Kirschenbaum: poems were supposed to have been published by East Gate in 1995 or 1996 and you see here a catalog entry from he stayed at that time, announcing them as forthcoming on likewise in Dickies.
+
+33
+00:08:03.840 --> 00:08:09.420
+Matthew G. Kirschenbaum: posthumous book The education of desire that which appeared from wesleyan university press.
+
+34
+00:08:10.320 --> 00:08:29.280
+Matthew G. Kirschenbaum: In also in 1996 if you look at the author's note, you can see sort of I find this fascinating the poems are announced, as already having been published, but they they weren't it didn't happen, for reasons which are.
+
+35
+00:08:30.840 --> 00:08:33.570
+Matthew G. Kirschenbaum: complicated and which perhaps well we'll get into.
+
+36
+00:08:34.830 --> 00:08:56.280
+Matthew G. Kirschenbaum: In 2003 four of the poems were published on the CD Rom some of you will, of course, some of you right now i'm sure have this within arm's length for of the poems were published on the CD Rom that was included in the new media reader by Nick Montfort, no, no, but wardrobe fruin.
+
+37
+00:08:57.690 --> 00:09:15.060
+Matthew G. Kirschenbaum: Interestingly, there is no mention whatsoever of dickie within the printed volumes so it's only the poems on the CD Rom and it's I think safe to say that this particular publication did not result in substantial new exposure for for dickie.
+
+38
+00:09:16.290 --> 00:09:32.040
+Matthew G. Kirschenbaum: I would again want to emphasize that his work with hyper card remained largely unknown outside of a small circle of confidence at the time, at the time of his death his his New York Times obituary, for example, made no mention.
+
+39
+00:09:32.070 --> 00:09:33.450
+Matthew G. Kirschenbaum: Of the hyper card work.
+
+40
+00:09:33.990 --> 00:09:36.540
+Matthew G. Kirschenbaum: So I come into this particular.
+
+41
+00:09:36.540 --> 00:09:54.270
+Matthew G. Kirschenbaum: story um when in 2007 and dina dina Larson gifted what she refers to as the great library of Alexandria for electronic literature, to the University of Maryland where I teach.
+
+42
+00:09:55.980 --> 00:10:10.920
+Matthew G. Kirschenbaum: And included amongst the components of the great library were two crucial artifacts related to to dickie one is this box of discounts which i'm sure dina recognizes.
+
+43
+00:10:11.700 --> 00:10:25.890
+Matthew G. Kirschenbaum: She will, I think, tell you a little bit more about the story proper, but this box of displays where the original discounts that she used to copy files from William Dickies MacIntosh.
+
+44
+00:10:26.370 --> 00:10:41.490
+Matthew G. Kirschenbaum: Shortly after his death at the behest of Leonard soon as arrow who again what's his first literary executor so to the extent that we talked about originals like an original manuscript and electronic literature.
+
+45
+00:10:41.970 --> 00:10:52.740
+Matthew G. Kirschenbaum: These are read these are, these are the first generation files that came directly off of Dickies computers and which now are here at Maryland in this.
+
+46
+00:10:53.640 --> 00:11:05.670
+Matthew G. Kirschenbaum: fujifilm box and they they work, so we have some maps here at Maryland, this is a MAC se, just like dickie would have used, and you can see.
+
+47
+00:11:05.940 --> 00:11:15.150
+Matthew G. Kirschenbaum: me executing very poor archival practice here by just i'm happily taking one of those discounts plugging it into the sc 30 and.
+
+48
+00:11:15.960 --> 00:11:26.310
+Matthew G. Kirschenbaum: There is the work which is amazing and there's very much something to seeing it on the original screen, the original size hearing the sounds the machine makes.
+
+49
+00:11:26.700 --> 00:11:37.200
+Matthew G. Kirschenbaum: Of course, to do this, you need to be here at the University of Maryland um the other critical artifact for us is this laptop this.
+
+50
+00:11:38.100 --> 00:11:50.310
+Matthew G. Kirschenbaum: Book belongs to to dina this is dina's laptop which is now part of our collections here, and it is the laptop So you can see there it is booting up running.
+
+51
+00:11:50.850 --> 00:12:09.000
+Matthew G. Kirschenbaum: ios 9.2 and it is the laptop of that dina used to prepare Dickies poems for their posture in this publication with escape systems, so all the dina's working files from that project.
+
+52
+00:12:09.480 --> 00:12:17.880
+Matthew G. Kirschenbaum: live on this laptop and you can see, for example, here's the original cover art, which I believe would have gone on to the.
+
+53
+00:12:18.420 --> 00:12:29.400
+Matthew G. Kirschenbaum: sort have been on if you know escapes work, you know those characteristic cardboard sleeves the folio is they publish in I believe this would have been the package artwork, for example.
+
+54
+00:12:30.420 --> 00:12:34.830
+Matthew G. Kirschenbaum: There are the title pages for the two volumes of poetry.
+
+55
+00:12:36.090 --> 00:12:46.980
+Matthew G. Kirschenbaum: and so forth, so these were the two resources that working with with dina with Susan and with Andrew.
+
+56
+00:12:47.700 --> 00:13:08.430
+Matthew G. Kirschenbaum: These are the the manuscripts if we will, if you will, the source material that we relied on to eventually upload the poetry, to the Internet archive well lip around back to the conclusion of that story, but at this point i'd like to turn things over to Susan trays who will.
+
+57
+00:13:09.480 --> 00:13:18.480
+Matthew G. Kirschenbaum: fill us in a little bit more about Dickies remarkable life and accomplishments so let me turn it over to you Susan.
+
+58
+00:13:19.440 --> 00:13:20.340
+Susan Tracz: And thank you.
+
+59
+00:13:21.720 --> 00:13:24.540
+Susan Tracz: My name is Susan grace and I just want to have one.
+
+60
+00:13:25.950 --> 00:13:26.190
+Susan Tracz: quick.
+
+61
+00:13:26.580 --> 00:13:39.990
+Susan Tracz: correction my master's is in English literature, but my doctorate is actually in statistics and measurement that's how I ended up teaching statistics um let's see it's my screen on here.
+
+62
+00:13:41.160 --> 00:13:43.890
+Susan Tracz: Let me, let me share my screen i'm not sure if it's.
+
+63
+00:13:44.940 --> 00:13:46.440
+Matthew G. Kirschenbaum: Not not yet.
+
+64
+00:13:47.460 --> 00:13:47.910
+Susan Tracz: Okay.
+
+65
+00:14:05.190 --> 00:14:05.760
+Susan Tracz: Okay.
+
+66
+00:14:08.670 --> 00:14:15.690
+Susan Tracz: There it is yeah so again, my name is Susan trace and the purpose of my presentation here is.
+
+67
+00:14:15.690 --> 00:14:26.730
+Susan Tracz: To provide some background and context into the life of William Dickey and also to explain how a person is unlikely as me came to be William Dickies executor.
+
+68
+00:14:28.050 --> 00:14:29.940
+Susan Tracz: And now, as many of you know.
+
+69
+00:14:31.530 --> 00:14:45.420
+Susan Tracz: William dickie was a quite an accomplished poet poet, he was the last person chosen by auden is the winner of the Yale younger poets Award for his book of the festivities he wrote 13 books of poetry.
+
+70
+00:14:46.800 --> 00:14:54.150
+Susan Tracz: Not including the works will be discussing today and numerous other works published in compilations and as broadsides.
+
+71
+00:14:55.500 --> 00:15:06.630
+Susan Tracz: These works include things like leaf lives metamorphosis the Rainbow grocery more under Saturn ribbons of the north rivers of the Northwest.
+
+72
+00:15:06.990 --> 00:15:25.860
+Susan Tracz: The sacrifice consenting joy in the education of desire to name a few of these now some of these were published by private presses, which were really works of art in and of themselves and others were published by quite well known publishing houses, such as well as in.
+
+73
+00:15:28.380 --> 00:15:40.350
+Susan Tracz: Now his poetry was well known to my dear friend Leonard Santa zero and I met Leonard in 1975 when we were both starting our master's degrees in English literature.
+
+74
+00:15:40.950 --> 00:15:57.150
+Susan Tracz: And we were waiting in line to register with our IBM registration cards in hand for those of you who remember those old days and we became fast friends, we knew each other well we knew our mothers Leonard became my son's godfather.
+
+75
+00:15:58.230 --> 00:16:11.310
+Susan Tracz: And my dad used to say that he fell in love, even before he met him because he loved his poetry so much and letter was also a poet, and he was a Sylvia Plath scholar.
+
+76
+00:16:12.120 --> 00:16:25.530
+Susan Tracz: And when he moved to to Reno Nevada to take a lecturer position at the University of Nevada he was much closer to build geographically and eventually he met him at a conference in the courting began.
+
+77
+00:16:27.480 --> 00:16:33.810
+Susan Tracz: They moved in together in a House on the Hill and willard street your ucsf and San Francisco.
+
+78
+00:16:34.860 --> 00:16:41.430
+Susan Tracz: And bill was a fascinating person it's easy to think of him, just as a poet, but he always spoke in this.
+
+79
+00:16:42.570 --> 00:16:53.970
+Susan Tracz: gentle erudite sophistication of course he was a recognized poet, but he was a sought after professor at San Francisco State University, he was a valued cali.
+
+80
+00:16:54.600 --> 00:17:06.930
+Susan Tracz: But he also was an accomplished calligrapher here's a picture of his calligraphy some of the work that he did, and he was also an unbelievably fantastic gourmet cook.
+
+81
+00:17:07.740 --> 00:17:24.510
+Susan Tracz: He was an avid shopper who never had as nuff leather jackets and he always had a dog, in fact, he dedicated his book in the dreaming for Len and merlin and Sylvia and merlin wants his core D and, of course, Silvio with Sylvia Plath.
+
+82
+00:17:26.550 --> 00:17:42.780
+Susan Tracz: And when they live together they always published a Christmas card and they sent it out to people at Christmas and included a poem by each of them now, we always spent our Christmases with them, either in San Francisco or in fresno and.
+
+83
+00:17:44.910 --> 00:17:52.440
+Susan Tracz: Here you see bill and Leonard with our son Alex and our daughter Ariel and in the background, you can see the calligraphy.
+
+84
+00:17:53.670 --> 00:18:11.760
+Susan Tracz: right here, you can see the calligraphy that I showed you earlier in here is one of his early computers and surprisingly, if you if you know what a sophisticated and polished person he was he would still get on the forum play with Alex and our son Alex was um.
+
+85
+00:18:12.840 --> 00:18:30.540
+Susan Tracz: They they really hit it off because Alex was a very fluid reader even at the age of four and they just had a lot in common and so bill eventually used alex's illustrations for his book journey into the night, excuse me on a journey.
+
+86
+00:18:32.610 --> 00:18:49.050
+Susan Tracz: Now, around this time bill became very interested in computers, and this is some pictures of his very first computer which wasn't as born, and this was a very early early computer and bill, I would say what's on the vanguard, he was one of the.
+
+87
+00:18:50.070 --> 00:18:54.270
+Susan Tracz: Initial people who became very interested in the use of computers.
+
+88
+00:18:55.290 --> 00:18:58.410
+Susan Tracz: He received grants to work on them.
+
+89
+00:18:59.460 --> 00:19:07.500
+Susan Tracz: And he also became interested in how readers could interact with a poem and how there might be multiple paths through a home.
+
+90
+00:19:07.920 --> 00:19:16.890
+Susan Tracz: And so, he started writing is hyper poems at this time, and this is dina we'll talk more about this later, and incidentally dina may not share this with you.
+
+91
+00:19:17.250 --> 00:19:28.500
+Susan Tracz: But she was a student of bills are he chaired her thesis I believe she finished in 1992 and her thesis have to do with the use of computer technology.
+
+92
+00:19:28.860 --> 00:19:40.500
+Susan Tracz: And how it would change the way we critically look at poetry and other literature and actually I have a letter from bill to dina saying how he would urge her to publish this work.
+
+93
+00:19:42.180 --> 00:19:45.270
+Susan Tracz: Well, around this time also i'm.
+
+94
+00:19:46.440 --> 00:19:47.670
+Susan Tracz: Sorry, the next slide.
+
+95
+00:19:49.110 --> 00:19:56.820
+Susan Tracz: here's here's a poem that he wrote computer song on this, this is published and six philosophical songs.
+
+96
+00:19:57.900 --> 00:20:11.130
+Susan Tracz: But, around this time both billing Leonard got tested for AIDS and bill was positive and Leonard was not so they made wills at this time and Leonard may excuse me bill made Leonard is executor.
+
+97
+00:20:12.360 --> 00:20:26.190
+Susan Tracz: A bill then God and was hospitalized for diverticulitis and one of his doctors told her that he thought that treatment was withheld from bill, because he had AIDS, of course, none of this could ever be proven.
+
+98
+00:20:27.390 --> 00:20:44.340
+Susan Tracz: The last time I spoke with bill was on the phone about two weeks before he died in 1994 and he told me that everything would be all right, and he also told me to take care of Leonard because he was always afraid that Leonard would commit suicide.
+
+99
+00:20:45.750 --> 00:20:47.100
+Susan Tracz: So after.
+
+100
+00:20:48.360 --> 00:20:50.040
+Susan Tracz: After leonard's passing.
+
+101
+00:20:57.390 --> 00:20:58.650
+Susan Tracz: There was.
+
+102
+00:20:59.910 --> 00:21:07.200
+Susan Tracz: Work to Leonard really worked on getting the hyper pumps disseminated and he had a contract for their publication.
+
+103
+00:21:07.710 --> 00:21:21.960
+Susan Tracz: In dena did yeoman's work editing these poems but the publication of the publisher never followed through on the contract, although there were multiple multiple multiple attempts to make this contract the.
+
+104
+00:21:22.980 --> 00:21:32.310
+Susan Tracz: follow through on I remember bill worrying about being sued if he sought out another publisher and he kept saying, I have to do something about those poems.
+
+105
+00:21:33.150 --> 00:21:45.390
+Susan Tracz: There was also a correspondence with MIT to have some of these words come out and us on a few of them did but, but not the whole, not the entire catalog of those poems.
+
+106
+00:21:46.590 --> 00:21:47.010
+Susan Tracz: In.
+
+107
+00:21:49.860 --> 00:21:56.160
+Susan Tracz: 2004 letter did commit suicide, much to the great sadness of all who knew him.
+
+108
+00:21:57.360 --> 00:22:11.640
+Susan Tracz: And when they made their wills Leonard may bill his executor and he named me as the executor in the case that bill passed and so bills literary estate, which had been passed along to Leonard was now passed along to me.
+
+109
+00:22:12.990 --> 00:22:19.890
+Susan Tracz: And being a literary executor sounds romantic but it's actually a lot of work and often a lot of heartache.
+
+110
+00:22:21.090 --> 00:22:40.050
+Susan Tracz: There was getting bills massive oak desk who was God son's mother, the silver back to leonard's fig two bills family some furniture back to surely who was bills ex wife in the archive of bills papers which Leonard had catalog to the library and read can't read college.
+
+111
+00:22:41.070 --> 00:22:52.560
+Susan Tracz: But the problem of the hyper poems was more complicated I consulted with computer X experts at my college California State University fresno about retrieving the poems.
+
+112
+00:22:53.190 --> 00:23:03.780
+Susan Tracz: And that sort of never was accomplished I started talks with people at San Francisco state about a project to get these poems published but.
+
+113
+00:23:04.350 --> 00:23:22.020
+Susan Tracz: Nothing worked out for one reason or another, so finally when Matthew contacted me with the news and Andrew would be able to make these poems which dina hit edited available on the Internet archive that long held goal of publishing these poems became a reality.
+
+114
+00:23:23.400 --> 00:23:37.050
+Susan Tracz: And, in closing, I have to say that the fact that these poems are fresh and evocative and as relevant today as they were in the early 90s it's really a testimony to William Dickies genius Thank you.
+
+115
+00:23:42.240 --> 00:23:43.860
+Matthew G. Kirschenbaum: Thank you so much Susan.
+
+116
+00:23:45.210 --> 00:23:46.290
+Susan Tracz: most welcome.
+
+117
+00:23:48.030 --> 00:23:51.030
+Matthew G. Kirschenbaum: So we're going to go to Andrew fergusson now.
+
+118
+00:23:54.030 --> 00:24:08.550
+Andrew Ferguson: Excellent okay i'll just share my screen, I have made things difficult for myself, by doing my slides in hyper card, so any technical issues are entirely my fault.
+
+119
+00:24:09.630 --> 00:24:10.590
+Andrew Ferguson: let's see.
+
+120
+00:24:12.360 --> 00:24:14.730
+Andrew Ferguson: Can you see the slide.
+
+121
+00:24:16.710 --> 00:24:17.100
+Susan Tracz: Yes.
+
+122
+00:24:18.450 --> 00:24:28.830
+Andrew Ferguson: Yes, okay so i'm aware that several people here may not be familiar with hyper card so first of all i'll give a quick introduction to what hyper card is.
+
+123
+00:24:29.430 --> 00:24:43.170
+Andrew Ferguson: It was developed in 1987 by Bill atkinson was working at apple and allowed the authoring of presentations interactive stories databases and software in general.
+
+124
+00:24:43.560 --> 00:24:53.400
+Andrew Ferguson: And collectively a hypercar document is known as a stack so all of these different things, you can do with hyper card or collectively, known as stocks.
+
+125
+00:24:54.420 --> 00:25:03.930
+Andrew Ferguson: hyper card was initially just treated for free, with every MAC sold, this was a condition that bill atkinson set down when he released it with apple.
+
+126
+00:25:04.320 --> 00:25:14.190
+Andrew Ferguson: So, therefore, there was a very large number of users really into the millions, because every single month that was sold at the time came with a free copy of hyper card.
+
+127
+00:25:16.920 --> 00:25:22.500
+Andrew Ferguson: So one of the really good things about hyper card is that it's really, really, easy to make stuff in it.
+
+128
+00:25:23.130 --> 00:25:35.250
+Andrew Ferguson: All of the authoring tools were included in the same application as the viewer so these days we've got web browsers and then separate applications for making websites.
+
+129
+00:25:35.670 --> 00:25:54.870
+Andrew Ferguson: But in hyper card you've got the viewer and the author, in the same application, which means it's incredibly easy to inspect other people's stocks see how they did something and then use that in your own stock example of that is here is the this stock and it came with hyper card.
+
+130
+00:25:55.680 --> 00:25:57.030
+Andrew Ferguson: Not is editable so I.
+
+131
+00:25:57.270 --> 00:26:04.110
+Andrew Ferguson: brought up here there's a window the shoes the code bind one of the buttons on the start included with hyper card.
+
+132
+00:26:06.150 --> 00:26:22.350
+Andrew Ferguson: Unfortunately, all discontinued hypercar in 2000 and for the last updated it and the late 90s, and although there were efforts to make our newer version, they were dropped and apple focus their priorities on other areas.
+
+133
+00:26:23.220 --> 00:26:32.910
+Andrew Ferguson: there's new, modern drop in replacement for hyper card and the are some applications that function in similar ways, or can attempt to read hyper card stocks.
+
+134
+00:26:33.270 --> 00:26:38.490
+Andrew Ferguson: But none of them is a drop in replacement and requires substantial editing on stocks.
+
+135
+00:26:39.060 --> 00:26:49.740
+Andrew Ferguson: So therefore the only way to use hyper card stocks on modern systems is to use an emulator but unfortunately emulators are fairly complicated to set up and get working.
+
+136
+00:26:50.610 --> 00:26:56.760
+Andrew Ferguson: So that brings me to hyper card online and the goal of hyper card ordering are fairly simple.
+
+137
+00:26:57.330 --> 00:27:11.550
+Andrew Ferguson: The first of which is to enable people to run their hyper card stacks on modern systems with new technical experience and, secondly, is to function as a showcase to demonstrate what could be created with hyper card.
+
+138
+00:27:12.690 --> 00:27:16.830
+Andrew Ferguson: So there's two parts to the system, the first, which is the uploader.
+
+139
+00:27:17.280 --> 00:27:28.800
+Andrew Ferguson: Mrs it here is just a simple web form it allows you to choose a file on your computer that's a stock provide some basic metadata about it and upload it into the archive.
+
+140
+00:27:29.640 --> 00:27:42.840
+Andrew Ferguson: The key thing about the Lunar is that it accepts all formats of stacks the way this works is that i've programmed it to work automatically with the majority of format stocks.
+
+141
+00:27:43.290 --> 00:27:57.960
+Andrew Ferguson: And if it comes across a format that it doesn't recognize it notifies me and I go and manually fix it so that way it can handle a huge variety in stocks, because there was a huge variety in how these stacks were distributed.
+
+142
+00:28:00.000 --> 00:28:09.090
+Andrew Ferguson: The second part of the system is the archive of stocks, and this is hosted by the Internet archive your nonprofit library in San Francisco.
+
+143
+00:28:11.130 --> 00:28:22.200
+Andrew Ferguson: hyper card online was launched in 2017 for the 30th anniversary of hyper card, and since then over 3500 stocks have been uploaded to the archive.
+
+144
+00:28:23.820 --> 00:28:41.880
+Andrew Ferguson: One key feature of using Internet archive for hosting these stocks is that the Internet archive provide the in browser and religion technology this emulates a MacIntosh plus from 1986 with our own four megabytes of Ram and eight megahertz processor.
+
+145
+00:28:41.940 --> 00:28:57.900
+Andrew Ferguson: directly within your browser the way this works is you can select any stock within the archive it has a play button on the screen, you simply press the play button and this emulator will boot directly within your browser and from there, you can run the staff.
+
+146
+00:29:01.050 --> 00:29:10.710
+Andrew Ferguson: i've got a couple examples here are different stacks now being created with hyper card and that are in the archive just to demonstrate the great variety of things that can be made.
+
+147
+00:29:11.340 --> 00:29:25.020
+Andrew Ferguson: The first of which is a story prompt stack the way this works is it got several pre provided prompts for stories and it gives you a prompt and then it's your job to go and finish the rest of the story.
+
+148
+00:29:25.470 --> 00:29:31.770
+Andrew Ferguson: And it's idea is to help people who maybe want to write a story barn sure how to begin start writing stories.
+
+149
+00:29:33.630 --> 00:29:47.580
+Andrew Ferguson: Second stack is an animation it's very silly little animation about our most under spider running around a computer hyper card was used for making quite a lot of animations and that was another very popular things it was used for.
+
+150
+00:29:49.680 --> 00:29:59.400
+Andrew Ferguson: Another one here is a fairly well known stack called indigo gets and it's a little choose your own adventure game, and you play the role of a cat.
+
+151
+00:29:59.970 --> 00:30:10.350
+Andrew Ferguson: And by clicking different parts of the screen you in the cat wander around the House, you can wander around outside through a tree up trees there's a fun little adventure.
+
+152
+00:30:12.420 --> 00:30:13.290
+Andrew Ferguson: And finally.
+
+153
+00:30:14.790 --> 00:30:32.970
+Andrew Ferguson: We have here, this was a stack used by a US Defense company to teach internally their employees, about how read our systems worked so hyper card was nice for a huge variety of things, including, of course, this presentation is done in hyper card.
+
+154
+00:30:35.820 --> 00:30:49.380
+Andrew Ferguson: So when you think about getting a hyper card stack from your computer or the original computer into a modern system, there are several challenges, these are both physical challenges and digital challenges.
+
+155
+00:30:49.860 --> 00:31:05.280
+Andrew Ferguson: If we think about the physical challenges mean one is that moves to the stocks are still on old media, maybe that's floppy disks maybe it's all hard drives maybe zip disks and getting data off these discs is fairly difficult.
+
+156
+00:31:05.850 --> 00:31:11.400
+Andrew Ferguson: Because often they're unreadable or you don't have the modern hardware to read the discs.
+
+157
+00:31:13.290 --> 00:31:21.060
+Andrew Ferguson: An example of this is that all the MAC floppy disks spin at different speeds compared to any other band of computer.
+
+158
+00:31:21.420 --> 00:31:34.890
+Andrew Ferguson: In fact, the speed of the desk changes, depending on the position of the Read head on the desk so as the meathead moves closer into the Center of the disc the disc spins faster and.
+
+159
+00:31:35.310 --> 00:31:47.850
+Andrew Ferguson: New other computer system does this, this was done by apple to save a total of 80 kilobytes of space, so you got an extra 80 kilobits on each floppy disk compared to a windows system.
+
+160
+00:31:48.870 --> 00:32:03.510
+Andrew Ferguson: For context the email that were sent out for this conference with the link to the zoom links that's 86 kilobytes so it's really a tiny, tiny micro spaces saved but back back then that was a fairly big deal.
+
+161
+00:32:06.210 --> 00:32:10.800
+Andrew Ferguson: The are thankfully modern solutions to this i've got two pictures of them here.
+
+162
+00:32:11.310 --> 00:32:20.070
+Andrew Ferguson: On top we have here a board called a flux engine down below is a grease weasel these act like intelligent controllers.
+
+163
+00:32:20.370 --> 00:32:27.810
+Andrew Ferguson: Allowing you to connect a regular floppy drive to them and on the other side, you have a USB connection to a modern computer.
+
+164
+00:32:28.350 --> 00:32:33.600
+Andrew Ferguson: And that allows you to read these more exotic this format on a modern system.
+
+165
+00:32:34.320 --> 00:32:52.680
+Andrew Ferguson: And for the hyper poems we're fairly lucky to have them on on bi book, which is booth old enough to be able to have the hyper stacks on them, but modern enough to have USB and basic Internet connectivity so that was very good in this case.
+
+166
+00:32:54.690 --> 00:33:08.550
+Andrew Ferguson: Now, once you've got the data off the old medium The second challenge or the digital towns and that's getting the data into a form that can be interpreted by modern systems are the hypercar stack.
+
+167
+00:33:09.120 --> 00:33:15.330
+Andrew Ferguson: And so that first of all involved converting it to a stack more importantly, not it's.
+
+168
+00:33:15.990 --> 00:33:26.010
+Andrew Ferguson: awesome modern system is today will change in 10 years time because computers are continuously evolving so it's very important to make sure that things like.
+
+169
+00:33:26.490 --> 00:33:35.790
+Andrew Ferguson: Data loss and data, corruption, now I guarded against otherwise you may lose the stack and all the work you've put into recovering it off the physical media.
+
+170
+00:33:38.190 --> 00:33:48.210
+Andrew Ferguson: An example of this is a very strange way that old MAC systems handle files and every old MAC store is a file in two parts.
+
+171
+00:33:48.630 --> 00:33:54.600
+Andrew Ferguson: One for the data, called the data fork and one for the resources, called the resource for.
+
+172
+00:33:55.440 --> 00:34:03.780
+Andrew Ferguson: Modern operating systems don't understand this at all for a modern operating system, everything is just data not resources.
+
+173
+00:34:04.290 --> 00:34:12.660
+Andrew Ferguson: And therefore it's very easy for the data fork and the resource board come separated and subsequently the source port to be lost.
+
+174
+00:34:13.320 --> 00:34:23.760
+Andrew Ferguson: This is a problem because hyper card uses the resource forks to store icons sounds and some codes and, therefore, if the resource for is missing.
+
+175
+00:34:24.180 --> 00:34:36.960
+Andrew Ferguson: Then the stack won't play properly, this is an issue we had with the hyper phones, the first time we transfer them the resource work was missing and as a result, the stones weren't working correctly.
+
+176
+00:34:38.190 --> 00:34:52.560
+Andrew Ferguson: The best way to handle this is to transfer the stocks and really counts for any MAC MAC files is to use a format, the stores booth resorts fork and the data for in a single file.
+
+177
+00:34:53.040 --> 00:35:05.670
+Andrew Ferguson: And if you've used all MAC systems, the software means of stuff at expand not binary and been hacks maybe familiar Those are all the format that you want to use to transfer the stacks correctly.
+
+178
+00:35:11.910 --> 00:35:16.920
+Andrew Ferguson: And of course my emulator has crashed I knew there'd be issues okay.
+
+179
+00:35:19.470 --> 00:35:34.320
+Andrew Ferguson: Second, of all another issue can have is data loss and I knew this personally as back in March, the company, I was using to host the uploader suffered a major fire other data Center and consequently.
+
+180
+00:35:35.280 --> 00:35:48.840
+Andrew Ferguson: The all the servers were destroyed and I didn't have a backup of the code or used for the router so it took me quite a while to get things to work again but thankfully I managed to get it working just earlier this week.
+
+181
+00:35:51.930 --> 00:36:01.140
+Andrew Ferguson: So, in summary, the main points I have is that there's a large archive of stocks available that can be viewed directly within the browser.
+
+182
+00:36:01.560 --> 00:36:11.310
+Andrew Ferguson: there any need for installing software or configuring anything technical you can do that archive.org forward slash details forward slash hyper card stocks.
+
+183
+00:36:12.600 --> 00:36:24.300
+Andrew Ferguson: You can also lose your own stocks, the uploader is that hyper card online tk and, as I mentioned earlier, it accepts really any format of hyper card stock and it should be able to work with that.
+
+184
+00:36:24.960 --> 00:36:38.100
+Andrew Ferguson: And if you have any questions if you've got any stacks of your own or know someone that has, please let me know I I love assisting people are getting their stocks on to the archive my email addresses on the screen there i'm on Twitter as well.
+
+185
+00:36:41.940 --> 00:36:42.870
+Matthew G. Kirschenbaum: Thank you, Andrew.
+
+186
+00:36:45.750 --> 00:36:55.620
+Matthew G. Kirschenbaum: I think, Nick Montfort is in the room, I think my my first extended conversation with Nick was in an airport in Santa Barbara and we were talking about a hyper this was.
+
+187
+00:36:55.920 --> 00:37:05.520
+Matthew G. Kirschenbaum: About 20 years ago talking about a hyper card emulator and neither of us over did it, but here we are, so thank you Andrew.
+
+188
+00:37:06.630 --> 00:37:12.420
+Matthew G. Kirschenbaum: Last, we have Dana Larsen and dina I believe it's going to.
+
+189
+00:37:12.720 --> 00:37:13.260
+Matthew G. Kirschenbaum: read some.
+
+190
+00:37:13.290 --> 00:37:14.520
+Matthew G. Kirschenbaum: poetry for us.
+
+191
+00:37:15.540 --> 00:37:15.900
+dina.
+
+192
+00:37:19.530 --> 00:37:21.660
+Matthew G. Kirschenbaum: And you're you're muted dina.
+
+193
+00:37:32.040 --> 00:37:41.910
+Deena Larsen: Okay, let me unmute first and then let me share my screen and since i'm very lucky to have three monitors, I have an incredible system now i'm just so nice.
+
+194
+00:37:44.610 --> 00:37:48.990
+Deena Larsen: Let me know what screen i'm seeing do you guys see as an Ob acquainted Camara.
+
+195
+00:37:49.650 --> 00:37:50.610
+Matthew G. Kirschenbaum: Yes, yes, we do.
+
+196
+00:37:51.210 --> 00:37:53.610
+Deena Larsen: Okay, I first wanted to show.
+
+197
+00:37:54.360 --> 00:37:54.930
+Deena Larsen: Some.
+
+198
+00:37:55.200 --> 00:38:06.210
+Deena Larsen: yeah here does okay So the first thing I wanted to show was how you get into it, this is the emulator that Andrew has some beautifully suggested, and it does have all of the poems.
+
+199
+00:38:07.230 --> 00:38:13.290
+Deena Larsen: The one I wanted to read was the one that bill and I work read together.
+
+200
+00:38:14.310 --> 00:38:24.300
+Deena Larsen: When I was doing my master's thesis at the University of Colorado in 1989 90 I interviewed everybody in the field Stewart.
+
+201
+00:38:25.980 --> 00:38:37.710
+Deena Larsen: we're in vicki has some student actually zach and we should have his desktop as well, I had stolen them so they should be on that file will find those and.
+
+202
+00:38:40.020 --> 00:38:55.590
+Deena Larsen: bill was an incredible thesis advisor he did it all for free, for me, I don't think he ever got any credit, but he was my true thesis advisor when I was writing marble springs, which is a hyper card stack and I got to meet him in person once.
+
+203
+00:38:56.940 --> 00:39:00.180
+Deena Larsen: And Leonard and bill and I had a wonderful afternoon.
+
+204
+00:39:01.650 --> 00:39:04.440
+Deena Larsen: And then I will go through his poems here.
+
+205
+00:39:05.460 --> 00:39:09.060
+Deena Larsen: But this is the one that means a lot to me because we did read it together.
+
+206
+00:39:11.520 --> 00:39:12.300
+Deena Larsen: Let me see.
+
+207
+00:39:13.470 --> 00:39:18.540
+Deena Larsen: Which screen I use that are using this to novia that is somehow not working out.
+
+208
+00:39:19.080 --> 00:39:20.640
+Matthew G. Kirschenbaum: Yes, now we are good enough.
+
+209
+00:39:20.910 --> 00:39:21.600
+Matthew G. Kirschenbaum: A season.
+
+210
+00:39:22.110 --> 00:39:26.880
+Deena Larsen: I am but it's not working at the moment, so let me try again.
+
+211
+00:39:30.750 --> 00:39:32.190
+Deena Larsen: Okay cool.
+
+212
+00:39:34.320 --> 00:39:35.250
+Deena Larsen: going to work now.
+
+213
+00:39:37.980 --> 00:39:38.520
+Deena Larsen: going to work now.
+
+214
+00:39:40.710 --> 00:39:51.390
+Deena Larsen: One of the I want to read this middle talk about it, but one of the issues here is that bill was very interested in mystique navigation so.
+
+215
+00:39:52.260 --> 00:40:12.780
+Deena Larsen: What they did was to hide the navigation bars, which is really fun what he wants to do and I will do this in two voices is read the poem and then play the game, so the matches store after my dead child met his own image walking in the garden that apparition soul of men, he saw.
+
+216
+00:40:13.980 --> 00:40:15.180
+Deena Larsen: not going to sit there on the.
+
+217
+00:40:19.320 --> 00:40:28.380
+Deena Larsen: Left left hand holding the right stabs when the days centers yeah we're not going to get anywhere stabbing but it's off Center.
+
+218
+00:40:30.600 --> 00:40:36.360
+Deena Larsen: Was power skeleton and remembers not the brain.
+
+219
+00:40:40.320 --> 00:40:54.810
+Deena Larsen: And here, you see an interface, this is part of hyper card, where you could go and program something random says a bit odd the city generates from the paradigms of anger no its darkness it's anger.
+
+220
+00:40:58.860 --> 00:41:03.330
+Deena Larsen: anger of the defeated of the victor for the humiliation of sharing.
+
+221
+00:41:04.770 --> 00:41:06.810
+Deena Larsen: Thank you, is there, but no he's in the corner.
+
+222
+00:41:10.110 --> 00:41:16.290
+Deena Larsen: A cast about in the dark after the enemy it's not the dark the counts it's the old days.
+
+223
+00:41:19.380 --> 00:41:26.040
+Deena Larsen: Where the power gathers the drip of honey nope not her she's being held it's her.
+
+224
+00:41:28.530 --> 00:41:33.120
+Deena Larsen: increments her musical glass heart, and of course it's the one that stands.
+
+225
+00:41:36.780 --> 00:41:41.220
+Deena Larsen: The revenge of the darkness on the wind landward this poor guy.
+
+226
+00:41:49.170 --> 00:41:53.340
+Deena Larsen: We see the visual repetition, which is very important in.
+
+227
+00:41:55.620 --> 00:42:00.240
+Deena Larsen: blindness brings it from multiple to one and the destitution of beginning.
+
+228
+00:42:01.530 --> 00:42:02.610
+Deena Larsen: And he is blind.
+
+229
+00:42:07.920 --> 00:42:17.970
+Deena Larsen: and Andrew yeah we are getting this a little bit too slow, but it's fine recognizing and electric dimension, having Brett link fire.
+
+230
+00:42:19.200 --> 00:42:20.850
+Deena Larsen: it's not the dimensions it's the.
+
+231
+00:42:22.890 --> 00:42:28.920
+Deena Larsen: silver horizon to the pool of mirror into which the swallow dips and vanishes it is.
+
+232
+00:42:32.880 --> 00:42:39.360
+Deena Larsen: pages of the spread book confessing to one another, and these images will also appear in accomplished night.
+
+233
+00:42:41.280 --> 00:42:44.550
+Deena Larsen: It is not the mouse it's the growth.
+
+234
+00:42:48.690 --> 00:42:53.100
+Deena Larsen: Fresh under the mask stringency, we have to go again.
+
+235
+00:42:57.150 --> 00:43:01.710
+Deena Larsen: Welcoming the slight wind on the cusp of winter it's not.
+
+236
+00:43:02.760 --> 00:43:06.930
+Deena Larsen: it's not there on by the way, there are more than one button.
+
+237
+00:43:09.090 --> 00:43:20.460
+Deena Larsen: Under the stone breaking it open within the stone seating it's crystal hearts nope it's not in the crystal heart itself it's in the flower.
+
+238
+00:43:22.530 --> 00:43:28.830
+Deena Larsen: The city generates for the paradigms of anger power, but the power animates the lines edge in the mouth.
+
+239
+00:43:34.530 --> 00:43:40.500
+Deena Larsen: coming together the I the orbit but the I doesn't do anything for us it's the orbits.
+
+240
+00:43:43.380 --> 00:43:47.730
+Deena Larsen: Are there are the eyes in the interest ISIS, which is so important here.
+
+241
+00:43:49.050 --> 00:43:52.290
+Deena Larsen: And again, you get the repetition, this is very much like a jam session.
+
+242
+00:43:53.490 --> 00:43:55.110
+Deena Larsen: Of these types of repetitions.
+
+243
+00:43:56.490 --> 00:43:56.940
+Deena Larsen: and
+
+244
+00:43:59.520 --> 00:44:05.490
+Deena Larsen: yeah I think we're a little slow but it's okay it's also the zoom so it's tech it's.
+
+245
+00:44:06.120 --> 00:44:07.980
+Matthew G. Kirschenbaum: Everything else extravagant.
+
+246
+00:44:08.310 --> 00:44:09.540
+Deena Larsen: devil yeah.
+
+247
+00:44:12.540 --> 00:44:17.160
+Deena Larsen: fountains of layoffs sky of the punch away says.
+
+248
+00:44:19.350 --> 00:44:21.690
+Deena Larsen: Is constellations of mercy.
+
+249
+00:44:22.710 --> 00:44:24.300
+Deena Larsen: In the not in the.
+
+250
+00:44:26.100 --> 00:44:28.020
+Deena Larsen: memory space, and this is a random.
+
+251
+00:44:34.170 --> 00:44:49.800
+Deena Larsen: memory of the wide space of sky and Leonard and I designed this page because there actually wasn't a call have fun and Leonard want to call it fun, so we provided them.
+
+252
+00:44:50.820 --> 00:44:53.250
+Deena Larsen: did take us a while to figure out where things were from.
+
+253
+00:44:54.960 --> 00:44:59.130
+Deena Larsen: But, given all of that, now that you've seen one of the works.
+
+254
+00:45:00.540 --> 00:45:08.700
+Deena Larsen: I wasn't going to tell the story, but i'm going to now because you guys introduced it so basically what happened was we work together we we corresponded.
+
+255
+00:45:11.010 --> 00:45:20.520
+Deena Larsen: Leonard was William was one of the ones who talked about marble springs and reviewed it for each gate and I get to San Francisco after.
+
+256
+00:45:21.060 --> 00:45:43.020
+Deena Larsen: Wednesday and I just wanted to hug Leonard and say hey i'm it's okay and Leonard opens the door and he says, oh you're here to edit the work and i'm like oh yeah yeah that would be cool man oh my God, it is a MAC quadro do you load this thing had one entire gig of Ram it was so cool.
+
+257
+00:45:44.040 --> 00:46:01.410
+Deena Larsen: wow I got to touch this computer it was amazing and so he leaves me in here I get into this room and there's a computer with nothing say or nothing in order Okay, here we go um and editing it was really interesting.
+
+258
+00:46:02.520 --> 00:46:21.600
+Deena Larsen: So how do you edit hypertext and new media when both the writer and the program have cat past and enter yeah hyper card might have been around till 1998 but in 1994 it was pretty much still a dead work, it was very difficult to get.
+
+259
+00:46:23.010 --> 00:46:37.470
+Deena Larsen: um so we have this computer and, by the way, so I go through this you'll see the screenshots of some of William depicts work and you'll see where it came from, and we are not sure what dates, these are so I have to say flourish.
+
+260
+00:46:38.670 --> 00:46:48.360
+Deena Larsen: But how do you confront the computer that remains, how do you walk into a place, how do you determine what dickie wanted what bill wanted what were these finished with a not.
+
+261
+00:46:49.110 --> 00:46:56.580
+Deena Larsen: We just declared everything finished, which was an interesting choice because you'll see some of the poems are rougher than others.
+
+262
+00:46:58.290 --> 00:47:07.800
+Deena Larsen: um what order, we had no idea what order, we were going to choose, so we finally said well let's make it a circle, so that there is no true order.
+
+263
+00:47:08.520 --> 00:47:17.340
+Deena Larsen: And the circle is based on actually content and how we saw that these works were working in terms of navigational structure.
+
+264
+00:47:18.090 --> 00:47:30.210
+Deena Larsen: They are also very much based on not safe for work and safe for work volume two is the erotica asked me later about the stories here and the faces i'm not going to talk about it now.
+
+265
+00:47:33.930 --> 00:47:43.860
+Deena Larsen: How do you determine if something's a bug or a feature, for example in when I watched bill do the novia Queen of palmyra palmyra.
+
+266
+00:47:44.700 --> 00:47:52.140
+Deena Larsen: He clicked on certain things, and they worked many clicked on one of those oh it didn't work oh I gotta go back and fix that will never did go back and fix it.
+
+267
+00:47:52.500 --> 00:48:11.040
+Deena Larsen: But I happen to know, because we read it together that it was supposed to work, what am I supposed to I don't remember where it was supposed to go I yeah so Susan has and can wave this wonderful print page by page.
+
+268
+00:48:12.060 --> 00:48:26.790
+Deena Larsen: notebook of where I took every page and when okay here are the buttons that work here, the ones that don't what do we do, and every editorial decision is in that book and I thought that was last for years until today, so thank you Susan for saving that.
+
+269
+00:48:28.110 --> 00:48:30.330
+Deena Larsen: So we do have that at least archival notebook.
+
+270
+00:48:31.920 --> 00:48:49.470
+Deena Larsen: I did cheat as Andrew was saying it is really easy to cheat in hypercar you can look up everything unfortunately there was programming behind each of these buttons and some of that code didn't work there were programs behind the images, it was painful.
+
+271
+00:48:52.620 --> 00:48:59.370
+Deena Larsen: You have sound and slide transitions as you saw into novia, how do you resurrect that when hypercar dies.
+
+272
+00:49:00.180 --> 00:49:05.790
+Deena Larsen: And you have these invisible buttons which she was really as you saw they are really integral to the work.
+
+273
+00:49:06.600 --> 00:49:23.550
+Deena Larsen: How do you create that we were thinking we could do it on flash rob swaggered and I were really wondering how we could do this and we got together a couple of times and we tried to resurrect one of these on flash and we gave up, it was just too overwhelming a task.
+
+274
+00:49:24.630 --> 00:49:34.410
+Deena Larsen: How to deal with random elements hyper card was incredible you could place a random element script in anything and go places it was amazing.
+
+275
+00:49:35.460 --> 00:49:35.850
+Deena Larsen: um.
+
+276
+00:49:37.140 --> 00:49:40.620
+Deena Larsen: So yeah it fell through the cracks um.
+
+277
+00:49:41.700 --> 00:49:48.570
+Deena Larsen: This was a daunting task on a personal note Susan when you called me in because you actually finally found my number.
+
+278
+00:49:49.380 --> 00:50:07.020
+Deena Larsen: I had just collapsed and was just learning how to deal with a wheelchair, and I was like yeah i'm going to get with you and didn't so my illness my job interfered every time I thought about this project, it was.
+
+279
+00:50:08.400 --> 00:50:14.520
+Deena Larsen: It was so overwhelming I couldn't do it, and I wanted to so badly then.
+
+280
+00:50:24.900 --> 00:50:29.430
+Deena Larsen: It got pushed to the back of everything else, and it shouldn't.
+
+281
+00:50:31.740 --> 00:50:32.100
+Deena Larsen: So.
+
+282
+00:50:34.020 --> 00:50:43.980
+Deena Larsen: I wanted to say, here are some lessons learned for everybody listening for god's sake, take a copy of this page give it to every.
+
+283
+00:50:44.790 --> 00:50:53.370
+Deena Larsen: writer, you know for pete fake never ever let this happen to anybody else, please no oh my God.
+
+284
+00:50:54.060 --> 00:51:00.990
+Deena Larsen: i'm okay first thing today go through your computer, will you mind just getting a folder that says finished work.
+
+285
+00:51:01.800 --> 00:51:15.480
+Deena Larsen: If nothing else, label what you've got archive you should please designate the literary executors and talk to them ahead of time don't just surprise them like we surprises and say hey this is what's going on.
+
+286
+00:51:16.740 --> 00:51:22.620
+Deena Larsen: My personal will I have five literary executors name that I believe i've talked to them all.
+
+287
+00:51:23.820 --> 00:51:32.340
+Deena Larsen: yeah and write your damn Meta notes, if nothing else, spend an afternoon with a with a recorder going zoom and record yourself and do something.
+
+288
+00:51:32.700 --> 00:51:45.360
+Deena Larsen: and say this is what I met this is why I use this platform, we all work to the software God sake tell us what you wanted to do don't make me to make us read your mind so.
+
+289
+00:51:46.680 --> 00:51:51.660
+Deena Larsen: Thank you for being rescued matt has already shared the.
+
+290
+00:51:53.580 --> 00:51:56.670
+Deena Larsen: The URLs go through these works, they are amazing.
+
+291
+00:51:58.740 --> 00:52:08.460
+Deena Larsen: The simulations I think that was the best solution, particularly for dickie because he stays closer to the original intense they are available online.
+
+292
+00:52:09.360 --> 00:52:20.850
+Deena Larsen: And that's pretty much what I wanted to say, I met, one of the make sure there was time for some questions and, if you like, matt either way you want to do this, I can continue sharing some.
+
+293
+00:52:20.880 --> 00:52:28.500
+Deena Larsen: Of the gorgeous work here, as we talk, or we can go back to seeing each other's faces whatever you'd like to do.
+
+294
+00:52:29.910 --> 00:52:39.480
+Matthew G. Kirschenbaum: um I guess i'm in favor of faces for the conversational heart um I did want to.
+
+295
+00:52:40.890 --> 00:52:53.610
+Matthew G. Kirschenbaum: just very briefly as a little kind of quota just to contribute another small bit of the poetry I don't have.
+
+296
+00:52:57.540 --> 00:53:01.680
+Matthew G. Kirschenbaum: I don't have screenshots the way you do DNA, but I did want to.
+
+297
+00:53:02.730 --> 00:53:06.030
+Deena Larsen: Stop sharing my screen oh good review viewing you're great.
+
+298
+00:53:07.200 --> 00:53:19.530
+Matthew G. Kirschenbaum: you're a good i'm dickie as I think you mentioned dina he was fascinated his whole life by by loops by patterns by repetition and recurrences by mandela's.
+
+299
+00:53:19.920 --> 00:53:29.880
+Matthew G. Kirschenbaum: And I came across some of you may have noticed the the title for this session beyond range of there, and this is from the hyper pound volcano.
+
+300
+00:53:30.600 --> 00:53:46.050
+Matthew G. Kirschenbaum: there's a sense in which to me anyway in my reading it does seem to sort of anticipate this this moment today, right now, even though it was written 30 years ago, so I I just thought I would read it before we have discussion.
+
+301
+00:53:47.310 --> 00:53:59.640
+Matthew G. Kirschenbaum: This is my letter to you what I had not thought to say, but to fold as we fold away the evening or the butterflies carefully in the pattern of stiff record.
+
+302
+00:54:00.180 --> 00:54:11.070
+Matthew G. Kirschenbaum: creasing it making the fold slice sharpened exact that are only meant to crumble and break from their own weight years later, when the person is up and.
+
+303
+00:54:11.430 --> 00:54:26.040
+Matthew G. Kirschenbaum: When What is left is a breath of voice rising transparently, the logic behind the perfume all of what once was sense stinking a little at range beyond range of air.
+
+304
+00:54:30.120 --> 00:54:37.470
+Matthew G. Kirschenbaum: And so, with that we have time for people's questions.
+
+305
+00:54:38.580 --> 00:54:39.360
+Matthew G. Kirschenbaum: discussion.
+
+306
+00:54:40.800 --> 00:54:54.480
+Susan Tracz: No, I just want to make one comment, and that is, I think there's some somewhat of a sense of loss that it's been such a long time in getting bills or out, but I think we could reframe this to think of it as.
+
+307
+00:54:55.530 --> 00:55:07.350
+Susan Tracz: Maybe this work was safe for us in in waiting so long there's there's a certain increased appreciation of it so maybe this is the perfect time and maybe.
+
+308
+00:55:08.280 --> 00:55:17.850
+Susan Tracz: Despite all our efforts and work for so many years and trying to get it published maybe this is exactly perfect exactly the way it's supposed to be.
+
+309
+00:55:19.950 --> 00:55:29.670
+Susan Tracz: I think now we've added other I think it can reach a broader audience more easily now than it could be when obviously when this was first written.
+
+310
+00:55:30.300 --> 00:55:38.280
+Deena Larsen: Oh Susan you're absolutely right Thank you so much for reframing that and reframing my life and my guilty at this point, but yes.
+
+311
+00:55:38.790 --> 00:55:45.750
+Deena Larsen: That is a problem and and john can talk to this too, with uncle bobby's one house with marble springs with Jim rosenberg instagrams.
+
+312
+00:55:46.290 --> 00:55:54.450
+Deena Larsen: We had the work, but we did not have the audience at the time in 1990s, for example, just real briefly.
+
+313
+00:55:54.990 --> 00:56:05.010
+Deena Larsen: The reason why William Dickey became My thesis advisor was because my real thesis advisors at my real university did not know how to use a mouse.
+
+314
+00:56:05.580 --> 00:56:11.730
+Deena Larsen: I had to put previous and next version buttons in because they could not understand links.
+
+315
+00:56:12.330 --> 00:56:24.510
+Deena Larsen: And William vicki was the only one who got my thesis together because he got it he understood, where we were going there were very few of us, I interviewed everybody in the field, all eight of them, including chuck.
+
+316
+00:56:27.870 --> 00:56:31.950
+Deena Larsen: and Judy I think at the time to remember yeah and so.
+
+317
+00:56:33.300 --> 00:56:36.990
+Deena Larsen: you're right we didn't have the audience we just had 10 people, maybe.
+
+318
+00:56:44.190 --> 00:56:49.560
+Matthew G. Kirschenbaum: Questions that people may have things folks want to know more about.
+
+319
+00:56:52.500 --> 00:57:03.150
+Matthew G. Kirschenbaum: And I jic James Ryan, but I think we're we're a small enough group so you know feel free to just unmute yourself and pose your your question or your comment.
+
+320
+00:57:04.560 --> 00:57:12.060
+James Ryan: I, I have to leave right now, and so sorry to been to the front of the line that was so amazing this is such a fantastic session.
+
+321
+00:57:12.480 --> 00:57:20.130
+James Ryan: I want to show a peculiar artifact for a moment, which is a print version of volcano the hyper palm that matches read from.
+
+322
+00:57:20.790 --> 00:57:25.620
+James Ryan: i've identified one other copy in existence, I found this for 20 bucks on a used book site.
+
+323
+00:57:26.100 --> 00:57:31.950
+James Ryan: And what it is, is a printed out version of the Let me try to show it here it's a vertical orientation.
+
+324
+00:57:32.310 --> 00:57:42.570
+James Ryan: or horizontal rather it's a printed out version of the stack and I haven't done a detailed analysis analysis of this that's on my to do list and i'll be documenting this and scanning it and so forth.
+
+325
+00:57:43.140 --> 00:57:55.890
+James Ryan: But a strange really interesting artifact of the intersection of print and very digital work, I do have to run, I just want to say thank you again and keep your eyes peeled on Twitter or something for me to release this game all right.
+
+326
+00:57:56.040 --> 00:57:57.180
+Deena Larsen: Oh yeah.
+
+327
+00:57:57.420 --> 00:58:01.740
+Deena Larsen: Let her talk about that he didn't have one I don't think Susan Leonard didn't have that.
+
+328
+00:58:02.220 --> 00:58:03.510
+Susan Tracz: And I know I.
+
+329
+00:58:04.500 --> 00:58:07.680
+James Ryan: lost his yeah okay so.
+
+330
+00:58:08.940 --> 00:58:13.620
+Matthew G. Kirschenbaum: going to be DMA James for his home address and.
+
+331
+00:58:13.680 --> 00:58:16.380
+Matthew G. Kirschenbaum: Times out of the House.
+
+332
+00:58:17.580 --> 00:58:17.910
+James Ryan: yeah.
+
+333
+00:58:19.980 --> 00:58:20.520
+James Ryan: To do right.
+
+334
+00:58:22.140 --> 00:58:24.240
+James Ryan: I thought identified one other copy.
+
+335
+00:58:24.870 --> 00:58:25.440
+Deena Larsen: This has.
+
+336
+00:58:25.950 --> 00:58:28.560
+James Ryan: The markings of the author prettiness copy.
+
+337
+00:58:29.700 --> 00:58:37.260
+James Ryan: Perhaps it was the only one in maybe I somehow came to require the one that I saw identified online it's not enrolled.
+
+338
+00:58:38.280 --> 00:58:40.050
+James Ryan: oclc it was in the holdings.
+
+339
+00:58:41.340 --> 00:58:43.740
+James Ryan: Which is inside sonics press on it.
+
+340
+00:58:44.430 --> 00:58:46.500
+James Ryan: there's no identification of a press.
+
+341
+00:58:48.060 --> 00:58:55.650
+James Ryan: The call often volcano is a hydrophone designed by William dickie in San Francisco and October 1988 is copyright bites after.
+
+342
+00:58:56.010 --> 00:59:07.110
+James Ryan: clip art is taken from the collection of ends in post review me in the icons are from the icon factory, the type they seized upon the Chicago perhaps that's the same call from that would be in there and like record.
+
+343
+00:59:07.710 --> 00:59:13.470
+Deena Larsen: it's not it's not Leonard and I had to recreate the qualified from memory i'm sure it's our call upon is wrong.
+
+344
+00:59:14.460 --> 00:59:15.750
+James Ryan: Okay well um.
+
+345
+00:59:15.840 --> 00:59:30.330
+James Ryan: wow he's anyone reached out to them easy enough to find i'm so sorry I really have to go to this next one, so that's a good tease I guess and i'm definitely hoping to document this and get this artifact thanks again wow what a fun session.
+
+346
+00:59:30.900 --> 00:59:31.560
+Matthew G. Kirschenbaum: goodbye thank.
+
+347
+00:59:32.250 --> 00:59:33.150
+Susan Tracz: You so much.
+
+348
+00:59:37.740 --> 00:59:45.990
+Matthew G. Kirschenbaum: yeah I mean one one fascinating thing was that dickie was very much involved in the sort of small press and chop book world.
+
+349
+00:59:46.530 --> 00:59:57.570
+Matthew G. Kirschenbaum: He actually he went to I think it was mentioned, he went to read college, as did somebody named Steve Jobs so there's there's another one of those non dollar like patterns there.
+
+350
+00:59:58.350 --> 01:00:09.900
+Matthew G. Kirschenbaum: But i'm at read he studied calligraphy he also studied about our press printing as Steve Jobs himself did and there's a lot of sort of overlap between.
+
+351
+01:00:10.500 --> 01:00:32.730
+Matthew G. Kirschenbaum: dickie and the claims of one offs and chapbooks that he was producing and the the letterpress and find printing world so, on the one hand connections into to email it but also deep 10 drills into another claimed of writing technology as well, specifically letterpress printing.
+
+352
+01:00:39.390 --> 01:00:43.200
+Matthew G. Kirschenbaum: Judy and again folks can just unmute themselves and jump right in.
+
+353
+01:00:51.420 --> 01:00:52.680
+Susan Tracz: Judy are muted.
+
+354
+01:01:01.680 --> 01:01:02.730
+Judy Malloy: There can you hear me now.
+
+355
+01:01:03.870 --> 01:01:07.590
+Judy Malloy: yep good, I just want to know that in California.
+
+356
+01:01:09.030 --> 01:01:29.340
+Judy Malloy: There was a little bit more of an audience that it sounds like there is wasn't other parts of the country, I think it was partially because of the well i'm both on our column on the well, but the wellhead other parts to it, there was an art conference on the well actually I started and.
+
+357
+01:01:30.780 --> 01:01:43.860
+Judy Malloy: So, and it was more connection with the tech community in California i'm talking about the bay area and of southern California, which I didn't know about um so there was a lot of exhibitions.
+
+358
+01:01:44.400 --> 01:01:55.530
+Judy Malloy: of works on hyper card, it was more familiarity with what everybody was doing on there was a bit more buzz and I I i'm pretty sure I saw some tick.
+
+359
+01:01:56.130 --> 01:02:15.150
+Judy Malloy: A work of Dickies that I don't see anything that looks like and what i've seen so far, and it was more of a textual work with circles alliances that and the hyper textual links within the page itself that were less graphic diffuse does that ring a bell anyone.
+
+360
+01:02:17.820 --> 01:02:19.020
+Deena Larsen: Possibly hair say.
+
+361
+01:02:20.850 --> 01:02:21.690
+Judy Malloy: Okay.
+
+362
+01:02:23.490 --> 01:02:24.450
+Deena Larsen: i'm not sure, though.
+
+363
+01:02:25.680 --> 01:02:34.260
+Judy Malloy: But his work, even despite that, I know that say at the revealing conversations exhibition in 1989.
+
+364
+01:02:34.710 --> 01:02:44.400
+Judy Malloy: which included every dawn's hyper card work and my name was no pay and lyndhurst MINS lorna work and divorce wilson's work from.
+
+365
+01:02:45.360 --> 01:02:56.430
+Judy Malloy: San Francisco state vicki was not included in that exhibition I don't know why, and there were some other things that his work wasn't included in so I don't know if he.
+
+366
+01:02:57.510 --> 01:03:08.310
+Judy Malloy: Perhaps being a tour poet, is, I will say um he wasn't as involved in the you know visual arts aspect I don't know.
+
+367
+01:03:09.630 --> 01:03:20.280
+Judy Malloy: But I do know that to go back to the beginning that that his name was known and that there was a certain amount of buzz much more than 10 people.
+
+368
+01:03:22.350 --> 01:03:34.680
+Deena Larsen: yeah it was difficult for me, because I was like alone, but he also taught because he had he had a work from a student James neff and some other student work that I think was still on that desk yeah.
+
+369
+01:03:36.030 --> 01:03:36.690
+Deena Larsen: And I grabbed.
+
+370
+01:03:38.640 --> 01:03:41.130
+Susan Tracz: In the bay area and his readings were.
+
+371
+01:03:42.360 --> 01:03:57.390
+Susan Tracz: always well well attended, you know, following because he had taught for years and years at San Francisco State University and mentored many poets, and you know winter bread loaf and places like that and.
+
+372
+01:03:58.500 --> 01:04:00.900
+Susan Tracz: But he did go through a phase where he.
+
+373
+01:04:06.000 --> 01:04:08.400
+Susan Tracz: kind of didn't like so work of.
+
+374
+01:04:09.720 --> 01:04:15.570
+Susan Tracz: chasing publications and their whole aspect of writing.
+
+375
+01:04:20.610 --> 01:04:32.430
+Richard Holeton: So, speaking of San Francisco state and in the spirit of sharing a personal remembrances first Thank you so much for this presentation is really wonderful.
+
+376
+01:04:33.840 --> 01:04:49.020
+Richard Holeton: So I did my masters at San Francisco state in the 1980s when bill was there, of course, and and I did meet him, but I didn't have classes with him, because I was doing fiction.
+
+377
+01:04:50.040 --> 01:04:59.610
+Richard Holeton: But it's very aware of bill, and what he was doing, and as I got into the whole computers and writing scene.
+
+378
+01:05:00.780 --> 01:05:18.450
+Richard Holeton: San Francisco State did not have an MFA that time, so they created an MFA in the 90s and bill was still there, and so I came back and said Oh well, now you have an MFA i'm going to do an MFA but i'm going to do an electronic thing and.
+
+379
+01:05:19.500 --> 01:05:33.000
+Richard Holeton: i'm going to do a hypertext thing and so naturally bill was the was would be the guy because he was the only one there doing that kind of thing, so I had arranged with him to be my advisor.
+
+380
+01:05:33.960 --> 01:05:47.370
+Richard Holeton: And I started back into that MFA program and 93 and then, of course, unfortunately bill passed away and I had to make other plans there with my MFA.
+
+381
+01:05:53.370 --> 01:06:08.730
+Deena Larsen: yeah again I was somewhat out of the loop, it was I was just a student and I wish I had known about rob and I wish I could talk to you more about a Judy there's just so much that was going on at the time to that, and it was also very.
+
+382
+01:06:10.020 --> 01:06:10.830
+Deena Larsen: disconnected.
+
+383
+01:06:13.050 --> 01:06:17.970
+Deena Larsen: It was tough um and I know bill and I talked about it a little bit thinking.
+
+384
+01:06:19.140 --> 01:06:27.660
+Deena Larsen: It was one of those how many people will get it, how many people can do have the computer literacy, but thank you yeah.
+
+385
+01:06:29.970 --> 01:06:33.630
+Deena Larsen: And it's so interesting to see all the pieces come together 2530 years later.
+
+386
+01:06:37.980 --> 01:06:40.200
+Susan Tracz: Definitely was a person who was ahead of his time.
+
+387
+01:06:41.100 --> 01:06:50.640
+Deena Larsen: Yes, and Nick is here as well, with an can possibly shed some light on the new media reader as I recall mick um.
+
+388
+01:06:51.990 --> 01:06:55.050
+Deena Larsen: It was relatively difficult to get those dickie poems and I.
+
+389
+01:06:56.130 --> 01:07:04.200
+Deena Larsen: As I call the reason why you could not talk about them was we got that permission relatively late in the game.
+
+390
+01:07:06.180 --> 01:07:07.080
+Nick Montfort (he/him): I don't know that there was.
+
+391
+01:07:08.700 --> 01:07:12.210
+Nick Montfort (he/him): Like a real restriction about talking about the poem so much.
+
+392
+01:07:14.670 --> 01:07:19.830
+Nick Montfort (he/him): You know, we, I mean we will love to publish all of Dickies work.
+
+393
+01:07:20.910 --> 01:07:36.420
+Nick Montfort (he/him): Getting a selection was better than not having any of it, and so you know it seemed like what was suitable for the publisher was that we'd have a selection option might be kept it open, for you know, being able to.
+
+394
+01:07:39.330 --> 01:07:46.170
+Nick Montfort (he/him): monetize the publication of the whole collection later on, so that was, you know that was what we did.
+
+395
+01:07:48.060 --> 01:07:54.600
+Nick Montfort (he/him): And, and it worked out all right, of course, the actual actually being able to.
+
+396
+01:07:55.680 --> 01:07:59.280
+Nick Montfort (he/him): Access those those hyper card stacks I mean it was.
+
+397
+01:08:01.200 --> 01:08:09.960
+Nick Montfort (he/him): You know, strictly speaking, technically, it was possible for some people in 2001 when the new media reader was published but access to that.
+
+398
+01:08:11.700 --> 01:08:22.110
+Nick Montfort (he/him): Was diminished, I mean, as I feel in many ways, like Ted Nelson says about this it's not hypercar didn't die right, it still works it's just that our computers.
+
+399
+01:08:22.620 --> 01:08:34.470
+Nick Montfort (he/him): That we use like the computer i'm using now to video conference with everyone else, well, first of all it's not a MAC but even if I were that you know if I were using a MAC it wouldn't run hyper card you.
+
+400
+01:08:35.640 --> 01:08:41.040
+Nick Montfort (he/him): know so you know the, the issue is that we expect these things to work on.
+
+401
+01:08:42.060 --> 01:08:50.970
+Nick Montfort (he/him): Our everyday computers and obviously that's not the case, but as far as it, so I mean actually those those four problems are still in print.
+
+402
+01:08:51.240 --> 01:09:03.480
+Nick Montfort (he/him): Because the new meter reader is still in print and it comes with that same CD Rom that it was originally you know published with, and so you can buy that from MIT press, and you can get your.
+
+403
+01:09:06.000 --> 01:09:11.220
+Nick Montfort (he/him): Physical optical disc copy of those four poems by dickie, if you like.
+
+404
+01:09:11.940 --> 01:09:12.120
+well.
+
+405
+01:09:15.210 --> 01:09:15.720
+Nick Montfort (he/him): what's that.
+
+406
+01:09:16.410 --> 01:09:17.610
+Matthew G. Kirschenbaum: I thought it was a coaster.
+
+407
+01:09:18.990 --> 01:09:19.260
+Nick Montfort (he/him): yeah.
+
+408
+01:09:20.430 --> 01:09:22.320
+Nick Montfort (he/him): By enough of them, you can make a chandelier.
+
+409
+01:09:22.830 --> 01:09:43.320
+Deena Larsen: And if you take the zip drive and you put it to the back of an SE se, you can actually run it it's pretty cool that the technology, I still have, I think I haven't tried them for a few years, but in my attic I think I still have about 20 of the 215 MAC SES and MAC and and.
+
+410
+01:09:44.520 --> 01:09:55.530
+Deena Larsen: Not classics that I got from the Denver public school system and an auction bid and kept putting them up, I made sure that they worked and i've given those to archives and to other places.
+
+411
+01:09:57.120 --> 01:10:07.530
+Deena Larsen: Just to show Dickies work Jim Jim rosenbergs uncle buddy funhouse my marble springs, there were so many incredible works on hypercar I.
+
+412
+01:10:08.190 --> 01:10:21.510
+Nick Montfort (he/him): mean, of course, you know, I have a facility, the truck tank in which you know I present classic computers of various sorts, and yet, to some extent it's a little bit like having.
+
+413
+01:10:23.580 --> 01:10:25.350
+Nick Montfort (he/him): You know the the.
+
+414
+01:10:27.480 --> 01:10:29.490
+Nick Montfort (he/him): auto parts lot.
+
+415
+01:10:29.520 --> 01:10:40.170
+Nick Montfort (he/him): where you have to you know, like as you go along and time you have to you know go to computers pull things out of them and repair things, and you know, try to keep things working.
+
+416
+01:10:40.590 --> 01:10:56.910
+Nick Montfort (he/him): There are standard processes like you know, replacing the capacitors like recapping machines, you know things like this that you can do, and I think that's a do it, you know I mean I don't actually I don't touch the hardware I don't use a soldering iron, but I try to maintain these.
+
+417
+01:10:58.290 --> 01:11:03.570
+Nick Montfort (he/him): means have access to the hardware, along with it, you know I also use.
+
+418
+01:11:05.040 --> 01:11:14.220
+Nick Montfort (he/him): emulators and you know modern day interpreters for these systems, and I think that's great too, I really think of these sort of different editions.
+
+419
+01:11:14.520 --> 01:11:30.930
+Nick Montfort (he/him): of a computer, so you know what's provided on the Internet archive for you to access hypertext from my standpoint, for you to access hypercar it's just a different edition of the MacIntosh se you know it's an it's an unofficial edition and it's not a hardware addition, in the same way.
+
+420
+01:11:32.160 --> 01:11:44.490
+Nick Montfort (he/him): But it has many advantages that the hardware edition doesn't and on the other hand, if you want people to see what the hardware edition was like and to actually have you interactive experience in dealing with that.
+
+421
+01:11:45.000 --> 01:11:55.410
+Nick Montfort (he/him): Then you would like to present them with that as well, so I you know so from my standpoint, I wish to do these things, some people will say oh it's a you know.
+
+422
+01:11:56.070 --> 01:12:03.810
+Nick Montfort (he/him): it's a losing battle, why do you have this hardware and so forth, and again, you can there's plenty of responses to that also which is like.
+
+423
+01:12:04.290 --> 01:12:13.770
+Nick Montfort (he/him): You know why do you take your students to go see a play it's going to close in a week it's like Oh, you might as well take advantage of the stuff that's there, right now, you know you might as well do it.
+
+424
+01:12:14.820 --> 01:12:24.360
+Matthew G. Kirschenbaum: yeah well we're getting called on time and I just want to thank you and I just want to say a couple of thank yous but before we all break.
+
+425
+01:12:25.440 --> 01:12:31.650
+Matthew G. Kirschenbaum: One thing I do want to say true is that this this work is now out there it's part of our.
+
+426
+01:12:31.650 --> 01:12:45.780
+Matthew G. Kirschenbaum: Community and I just really want to encourage everyone is here today to share it if you have students, you might suggest they they work on it, I think there is there there's a lot of.
+
+427
+01:12:46.470 --> 01:12:56.550
+Matthew G. Kirschenbaum: it's really rich and there's a there is a lot that we can do here and just tweeting the URL is great, but in and of itself that's not enough.
+
+428
+01:12:57.810 --> 01:12:58.470
+Matthew G. Kirschenbaum: So that's.
+
+429
+01:12:59.670 --> 01:13:11.730
+Matthew G. Kirschenbaum: One one comment, and then I do want to thank, I want to thank Sarin and Scott redbird and all of the the conference organizers for the the venue and the occasion.
+
+430
+01:13:12.630 --> 01:13:23.940
+Matthew G. Kirschenbaum: And all of the virtual work behind the scenes from our student assistance, thank you for the for the platform today and I especially I want to thank.
+
+431
+01:13:24.510 --> 01:13:43.920
+Matthew G. Kirschenbaum: Susan dina and and Andrew I am really the the least a central part of this up a ratio and i'm just the coordinator, but each of them really contributed and valuable Labor, without which we wouldn't have this work today, so thank you so much, everybody.
+
+432
+01:13:44.760 --> 01:14:00.090
+Deena Larsen: Thank you so much, and we can continue this on the tracks and discord and I am having a private, public celebration today on discord after this, so we can continue this conversation Thank you guys so much.
+
+433
+01:14:04.920 --> 01:14:08.460
+Judy Malloy: For card that are should be out that aren't and I.
+
+434
+01:14:09.870 --> 01:14:11.790
+Judy Malloy: Work that i'm going to try to find intended.
+
+435
+01:14:13.050 --> 01:14:14.520
+Matthew G. Kirschenbaum: So Judy you should talk to an.
+
+436
+01:14:15.570 --> 01:14:26.610
+Judy Malloy: angel yes, I didn't have a MAC I had to they let me go over to the whole earth review offices actually what hyper card came out and try it.
+
+437
+01:14:27.120 --> 01:14:38.910
+Judy Malloy: And I created a work, then I use a scanner which i'd never use it came from apple and I could not edited at home didn't have a MAC but I use the one of my old card catalogs.
+
+438
+01:14:39.480 --> 01:14:46.350
+Judy Malloy: and made the work from a card catalog using the images in the text, and it was actually pretty good but i'm just vanilla look at it.
+
+439
+01:14:48.990 --> 01:14:49.290
+Deena Larsen: yeah.
+
+440
+01:14:49.680 --> 01:14:50.070
+I agree.
+
+441
+01:14:51.360 --> 01:15:05.070
+Deena Larsen: I couldn't afford a MAC and I had the reason why I did marble springs is My thesis was because of the math lab have Max and I could use them, I mean my God a MacIntosh was like a month pay it was.
+
+442
+01:15:05.100 --> 01:15:06.000
+A lot of money.
+
+443
+01:15:09.120 --> 01:15:12.060
+Judy Malloy: yeah I was a single parent, I could not afford a MacIntosh.
+
+444
+01:15:15.360 --> 01:15:18.000
+Deena Larsen: And William Dickies bill setup was.
+
+445
+01:15:20.850 --> 01:15:23.160
+Deena Larsen: i'm still lusting after it, I still wanted.
+
+446
+01:15:26.640 --> 01:15:27.120
+Matthew G. Kirschenbaum: A MAC i'm.
+
+447
+01:15:27.150 --> 01:15:27.720
+Deena Larsen: glad you're.
+
+448
+01:15:27.990 --> 01:15:28.770
+Matthew G. Kirschenbaum: going to.
+
+449
+01:15:30.240 --> 01:15:31.020
+Matthew G. Kirschenbaum: Making my.
+
+450
+01:15:32.250 --> 01:15:36.510
+Matthew G. Kirschenbaum: cousin I hope that doesn't crash the room.
+
+451
+01:15:37.410 --> 01:15:38.910
+Deena Larsen: I don't think it will, and I will get.
+
+452
+01:15:38.910 --> 01:15:41.160
+Deena Larsen: back over to the discord but thank you guys.
+
+453
+01:15:41.370 --> 01:15:42.390
+Deena Larsen: very, very much.
+
+454
+01:15:43.050 --> 01:15:43.950
+Deena Larsen: Everyone and true.
+
+455
+01:15:45.060 --> 01:15:45.600
+Leonardo Flores: care.
+
+456
+01:15:47.400 --> 01:15:53.580
+Deena Larsen: To Andrew do you want my firstborn son, I mean i'm not gonna have kids I mean what after.
+
+457
+01:15:54.660 --> 01:15:57.360
+Deena Larsen: anything from Colorado I mean my God, thank you.
+
+458
+01:15:58.500 --> 01:15:58.860
+Deena Larsen: Thank you.
+
+459
+01:15:59.610 --> 01:16:00.450
+Susan Tracz: very glamorous.
+
+460
+01:16:01.470 --> 01:16:03.360
+Andrew Ferguson: People seeing all this stocks.
+
+461
+01:16:03.720 --> 01:16:14.820
+Deena Larsen: yeah maybe when I get if I ever get back over to myth, I can uncover Tom true logan's with improved game on hypercar is amazing i'm.
+
+462
+01:16:15.000 --> 01:16:20.040
+Deena Larsen: gonna be so many hyper cards and if monks had Max oh my God we got to have that.
+
+463
+01:16:20.760 --> 01:16:21.930
+Matthew G. Kirschenbaum: Yes, we that we.
+
+464
+01:16:23.520 --> 01:16:25.530
+Andrew Ferguson: Have the yeah that one's on.
+
+465
+01:16:26.250 --> 01:16:27.060
+Deena Larsen: Is it on.
+
+466
+01:16:27.630 --> 01:16:28.860
+Andrew Ferguson: I think so, yes.
+
+467
+01:16:29.730 --> 01:16:30.300
+Deena Larsen: Oh, you got it.
+
+468
+01:16:32.880 --> 01:16:34.140
+Judy Malloy: Job Lucas cordova.
+
+469
+01:16:34.140 --> 01:16:34.680
+words.
+
+470
+01:16:35.850 --> 01:16:38.700
+Deena Larsen: yeah Thank you guys so much.
+
+471
+01:16:39.150 --> 01:16:41.190
+Deena Larsen: Okay we'll see you guys in discordant a bit.
+
+472
+01:16:41.730 --> 01:16:42.240
+Like.
+
+473
+01:16:43.320 --> 01:16:46.530
+Susan Tracz: Oh, this discord out in 45 minutes or is that on now.
+
+474
+01:16:46.920 --> 01:16:54.210
+Deena Larsen: it's on now and i'm going to just take a few moments today is my freedom day or may 19 was my Freedom Day.
+
+475
+01:16:54.720 --> 01:17:05.970
+Deena Larsen: i've worked now for 30 years for the government i've been at their beck and call yes or no, Sir everything else as a technical writer, and now I have health insurance for the rest of my life.
+
+476
+01:17:07.530 --> 01:17:19.200
+Deena Larsen: And I can do whatever I want i'm still at the government for right now until I decide what my second career is, but after 30 years i'm free to write so it's going to so we're celebrating.
+
+477
+01:17:20.130 --> 01:17:21.510
+Susan Tracz: Congratulations.
+
+478
+01:17:21.600 --> 01:17:31.500
+Deena Larsen: that's good um I went into the government, instead of academia deliberately just because I have a rare disease and Susan you know yeah it was really bad.
+
+479
+01:17:32.520 --> 01:17:35.670
+Deena Larsen: Without health insurance i'd be dead in about two to five months.
+
+480
+01:17:36.300 --> 01:17:40.620
+Deena Larsen: So it's really important that I get this and.
+
+481
+01:17:41.070 --> 01:17:42.120
+Thank you for understanding.
+
+482
+01:17:43.860 --> 01:17:47.340
+Deena Larsen: yeah and I know I keep disappearing because of illness and.
+
+483
+01:17:48.870 --> 01:17:51.360
+Deena Larsen: So sorry over the years, but I think you're absolutely right.
+
+484
+01:17:52.980 --> 01:17:53.640
+Deena Larsen: Now, with your.
+
+485
+01:17:54.000 --> 01:17:56.820
+Susan Tracz: Your rear pair of like the phoenix from the ashes.
+
+486
+01:17:58.380 --> 01:17:58.860
+Deena Larsen: I know.
+
+487
+01:18:00.540 --> 01:18:02.250
+Deena Larsen: Nearly dying and that I don't die.
+
+488
+01:18:02.340 --> 01:18:07.140
+Deena Larsen: Actually that's why i'm matt has myth, you know I just met my wife.
+
+489
+01:18:08.340 --> 01:18:18.630
+Deena Larsen: We met I had food poisoning, I was in the icu in three days so i'd met my wife in a week she read my novel disappearing rain on my wall, she was amazing.
+
+490
+01:18:19.290 --> 01:18:30.870
+Deena Larsen: And so we're sitting there in the icu i'm looking at death and she's like i've got this library of Alexandria what the hell, do we do so, we call matt up and he says yeah i'll take it and I live.
+
+491
+01:18:32.040 --> 01:18:36.780
+Deena Larsen: And so matt like three months later, a week later, says i'm so where's my stuff.
+
+492
+01:18:38.280 --> 01:19:00.000
+Deena Larsen: We packed it all up and he said it ultimate that's a total hodgepodge never organized I mean talk about being a hypocrite what matt got was probably worse than what bill left on his computer I mean by an order of magnitude cuz I didn't die, I was.
+
+493
+01:19:04.980 --> 01:19:05.580
+Susan Tracz: worked out.
+
+494
+01:19:06.630 --> 01:19:10.260
+Deena Larsen: It worked out great and you're absolutely right now we have the audience.
+
+495
+01:19:10.290 --> 01:19:19.140
+Deena Larsen: Now we can really get with Nikki and if we can, if you and I can meet after this and we can like figure out maybe we could do like a dickie symposium.
+
+496
+01:19:19.950 --> 01:19:20.580
+Deena Larsen: That would be.
+
+497
+01:19:20.850 --> 01:19:22.950
+Deena Larsen: awesome yeah.
+
+498
+01:19:24.510 --> 01:19:28.080
+Deena Larsen: let's do something like that and show his work.
+
+499
+01:19:29.550 --> 01:19:34.620
+Deena Larsen: I run the yellow salon we could do a salon with Dickies works that would be fun.
+
+500
+01:19:35.820 --> 01:19:36.930
+Susan Tracz: While you have to watch.
+

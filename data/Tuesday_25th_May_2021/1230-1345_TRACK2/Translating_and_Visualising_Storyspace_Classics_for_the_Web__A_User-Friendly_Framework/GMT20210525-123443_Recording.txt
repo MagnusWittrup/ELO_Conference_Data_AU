@@ -1,0 +1,46 @@
+00:17:01	Deena Larsen:	And I apologize. I have the only computer in the world without a web cam.
+00:17:51	Deena Larsen:	Hooray for storyspace exporters@@
+00:20:53	Deena Larsen:	Do NOT forget the names of the links@!!@
+00:23:57	Deena Larsen:	My first read hypertexts. Hooray
+00:24:52	Michał Furgał:	Web-app auto-export feature is still a work in progress, :D  however there is a link for jar application and two example input files to test it
+00:25:01	Deena Larsen:	Nancy Kaplan did the web version of Marble Springs in HTML 1.0
+00:25:30	Deena Larsen:	I had done a "demo" deck of Marble Springs and Nancy translated it for me.
+00:25:56	Deena Larsen:	Love the way the link names look
+00:26:58	Deena Larsen:	Appropriates the term "abandonware." yep. Our lives are full of abandonware...
+00:30:41	Deena Larsen:	All hypertext writing boils down, in the end, to hours of tedious work.
+00:31:18	John McDaid:	@deena so true
+00:32:57	Deena Larsen:	The lexia map is critical--and the ability to show levels of lexia… the navigational structure used in Samplers, True North, etc.
+00:39:59	Deena Larsen:	Storyspace allows so many avenues for storytelling that are not available Anywhere else--including Twine
+00:40:50	Deena Larsen:	Yes, I think SS provides a framework for narrative structures that has never been duplicated, and people are rightly intrigued
+00:41:41	Deena Larsen:	NOte that SToryspace had its own HTML exporter. I used this for the Decision process in the late 90s The exporter had many bugs.
+00:42:12	Deena Larsen:	http://www.eastgate.com/DeenaLarsen/guide/index.htm
+00:42:45	Deena Larsen:	I think exporting to JavaScript gives much more functionality
+00:43:10	Deena Larsen:	I still have the old macs.
+00:43:28	Deena Larsen:	I have an abandonware, SS story, Stone Moons, I'd like to export and redo.
+00:43:40	Deena Larsen:	BUt I am terrified to start my old macs
+00:44:52	Deena Larsen:	Mark Bernstein did work incredibly hard on these softwares and did dedicate his life to this work. He does need to be acknowledged here.
+00:45:16	Deena Larsen:	I get that it is is complexicated, as are all human stories. Still...
+00:45:24	John McDaid:	Agree. He saw early on just how important this tool was.
+00:46:02	Deena Larsen:	That is because you have one man programming. So yes, Mark would have had to use the tinderbox programming for SS3
+00:55:55	John McDaid:	2.5 D, as we used to call it
+00:57:13	Deena Larsen:	Love the name, John. And I remember.
+00:57:48	Deena Larsen:	My STone Moons overran the link buffers of SS 2 in 1999, and I have never been able to export or to save it. Sigh for abandoned works.
+00:59:21	Deena Larsen:	hierarchical maps are critical, and we greatly appreciate having these!
+00:59:32	Mariusz Pisarski:	They will be there! Promise :)
+00:59:43	Deena Larsen:	Thanks
+01:01:33	Deena Larsen:	What is the background
+01:03:02	John McDaid:	so impressive. once you’ve got the data structure, you can do whatever you need to with it.
+01:03:16	Deena Larsen:	THis is really great
+01:03:22	Deena Larsen:	I love the way that things move.
+01:03:28	Deena Larsen:	I love the names of the links
+01:03:38	Deena Larsen:	I wish we could use this as a writing platform as well
+01:08:38	John McDaid:	wow
+01:08:56	Deena Larsen:	This looks like Dictionary of the Revolution
+01:09:16	Deena Larsen:	http://qamosalthawra.com/en
+01:09:26	Deena Larsen:	So glad that you are going to get this as a writing platform.
+01:09:43	Deena Larsen:	I think you can get with the coders of Dictionary of the REvolution--they were happy to share their code...
+01:11:04	Roberta Iadevaia:	really a great job. Thank you!
+01:11:27	Michał Furgał:	thank you :)
+01:11:51	Deena Larsen:	Amira Hanafi wrote that Dictionary, would it be good to connect with her?
+01:12:37	Deena Larsen:	That will be amazing! Thank you!
+01:17:29	Deena Larsen:	If you ever have a group of writers collaborating in English on this tool, let me know :)

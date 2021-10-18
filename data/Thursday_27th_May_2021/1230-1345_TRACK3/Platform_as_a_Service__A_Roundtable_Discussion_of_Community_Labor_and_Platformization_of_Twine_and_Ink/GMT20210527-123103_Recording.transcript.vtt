@@ -1,0 +1,2170 @@
+WEBVTT
+
+1
+00:00:28.110 --> 00:00:38.610
+Daniel Cox: hi everyone and welcome to track three this is platform as a service a Roundtable discussion of Community Labor and platform ization of twine and ink yes, that is a very long title, I came up with it i'm sorry.
+
+2
+00:00:39.420 --> 00:00:44.880
+Daniel Cox: I have with me today kitten Taylor Howard, who goes by Taylor and Chris climates.
+
+3
+00:00:45.330 --> 00:00:50.280
+Daniel Cox: we're going to do some quick introductions this sort of the first, third of this we got a little slightly over an hour.
+
+4
+00:00:50.520 --> 00:00:58.590
+Daniel Cox: So we're going to sort of introduce each of ourselves kind of what we do, how we connect to these topics and then we're going to open it up for Q amp a sort of the last two thirds of this.
+
+5
+00:00:58.950 --> 00:01:03.870
+Daniel Cox: So we'll see if you have questions during our introductions or is generated or just as they occur to you.
+
+6
+00:01:04.290 --> 00:01:08.250
+Daniel Cox: You can type question, please in all caps in the chat other there's not that many of us right now.
+
+7
+00:01:08.700 --> 00:01:20.220
+Daniel Cox: Just so I can see it and i'll i'll sort of put this into some notes, we have, so we can keep track of what questions we've answered Chris is also watch Chris who is goes by clicking on the discord the yellow discord is also watching track three.
+
+8
+00:01:21.570 --> 00:01:27.600
+Daniel Cox: And also sort of occasionally Clinton it myself, so if you have questions that occur to you, right after this Roundtable Oh, I want to follow it up with X.
+
+9
+00:01:28.020 --> 00:01:30.150
+Daniel Cox: that's also a great opportunity to follow up there as well.
+
+10
+00:01:30.930 --> 00:01:39.060
+Daniel Cox: I will be trying to share some of the resources we talked about we're going to sort of talk about some some public resources so i've created some notes on that and I will be sharing those as part of that.
+
+11
+00:01:39.420 --> 00:01:54.990
+Daniel Cox: Conclusion and then sort of the post to this epilogue, as you will, so let me give a pretty quick introduction to myself for those of you who don't know me, although there are most people here, probably do so let me go ahead and do a quick share of that and then.
+
+12
+00:01:56.040 --> 00:01:59.520
+Daniel Cox: I will move over to the other people so give me just a moment everyone.
+
+13
+00:02:01.470 --> 00:02:06.630
+Daniel Cox: So hi i'm Dan Cox I go by Dan it says, Daniel on my little label here.
+
+14
+00:02:07.740 --> 00:02:18.810
+Daniel Cox: If you kind of don't know me i'm a full time visiting structure and a part time instructor and a part time PhD student at university of central Florida, soon to be hopefully candidate, hopefully, and then next maybe.
+
+15
+00:02:19.380 --> 00:02:21.840
+Daniel Cox: coming months, hopefully do my exams in the fall if everything works out.
+
+16
+00:02:21.840 --> 00:02:28.440
+Daniel Cox: correctly so i've created 112 YouTube tutorial mentors for client over the last nine years.
+
+17
+00:02:28.980 --> 00:02:37.770
+Daniel Cox: So if you're not aware and i'm hopefully Chris mentioned this as well twine celebrated its 10th anniversary in 2019 and i've been involved for about nine years now.
+
+18
+00:02:38.280 --> 00:02:45.540
+Daniel Cox: So i've also created and maintained the now 400 plus page to one cookbook it's like 412 hundred 11 pages at this point.
+
+19
+00:02:45.870 --> 00:02:55.980
+Daniel Cox: i'm actually just recently stepped down from this, which is kind of going to roll into some of this talk as well, and then Taylor and I worked on the unofficial Inc cookbook, which is an open source resource for learning the narrative scripting language Inc.
+
+20
+00:02:57.990 --> 00:03:05.340
+Daniel Cox: One of the things I kind of want to mention here about sort of by the numbers so we're talking a lot about what Labor goes into this how that Labor is represented in various ways.
+
+21
+00:03:05.850 --> 00:03:09.090
+Daniel Cox: So I am technically a YouTube partner as of a few years ago.
+
+22
+00:03:09.780 --> 00:03:13.530
+Daniel Cox: When I share this with my students in the classroom they all get real excited because they're used to seeing sort of.
+
+23
+00:03:13.830 --> 00:03:23.550
+Daniel Cox: Major figures on twitch and YouTube and Oh, you must make lots of money, this is literally a quote I took for one of my students I mentioned your they said, you are you to murder I bet you make that you're rolling in money, no.
+
+24
+00:03:24.000 --> 00:03:36.060
+Daniel Cox: I make roughly $25 a year this year it's slightly more, you can see me, be a little bit hard to read, but I am a 2022 may 2021 breakdown of about 2686 that's.
+
+25
+00:03:36.450 --> 00:03:49.350
+Daniel Cox: Roughly in the window it's actually a little higher because of the pandemic and it being raised a little bit because people watch videos more often, but that's more or less what I make, and I have around 350 videos so the YouTube videos or maybe about a third of the total by half.
+
+26
+00:03:50.460 --> 00:03:59.250
+Daniel Cox: I estimate my total time on the twine cookbook as roughly 400 hours over the new over nearly four years, and again I actually stepped down pretty recently.
+
+27
+00:04:00.030 --> 00:04:08.940
+Daniel Cox: And then, for the ink unofficial ink cookbook around maybe 70 hours of worker so that's actually going to go up this year because i'm going to hopefully step in and do some more work for that.
+
+28
+00:04:09.510 --> 00:04:15.300
+Daniel Cox: So i'm gonna go ahead and stop sharing here and then we'll transition over to Taylor and then Chris will pick up the last of the introductions.
+
+29
+00:04:19.350 --> 00:04:23.190
+Kenton Taylor Howard: Okay, let me share my screen real quick.
+
+30
+00:04:26.040 --> 00:04:28.350
+Kenton Taylor Howard: and put it in actual slideshow mode.
+
+31
+00:04:33.420 --> 00:04:34.410
+Kenton Taylor Howard: being very lucky sorry.
+
+32
+00:04:38.640 --> 00:04:44.850
+Kenton Taylor Howard: I see, as I mentioned i'm i'm kenton Taylor Howard, I typically go by Taylor I don't know why it doesn't there we go.
+
+33
+00:04:45.540 --> 00:04:53.610
+Kenton Taylor Howard: um yeah I typically go by Taylor, but some of you may have seen me at some of these conferences and things like that, before and ken's and Taylor Howard, is the name I usually use on like.
+
+34
+00:04:54.300 --> 00:05:01.590
+Kenton Taylor Howard: academic work and things like that i've been teaching as well in the Games interactive media program at the University of central Florida.
+
+35
+00:05:02.310 --> 00:05:12.540
+Kenton Taylor Howard: i've been there for about three years at this point I started in fall 2018 before that I was a full time English teacher for a while and now i'm mostly teach game design typically and.
+
+36
+00:05:13.200 --> 00:05:22.080
+Kenton Taylor Howard: i'm also a PhD student in the text and technology program and should hopefully be defended my dissertation around the end of next month or early July, something like that.
+
+37
+00:05:22.500 --> 00:05:29.820
+Kenton Taylor Howard: um So hopefully I will no longer be a PhD candidate and will be a actual PhD in the near future, the next somebody one of these introductions.
+
+38
+00:05:30.660 --> 00:05:40.260
+Kenton Taylor Howard: um so my research and work has touched on in content in a few ways i'm gonna like really briefly summarize each of these on like a slider so but I don't want to spend too much time like plugging myself and stuff that i've done.
+
+39
+00:05:41.280 --> 00:05:50.490
+Kenton Taylor Howard: By I made an if can using incl writer originally in which is a precursor to Inc which maybe we'll get into at some point in this talk i'm.
+
+40
+00:05:51.300 --> 00:05:58.650
+Kenton Taylor Howard: That game is just a recreation of Edgar Allan poe's the telltale heart and it's a like choice based version of that i'll give a little more detail on that in a second.
+
+41
+00:05:59.280 --> 00:06:03.660
+Kenton Taylor Howard: um i've also touched on Lincoln a class that I teach called fundamentals of interactive design.
+
+42
+00:06:04.050 --> 00:06:10.710
+Kenton Taylor Howard: That class mostly focuses on introducing students to I programming and digital design narrative design and I using to do some of that.
+
+43
+00:06:11.340 --> 00:06:18.060
+Kenton Taylor Howard: I built a game in ink as part of my dissertation that's kind of like a companion piece to my dissertation work that i'll touch on briefly to.
+
+44
+00:06:18.540 --> 00:06:25.920
+Kenton Taylor Howard: And trying them a little bit less experienced with, but I have created a twine piece that I published called nonlinear narrative and fall out to you.
+
+45
+00:06:26.610 --> 00:06:37.170
+Kenton Taylor Howard: um so as far as the interactive fiction game retelling the telltale heart goes arm again this is kind of like our choice based recreation of the classic short story if you've never read the.
+
+46
+00:06:38.520 --> 00:06:49.890
+Kenton Taylor Howard: short story before it's very, very short it's like three or four pages long it's a first person account of murder it's like when a pose most famous like Gothic horror stories and so basically the the version of it that I created.
+
+47
+00:06:51.000 --> 00:06:59.010
+Kenton Taylor Howard: Has you play through it, but you can make decisions where you can alter the plot of the original story, or you can play through it, following the original plot so, for example, at one point you get to pick what.
+
+48
+00:06:59.460 --> 00:07:03.780
+Kenton Taylor Howard: murder weapon, you want to use, and you can use the one in the original or a different one basically.
+
+49
+00:07:04.590 --> 00:07:14.610
+Kenton Taylor Howard: there's a web based version of this on my website, and I use it in the class I teach fundamentals of interactive design as an example of the kinds of things that you can build within so it kind of directly.
+
+50
+00:07:15.270 --> 00:07:23.040
+Kenton Taylor Howard: touches into the next thing i'm going to talk about which is i'm an entry level originally a mixed mode course so originally I taught this as a kind of like.
+
+51
+00:07:23.490 --> 00:07:33.630
+Kenton Taylor Howard: face to face slash online hybrid class i'm over the past like year year and a half, obviously, because of the pandemic i've been teaching more online, but this class we mostly shifted into an online class.
+
+52
+00:07:33.990 --> 00:07:42.150
+Kenton Taylor Howard: It averages 130 to 150 students this semester so it's a pretty big class and it's a pretty popular class for students i'm.
+
+53
+00:07:42.840 --> 00:07:54.420
+Kenton Taylor Howard: outside of the Games interactive media major to take you can i'm not going to read through the whole course description, but i'm the it doesn't really I mean major prerequisites and so like people from outside of the program can take it and we get a lot of.
+
+54
+00:07:55.440 --> 00:08:02.340
+Kenton Taylor Howard: very broad range of student backgrounds in the class which i've talked a little bit more about in the paper that I published about this class.
+
+55
+00:08:02.700 --> 00:08:10.050
+Kenton Taylor Howard: I published it alongside a former teaching assistant that one of the challenges we face is just kind of like framing some of these things like interactive design.
+
+56
+00:08:10.650 --> 00:08:15.030
+Kenton Taylor Howard: Programming stuff like that, so all these different communities and backgrounds that are in the class.
+
+57
+00:08:15.690 --> 00:08:24.900
+Kenton Taylor Howard: But mainly i'm using in the class for the final project, so I have students build a interactive story over the course of like eight weeks with rough drafts and peer reviews all those kinds of things.
+
+58
+00:08:26.220 --> 00:08:33.420
+Kenton Taylor Howard: A life in the mega apocalypse is the piece that I created as part of my dissertation, so this is also an ink paid piece and.
+
+59
+00:08:34.020 --> 00:08:39.810
+Kenton Taylor Howard: Hopefully i'll be releasing it on my website very soon, like as when i'm finished basically defending and stuff like that I plan on releasing it.
+
+60
+00:08:40.530 --> 00:08:50.250
+Kenton Taylor Howard: The game itself focuses on queer characters surviving in a mega apocalypse setting which I pitch is basically just a situation where, like all the Apocalypse trips are happening at once you have like.
+
+61
+00:08:50.730 --> 00:08:55.350
+Kenton Taylor Howard: zombies and killer robots and giant monsters, and all of the kind of typical apocalypse things he would see.
+
+62
+00:08:55.950 --> 00:09:01.500
+Kenton Taylor Howard: As the player you're kind of like guiding these characters on their journey, and so you have sections of the game where you can talk to them.
+
+63
+00:09:01.830 --> 00:09:05.850
+Kenton Taylor Howard: And sections of the game where they face, like some sort of conflict scenario, you have to give them advice on that.
+
+64
+00:09:06.480 --> 00:09:12.600
+Kenton Taylor Howard: um it's also designed to be easily modifiable which, I might get into a little bit potentially um.
+
+65
+00:09:13.470 --> 00:09:24.450
+Kenton Taylor Howard: Later on, as well, in terms of like my Community contributions and stuff like that, but um but one of the things i'm going to be doing is providing the full source code for the game on my website, alongside the game itself.
+
+66
+00:09:25.830 --> 00:09:27.840
+Kenton Taylor Howard: And then, as far as training goes like I mentioned, I have.
+
+67
+00:09:28.620 --> 00:09:38.340
+Kenton Taylor Howard: Less experience with twine other I definitely have used it to um nonlinear narrative and follow it to is a basically what I pitched as a playable essay that I built in.
+
+68
+00:09:38.760 --> 00:09:46.200
+Kenton Taylor Howard: twine and I remember when I created this thing I was like I don't know how to even describe this to people, much less whether or not i'll ever be able to get it to publish it somewhere because it's so weird.
+
+69
+00:09:46.890 --> 00:09:54.960
+Kenton Taylor Howard: But essentially it's an essay in that there's you know critical one theoretical discussion related to things like nonlinear your narrative and video games and stuff like that.
+
+70
+00:09:55.650 --> 00:10:04.440
+Kenton Taylor Howard: But I also kind of pitch it as what I call, I guess, like organic criticism or like playable criticism so basically as you work your way through the essay also have to make.
+
+71
+00:10:04.980 --> 00:10:10.320
+Kenton Taylor Howard: Some of the same choices, you make when you're actually playing the video game and, at the end of the ending you get is based on the choices, you made.
+
+72
+00:10:11.400 --> 00:10:19.500
+Kenton Taylor Howard: And it was published in one shot a journal journal a critical play and games which was published on the first issue of that and Dan was actually involved in the.
+
+73
+00:10:20.220 --> 00:10:33.720
+Kenton Taylor Howard: In that issue as well um so what I do for the Community is mostly related to me as a educator and scholar i've contributed to the unofficial and cookbook like Dan mentioned, obviously in yellow Member i've been a reviewer on the scientific committee in the past.
+
+74
+00:10:34.800 --> 00:10:40.710
+Kenton Taylor Howard: i've been involved in other organizations like moderation for the interactive or international foundation for the fantastic and the arts.
+
+75
+00:10:41.130 --> 00:10:52.260
+Kenton Taylor Howard: But i've scaled that back a bit because i'm trying to finish my PhD and I made in Community tutorial videos too, but i'm most of mine are so focused on my classes, that I don't post post a lot of those publicly um.
+
+76
+00:10:53.160 --> 00:10:55.200
+Kenton Taylor Howard: And then i'm hoping my dissertation work will be a useful.
+
+77
+00:10:55.710 --> 00:11:05.100
+Kenton Taylor Howard: contribution to the incan queer games community to so like the game credits i've been made it's a tool that focuses on queer representation in games my dissertation is that a framework for using modding to explore that.
+
+78
+00:11:05.370 --> 00:11:10.350
+Kenton Taylor Howard: And like I mentioned it's intended to be something that's used by others so i'm going to be putting the full source code for it up on my website.
+
+79
+00:11:10.800 --> 00:11:23.850
+Kenton Taylor Howard: As a tool that other people can use to um, so I think that covers everything I wanted to cover as part of my introduction, I guess i'll jump over to letting Chris go in me pause or stop my screen share.
+
+80
+00:11:25.980 --> 00:11:28.860
+Chris Klimas (he/him): Sure um So yes, i'm Chris Columbus.
+
+81
+00:11:28.950 --> 00:11:30.120
+Kenton Taylor Howard: I have.
+
+82
+00:11:30.210 --> 00:11:41.490
+Chris Klimas (he/him): lots of different hats that I wear i'm gonna try to remember all of them and we'll see if I succeed i'm probably the most relevant one for today is that I created twine like Dan said back in 2009.
+
+83
+00:11:42.540 --> 00:11:44.820
+Chris Klimas (he/him): it's Open Source it's GPS licensed.
+
+84
+00:11:45.900 --> 00:11:51.000
+Chris Klimas (he/him): And I often on kind of served as the lead on project lead on it.
+
+85
+00:11:51.630 --> 00:12:02.610
+Chris Klimas (he/him): and actually I think sort of related to what maybe what Dan was talking to it was not it's not a project that i've worked on continuously there was a period where I kind of stepped away from it, in fact, and so.
+
+86
+00:12:03.210 --> 00:12:12.690
+Chris Klimas (he/him): I guess i'll just point over virtually not anywhere in particularly in zoom but I did a talk on this very topic that goes into much more depth about like why I stepped away from it, I think, maybe i'll talk about.
+
+87
+00:12:14.070 --> 00:12:20.670
+Chris Klimas (he/him): talk about this again is depending on what the discussion is today, but if you're interested in that particular history of things and how I ended up.
+
+88
+00:12:21.150 --> 00:12:28.710
+Chris Klimas (he/him): kind of leaving it and then coming back to it, I do go into a little bit more detail on a talk and I think I have it linked on my website, which is just my name Chris columbus.com.
+
+89
+00:12:29.550 --> 00:12:44.550
+Chris Klimas (he/him): anyways in addition to working on twine i'm also a the chair of the committee that is part of the interactive fiction technology Foundation, which is a nonprofit that was now, I think I want to say four years old, I could be wrong about that.
+
+90
+00:12:45.990 --> 00:12:51.720
+Chris Klimas (he/him): relatively young compared to yellow, for example, that is dedicated to kind of supporting.
+
+91
+00:12:53.310 --> 00:12:59.130
+Chris Klimas (he/him): interactive narrative and the Community around it and the technology, of course, that sort of supports it.
+
+92
+00:13:00.510 --> 00:13:06.810
+Chris Klimas (he/him): In addition to that, I also am an adjunct faculty at the Maryland institute college of art, I teach another game design Program.
+
+93
+00:13:07.620 --> 00:13:13.260
+Chris Klimas (he/him): And finally, I also am part of a very, very small game studio releasing games that we build in decline.
+
+94
+00:13:14.040 --> 00:13:20.430
+Chris Klimas (he/him): The most recent release we did tonight in the unpleasant house is on the ios APP store all those things I just said, are not my full time job.
+
+95
+00:13:21.360 --> 00:13:30.480
+Chris Klimas (he/him): All those things I hold down a full, you know full time job in addition to all those things and I guess maybe to the only other thing i'll say sort of his intro.
+
+96
+00:13:31.560 --> 00:13:34.470
+Chris Klimas (he/him): sort of tying into what Dan was talking about, with the YouTube partner thing.
+
+97
+00:13:35.610 --> 00:13:42.300
+Chris Klimas (he/him): A number of years ago, when I should have checked sorry, you can look on the website to see for exactly how long it's been going on, but I haven't patreon.
+
+98
+00:13:43.290 --> 00:13:53.250
+Chris Klimas (he/him): For people who want to support time development and the way that is priced is that are priced is that I don't charge based just a flat monthly thing.
+
+99
+00:13:53.610 --> 00:14:00.390
+Chris Klimas (he/him): It is instead based on a release, so that if I do a release in a particular month people contribute to towards that.
+
+100
+00:14:01.230 --> 00:14:11.070
+Chris Klimas (he/him): And to me that was important because I wanted to give myself a little more flexibility again because i'm juggling lots of things so that if I needed to take a quote unquote sabbatical or break or whatever from anything.
+
+101
+00:14:11.550 --> 00:14:17.940
+Chris Klimas (he/him): I could I didn't feel like I was sort of robbing people of money which is, I think, an interesting kind of thing to think through.
+
+102
+00:14:18.540 --> 00:14:28.050
+Chris Klimas (he/him): anyways um that patreon right now is around 1500 dollars a release and that's as far as I can tell kind of the ceiling on this so far.
+
+103
+00:14:28.980 --> 00:14:40.860
+Chris Klimas (he/him): It is for sure, like I I fully would admit that I am not very good at marketing, and so I bet there's an argument to be made that I could be making like if I did xyz thing I could be.
+
+104
+00:14:41.670 --> 00:14:48.030
+Chris Klimas (he/him): getting more out of it so to me like the interesting part to me is that patreon is it this weird no man's land where.
+
+105
+00:14:48.630 --> 00:14:56.550
+Chris Klimas (he/him): At the very beginning of it, I said I tried to come up with $1 figure that would say like, if I can reach this level, I will work on twine full time.
+
+106
+00:14:57.240 --> 00:15:06.780
+Chris Klimas (he/him): For me, that was 20 $500 which, if you mind a self employment tax in the United States that's not a lot right remember 20 $500 a month at most.
+
+107
+00:15:07.860 --> 00:15:14.160
+Chris Klimas (he/him): And so, my intention, all along with that was that this was not like i'm going to only work on twine, but it will become my main job.
+
+108
+00:15:15.420 --> 00:15:22.470
+Chris Klimas (he/him): Obviously that goal, never worked out at least or hasn't worked out so far, but at the same time that is actually really good.
+
+109
+00:15:23.070 --> 00:15:33.780
+Chris Klimas (he/him): For the average compared to the average patreon the average patreon is like way lower than that, in fact, and so you could say in some in some context or from a certain point of view.
+
+110
+00:15:34.170 --> 00:15:41.040
+Chris Klimas (he/him): there's actually been really successful but it didn't get me to at least the level where I was able to focus on this full time.
+
+111
+00:15:42.150 --> 00:15:45.630
+Chris Klimas (he/him): So I think that's yeah but that's all the intro for me, I think.
+
+112
+00:15:48.870 --> 00:15:58.530
+Daniel Cox: It cool so that sort of get to know us some of you, I think, already know us or no parts of us to various degrees, so if you I think know is quite well a few a couple of you.
+
+113
+00:15:59.340 --> 00:16:06.570
+Daniel Cox: But that's sort of the first, third so so getting to know us sort of by the numbers like Chris was mentioning about numbers of patreon and.
+
+114
+00:16:07.320 --> 00:16:14.760
+Daniel Cox: Taylor was mentioned sort of connection to academia and publish in various places, so we kind of an interesting intersection of a lot of these things.
+
+115
+00:16:15.330 --> 00:16:24.510
+Daniel Cox: As we sort of move into the second sort of two thirds, and we have a we have a bunch of topics we're going to sort of discuss and then we, we will as well open to questions so again, if you have any questions.
+
+116
+00:16:24.840 --> 00:16:29.850
+Daniel Cox: Please use the word question, although there's not that many of us currently in here, but you can put them in the chat or put them in discord.
+
+117
+00:16:30.390 --> 00:16:40.170
+Daniel Cox: Or, of course, if you want to follow up on discord after this Roundtable discourse also a great option or even on Twitter, if you decide, you want to follow any of us for for any reason.
+
+118
+00:16:41.700 --> 00:16:54.840
+Daniel Cox: But as we're moving into the QA I want to give a little disclaimer at the top so each of us represents a different combination of skills interest in contributions to private and public audiences, how are we need to start with, recognizing that we are three why.
+
+119
+00:16:56.970 --> 00:17:05.550
+Daniel Cox: Some of us do intersect with queer and non divergent communities, but all of us easily past within systems that oppress others who do not look and act like us.
+
+120
+00:17:06.090 --> 00:17:14.730
+Daniel Cox: Our responses come from a position of privilege and power we all work in academics to academia to various degrees into various amounts across a number of years.
+
+121
+00:17:15.960 --> 00:17:29.310
+Daniel Cox: But we have an architecture to be parts of the side code and commentary and choices, particularly for other people, so, while we will try to account for other groups, people in performances, we cannot and will not speak for other people.
+
+122
+00:17:29.340 --> 00:17:33.720
+Daniel Cox: We can't speak for my name, but if the students, that we do not hold, so there are contributions to.
+
+123
+00:17:33.720 --> 00:17:40.080
+Daniel Cox: Communities we intersect with or play an active role in as it comes to twine an ink and other sort of related tools and communities.
+
+124
+00:17:40.710 --> 00:17:51.120
+Daniel Cox: That we do not a may not ever know so with That said, ours is a particular position of power within a lot of these communities so we're going to sort of talk within that Chris has mentioned to being part of the Community.
+
+125
+00:17:52.050 --> 00:17:59.730
+Daniel Cox: Committee, as well as the Joint Committee, I have also been a part of that we are all three of us in academia, so that already sets us up for certain positions of power.
+
+126
+00:18:00.480 --> 00:18:06.840
+Daniel Cox: So I just want to sort of throw out disclaimer so people know there are a whole lot of additional Community Labor.
+
+127
+00:18:07.290 --> 00:18:15.780
+Daniel Cox: that's done in Community supported these platforms, especially, especially on the plane discord that we are perhaps not aware of, or cannot speak to.
+
+128
+00:18:16.320 --> 00:18:20.040
+Daniel Cox: Especially a number of private people who are tending to support.
+
+129
+00:18:20.460 --> 00:18:30.120
+Daniel Cox: twine development Inc development, a lot of these tools privately or indirect messages that we just cannot possibly account for even have knowledge of, especially between.
+
+130
+00:18:30.630 --> 00:18:38.160
+Daniel Cox: minority groups and queer Members with that has been a very ongoing support that I am aware of, but of course i'm not a part of.
+
+131
+00:18:39.570 --> 00:18:51.510
+Daniel Cox: Usually so that's sort of the other way, we are sort of three White is talking about a Community Labor, especially as it intersects with wine which to become incredibly important as a platform for queer creation.
+
+132
+00:18:52.110 --> 00:19:03.360
+Daniel Cox: for minority groups to create very interesting personal essays so I just want to sort of throw that out there, so all of that said it's an interesting to claim display with all of this.
+
+133
+00:19:05.070 --> 00:19:15.690
+Daniel Cox: let's sort of talk about the Community support of I think we'll start with with twine and sort of move into instance incas a little newer to this space and then, as we said has been around for.
+
+134
+00:19:16.050 --> 00:19:32.370
+Daniel Cox: For about a decade at this point, even though of course mentioned as been various roles that they element and I guess we We should also mention along with Chris I I will mention here, along with Chris there were also three other story format developers that are sort of part of the ecosystem.
+
+135
+00:19:33.750 --> 00:19:47.040
+Daniel Cox: i'm, not forgetting their last names, but Leon Thomas and I, I support the snowman a story format currently Chris supports the chat book story format Leon and i'm sorry Leon maybe Chris.
+
+136
+00:19:48.420 --> 00:19:49.920
+Chris Klimas (he/him): When lean on are not.
+
+137
+00:19:50.130 --> 00:20:01.230
+Daniel Cox: Are not Okay, yes, sorry how it's used to like just see people by their first names i'm very sorry yeah Leon sports Harlow and Thomas Michael edwards yes timmy supports the.
+
+138
+00:20:02.130 --> 00:20:05.580
+Daniel Cox: sugar cube I like puzzles like sugar cube yes not sugar cane was 21.
+
+139
+00:20:06.330 --> 00:20:15.360
+Daniel Cox: So these are also active developers, who are also part of the twin committee and also contribute code and their own sort of story format stuff as as part of twine so just to sort of make sure.
+
+140
+00:20:15.810 --> 00:20:24.630
+Daniel Cox: They also get a shout out since they're not here okay so let's talk about a little bit about the how the editor is supported and how the.
+
+141
+00:20:24.960 --> 00:20:35.130
+Daniel Cox: story formats are supported, which I think are sort of two interesting intersecting but but slightly different question a slightly different questions and concerns that was sort of transitions into thinking about how.
+
+142
+00:20:35.790 --> 00:20:42.270
+Daniel Cox: ink is being used within these spaces as well because, like it's it's relatively new so Chris sort of throw it to you for a second.
+
+143
+00:20:42.690 --> 00:20:55.560
+Daniel Cox: You mentioned, so the patreon and getting supported through that and I guess for those people who don't know, could you talk a little bit more about what that release looks like so so I know as a supporter of view that I sort of get those you do almost weekly sort of.
+
+144
+00:20:57.150 --> 00:21:06.660
+Daniel Cox: Change logs or sort of interesting presentations what you're working on what you're thinking that could talk a little bit more about sort of what that looks like a sort of almost weekly twine development.
+
+145
+00:21:07.440 --> 00:21:08.400
+Chris Klimas (he/him): Sure yeah.
+
+146
+00:21:08.460 --> 00:21:17.190
+Chris Klimas (he/him): um so I felt like I mean that's sort of so the platform a patreon, I guess, just in case folks aren't familiar it's the ideas that people can donate.
+
+147
+00:21:17.730 --> 00:21:28.170
+Chris Klimas (he/him): To an artist or Creator, or what have you to support them and patreon the platform leaves that extremely vague as to what that means exactly they want to leave it like it could be you get.
+
+148
+00:21:29.190 --> 00:21:38.640
+Chris Klimas (he/him): exclusive access to certain content right so like for many of the podcasts I listened to, for example, will mention they have a patreon and you can support them, and if you do that.
+
+149
+00:21:39.270 --> 00:21:49.530
+Chris Klimas (he/him): If you throw money their way, a certain it's almost sort of like the public TV model in the United States, where it's like if you donate a certain level you get the virtual tote bag great and then the in this case you get the.
+
+150
+00:21:50.550 --> 00:22:05.340
+Chris Klimas (he/him): Like in a podcast or something like that you maybe get early access to this episode, or maybe you get a access to episodes that are not released to the public right and so it's a quasi transaction right you give money to get a thing.
+
+151
+00:22:06.360 --> 00:22:11.010
+Chris Klimas (he/him): That is harder to translate for open source project like twine because.
+
+152
+00:22:11.760 --> 00:22:21.990
+Chris Klimas (he/him): I do releases, but it is like that's the whole point of open source is that I give those away essentially right, and so there was very there for sure, was a decision point.
+
+153
+00:22:22.650 --> 00:22:28.620
+Chris Klimas (he/him): When, as part of that process of coming back to twine where I was thinking like well there is a possibility.
+
+154
+00:22:29.010 --> 00:22:42.330
+Chris Klimas (he/him): that this could become a commercial product in some shape or form people through that are suggested that to me and I was thought well that's a really bad idea and I thought that would kind of killed fine, to be honest, if i'd went down that road.
+
+155
+00:22:43.440 --> 00:22:51.120
+Chris Klimas (he/him): And so I had to think really carefully, at least, it was hard for me at least to think about well, what does it mean what kind of transaction, can you put around.
+
+156
+00:22:51.540 --> 00:22:55.500
+Chris Klimas (he/him): An open source project like this if i'm going to go if i'm just taking as an assumption that.
+
+157
+00:22:56.280 --> 00:23:03.150
+Chris Klimas (he/him): i'm not going to sell this to directly like well, how could I incentivize that there are hopefully some people out there.
+
+158
+00:23:03.720 --> 00:23:09.990
+Chris Klimas (he/him): That will want to support it out of their good out of the goodness of their heart but people like getting stuff for money, like we're.
+
+159
+00:23:10.710 --> 00:23:20.760
+Chris Klimas (he/him): And there's probably a whole other discussion about that how capitalism trains us to think that way that we want to give people money and we want to get things back that's how that's how the world works right so anyway.
+
+160
+00:23:22.140 --> 00:23:31.560
+Chris Klimas (he/him): So to me what I thought might be interesting, there are two incentives are there used to be three, but the first one actually was a little too much Labor actually.
+
+161
+00:23:32.010 --> 00:23:41.430
+Chris Klimas (he/him): It was that if you give out at the $5 per release level you get access to a weekly Dev blog that I do where I just document my work process basically.
+
+162
+00:23:42.030 --> 00:23:45.840
+Chris Klimas (he/him): And I try sometimes from time to time as i'm working on it and trying to think through.
+
+163
+00:23:46.800 --> 00:23:52.950
+Chris Klimas (he/him): What how something should work i'll ask the question to people and try to engage a little bit in a dialogue there.
+
+164
+00:23:53.820 --> 00:24:05.850
+Chris Klimas (he/him): there's another level, where you get acknowledged at in a thank you section on the on the documentation for chat book, which is the sort of play runtime kind of thing for twine.
+
+165
+00:24:06.360 --> 00:24:12.240
+Chris Klimas (he/him): And the third level, which I did away with because there weren't that many takers, for it was a chance to I I did a monthly.
+
+166
+00:24:13.500 --> 00:24:21.840
+Chris Klimas (he/him): I guess video call ironically, now that we're all living in a video calls it was sort of a new and weird idea to me in a little scary to be like strangers, you can talk to me for an hour.
+
+167
+00:24:22.680 --> 00:24:33.690
+Chris Klimas (he/him): If you are willing to donate and we can talk about whatever you want, we can talk about I mean framing inside twine not just like what did you have for lunch today or some other weird stuff.
+
+168
+00:24:34.800 --> 00:24:38.010
+Chris Klimas (he/him): And the reality and I thought me sort of an interesting.
+
+169
+00:24:39.180 --> 00:24:44.490
+Chris Klimas (he/him): It was it was an interesting there are ups and downs to it, the Downs were that it was a lot of.
+
+170
+00:24:46.110 --> 00:24:57.270
+Chris Klimas (he/him): I wouldn't say i'm not even sure I want to say a lot, it was a certain amount of emotional Labor because i'm an introvert and meeting strangers is always a little bit hard for me, and especially in an Internet context where you're expected.
+
+171
+00:24:57.690 --> 00:25:02.850
+Chris Klimas (he/him): to lead a conversation, hopefully, instead of you just sort of staring at the video call awkwardly.
+
+172
+00:25:03.930 --> 00:25:07.140
+Chris Klimas (he/him): that's a little bit tricky for me, or it was a little intimidating, to be honest.
+
+173
+00:25:08.340 --> 00:25:19.140
+Chris Klimas (he/him): And secondly, I mean so that was the downside, the upside, though, is that I made really interesting connections to those people and they were very like I always came over from those those chats, as it were.
+
+174
+00:25:20.460 --> 00:25:25.800
+Chris Klimas (he/him): really not exactly energized but like it felt like I was making interesting connections, as a result of that.
+
+175
+00:25:26.910 --> 00:25:32.940
+Chris Klimas (he/him): But I ended up not doing that because just there oftentimes months, where people didn't have an interest in doing that, in the first place.
+
+176
+00:25:33.840 --> 00:25:43.050
+Chris Klimas (he/him): So there is, I was sitting there on a video call by myself or not canceling the call or it just overall just didn't feel worth it in terms of the the Labor involved as well.
+
+177
+00:25:44.340 --> 00:25:48.840
+Chris Klimas (he/him): So I think that does that sort of kind of draw the picture for you yeah.
+
+178
+00:25:49.860 --> 00:25:51.870
+Daniel Cox: yeah yeah and so that also rolls into sort of.
+
+179
+00:25:51.960 --> 00:25:53.100
+Daniel Cox: The next connection which.
+
+180
+00:25:53.160 --> 00:25:53.850
+Chris Klimas (he/him): which, I think.
+
+181
+00:25:54.540 --> 00:25:56.580
+Daniel Cox: For people who may not be as familiar with, so I.
+
+182
+00:25:58.470 --> 00:25:59.340
+Daniel Cox: Know you're probably.
+
+183
+00:26:00.540 --> 00:26:08.610
+Daniel Cox: The best wine experts here of those go to various degrees, but I think if people are not sort of familiar with it, which is kind of the the division, I wanted to get into.
+
+184
+00:26:09.090 --> 00:26:20.700
+Daniel Cox: So so Chris works on twine, the editor and then sort if you're using twine you're probably also using a story format, and in fact you you kind of can't use the editor without a story format at this point, especially within 22.
+
+185
+00:26:21.750 --> 00:26:23.700
+Daniel Cox: So there are sort of these these sort of.
+
+186
+00:26:24.450 --> 00:26:30.360
+Daniel Cox: Chris is working on the editor and then, as I mentioned the sort of other people, including me who are also working on the story formats.
+
+187
+00:26:30.630 --> 00:26:43.770
+Daniel Cox: And I think what's what's kind of interesting to sort of get to this Labor issue as as Chris which is saying is so okay there's there's ongoing support for the editor but not necessarily and to varying degrees, I know.
+
+188
+00:26:45.300 --> 00:26:51.570
+Daniel Cox: Both Leon and comments I think tried this to various degrees of sort of getting support for story format offering.
+
+189
+00:26:52.350 --> 00:27:03.510
+Daniel Cox: I know, as Chris mentioned previously, was doing reports on snowman before transition to I started, maintaining and now does occasionally so reports on chat book as part of that patreon work.
+
+190
+00:27:04.320 --> 00:27:09.510
+Daniel Cox: But I do know sort of, or at least I currently know and and perhaps this is this has changed more recently.
+
+191
+00:27:09.990 --> 00:27:19.260
+Daniel Cox: That sort of Leon Thomas and I don't sort of get any direct support for working on story format, in particular, and well i'm not, this is not.
+
+192
+00:27:19.860 --> 00:27:33.840
+Daniel Cox: it's not me, making the pitch to support me, I think, in particular, and especially Leon and Thomas you do substantially more work than I do, there is sort of that no financial backing there is there is sort of.
+
+193
+00:27:35.340 --> 00:27:44.220
+Daniel Cox: And I wish they were here to sort of speak to this, but I do know there's there's sort of encouragement within the discord within like the infection forums, have a new version comes out and conversations happen.
+
+194
+00:27:45.150 --> 00:27:58.620
+Daniel Cox: And, and they both sort of have major supporters behind them to sort of you know, suggest changes or play test and various things, so there is some support but but kind of like Chris was just saying, which is kind of what I wanted to get into this division there's an interesting.
+
+195
+00:27:59.970 --> 00:28:08.790
+Daniel Cox: Labor support sort of invisible Labor behind a lot of these sort of not just the editor itself right Chris we're speaking to, but a lot of behind the story formats as well.
+
+196
+00:28:10.200 --> 00:28:15.930
+Daniel Cox: I see somebody Chad it's mentioned 30 years and we have never figured out a reasonable business model, yes, well let's just go to the issue right just.
+
+197
+00:28:16.560 --> 00:28:26.790
+Daniel Cox: giving away stuff and open source creates this kind of interesting expectation of you will continue to do that, which I think is part of this continued conversation i'm sort of connected back to the chat and then moving into.
+
+198
+00:28:28.080 --> 00:28:32.100
+Daniel Cox: For those are the two of you could see why it's good to see my notes for this section.
+
+199
+00:28:33.990 --> 00:28:47.460
+Daniel Cox: This idea sort of a twine workshop or whatever look like i'm part of the idea was it was hoped that the the twine cookbook could sort of fill that role that sort of helped people more quickly get started with certain examples or terms.
+
+200
+00:28:48.840 --> 00:28:49.500
+Daniel Cox: there's.
+
+201
+00:28:50.520 --> 00:29:00.600
+Daniel Cox: i've written some posts about sort of my my connection to the cookbook and sort of frustrations with it over time and, but the the summary of a lot of this is that.
+
+202
+00:29:01.770 --> 00:29:08.940
+Daniel Cox: back when I was starting in 2017 I reached out to a number of different people and didn't necessarily hear back from a lot of people what.
+
+203
+00:29:10.110 --> 00:29:13.710
+Daniel Cox: story format authors contribute various codes in various ways and other Community members of help.
+
+204
+00:29:14.040 --> 00:29:20.370
+Daniel Cox: But I had reached out to sort of people I knew were slightly more much more famous than I were sort of within the Community, and I said hey I would love to have you.
+
+205
+00:29:21.240 --> 00:29:29.910
+Daniel Cox: contribute various code or contribute various things or just be a part of this and I heard nothing back some people said hey this sounds interesting but I don't really have time.
+
+206
+00:29:30.540 --> 00:29:37.800
+Daniel Cox: But generally, it was a no across the board to various degrees and nobody was rude or anything but it was either the silence or straight out know.
+
+207
+00:29:38.460 --> 00:29:49.710
+Daniel Cox: To like hey we don't know what this looks like or whatever so sort of moving into sort of these other sort of tangentially related things within, particularly the ecosystems which will, I know connect back to the.
+
+208
+00:29:50.580 --> 00:29:59.100
+Daniel Cox: ecosystem and we can sort of connect Taylor back into this, is that these these cookbook like things are often the work of a handful of people.
+
+209
+00:29:59.970 --> 00:30:10.860
+Daniel Cox: I think the twine cookbook currently has like seven or eight people listed over it's now four years it was coming up in four years I think another month or so and into well I think July issue will be about four years.
+
+210
+00:30:11.940 --> 00:30:20.580
+Daniel Cox: and has maybe eight contributors, maybe nine contributors total and some of that contributions are sentences and some of those contributions are hundreds of pages.
+
+211
+00:30:21.120 --> 00:30:26.610
+Daniel Cox: So sort of thinking within this thing of like who builds these things, who works on these things sort of like.
+
+212
+00:30:27.510 --> 00:30:34.350
+Daniel Cox: Chris was saying, and then sort of tailor were saying as a lot of these sort of tutorials are just made by people for various purposes or various things are various services.
+
+213
+00:30:35.010 --> 00:30:46.770
+Daniel Cox: they're not connected like there, they are, I mean to be kind of blunt about this, despite the fact is a recording the book twine cookbook for a very long time with me for a number of the four years.
+
+214
+00:30:47.940 --> 00:30:57.600
+Daniel Cox: So things like this and, like Taylor I the unofficial cookbook was that's mostly us there's a couple other people have contributed small things, since we were working on it last year.
+
+215
+00:30:58.050 --> 00:31:08.550
+Daniel Cox: sort of like fixes and various things, but a lot of these sort of things, a lot of this work is the work of one person or two people or three people or in this case of like I said the twin cocoa, and I think it's up to like eight now, at this point.
+
+216
+00:31:10.110 --> 00:31:15.690
+Daniel Cox: But sort of moving into that and sort of content Taylor to put you back in this conversation.
+
+217
+00:31:17.700 --> 00:31:19.980
+Daniel Cox: um, what do you think sort of.
+
+218
+00:31:21.090 --> 00:31:26.370
+Daniel Cox: Thinking about it because, because I know you and I Taylor especially think are also working within this space.
+
+219
+00:31:26.910 --> 00:31:33.180
+Daniel Cox: What do we think of sort of the lessons we have seen from twine that we just talked about, do you think we're going to see those same things shifting into.
+
+220
+00:31:33.780 --> 00:31:45.540
+Daniel Cox: Income coming years or concerns about that new Taylor do I know we've talked a little bit, but Taylor you have sort of thoughts about what this might look like coming up for for ink and as a similar trajectory to what twine is also undergone.
+
+221
+00:31:47.070 --> 00:31:50.400
+Kenton Taylor Howard: um yeah I know that was even something we kind of talked about is.
+
+222
+00:31:51.690 --> 00:31:55.200
+Kenton Taylor Howard: Maybe one of the potential takeaways from this panel could be some of those connections between.
+
+223
+00:31:56.340 --> 00:32:09.810
+Kenton Taylor Howard: 29 cents twine does have that longer history and it doesn't and so like essentially the Community might be able to use some of those lessons and things to potentially learned from swine um one thing I know that we had.
+
+224
+00:32:11.310 --> 00:32:16.050
+Kenton Taylor Howard: kind of getting into maybe the the recognition of this type of work and.
+
+225
+00:32:17.670 --> 00:32:23.370
+Kenton Taylor Howard: I don't know if compensations the word I want to use again that gets into that kind of ugly capitalistic like we have to find a way to get.
+
+226
+00:32:24.090 --> 00:32:35.250
+Kenton Taylor Howard: Quote unquote compensated for these things but um but that, since I, since all of us are in academia to one former to one extent um that one thing that might need to happen.
+
+227
+00:32:36.690 --> 00:32:47.310
+Kenton Taylor Howard: is finding a way to have some of these things be more recognized in an academic context effectively because so many people who work on them come from academia and these things are not really effective we.
+
+228
+00:32:48.390 --> 00:32:50.340
+Kenton Taylor Howard: recognize no, I was in a.
+
+229
+00:32:51.930 --> 00:32:57.030
+Kenton Taylor Howard: Administrative position last year from like 2019 to 2020 in our department.
+
+230
+00:32:57.480 --> 00:33:05.430
+Kenton Taylor Howard: And I know i'm you know I wasn't hugely involved in like tenure and promotion and stuff like that I know certainly a common grumbles last grapes.
+
+231
+00:33:05.730 --> 00:33:13.140
+Kenton Taylor Howard: discussion we had as members of our department was that things like this are so frequently unrecognized like Dan has literally put hundreds of hours into making YouTube videos.
+
+232
+00:33:14.010 --> 00:33:19.500
+Kenton Taylor Howard: And tutorials that are useful in some of the classes, that we teach because we teach things like planning and.
+
+233
+00:33:20.070 --> 00:33:30.270
+Kenton Taylor Howard: While I know you get recognition from those people, you know, like suit our students know who you are and they're like hey yeah that's that's Danny makes tons of videos I know you showed the monetary you don't get a ton of recognition for it.
+
+234
+00:33:30.720 --> 00:33:37.890
+Kenton Taylor Howard: And in terms of academic service that isn't something that's very well recognized either it's not really something you can very effectively put on like a.
+
+235
+00:33:38.940 --> 00:33:45.750
+Kenton Taylor Howard: I was just filling filling out a manual report, the other day and there's no section on my annual report for making YouTube tutorials for my students, so that classes are easier.
+
+236
+00:33:47.760 --> 00:33:51.390
+Kenton Taylor Howard: So I think that's something that, as Inc builds as an ecosystem that.
+
+237
+00:33:51.810 --> 00:34:01.230
+Kenton Taylor Howard: Maybe maybe one way to um I don't know for sure, but maybe one way to avoid that problem is to try to get some of that support in place as the ecosystem grows, as opposed to afterwards.
+
+238
+00:34:02.070 --> 00:34:06.900
+Kenton Taylor Howard: But I don't know if you increase can speak to more of that as how that happened over the development of wine.
+
+239
+00:34:07.710 --> 00:34:09.390
+Chris Klimas (he/him): Well, actually have a follow up question.
+
+240
+00:34:09.450 --> 00:34:11.100
+Chris Klimas (he/him): For maybe the both of you is.
+
+241
+00:34:11.160 --> 00:34:18.390
+Chris Klimas (he/him): Do you think there's a sort of bias, this is my own sort of an educated opinion or wondering is, do you think that's there's a bias here because.
+
+242
+00:34:18.840 --> 00:34:28.890
+Chris Klimas (he/him): You guys are creating videos and putting them on a open platform like YouTube versus, for example, offering things and use it like in a written documents or publishing and.
+
+243
+00:34:30.060 --> 00:34:32.070
+Chris Klimas (he/him): Quote academic venues, and things like that.
+
+244
+00:34:34.170 --> 00:34:35.340
+Kenton Taylor Howard: I mean, I would definitely say there's a.
+
+245
+00:34:36.870 --> 00:34:43.410
+Kenton Taylor Howard: A bias toward that I think probably I mean I can speak to why I do it, and I think that for damn there's probably some similarities to.
+
+246
+00:34:43.650 --> 00:34:48.930
+Kenton Taylor Howard: me part of the reason we do, that is because our students like videos right like if I give them a video they're much more likely to watch that then.
+
+247
+00:34:49.470 --> 00:34:53.070
+Kenton Taylor Howard: To read something and I have learned that you know over my years of teaching so.
+
+248
+00:34:53.370 --> 00:35:04.470
+Kenton Taylor Howard: And that might be the same for just the general Community like the way you know we've made the cookbook and people use it and it's a useful resource, but I think a lot of people would much rather watch a video then then read to the cookbook so.
+
+249
+00:35:07.290 --> 00:35:07.980
+Daniel Cox: yeah I mean.
+
+250
+00:35:09.210 --> 00:35:14.730
+Daniel Cox: So, to give people a little bit of background and the in the subtitle of this talk platform as a service, it was a little bit of a joke.
+
+251
+00:35:15.240 --> 00:35:24.120
+Daniel Cox: The service part is speaking of the third wheel an academia or research teaching service platform as a service that was a little bit of a joke that I.
+
+252
+00:35:25.470 --> 00:35:28.920
+Daniel Cox: don't think too many people got other because it's definitely a dad joke.
+
+253
+00:35:29.940 --> 00:35:36.720
+Daniel Cox: But as well platform existing as a service like we're sort of talking about the services behind a lot of these platforms and.
+
+254
+00:35:37.380 --> 00:35:44.760
+Daniel Cox: To speak to sort of what Taylor was saying, because we have to fill up the same form, so I guess, to give you a little bit background I tailored I work and work in the same Program.
+
+255
+00:35:45.210 --> 00:35:51.810
+Daniel Cox: At UCF so we we both have to fill out the same sort of annual faculty review for my fix the exact acronym.
+
+256
+00:35:52.380 --> 00:36:05.340
+Daniel Cox: But it's very similar idea right there is no part for me to say hey yes, I invested so many hours in this or so many hours in creating videos either for my students, which, of course, as part of this pandemic i've done a lot more videos.
+
+257
+00:36:07.530 --> 00:36:14.130
+Daniel Cox: But, as well as contributing to things like the twine specifications which we kind of haven't talked about yet, but that's another thing sort of behind the scenes of.
+
+258
+00:36:14.700 --> 00:36:18.120
+Daniel Cox: formalizing lot of the stuff and or as well, I saw.
+
+259
+00:36:18.750 --> 00:36:24.120
+Daniel Cox: him not to sort of promote myself, but I contribute a little bit of like accessibility code to inky, which is a tool we used to teach ink.
+
+260
+00:36:24.450 --> 00:36:29.610
+Daniel Cox: And i've contributed a little bit of code now to the acuity integration plugin for a similar idea.
+
+261
+00:36:30.180 --> 00:36:38.820
+Daniel Cox: Because I use these for teaching and i'm like man to be great if we had this thing like it'd be great if we could zoom text you know, since we're showing them on a big screen or just small little small things like this.
+
+262
+00:36:39.570 --> 00:36:45.180
+Daniel Cox: conversations that come up like caleb are saying we start teaching with these tools and you're like Oh, you know would be great if we had this ability thing.
+
+263
+00:36:45.450 --> 00:36:54.750
+Daniel Cox: or this thing or students really like or this thing that we would love to have so it becomes these kind of like little tiny micro services that build up towards a lot of this as well.
+
+264
+00:36:55.680 --> 00:37:10.320
+Daniel Cox: And I think as part of this larger conversation like Taylor was just saying and Chris was just saying yes we we these things are not necessarily recognize towards tenure towards promotion internally, I know there are a number of academics and this call right now.
+
+265
+00:37:12.150 --> 00:37:18.870
+Daniel Cox: That I have worked with and those I really respect to operate in similar circumstances that of creative work is often not.
+
+266
+00:37:19.440 --> 00:37:26.310
+Daniel Cox: recognized or or is recognized as part of service or recognized as part of teaching, perhaps, but it's not that price research right that thing.
+
+267
+00:37:27.060 --> 00:37:32.910
+Daniel Cox: That academia runs on like our do you know you could create at YouTube tutorials.
+
+268
+00:37:33.420 --> 00:37:39.720
+Daniel Cox: Or you could publish a single article and the article will get more recognition within the power structures within academia, for various reasons.
+
+269
+00:37:40.170 --> 00:37:51.090
+Daniel Cox: Or you know, depending on your department in school, perhaps equal recognition depending on whatever structures are in place, but it's similar to what sort of mentioned in the chat and sort of connected into this, as there is.
+
+270
+00:37:52.230 --> 00:38:00.540
+Daniel Cox: There is sort of a financial support aspect to a lot of us or time support or course release aspect to generating a lot of this stuff.
+
+271
+00:38:01.470 --> 00:38:07.470
+Daniel Cox: You know I I i'm curious Chris how you kind of deal with it as having a full time job and.
+
+272
+00:38:08.310 --> 00:38:14.100
+Daniel Cox: And, being an adjunct where is i'm kind of the reverse were like my full time job is teaching, so I constantly generate teaching stuff and it's.
+
+273
+00:38:14.400 --> 00:38:22.860
+Daniel Cox: It becomes much harder to do anything else, like with the twine committee because I, you know i'm trying to teach you're trying to interact with my hundreds of students online all the time.
+
+274
+00:38:23.460 --> 00:38:36.000
+Daniel Cox: I don't know if you want to sort of touch on that Chris of how much sort of the reverse situations, I think there are no real like most of our time is spent teaching and the other time spent doing the other stuff do you want to sort of touch on that at all, Chris.
+
+275
+00:38:36.480 --> 00:38:39.540
+Chris Klimas (he/him): i'm sure yeah I mean i'm in a very different position, I think.
+
+276
+00:38:39.570 --> 00:38:42.090
+Chris Klimas (he/him): At least right now to you guys, whereas.
+
+277
+00:38:43.980 --> 00:38:50.400
+Chris Klimas (he/him): Because the in the universe, or the institution that i'm teaching at is an art school, and so there isn't quite.
+
+278
+00:38:51.450 --> 00:38:53.580
+Chris Klimas (he/him): Sorry there's someone going on outside of your background.
+
+279
+00:38:54.990 --> 00:39:07.080
+Chris Klimas (he/him): i'm sorry I was like oh yeah so there isn't quite the same kind of criteria, perhaps in at work, at least in the particular program that i'm teaching and right now we're obviously I think i'm hoping that.
+
+280
+00:39:08.640 --> 00:39:16.800
+Chris Klimas (he/him): To a degree, like to say that I have like my understanding of how the academic world really works, as it were, is relatively limited.
+
+281
+00:39:17.280 --> 00:39:23.550
+Chris Klimas (he/him): To be real, and I think, but from what i've seen I think there's more of a focus, at least in the program where i'm teaching.
+
+282
+00:39:24.060 --> 00:39:37.950
+Chris Klimas (he/him): On the work you're doing creative work you're doing I need and so it's a completely different kind of mindset, I think, or feels like from hearing from you guys about how that works I can't really say like it's better or worse or just It just seems different basically.
+
+283
+00:39:39.150 --> 00:39:45.870
+Chris Klimas (he/him): And so, for me, honestly teaching is I get a lot out of it personally more than it is like a particular like.
+
+284
+00:39:46.380 --> 00:39:51.240
+Chris Klimas (he/him): Obviously it's not my bread and butter and like you were alluding to, and so I think I approach it.
+
+285
+00:39:51.930 --> 00:40:02.280
+Chris Klimas (he/him): In a much, much different world a different way, I mean the classes, I teach are very like studio oriented where i'm sitting down with students, as they were in much, much it sounds like we were talking before the.
+
+286
+00:40:03.780 --> 00:40:17.040
+Chris Klimas (he/him): panel started, we were talking about class sizes my class sizes are a lot smaller than what you guys are dealing with and so it's a lot of individual relationships and talking about what interactive narrative means and things like that that really obviously I get a lot out of.
+
+287
+00:40:18.120 --> 00:40:31.020
+Chris Klimas (he/him): And so to me it is sort of a one job among many like you were saying and so it's not quite as I don't have the same feelings of sort of sink or swim about it, where I might if I were full time, in fact.
+
+288
+00:40:36.810 --> 00:40:43.560
+Daniel Cox: yeah I guess the sort of jumping into connect to sort of mentioned the chat do we see academia changing as a result of coven.
+
+289
+00:40:44.940 --> 00:40:53.430
+Daniel Cox: I think my my experience with a lot of this has changed as a result of I think other people starting to recognize so.
+
+290
+00:40:54.420 --> 00:40:59.550
+Daniel Cox: Without getting on a soapbox about the the Labor involved in, especially the emotional label involved with.
+
+291
+00:40:59.970 --> 00:41:07.110
+Daniel Cox: Developing pedagogy and resources for online teaching, which is a whole nother whole nother panel and and books, with a worth of topic there.
+
+292
+00:41:08.010 --> 00:41:16.470
+Daniel Cox: I think, as people start to realize the amount of work involved with like Oh yes, it takes a tremendous amount of work to make an online course or especially to teach zoom online.
+
+293
+00:41:17.580 --> 00:41:22.380
+Daniel Cox: And to sort of speak to that for just a moment I taught all four of my classes last.
+
+294
+00:41:23.190 --> 00:41:30.210
+Daniel Cox: This semester so spring i'm actually teaching course around summer, but in spring taught all for online and it meant sometimes being online.
+
+295
+00:41:30.870 --> 00:41:41.790
+Daniel Cox: On on zoom on a call like this for like six to eight hours a day, because i'm just in either like teaching or i'm in a student group, you know our i'm talking to whatever and so that also plays a toll and I are takes a toll.
+
+296
+00:41:42.600 --> 00:41:50.250
+Daniel Cox: And plays a role to combine two different phrases there and, but I think, especially as people have started in especially admin who may not have been.
+
+297
+00:41:51.510 --> 00:42:02.190
+Daniel Cox: As cognizant of the sort of the Labor involved in this, as they become more aware of these these Labor investments have also started recognized like Oh yes, we need to invest in this, or we need to invest in.
+
+298
+00:42:03.360 --> 00:42:06.450
+Daniel Cox: Training our teachers are giving them a break or.
+
+299
+00:42:07.710 --> 00:42:25.770
+Daniel Cox: You know, to to counterbalance the sort of emotional Labor so it has is it changing as a result of coven yes and small ways like I said admin becoming more cognizant of the amount of Labor involved or like a video production costs, I know.
+
+300
+00:42:26.820 --> 00:42:37.890
+Daniel Cox: To speak a tiny bit, I think I think a lot of a lot of budgets sort of suddenly exploded of like yes, we certainly need cameras and lighting and green screens and all all kinds of other things that just weren't part of budgets before.
+
+301
+00:42:38.190 --> 00:42:44.550
+Daniel Cox: That suddenly faculty budgets are like Oh yes, we suddenly need all these things, because we have to teach from our own home studios now.
+
+302
+00:42:46.170 --> 00:42:52.770
+Daniel Cox: As sort of speak a little bit that to myself, you can't see it but directly in front of me i'm looking at a camera and right behind the camera is audio.
+
+303
+00:42:53.130 --> 00:43:02.610
+Daniel Cox: baffling which I have on my walls, because I record videos a lot, as well as had this sort of hanging Mike and I have a green screen behind me, and I have some lighting and so i've also sort of invested in.
+
+304
+00:43:03.000 --> 00:43:06.480
+Daniel Cox: In teaching in this in this mode of medium because it's something I spent a lot of time and.
+
+305
+00:43:08.340 --> 00:43:14.040
+Daniel Cox: i'm sorry i'm just taking a second to just check out chat yeah so to roll up a little bit.
+
+306
+00:43:16.590 --> 00:43:18.570
+Daniel Cox: Anastasia Salter also said that.
+
+307
+00:43:21.150 --> 00:43:30.330
+Daniel Cox: Soon her i've talked about working on an open source press more theory and practice model books to certainly help with academic recognition yeah I think that's also part of this too is is.
+
+308
+00:43:31.980 --> 00:43:34.530
+Daniel Cox: twice been around for 10 years it's been around for a number of years.
+
+309
+00:43:35.670 --> 00:43:43.830
+Daniel Cox: In recently by the way, got an epic which is not a description of the grant but from the company epic and epic mega grant which is kind of too confusing.
+
+310
+00:43:44.430 --> 00:43:50.040
+Daniel Cox: Like terms, their epic mega so epic mega grant to work on a part of the.
+
+311
+00:43:50.850 --> 00:43:58.680
+Daniel Cox: ink runtime as part of the unreal engine so that's actually coming along i'm not part of that project, but I sort of like glance glance at it everyone's well.
+
+312
+00:43:59.250 --> 00:44:06.870
+Daniel Cox: So things like that the recognition of like Oh, this is the big thing and game development right, this is a big get out this award to people on the transitions a lot of this.
+
+313
+00:44:08.280 --> 00:44:09.960
+Daniel Cox: um, I think, as part of this.
+
+314
+00:44:10.230 --> 00:44:12.300
+Daniel Cox: Now that we're sort of at 915 or so.
+
+315
+00:44:12.720 --> 00:44:17.460
+Daniel Cox: Something we've kind of not talked about that I think is worth dipping into is how do we see.
+
+316
+00:44:17.850 --> 00:44:26.160
+Daniel Cox: Which conversations we were we were having before this in preparation of this Roundtable, how do we see twine and ink acting as platforms to various levels.
+
+317
+00:44:27.030 --> 00:44:32.220
+Daniel Cox: Something we were having conversation about, and some people have written about very recently we're just kind of like I sent an academic.
+
+318
+00:44:32.700 --> 00:44:41.940
+Daniel Cox: Both Chris and Taylor was like hey here's this like I guess it's like a 20 page 30 page academic article say hey is academic ordo talking about twine as a platform like, how do we feel about this.
+
+319
+00:44:42.660 --> 00:44:50.730
+Daniel Cox: So I guess I got kind of want to throw that out to so we've talked a little bit about Labor and support and voluntary connection to a lot of us, but let's kind of talk about.
+
+320
+00:44:51.480 --> 00:44:58.290
+Daniel Cox: How do we see these platforms, or do we see this iPod rooms, or what type of platforms, because platform ization is also part of this conversation of.
+
+321
+00:44:58.920 --> 00:45:11.280
+Daniel Cox: You know what this will look like what effects, does it have on its ecosystem or corresponding networks effects to its network of communities of things feeding in and out of this so so to either Chris or Taylor who kind of want to jump in.
+
+322
+00:45:12.720 --> 00:45:19.590
+Daniel Cox: About sort of about perceptions of ink or or twine as as platform, we can sort of kick off this part of the conversation as well.
+
+323
+00:45:23.070 --> 00:45:23.280
+Daniel Cox: yeah.
+
+324
+00:45:23.310 --> 00:45:24.480
+Chris Klimas (he/him): To me um.
+
+325
+00:45:25.350 --> 00:45:35.250
+Chris Klimas (he/him): I think it's important or like as to for like off the cuff, I would say sure their platforms, but I think more important at least to me like I really feel like.
+
+326
+00:45:35.910 --> 00:45:39.960
+Chris Klimas (he/him): This space or this community or whatever has mature, to a degree.
+
+327
+00:45:40.920 --> 00:45:50.640
+Chris Klimas (he/him): Because I don't really see them I don't see people I do Obviously there are people who identify as like i'm just going to die much time creator i'm an creator i'm a whatever creator.
+
+328
+00:45:51.330 --> 00:45:52.920
+Chris Klimas (he/him): But what I see more and more.
+
+329
+00:45:53.430 --> 00:46:03.870
+Chris Klimas (he/him): Is that people are jumping between these platforms and so they are like they're interested in inner interactive narrative and so, depending on what kind what kind of thing they're working on, or what they want to do.
+
+330
+00:46:04.230 --> 00:46:08.100
+Chris Klimas (he/him): Well jump between these things, and they are just sort of tools in the toolbox.
+
+331
+00:46:09.210 --> 00:46:22.290
+Chris Klimas (he/him): And so that I think that's really exciting, because to me that that speaks just sort of maturity to the space where it is no longer like this is our one way of doing things and those people over there, like let's not talk to them.
+
+332
+00:46:23.820 --> 00:46:30.480
+Chris Klimas (he/him): You know, like or like this, my my screwdriver is better than your screwdriver like there's a lot of conversations that I think have happened and still happen like that.
+
+333
+00:46:30.930 --> 00:46:37.230
+Chris Klimas (he/him): Right and and I think we're starting to get a little bit more mature about things and contain like yeah like these are all tools.
+
+334
+00:46:38.280 --> 00:46:42.120
+Chris Klimas (he/him): That we have available to us and we're going to jump between them as sort of suits us and so.
+
+335
+00:46:42.900 --> 00:46:50.520
+Chris Klimas (he/him): it's sort of this bigger body of kind of creators are artists working in the space, rather than like i'm going to commit to this particular platform.
+
+336
+00:46:50.940 --> 00:47:04.320
+Chris Klimas (he/him): And like you know, like, I think I think at last year's yellow there's a lot of discussion about flash because flash was basically ended that year, and a lot of people identified as like i'm a flash creator and like what what in the world, am I going to do.
+
+337
+00:47:05.370 --> 00:47:11.580
+Chris Klimas (he/him): Now that flashes dead right, I mean obviously people learn and adapt, but people got really invested in that platform for good reason.
+
+338
+00:47:12.270 --> 00:47:20.520
+Chris Klimas (he/him): And i'm hoping that this sort of pattern where we see lots of different tools, because obviously twine an anchor not the only people are the only platforms in this space right.
+
+339
+00:47:21.180 --> 00:47:27.870
+Chris Klimas (he/him): i'm hoping because there's a lot more diversity, now that people just becomes less important about one particular tool.
+
+340
+00:47:28.230 --> 00:47:39.870
+Chris Klimas (he/him): Over the other and that these are different, you know they can compete against each other, I suppose, but it's more it's more about what we're expressing here versus a particular set of constraints or something like that that one particular tool has.
+
+341
+00:47:43.980 --> 00:47:46.080
+Kenton Taylor Howard: yeah that's something I think um.
+
+342
+00:47:46.920 --> 00:47:54.180
+Kenton Taylor Howard: Again came up in some of our conversations before this talk, but it's just been something i've seen consistently come up and conversations.
+
+343
+00:47:54.600 --> 00:48:04.230
+Kenton Taylor Howard: At almost like every interactive fiction conference i've identity was that we have this kind of like plethora of tools and we're starting to see people jump between one to another tool and something that we kind of addressed.
+
+344
+00:48:06.090 --> 00:48:11.100
+Kenton Taylor Howard: Again in these prior conversations and that like i've talked about in previous papers and things like that is.
+
+345
+00:48:12.000 --> 00:48:18.900
+Kenton Taylor Howard: We start running into these challenges of knowledge transfer between the tools so so, for example in our notes, we have the whole thing about ink.
+
+346
+00:48:19.500 --> 00:48:25.530
+Kenton Taylor Howard: ink has knots and how do we describe what a knot is to various communities, because somebody who comes from a CS background.
+
+347
+00:48:26.160 --> 00:48:35.250
+Kenton Taylor Howard: might think about what that story structure is very differently than someone who comes from, like me, I came from English programs, and so, when I first got introduced applying the way I thought about twine.
+
+348
+00:48:35.700 --> 00:48:43.170
+Kenton Taylor Howard: was very different than the way I teach about or think about 20 now as someone who teaches game design um you know, like I recognize a lot of the.
+
+349
+00:48:44.340 --> 00:48:57.540
+Kenton Taylor Howard: A lot of the things going on under the Hood in terms of the code and stuff like that that I totally did not understand when I first probably started working with it so um so yeah I think I raised that question of if somebody's going to work with both in twine, for example.
+
+350
+00:48:58.650 --> 00:49:04.890
+Kenton Taylor Howard: How do we explain this concept of what a not is and yet Chris pointed out in the chat it can be hard to figure out that word from hearing it out loud.
+
+351
+00:49:05.160 --> 00:49:14.640
+Kenton Taylor Howard: versus what 20 calls a passage and, if you look at the description of what it is and what a passages there, they are almost the same they do very, very similar things they function in very similar ways so.
+
+352
+00:49:15.120 --> 00:49:23.250
+Kenton Taylor Howard: And so I think that's going to be something as a as a bigger interactive fiction Community we're going to have to figure out, you know how do we have these discussions about.
+
+353
+00:49:24.330 --> 00:49:36.480
+Kenton Taylor Howard: What a choice means and an interactive story and I don't need to find what a choice actually is programmatically narratively etc, etc, and so yeah I think that those are going to become larger.
+
+354
+00:49:37.800 --> 00:49:41.280
+Kenton Taylor Howard: discussions that are going to be some things we have to talk about more often probably so.
+
+355
+00:49:45.030 --> 00:49:45.720
+Daniel Cox: yeah especially.
+
+356
+00:49:45.960 --> 00:49:47.250
+Daniel Cox: So so Taylor, and I have.
+
+357
+00:49:47.250 --> 00:49:47.730
+Kenton Taylor Howard: Had a.
+
+358
+00:49:48.090 --> 00:49:55.080
+Daniel Cox: whole bunch of conversation is people who have taught multiple tools and and i've also had this conversation with some of our audience today about what.
+
+359
+00:49:55.500 --> 00:50:06.540
+Daniel Cox: What what these different terms mean or do that even mean different things in these different platforms so Taylor mentioned ink and knots KN ot passages within twine.
+
+360
+00:50:07.440 --> 00:50:14.940
+Daniel Cox: yarns spinner, which is a recent rebranding of yarn which exists in 2015 yarn spinner it.
+
+361
+00:50:15.840 --> 00:50:26.340
+Daniel Cox: is now 2018 rebranding of that i'm using the term nodes and then even more recent platform as of last year rule, which is based on yarn, and this is always interesting word connections here.
+
+362
+00:50:27.240 --> 00:50:39.090
+Daniel Cox: You also uses the term node so we had these terms of node and knots KN ot passages, as well as red pi, which is another related tool for creating visual novels uses the term labels.
+
+363
+00:50:39.570 --> 00:50:47.310
+Daniel Cox: Because it's based on Python so thinks of sort of labels within that that space, so we have kind of the all these interesting connected terms to all of this as well.
+
+364
+00:50:49.110 --> 00:50:56.340
+Daniel Cox: different sections of a story I think something that's particularly interesting is the idea of story is is translated across a lot of these.
+
+365
+00:50:57.750 --> 00:51:12.420
+Daniel Cox: twine uses the term stories within your you know if you're looking at the 20th here's your stories Inc uses a very similar term of stories sometimes projects because it also as connection to unity which thinks of things in terms of projects, so we have connection to all of this to.
+
+366
+00:51:15.000 --> 00:51:18.570
+Daniel Cox: Sorry okay so connecting into something that's come up in the chat.
+
+367
+00:51:20.190 --> 00:51:29.430
+Daniel Cox: What is the process behind making 23, which is where the, the editor is a not a publishing hosting platform and rating connecting to.
+
+368
+00:51:31.440 --> 00:51:46.380
+Daniel Cox: fill a Mila which I always have to think about before I say phila Mila so yeah so to connect to and Chris can sort of talk about the connection of the editor slash hosting problem which we've talked about so in the past where it's probably more complicated than people realize.
+
+369
+00:51:47.970 --> 00:51:55.140
+Daniel Cox: But, especially so the closing of philomena actually gave a talk last year, as part of the the online yellow 2020 on philomena.
+
+370
+00:51:55.830 --> 00:52:07.140
+Daniel Cox: Because I had to just a little bit of insight knowledge on it, one of the reasons it shut down so Colin mark, which was a Community Member supported it, for I think six or seven years and we just paying for it out of pocket.
+
+371
+00:52:08.040 --> 00:52:12.870
+Daniel Cox: There was no model to put money towards it or support it, or anything else, and then.
+
+372
+00:52:14.040 --> 00:52:20.460
+Daniel Cox: I don't exactly know Collins and internal reasons for doing this, but Paul and basically came to the Committee and said hey, I would like to shut this down.
+
+373
+00:52:20.970 --> 00:52:27.810
+Daniel Cox: Would you would you be interested in hosting status somewhere else, and I think that was almost two years ago, at this point coven obviously slow things down.
+
+374
+00:52:29.430 --> 00:52:35.070
+Daniel Cox: Thank you yeah link to my talk from last year if you're interested in sort of what that looks like but do continue on this.
+
+375
+00:52:36.660 --> 00:52:42.600
+Daniel Cox: Yes, so it was just a one it was just one person supporting that for a long column, which is supporting it for a long number of years.
+
+376
+00:52:43.110 --> 00:52:48.660
+Daniel Cox: And kind of just decided the cost and sort of maintenance wasn't something calling wanting to continue to do.
+
+377
+00:52:49.410 --> 00:52:55.530
+Daniel Cox: And so there has been kind of a struggle of finding a another solution to the hosting and, hopefully, I will say.
+
+378
+00:52:55.800 --> 00:53:03.840
+Daniel Cox: Without getting too much weight there might be a possible solution as early as next year there's currently some some stuff in the works i'm not connected to the project, but there are.
+
+379
+00:53:04.140 --> 00:53:13.170
+Daniel Cox: There are people who have saw this gap and are trying to connect to but but Chris if you want to sort of speak to what this would have difficulties behind editor slash posting stuff.
+
+380
+00:53:14.430 --> 00:53:16.410
+Chris Klimas (he/him): yeah and i'm just sort of before I.
+
+381
+00:53:16.830 --> 00:53:29.340
+Chris Klimas (he/him): Do that a little bit of background, because that you mentioned the the grants for ankle or for ink rather and I think there's an important contrast to draw here or and I was always thinking about this topic for today.
+
+382
+00:53:30.330 --> 00:53:34.860
+Chris Klimas (he/him): You know, if you look at the that has sort of an economic motivation behind it.
+
+383
+00:53:35.670 --> 00:53:43.680
+Chris Klimas (he/him): Obviously it's was created by incl right and called produces games and their motivation, more or less, among other things like i'm not trying to say they're bad guys because I don't think they are.
+
+384
+00:53:44.520 --> 00:53:51.720
+Chris Klimas (he/him): But they have sort of the motivation to put their stuff out there, because now, they can recruit for people to work on their games or work for them.
+
+385
+00:53:51.990 --> 00:54:03.360
+Chris Klimas (he/him): And they don't have to train them on this internal tool right, you can say and said now they can post a job posting like we're looking to hire freelance person to design a narrative for a game, and you should know think and people be like sure.
+
+386
+00:54:04.380 --> 00:54:11.310
+Chris Klimas (he/him): I do, I know that right, and likewise epic sees the sort of kind of motive where they're seeing people adopt.
+
+387
+00:54:11.610 --> 00:54:18.150
+Chris Klimas (he/him): Because they want to build a unity and they're like Oh, we don't have a tool like that for unreal, so we need to make that equation even out right.
+
+388
+00:54:18.990 --> 00:54:35.190
+Chris Klimas (he/him): And so let's Similarly, like the other big player that I think of for this stuff is choice of games and they have their own language choice script for building interactive narrative and that's also proprietary, but they also have or not it's not really proprietary it is owned by them.
+
+389
+00:54:36.420 --> 00:54:40.680
+Chris Klimas (he/him): And so they have their own sort of kind of pipeline, where, if you want to publish using choice script.
+
+390
+00:54:41.220 --> 00:54:49.500
+Chris Klimas (he/him): They will totally if your game is good enough, they will kind of make a deal with you, basically don't and hopefully everybody benefits from it, which is a pretty virtuous cycle overall.
+
+391
+00:54:50.400 --> 00:54:59.880
+Chris Klimas (he/him): And, in general, what I see is a lot of the Open Source communities that we see as quote unquote successful in fact have some quite a corporate backing behind them right.
+
+392
+00:55:00.300 --> 00:55:16.680
+Chris Klimas (he/him): Like Linux has all kinds of money funneled into it all kinds of resources funneled into it, because Linux, as it turns out benefits a whole lot of corporations and there it kind of is this bedrock kind of element to a lot of these corporate efforts twine is a whole different story right.
+
+393
+00:55:17.910 --> 00:55:25.140
+Chris Klimas (he/him): You know I haven't been in conversations with people are like there now organizations that are trying to make Open Source work for people and say well go out and try to.
+
+394
+00:55:25.530 --> 00:55:35.400
+Chris Klimas (he/him): Find corporations or businesses or whatever they're using your tools and maybe you guys can kind of have a conversation and then make sure that this tool that this business really depends on can continue to exist.
+
+395
+00:55:36.510 --> 00:55:39.630
+Chris Klimas (he/him): There isn't really an equivalent for fine, to be honest.
+
+396
+00:55:40.140 --> 00:55:50.520
+Chris Klimas (he/him): And so, a lot of what the the effort that people put into it, I think, including myself, obviously I see some actual like I have a patreon I get dollars out of it right, but a lot of people.
+
+397
+00:55:50.880 --> 00:55:57.750
+Chris Klimas (he/him): are just passionate about the thing, and I think that was true with with what happened with film mela where I think Colin saw a gap.
+
+398
+00:55:58.170 --> 00:56:08.130
+Chris Klimas (he/him): There were people who are really excited really excited about publishing was fine, but you know the story, as it were, for, if you want it once you've made, something which fine What do you do.
+
+399
+00:56:09.420 --> 00:56:17.850
+Chris Klimas (he/him): web hosting is complicated right and people like us to be able to host stuff in Google drive and they shut that down because they don't want to turn Google drive into a web hosting service.
+
+400
+00:56:18.300 --> 00:56:26.370
+Chris Klimas (he/him): Right and so he saw a gap in the Community, and he had some technical technical know how and so forth, with able to set it up, but there's a lifetime or a lifespan on that.
+
+401
+00:56:26.970 --> 00:56:35.490
+Chris Klimas (he/him): there's expiration date on things like that, I think, because you know when things get less exciting and like it just becomes kind of a drudge then.
+
+402
+00:56:36.150 --> 00:56:44.430
+Chris Klimas (he/him): You start to ask yourself like Why am I doing this like it's not as exciting to me anymore right and so to bring it back a little bit.
+
+403
+00:56:45.000 --> 00:56:51.660
+Chris Klimas (he/him): So hopefully a role, like a an organization like interactive interactive fiction technology Foundation can play is that it becomes.
+
+404
+00:56:52.110 --> 00:57:03.000
+Chris Klimas (he/him): A home for projects that are important to the Community, but those single people who are really passionate about it right they eventually get tired of it, or maybe they don't but oftentimes they do right.
+
+405
+00:57:03.900 --> 00:57:09.000
+Chris Klimas (he/him): And that can be a home for that and to keep the lights on and stuff like that, and by sort of to.
+
+406
+00:57:09.900 --> 00:57:19.050
+Chris Klimas (he/him): You know, spreading that out and putting that into sort of this amorphous entity as opposed to one or two really committed people, that is, to me, a healthier decision.
+
+407
+00:57:19.590 --> 00:57:34.590
+Chris Klimas (he/him): So the answer the original question, which is why why, why can you only edit twine stories on finery.org why can't you publish stuff on there, it comes down to Labor and liability for me it came down to Labor and liability.
+
+408
+00:57:35.790 --> 00:57:39.390
+Chris Klimas (he/him): I think, as long as soon as you allow people as soon as you start hosting content.
+
+409
+00:57:40.350 --> 00:57:52.170
+Chris Klimas (he/him): that other people create I feel I know that it's a weird legal question, but I feel like you have some responsibility for it, meaning like if someone is publishing hate speech or something terrible otherwise on binary.org.
+
+410
+00:57:53.640 --> 00:58:06.390
+Chris Klimas (he/him): That is my That would be my responsibility to police that and to otherwise kind of manage it, and again i'm one person working on this part time and that sounded incredibly stressful to me.
+
+411
+00:58:07.620 --> 00:58:15.360
+Chris Klimas (he/him): If someone publishes copyrighted material on there somehow or like you know rips their favorite video game and I get a takedown notice from Nintendo.
+
+412
+00:58:15.840 --> 00:58:25.590
+Chris Klimas (he/him): or some weird thing like that I have to deal with that and God forbid, like Nintendo susie i'm thinking of Nintendo because they're they're super litigious right they love suing people that were copyright.
+
+413
+00:58:27.030 --> 00:58:31.740
+Chris Klimas (he/him): And so, all those things sounds like a nightmare to me to be honest, those things like we're not things I wanted to mess with.
+
+414
+00:58:33.000 --> 00:58:43.500
+Chris Klimas (he/him): Right and the other so that's those are like the practical questions, plus of course there's a Labor of like I have to worry about backups and God forbid, I lose someone's work and, like their whole website goes down and i'm just.
+
+415
+00:58:44.010 --> 00:58:49.530
+Chris Klimas (he/him): Like i've ruined your class that you're teaching i've ruined destroyed some priceless thing right.
+
+416
+00:58:50.640 --> 00:58:57.480
+Chris Klimas (he/him): anyways um and so that was just like it was just like this is way too much for me to take on as one person right like it was just way too much.
+
+417
+00:58:57.840 --> 00:59:08.100
+Chris Klimas (he/him): So that's The short answer, I mean the other like the more philosophical thing is to me that there's always been sort of this philosophical kind of thread running through time.
+
+418
+00:59:08.580 --> 00:59:11.730
+Chris Klimas (he/him): Where I believe in decentralization right.
+
+419
+00:59:12.210 --> 00:59:25.590
+Chris Klimas (he/him): Like I like it like I don't really want there to be I mean I guess someday there could be if people are interested in I don't think I would ever work on it twine version an APP in the ios store, for example, for twine or some big websites that everything is owned by.
+
+420
+00:59:26.700 --> 00:59:38.250
+Chris Klimas (he/him): Like I would much rather kind of distributed out to people and so to me that's what i'm interested in, in the sense of like your content is yours you own the things you write, are you the things you create are your own they belong to you.
+
+421
+00:59:39.030 --> 00:59:43.590
+Chris Klimas (he/him): There is no end user license you need to sign and check a box and not really read right.
+
+422
+00:59:44.370 --> 00:59:50.730
+Chris Klimas (he/him): I That to me is my own personal take on it, but I realized for sure there are benefits, it is for sure, a huge friction point.
+
+423
+00:59:51.270 --> 01:00:00.000
+Chris Klimas (he/him): For a lot of people, especially in education, where they just want their used to like I go to send my students this website they create an account they don't read the terms of use.
+
+424
+01:00:00.330 --> 01:00:10.920
+Chris Klimas (he/him): And they check the box they move on and we just sort of use that as a resource and now things that way more complicated for the collaboration story or for being able to collaborate on things, and again to publish things again.
+
+425
+01:00:13.920 --> 01:00:15.540
+Kenton Taylor Howard: yeah I think um.
+
+426
+01:00:16.350 --> 01:00:18.360
+Kenton Taylor Howard: there's an interesting difference there in.
+
+427
+01:00:18.420 --> 01:00:28.350
+Kenton Taylor Howard: 22 because, like, as you mentioned incas and it was a small game design company, but they're so game design company right and that means the way in construction and maintained as a little bit different and.
+
+428
+01:00:30.090 --> 01:00:33.090
+Kenton Taylor Howard: As someone who's teaching this stuff one of the.
+
+429
+01:00:33.990 --> 01:00:42.150
+Kenton Taylor Howard: One of the get I guess benefits of ink is that I feel pretty comfortable sending my hundred and 50 students to go get into every semester, because I know Inc is probably going to be there and it's not going to.
+
+430
+01:00:42.690 --> 01:00:47.430
+Kenton Taylor Howard: The resources, not just going to disappear out of nowhere because it's being maintained by a company, although interestingly.
+
+431
+01:00:48.000 --> 01:00:56.340
+Kenton Taylor Howard: because somebody brought up in co writer in the chat earlier, I did actually see that happen within co writer, I was taking a graduate class that's how I got introduced to ankle writer, is that the Professor gave us a.
+
+432
+01:00:57.420 --> 01:01:03.810
+Kenton Taylor Howard: assignments, make a story in a writer and literally during the class like right, as we were going into finals and co writer went down that was when they.
+
+433
+01:01:04.740 --> 01:01:12.270
+Kenton Taylor Howard: Cut support Franco right over about a year or two, and then they just recently brought it back actually it's been back, for I think since like last August, but um.
+
+434
+01:01:12.960 --> 01:01:23.700
+Kenton Taylor Howard: There was at least like a couple year span where where it wasn't available that's actually why I transitioned my Edgar Allan poe thing from a Co writer to ink is because incl writer was defunct and I was like Okay, I need to find a way to maintain this and.
+
+435
+01:01:24.750 --> 01:01:37.230
+Kenton Taylor Howard: So so raises this interesting question of as his new tools become available to and we'd like to start putting stuff from one school to another, and things like that is like how, how does all this kind of work, maintain because somebody mentioned in the chat.
+
+436
+01:01:39.510 --> 01:01:46.380
+Kenton Taylor Howard: Earlier, just like what about publishing and sharing stories and stuff like that, and obviously publishing and sharing these things are tied to the tools that.
+
+437
+01:01:47.460 --> 01:01:53.400
+Kenton Taylor Howard: They create them, and so, when these spaces go down as creators, where we're immediately thinking of like Okay, how can we.
+
+438
+01:01:53.850 --> 01:02:00.450
+Kenton Taylor Howard: make this more stable or how can we find another place where we can put this another platform where we can put this to connect it back to the theme of the panel I guess.
+
+439
+01:02:03.420 --> 01:02:04.380
+Daniel Cox: yeah I think.
+
+440
+01:02:05.850 --> 01:02:12.300
+Daniel Cox: So one of the things i'm interested in as a scholar is also preservation and archiving and data representation.
+
+441
+01:02:12.960 --> 01:02:19.650
+Daniel Cox: So one of the things I am I track as just me a damn thing is sort of the different formats these things arriving.
+
+442
+01:02:20.070 --> 01:02:31.260
+Daniel Cox: Because like, speaking of flash is someone who developed in flash as well, you can't run those anymore, you have to run them under sort of emulated circumstances, which is an issue we're also occurring and video game preservation.
+
+443
+01:02:31.890 --> 01:02:40.020
+Daniel Cox: context in a story in context of we suddenly now need all this emulation stuff which is developed by most of the time developed by people outside of those companies like.
+
+444
+01:02:40.680 --> 01:02:48.600
+Daniel Cox: Nintendo has used some emulation software, but they don't usually invest in emulation software, if they do they not telling us they're doing that, like we're not aware they're doing it.
+
+445
+01:02:48.870 --> 01:03:02.340
+Daniel Cox: And the same with a lot of these consoles and and platforms, as we now sort of think of think of flash within this range and so, something I track like I said is sort of data representation formats so so for those people who are kind of not aware of this, perhaps.
+
+446
+01:03:03.750 --> 01:03:07.380
+Daniel Cox: This is entire side topic because it's just a quick sort of connection Oh, this is that.
+
+447
+01:03:08.850 --> 01:03:14.670
+Daniel Cox: tweet as a plain text format existed before winded and Chris can feel free to talk about this or not.
+
+448
+01:03:15.630 --> 01:03:27.060
+Daniel Cox: But one of the sort of interesting aspects of moving into 22 is became focused on html it's like an import, export format which makes it very, very easy for people, especially students to share files.
+
+449
+01:03:27.810 --> 01:03:34.590
+Daniel Cox: So, so one of the interesting knock on effects of that is that yarn picked up the tweet format and created their own format called yarn.
+
+450
+01:03:34.920 --> 01:03:47.100
+Daniel Cox: And then yarn kind of disappeared and now yarn spinner has sort of popped up again with the same similar tweet variation format and the same with wool which is like I said a variation on.
+
+451
+01:03:48.270 --> 01:03:56.430
+Daniel Cox: yarn which is like we've all the all these fun terms going around now, but what sort of interesting about this so speaking of this data representation format is they are.
+
+452
+01:03:57.030 --> 01:04:07.590
+Daniel Cox: To a fair degree interoperable now twine to doesn't necessarily understand yarn format, but the yarn online editor understands tweet format, and so, so does the wolf format.
+
+453
+01:04:07.890 --> 01:04:17.040
+Daniel Cox: So this is sort of interesting data representation issue within all of us to that there is a possibility to translate this back into a plain text format.
+
+454
+01:04:17.340 --> 01:04:27.780
+Daniel Cox: That, then, could be used to recreate html or other things now additional work is needed and i'm going to look into it a little bit myself, but other people could, could you to volunteer if they're interested in this.
+
+455
+01:04:28.500 --> 01:04:40.890
+Daniel Cox: But there is this ongoing conversation, as well as like, how do we preserve these works, because we we've seen flash it makes us worried like what do these html5 works look like and another few years like twine is 10 years old.
+
+456
+01:04:41.160 --> 01:04:49.980
+Daniel Cox: Inc I think it's like five or six at this point so you know what does the next five to 10 years look like and we started to think Okay, how do we preserve a lot of this stuff I will share.
+
+457
+01:04:51.840 --> 01:04:58.110
+Daniel Cox: As part of updating this is going to crash into the weeds as part of updating the Treaty of Babel which people may not even be aware of.
+
+458
+01:04:58.680 --> 01:05:10.680
+Daniel Cox: Which is sort of this like thing that connects how interactive fiction identification numbers are generate like this is so into the weeds i'm sorry but anyway and and updating all of this was conversations of.
+
+459
+01:05:11.400 --> 01:05:17.850
+Daniel Cox: How do we connect twine into all of this, and so that led into a conversation of Okay, what do twine one works look like.
+
+460
+01:05:18.330 --> 01:05:24.810
+Daniel Cox: And so that led to the conversation of can we find some of the earliest twine one works that still exist and they.
+
+461
+01:05:25.230 --> 01:05:37.110
+Daniel Cox: They do and i'm sorry i'm trying to remember off the top of my head here there's a work from Anna entropy from July 2009 which which we currently think, and I say we, and a few other people were doing this research currently think is the earliest.
+
+462
+01:05:38.160 --> 01:05:46.680
+Daniel Cox: twine one work that is on the interactive fiction database it's afternoon and something something i'm sorry i'm not i'm forgetting off the top of my head.
+
+463
+01:05:49.290 --> 01:05:58.650
+Daniel Cox: doesn't matter but anyway it's from July 2009, and so it actually mentioned tweet it doesn't mention twine so it predates even the branding of of twine.
+
+464
+01:05:59.490 --> 01:06:09.780
+Daniel Cox: But within all of this is sort of a a connection to this preservation and historical context and Chris I don't know if you even want to mention to me, but this is a great opportunity to just talk about it.
+
+465
+01:06:10.230 --> 01:06:13.470
+Chris Klimas (he/him): yeah Let me try to rewind and like explain, for.
+
+466
+01:06:14.910 --> 01:06:18.450
+Chris Klimas (he/him): Because we were like here's the thing like there's a lot of funny words floating.
+
+467
+01:06:18.540 --> 01:06:19.530
+Chris Klimas (he/him): around this whole thing.
+
+468
+01:06:20.550 --> 01:06:22.080
+Chris Klimas (he/him): And I think.
+
+469
+01:06:23.250 --> 01:06:28.980
+Chris Klimas (he/him): So one okay so to start at the beginning of things originally it used to be.
+
+470
+01:06:30.120 --> 01:06:36.720
+Chris Klimas (he/him): Like between like the APP twine would save your your story when you're editing it in this funny format.
+
+471
+01:06:37.800 --> 01:06:43.320
+Chris Klimas (he/him): That I was all powered by this particular programming language, it was not human readable is the short version as far as I know.
+
+472
+01:06:44.130 --> 01:06:52.680
+Chris Klimas (he/him): And then, when you went to go publish it like when you're done with it, you want to share with other people you put it, it created html out of it and you post it wherever you want to.
+
+473
+01:06:53.610 --> 01:07:06.750
+Chris Klimas (he/him): And so, one of the ideas behind trying to the new version of time was that, like let's not have two formats let's just make this all html and call it a day because we're, this is the world it's not that much more complicated to do it that way.
+
+474
+01:07:08.370 --> 01:07:18.030
+Chris Klimas (he/him): So the issue here or an issue anyway, is that html You can write it, you can you like by hand I mean but you're probably not going to enjoy it.
+
+475
+01:07:18.810 --> 01:07:25.620
+Chris Klimas (he/him): At least I certainly like i've done my time in the html minds right and like you know I read code by hand and.
+
+476
+01:07:25.920 --> 01:07:35.280
+Chris Klimas (he/him): so forth, for my jobs and the jobs i've worked out and so forth, and it's Okay, but it's not the most enjoyable experience and so like things like these other formats we're talking about like tweet.
+
+477
+01:07:36.030 --> 01:07:45.390
+Chris Klimas (he/him): And will and so forth are basically like markdown where it's like well, I want to write html I want to create a time like experience or an interactive thing.
+
+478
+01:07:46.230 --> 01:07:50.220
+Chris Klimas (he/him): But writing html kind of sucks and I want to make that writing experience better for myself.
+
+479
+01:07:51.090 --> 01:07:57.570
+Chris Klimas (he/him): So there you know, like just like with mark down there like 50,000 different flavors of it it's the same kind of situation and.
+
+480
+01:07:58.050 --> 01:08:04.530
+Chris Klimas (he/him): You know, reminds me a lot of there's a part in understanding comics were like at the beginning of when movies were first thing.
+
+481
+01:08:05.250 --> 01:08:13.440
+Chris Klimas (he/him): Everyone had their own movie technology and their way like there how big should the frames be and how many frames per second and they all had funny names for these different things.
+
+482
+01:08:14.550 --> 01:08:19.230
+Chris Klimas (he/him): Like I just remember this one panel from understanding comics was like behold, my zoo practice in a scope.
+
+483
+01:08:19.770 --> 01:08:29.220
+Chris Klimas (he/him): Right and that's the same kind of thing going on here, I think, where there's, just like the sort of huge sort of there's lots of people with different ideas about how to make this work best and so forth.
+
+484
+01:08:30.240 --> 01:08:35.580
+Chris Klimas (he/him): Along the way and interesting thing has happened, which is that I think a lot of the work that Dan has done.
+
+485
+01:08:36.720 --> 01:08:48.930
+Chris Klimas (he/him): has been to try to standardize on the this particular format of plain text writing, and that can therefore then then become like a way that we handle you know we can hand each other stories.
+
+486
+01:08:49.320 --> 01:08:52.950
+Chris Klimas (he/him): And these tools understand it and we don't have to try to translate between well.
+
+487
+01:08:53.610 --> 01:09:04.800
+Chris Klimas (he/him): You know colin's mean this and my format and question marks user use for this, you know, like, I see that I see these things pop up regularly like somebody has like I kind of like this, but i'd like it like here's my twist on it and.
+
+488
+01:09:05.940 --> 01:09:17.310
+Chris Klimas (he/him): it's just lots of different different competing standards, basically, and so that's interesting to me is that you know it's messy in some ways, because it means that there are two standards now there's the html stuff which is pretty solid.
+
+489
+01:09:18.900 --> 01:09:24.270
+Chris Klimas (he/him): But then there's this plain text format as well, but for sure it is useful to have because.
+
+490
+01:09:24.810 --> 01:09:32.250
+Chris Klimas (he/him): You know, to in in terms of teaching and things like that nobody also nobody wants to copy and paste html it's.
+
+491
+01:09:32.700 --> 01:09:42.030
+Chris Klimas (he/him): messy and error prone right it's much easier if you can write it in a concise way that you can easily cost copy and paste into a thing, and so there's definitely utility for that as well.
+
+492
+01:09:45.600 --> 01:09:46.410
+Daniel Cox: Excellent yeah Thank you.
+
+493
+01:09:47.850 --> 01:09:56.610
+Daniel Cox: yeah sorry I an aspect of For those of you don't know me I tend to get like oh yeah don't you know this thing this thing thanks thing and i'm talking about you know step Ian you should have explained step B.
+
+494
+01:09:57.630 --> 01:10:08.940
+Daniel Cox: But yeah so we've had a couple of a couple minutes left maybe about three and a half, four minutes left, so I want to kind of close this on what ways do we think so we've we've we've.
+
+495
+01:10:09.960 --> 01:10:15.600
+Daniel Cox: Isolated we've mentioned some issues, some problems they're kind of problems and some kind next problems on another.
+
+496
+01:10:16.200 --> 01:10:20.490
+Daniel Cox: And I, and I guess i'll start with Taylor and then move to Chris and this last few minutes here.
+
+497
+01:10:21.090 --> 01:10:33.360
+Daniel Cox: What possible solutions or a different approaches or even ways of thinking about some of the things we've talked about these Labor concerns the platform concerns do we see as a possibility to.
+
+498
+01:10:33.930 --> 01:10:36.900
+Daniel Cox: improve this for the Community or improve this for certain.
+
+499
+01:10:37.890 --> 01:10:45.900
+Daniel Cox: Communities or contacts and you can sort of take that in any way you want, but I kind of want to end this on a good, notably like Okay, so we you know we've kind of talked about this, some of these problems, you know.
+
+500
+01:10:46.350 --> 01:10:57.630
+Daniel Cox: How do we, how do we start to fix this and you know what are what are ways we can start to as a community as academics address all this and now i'll be quiet so time to talk, but I guess we'll go Taylor and then Chris and then we'll close it out.
+
+501
+01:10:59.190 --> 01:11:00.180
+Kenton Taylor Howard: I guess one thing.
+
+502
+01:11:00.780 --> 01:11:04.290
+Kenton Taylor Howard: Maybe I was thinking about the connects into this is i'm.
+
+503
+01:11:05.340 --> 01:11:12.030
+Kenton Taylor Howard: In this, maybe, maybe kind of touches on something that Chris brought up earlier to is maybe thinking of.
+
+504
+01:11:13.260 --> 01:11:16.590
+Kenton Taylor Howard: These lessons, like the twine community in the Community and more of.
+
+505
+01:11:17.310 --> 01:11:26.160
+Kenton Taylor Howard: The Community surrounding the things that are getting made and the example I brought up in our notes earlier that we saw happen for twine I don't know if something happening like this for inca.
+
+506
+01:11:26.520 --> 01:11:31.440
+Kenton Taylor Howard: And I think Maybe this would be a cool future direction to see it go or maybe some of these other tools go.
+
+507
+01:11:31.830 --> 01:11:39.030
+Kenton Taylor Howard: is like, finally saw something like the queer games boom happened right we're like there was very specifically this type of game that was getting meet with twine it's not just.
+
+508
+01:11:39.420 --> 01:11:43.980
+Kenton Taylor Howard: we're making games we're making a specific type of client twine game that speaking to a specific issue.
+
+509
+01:11:44.550 --> 01:11:53.400
+Kenton Taylor Howard: And like I said I don't know I may just not be aware of it, but I don't know about happening for India like we see in games getting made I don't know if we necessarily see.
+
+510
+01:11:53.910 --> 01:12:00.990
+Kenton Taylor Howard: The queer in games boom or something like that happening um and I think that's useful in the sense that it helps to.
+
+511
+01:12:02.790 --> 01:12:06.390
+Kenton Taylor Howard: It helps to unify those communities around something other than the tool right like it.
+
+512
+01:12:07.080 --> 01:12:14.280
+Kenton Taylor Howard: Obviously, the Community is going to unify around playing because that's the thing they're using to make twine stories but, but I think having a.
+
+513
+01:12:15.060 --> 01:12:24.480
+Kenton Taylor Howard: a type of twine story, a type of story, I think, in particular 2020 how's that, so I think that it would be really cool to see something like that for ink and maybe as a community um.
+
+514
+01:12:25.440 --> 01:12:34.140
+Kenton Taylor Howard: I don't know how how individuals, I mean maybe individuals get involved in that by just making those kinds of things um so as from a Community level that might be a harder.
+
+515
+01:12:35.340 --> 01:12:46.710
+Kenton Taylor Howard: Question to tackle like, how do we get the Community to do that, but um, but I think as individual creators that's maybe a potential way to do that, like that's that's maybe met some motivation behind trying to make like a queer in game, for example, so.
+
+516
+01:12:49.290 --> 01:12:52.890
+Chris Klimas (he/him): For me, and I forgot, actually, let me just to revisit something I said earlier, like.
+
+517
+01:12:53.100 --> 01:12:59.670
+Chris Klimas (he/him): One thing I wanted to just sort of shout out here's The reason this html stuff we're talking about actually it has a lot to do with.
+
+518
+01:13:00.150 --> 01:13:11.070
+Chris Klimas (he/him): I read acid free bits, which is the yellow published sort of set of recommendations on how to make sure stuff lives for a long time, and that had a huge effect or huge influence on me.
+
+519
+01:13:11.850 --> 01:13:18.090
+Chris Klimas (he/him): So I just wanted to note that, because I it's one of the things I don't think i've really talked about that much, but it was a huge a really big thing for me.
+
+520
+01:13:19.290 --> 01:13:30.960
+Chris Klimas (he/him): But to dan's question about like well how do we make this better I think a lot of it is trying to figure out how to dismantle some assumptions that people make, which is that.
+
+521
+01:13:31.710 --> 01:13:41.730
+Chris Klimas (he/him): A lot of the people who are working with twine have never really had that much programming experience before they've only been kind of consumers of programs or applications, or whatever.
+
+522
+01:13:42.060 --> 01:13:49.980
+Chris Klimas (he/him): they're not used to the the idea of like yeah I can like this APP this thing i'm running right now I can change this myself, I have the knowledge and skills or whatever to do it.
+
+523
+01:13:50.700 --> 01:13:56.670
+Chris Klimas (he/him): you're not going to be able to do it today, or whatever, but maybe down the road as you get more experience with things.
+
+524
+01:13:57.300 --> 01:14:09.210
+Chris Klimas (he/him): And so they have a lot of the people in the Community, I see have sort of this this there's a they always say like they did this with twine they decided to do this they they're going to do a release next month, or whatever.
+
+525
+01:14:09.810 --> 01:14:16.140
+Chris Klimas (he/him): i'm like there is no day there's me or and there's a bunch of us right it's not just me, but my point is their their individual people.
+
+526
+01:14:16.530 --> 01:14:28.290
+Chris Klimas (he/him): Who are, and this is something within the realm of possibility right, this is like a healthy open source community ideally like thing it's not just a one directional thing is that people actually can contribute and.
+
+527
+01:14:28.860 --> 01:14:34.440
+Chris Klimas (he/him): They have a voice rather and it's not just I think you should do this and i'm going to convince you to do this.
+
+528
+01:14:34.770 --> 01:14:41.700
+Chris Klimas (he/him): Ideally it's a situation where I think you should do this or I think this should change and i'm going to i'm going to do it or i'm going to find people who can help me make this happen.
+
+529
+01:14:42.390 --> 01:14:48.270
+Chris Klimas (he/him): And people aren't to a certain degree, I think they're not used to that because are thinking like that, because it's like.
+
+530
+01:14:48.990 --> 01:14:53.190
+Chris Klimas (he/him): Imagine like you're like Microsoft word sucks I think it should like.
+
+531
+01:14:54.000 --> 01:14:59.310
+Chris Klimas (he/him): I think the pages should be twice as big or something like that or whatever I don't even know what features, you could add the word at this point.
+
+532
+01:14:59.940 --> 01:15:10.800
+Chris Klimas (he/him): And you know that's essentially shouting into the void right like there's some page, you can go to on microsoft's website and like suggest a feature or something like that, but maybe five years from now they'll get around to it.
+
+533
+01:15:11.490 --> 01:15:19.440
+Chris Klimas (he/him): And they're so they're used to this sort of relationship to their software where it's just like take it or leave it buddy and, by the way, like it's going to cost you $20 a month.
+
+534
+01:15:20.370 --> 01:15:25.590
+Chris Klimas (he/him): And it's a totally different situation here and people like it's an education thing it's an outreach thing.
+
+535
+01:15:26.580 --> 01:15:35.070
+Chris Klimas (he/him): it's a bunch of different things and it's sort of how do we shape or how do we encourage people to migrate from I used wine or ink or whatever to like.
+
+536
+01:15:35.490 --> 01:15:46.140
+Chris Klimas (he/him): i'm I feel like i'm a sophisticated user of it to I want to contribute, and I want to help it or I want to change it in some way like that that kind of transition, I think, is really important to foster.
+
+537
+01:15:49.020 --> 01:15:54.420
+Daniel Cox: Well, so we're just slightly over time, but I want to thank everybody for showing up this Roundtable hopefully you got something out of it.
+
+538
+01:15:54.960 --> 01:16:07.050
+Daniel Cox: i'll share we share some of the resources we mentioned, like the cookbook and other things chris's patreon if you want to go support that was also shared in the chat but thank you everybody Thank you everyone for your time both current people and future viewers of this.
+
+539
+01:16:08.460 --> 01:16:15.570
+Daniel Cox: You can find a lot of us on Twitter if it's the thing you want to do, but we're also in various other communities have please remember we're also people so don't like send.
+
+540
+01:16:16.590 --> 01:16:19.440
+Daniel Cox: up all the time it's something I want to remind everyone all the time.
+
+541
+01:16:19.890 --> 01:16:26.250
+Daniel Cox: But, but thank you and, hopefully, we will see you in a future panels, I know i'm looking forward to a couple of panels i'm going to sit in and listen to today.
+
+542
+01:16:26.640 --> 01:16:33.420
+Daniel Cox: But I hope you all have you stay safe and hopefully we will we will see you in person in a future Conference by everyone, and thank you.
+

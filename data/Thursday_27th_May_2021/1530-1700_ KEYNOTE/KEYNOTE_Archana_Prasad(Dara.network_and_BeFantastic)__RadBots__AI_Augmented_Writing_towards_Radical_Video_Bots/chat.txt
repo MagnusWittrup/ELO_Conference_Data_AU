@@ -1,0 +1,136 @@
+17:42:19	 From Leonardo Flores : Respect!!!
+17:53:06	 From Søren Pold : Please use the chat for chat and only use the Q&A for posing questions. :-)
+17:54:43	 From Christian Ulrik Andersen  To  All Panelists : Yes, we hear audio
+17:54:46	 From Perla Sasson-Henry  To  All Panelists : yes,
+17:54:58	 From Nick Montfort (he/him)  To  All Panelists : yes, audio's coming through
+17:55:42	 From Leonardo Flores : That’s not how I imagined Frida’s voice, but how fun!
+17:56:05	 From Deena Larsen  To  All Panelists : But admitting you are a bot spoils the fun.
+17:58:28	 From Jeremy Hight  To  All Panelists : excellent...been making e-lit nfts  for a while now
+17:59:23	 From Jeremy Hight  To  All Panelists : and absurd meta nfts    one is a pic of a pizza slice I then ate making it the only token of that cheese slice
+17:59:45	 From Deena Larsen  To  All Panelists : Hooray for gathering from wide interdisciplinary networks!
+18:02:23	 From Katie Schaag : Wow, this is wild!
+18:05:06	 From Christian Ulrik Andersen  To  All Panelists : Yes, we see and hear
+18:05:44	 From Mark Marino  To  All Panelists : you should read my blog, lolcat
+18:06:24	 From Nanditi@dra.ft : :D :D would love to talk to this poet
+18:06:32	 From Ambika@dra.ft : 😅
+18:06:49	 From Lai-Tze Fan : Thanks for showing the corpus!
+18:09:19	 From Leonardo Flores : I love the idea of bots being part of the magic of the moment.
+18:11:34	 From Leonardo Flores : Clapping!
+18:12:42	 From Malthe Stavning Erslev  To  Søren Pold(privately) : What is a DARA?
+18:12:43	 From Scott Rettberg  To  All Panelists : What can you tell me about machine learning?
+18:13:20	 From Perla Sasson-Henry  To  All Panelists : Amazing!!
+18:13:34	 From Lillian-Yvonne Bertram : This isn't really a question but I was intrigued by some of the history you were pointing to, and it occurred to me that there's a latent connection to early to mid 19th century (American) spiritualism, telegraphy, and the "electrical" connection between the this-worldly body and the electrified other-world or afterlife...electricity as a way of communicating with dead family or famous figures.
+18:13:39	 From Scott Rettberg  To  All Panelists : That’s hilarious
+18:13:45	 From Christian Ulrik Andersen : lol
+18:13:46	 From CLARA CHETCUTI  To  All Panelists : UNCANNY!
+18:13:54	 From Caitlin Fisher : Ouch!
+18:14:00	 From Oreto Doménech i Masià : <3
+18:14:09	 From Oreto Doménech i Masià : XD
+18:14:20	 From CLARA CHETCUTI  To  All Panelists : That was practically Plato Dara Bot, thank you!
+18:14:32	 From Katie Schaag : ooooh fascinating point Lillian-Yvonne
+18:14:41	 From Jeremy Hight  To  All Panelists : how can bots improve the odd world of nft art or play with its odd dynamics?
+18:15:03	 From Jessica Pressman : Wonderful answers!
+18:15:55	 From Andrew Klobucar : This is incredibly sophisticated. I’m in awe at her answers. A bit frightening…
+18:17:18	 From Lai-Tze Fan : OOOH.
+18:17:19	 From Stephanie Strickland  To  All Panelists : early radio was also at first thought to be a way to speak to or listen to the dead
+18:17:33	 From Stephanie Strickland  To  All Panelists : voices in the ait
+18:17:37	 From Stephanie Strickland  To  All Panelists : air
+18:17:47	 From Jeremy Hight  To  All Panelists : ask do you have a body?
+18:18:39	 From Ambika@dra.ft : Aankhamaari = Winking
+18:19:06	 From Deena Larsen : Ask: what is the meaning of 42, really?
+18:19:56	 From Nanditi@dra.ft : Love the voice
+18:20:52	 From Jeremy Hight  To  All Panelists : fascinating
+18:23:03	 From Malthe Stavning Erslev : Were the bot creators aware of the discussions that emerged?
+18:23:52	 From Deena Larsen : Would you ever be talking to a logged in human author rather than the bot?
+18:23:56	 From Andrew Klobucar : Ah… the master puppeteer under the table…
+18:25:27	 From Malthe Stavning Erslev : [the question being answered]: Have you set the radbots to talk amongst themselves?
+18:26:09	 From CLARA CHETCUTI  To  All Panelists : On a technical note, when you do the video chat with the bot, does it only respond on the basis of facial recognition or will it in theory be able to respond to anyone whose face it doesn't recognise?
+18:26:43	 From Katie Schaag : Yes, I was wondering how you navigate the ecological issues with NFTs.
+18:27:10	 From Malthe Stavning Erslev  To  Søren Pold(privately) : Hej Søren. Jeg gemmer de spørgsmål, der kommer i chatten, på min maskine. Hvis vi løber tør for spørgsmål i Q&A, så har jeg flere fra chatten, som vi kan bruge
+18:27:19	 From Lai-Tze Fan : ^ Great question, Katie!
+18:27:27	 From siddhartha c : How do you see these Bots addressing the massive pre-coded bias in the training sets underlying these machine-learning systems? Will they help move fast break things and fix them for a world that isn’t al l that cis het white and male?!
+18:27:36	 From Leonardo Flores : Bots talking to each other goes as far back as 1972 when ELIZA and PARRY were placed in conversation using ARPANET in 1972. https://www.theatlantic.com/technology/archive/2014/06/when-parry-met-eliza-a-ridiculous-chatbot-conversation-from-1972/372428/
+18:27:52	 From Ambika@dra.ft : Can you tell us a bit more about developing the prompt corpus on top of GPT3?
+18:28:28	 From Mark Marino  To  All Panelists : bonus piano recital!
+18:28:40	 From Malthe Stavning Erslev : Hi everyone. Please use the Q&A option for questions for the presenters, and the chat for other chatting/comments.
+18:29:55	 From Marjorie Luesebrink  To  All Panelists : so many interesting implications to xplore, thank you!
+18:30:16	 From Katie Schaag : Well I do love the idea of actually paying artists!
+18:36:52	 From Katie Schaag : Love that she impregnates men by winking at them lol
+18:37:12	 From Ambika@dra.ft : Her dog’s name is Pareshaani = problem! :)
+18:39:49	 From Malthe Stavning Erslev : [question being answered]: How do you see these Bots addressing the massive pre-coded bias in the training sets underlying these machine-learning systems? Will they help move fast break things and fix them for a world that isn’t al l that cis het white and male?!
+18:41:12	 From Deena Larsen : Ok, we all need to volunteer to write articles!
+18:41:57	 From Malthe Stavning Erslev : [question being answered]: Are there backstories written into some of the characters? Stories and plots waiting to unfold? Did you or the creative teams have these kinds of questions as you were creating the bots?
+18:42:14	 From Jeremy Hight  To  All Panelists : my bot I designed to hate my writing, question existence and be a nihilist..now she asks my students for their emai
+18:42:44	 From Mark Marino  To  All Panelists : asked question in the question interface...
+18:43:38	 From Leonardo Flores : Thanks!
+18:43:53	 From Scott Rettberg  To  All Panelists : Awesome
+18:44:02	 From Ambika@dra.ft : YES!!
+18:44:04	 From Malthe Stavning Erslev : [question being answered]: Are you still accepting RadBot authors? (asking for a friend) The workshop materials seem to be still online.
+18:44:33	 From Marjorie Luesebrink  To  All Panelists : hope we can do more of this!
+18:44:36	 From Malthe Stavning Erslev : + Do you plan to repeat the open-call?
+18:45:05	 From Christine Wilks  To  All Panelists : "characterization is best captured by bots" Many different mediums are good at characterisation - the novel, drama, hypertext... Bots are another
+18:45:18	 From CLARA CHETCUTI  To  All Panelists : Please please please make this available for public interaction as soon as feasible and lucrative for all the artists involved!
+18:47:27	 From Malthe Stavning Erslev : [question being answered]: How is the implementation of these bots made in the community?
+18:48:26	 From Stephanie Strickland  To  All Panelists : I wonder if speech recognition is the weakest link after bias  Sean's improve was heard as and prove
+18:51:28	 From Ambika@dra.ft : Speech recognition is a bias no?
+18:52:35	 From Stephanie Strickland  To  All Panelists : in the sense that every inflectional nuance isn't captured within any one language
+18:52:35	 From Leonardo Flores : One of the great challenges.
+18:53:11	 From Malthe Stavning Erslev : [question being answered]: Is speech recognition the weakest link (beyond training bias)? For instance your  'improve' was heard as 'and prove'?
+18:53:26	 From Leonardo Flores : Can it recognize Scottish?
+18:53:32	 From Leonardo Flores : ;-)
+18:53:50	 From Deena Larsen : Text is also easier for those of us  who can not hear and those who speak English as a second language
+18:54:00	 From Deena Larsen : I prefer text!
+18:54:11	 From Deena Larsen : Text has a lower barrier for entry!
+18:54:40	 From Ambika@dra.ft : I’m not keen that the bot sees me in lockdown pyjamas! :)
+18:54:49	 From Ambika@dra.ft : Text is best
+18:54:55	 From Malthe Stavning Erslev : [question being answered]: can you discuss the API you are using for voice generation?
+18:55:40	 From Scott Rettberg  To  All Panelists : Thanks so much — fascinating presentation
+18:55:47	 From Malthe Stavning Erslev : [question being answered]: Could this method be used to resurrect Facade by Mike Mathias and Daniel Stern?
+18:56:24	 From Nick Montfort (he/him) : It's an interactive drama system, perhaps? With two characters plus the player
+18:56:46	 From Dene Grigar  To  All Panelists : Thanks
+18:56:55	 From Mark Marino  To  All Panelists : I was once in the room with the decapitated head of Disney's Lincoln.
+18:57:01	 From Nick Montfort (he/him) : With a drama manager, natural language interaction (in typed language)
+18:57:08	 From Dene Grigar  To  All Panelists : I would want to contact Michael and Daniel to see if they would be interested in pursuing this
+18:57:11	 From Mark Marino  To  All Panelists : it was nonstop reciting its speech as a stress test
+18:57:28	 From Nanditi@dra.ft : freeFall future.text | dra.ft's exhibition showcase event - https://hasgeek.com/ajaibghar/freefall-future-text/
+18:58:36	 From aishwarya sultania  To  All Panelists : wt time tmrw?
+18:58:46	 From Ambika@dra.ft : 2:30 PM IST
+18:58:56	 From Malthe Stavning Erslev : 09:00-10:30 UTC
+18:59:04	 From aishwarya sultania  To  All Panelists : 👍 thnx
+18:59:24	 From Ambika@dra.ft : Hope to see you there! :)
+19:01:00	 From Katie Schaag : Exciting project!
+19:01:03	 From Nick Montfort (he/him) : Dene's question about Facade is a very interesting and compelling one, from my standpoint, and a full answer would show the difference in approaches to AI and literature/drama over the years
+19:01:28	 From Nick Montfort (he/him) : would love to chat on Discord about this after the keynote wraps up
+19:03:18	 From Andrew Klobucar : There are a few examples of using AI and dramaturgy - but this is obviously a step in a different direction…
+19:03:23	 From Katie Schaag : Thanks Archana and Sean for sharing this fascinating work!
+19:03:25	 From Ambika@dra.ft : Thanks so much! :)
+19:03:30	 From Caitlin Fisher : wonderful!! Thank you!
+19:03:31	 From Vinicius : thanks  alot!!
+19:03:32	 From Melinda White (she/her) : Thank you!
+19:03:37	 From Lai-Tze Fan : Thank you, Archana and Sean!
+19:03:37	 From Alex Saum-Pascual (she/her)  To  All Panelists : Thank you!!
+19:03:37	 From Ambika@dra.ft : Thanks Soren, Scott and ELO team! :)
+19:03:38	 From Oreto Doménech i Masià : thanks!
+19:03:40	 From Andrew Klobucar : Mind-blowing work. Thanks!
+19:03:45	 From Alex Saum-Pascual (she/her) : Thank you!
+19:03:47	 From Perla Sasson-Henry  To  All Panelists : Thank you!!
+19:03:48	 From Mark Marino  To  All Panelists : applause!
+19:03:48	 From CLARA CHETCUTI  To  All Panelists : Amazing, keep up the good work and don't stop making this visible!!!
+19:03:50	 From Lai-Tze Fan : Thanks to the ELO team as well! (:
+19:03:52	 From Archana & Sean : Could someone share the discord link?
+19:03:52	 From aishwarya sultania  To  All Panelists : thankyou! way to go DARA
+19:03:56	 From Mark Marino  To  All Panelists : bravobot!
+19:03:57	 From Christine Wilks  To  All Panelists : Thanks. So fascinating!
+19:04:02	 From Malthe Stavning Erslev : Thanks much for this fascinating keynote!
+19:04:03	 From Christine Wilks  To  All Panelists : clap clap
+19:04:03	 From Stephanie Strickland  To  All Panelists : Fabulous!
+19:04:06	 From Katie Schaag : * applause *
+19:04:10	 From Deena Larsen : huzzah!
+19:04:15	 From Mark Marino  To  All Panelists : oh discord link coming
+19:04:15	 From susiecronin  To  All Panelists : that was great, thank you!
+19:04:17	 From Dene Grigar  To  All Panelists : Thank you
+19:04:27	 From Dene Grigar : Thanks!
+19:04:29	 From Lai-Tze Fan : https://discord.gg/7GzFEgWF
+19:04:30	 From Archana & Sean : Sean@dara.network
+19:04:36	 From Archana & Sean : archana@dara.network
+19:04:37	 From Mark Marino  To  All Panelists : https://discord.gg/hJphj3TM

@@ -1,0 +1,1280 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Feel jingled.
+
+00:00:04.000 --> 00:00:23.000
+All right. Hello everyone. Welcome to the virtualized material games panel, I'm jack Murray and Joining me are two from Rafi and Nicole alone. To begin, I'd like to give an overview and hopefully preempt some of the questions that were in reference to
+
+00:00:23.000 --> 00:00:25.000
+the title of the panel.
+
+00:00:25.000 --> 00:00:41.000
+So we chose to use the term material games, which we, you know, don't intend to ignore the material histories of electronic literature and technology platforms youth development consumption of digital media, rather it is intended to highlight specific
+
+00:00:41.000 --> 00:00:45.000
+modes of play that are afforded by the material components each medium.
+
+00:00:45.000 --> 00:00:55.000
+And we're interested in not only the material objects that surround these games but also everything that makes up the myriad of microcosms related to technologies of play.
+
+00:00:55.000 --> 00:01:11.000
+So while this panel is primarily interested in things related to analog games. The term analog is often taken to me non digital though as the editors of the analog game studies journal note, there is a hybrid of the inherent in analog games in the current
+
+00:01:11.000 --> 00:01:13.000
+technological era.
+
+00:01:13.000 --> 00:01:27.000
+The design, development and presentation and play of analog games often incorporate a variety of digital elements and as such as such we use the term virtual to evoke multiple meetings virtual as a way of being.
+
+00:01:27.000 --> 00:01:35.000
+Through the use of computer systems as in virtual reality and virtual as in something that contains a vast potential ality for connections and forms.
+
+00:01:35.000 --> 00:01:49.000
+And lastly, our discussion will primarily cover a variety of games we believe, while Are we still believe that this intersection between games on electronic literature is incredibly broad, and this is increasingly apparent in the rising popularity of
+
+00:01:49.000 --> 00:02:00.000
+narrative driven games that take cues from interactive fiction or use digital tools to facilitate storytelling, the specific games and media we discuss might not be explicitly related however our purpose in addressing them here is to think through the
+
+00:02:00.000 --> 00:02:14.000
+ways technology is impacting play, and as well as discuss a variety of tools that can be used to unpack this relationship in short virtualized material games highlights the material assemblages of play and offers ways to think through the relationships
+
+00:02:14.000 --> 00:02:24.000
+between analog and digital platforms. So without further ado, I will pass the mic over to tougher who will lead us off.
+
+00:02:24.000 --> 00:02:27.000
+Okay thanks jack.
+
+00:02:27.000 --> 00:02:35.000
+So let me go ahead and share my screen.
+
+00:02:35.000 --> 00:02:39.000
+And hopefully you can
+
+00:02:39.000 --> 00:02:43.000
+see that okay Am I coming through. All right.
+
+00:02:43.000 --> 00:02:47.000
+Okay, great.
+
+00:02:47.000 --> 00:02:53.000
+So I'm gonna I'm gonna start off.
+
+00:02:53.000 --> 00:03:02.000
+Title my, my presentation is xR narrative and performative play to enhance competitive board game aesthetics.
+
+00:03:02.000 --> 00:03:13.000
+So, I think it's kind of a not not a great title but but I I'll try to elaborate on that a bit.
+
+00:03:13.000 --> 00:03:34.000
+So the main thing is that I teach in MFA program on inner entertainment media and technology and we are focusing a lot on xR emerging technologies and interfaces as well as game design.
+
+00:03:34.000 --> 00:03:40.000
+And we're exploring player aesthetics.
+
+00:03:40.000 --> 00:03:52.000
+In several projects where we take material player experiences like board games and escape rooms, and are transforming those two virtual spaces in XLR.
+
+00:03:52.000 --> 00:04:11.000
+And so, some questions that come up in that is how does virtual scale and changing perspective in xR worlds affect the player experience in this presentation I'm going to argue that the first person play and xR space is becoming more embodied in performative
+
+00:04:11.000 --> 00:04:18.000
+especially in VR, and we can therefore draw from Theatre Arts.
+
+00:04:18.000 --> 00:04:21.000
+To enhance gameplay and narrative aesthetics.
+
+00:04:21.000 --> 00:04:29.000
+In these experiences. And so, the.
+
+00:04:29.000 --> 00:04:44.000
+A good example of that is the wizard chess in Harry Potter, and how the scale in that becomes very performative when its life size or larger than life.
+
+00:04:44.000 --> 00:05:05.000
+And so the player actually becomes more of a performer or object on the chessboard, and is not separate from the board, directing it from above or outside the game rules may be the same for the game itself.
+
+00:05:05.000 --> 00:05:18.000
+But the perspective and change is much more dramatic and performative when it's that scale and immersing your, your player in it.
+
+00:05:18.000 --> 00:05:37.000
+So, some of the issues or concepts design concepts that impact this research are dealing with the MDA framework which we use for our game design.
+
+00:05:37.000 --> 00:05:55.000
+It's a very popular framework from the early 2000s, and the lewd ology versus narrative ology debate of the same period are something that I, I'm trying to address with with this performative aspect.
+
+00:05:55.000 --> 00:06:01.000
+The question of where where is that in these game design frameworks.
+
+00:06:01.000 --> 00:06:21.000
+The NBA has been criticized for not really having a good way to address narrative, and you know it came out for at a time when there was this debate and most of the ones who came up with MDA were on the Linda ology side.
+
+00:06:21.000 --> 00:06:28.000
+So they took a very much approach from from that framework.
+
+00:06:28.000 --> 00:06:40.000
+But I, I'm also looking at how can we bring these two sides together through performance, and also how to alleviate Ludo narrative dissonance.
+
+00:06:40.000 --> 00:06:58.000
+Something that Hawking talked about that you know a good example is when you're running around in Assassin's Creed, and you come on some camp in the middle of the woods and the game incentivizes you to kill everybody in the camp and loot their treasure,
+
+00:06:58.000 --> 00:07:04.000
+even though they're not your enemies you don't know them at all, and you're supposed to be a hero.
+
+00:07:04.000 --> 00:07:16.000
+There have been many times in that game where I've been running around and I've liked been torn by this decision of whether I should actually, you know attack this village.
+
+00:07:16.000 --> 00:07:31.000
+So that kind of thing where the, the narrative and the way you're playing as a hero for instance, doesn't line up with, with the gameplay with the games and giving you to do.
+
+00:07:31.000 --> 00:07:44.000
+And, and also things like we're looking at board games and how clue, and D amp D have very performative features in them, especially the live action role play in D amp D.
+
+00:07:44.000 --> 00:07:48.000
+Something that you know I did back in the day.
+
+00:07:48.000 --> 00:07:58.000
+In the 80s, and and i i think that you know that's not really addressed with these either.
+
+00:07:58.000 --> 00:08:09.000
+So, I think that that we're looking at xR and especially, a lot of our projects use VR and
+
+00:08:09.000 --> 00:08:29.000
+looking at the best or the most immersive VR experiences in games out there really show, they're part of Jenkins convergence culture where it's bringing you know film and and games and all these different, and actually literature all together into these
+
+00:08:29.000 --> 00:08:46.000
+trans transmedia story worlds and and things like the avoids VR theater Star Wars experience Secrets of the Empire and beta immortal, when you're playing them feel very theatrical.
+
+00:08:46.000 --> 00:08:58.000
+You know, you're playing with this life size or larger than life NPC pcs of Darth Vader and they're standing in front of you and you can see all the details.
+
+00:08:58.000 --> 00:09:18.000
+And in the case of the Void theaters they actually put in performative principles from magic theatre because the one of the founders was a magician and and and so that you're actually getting smells and, and you're able to walk in an unlimited way, even
+
+00:09:18.000 --> 00:09:34.000
+you're in a limited space, and really try to engage all those senses. To create the illusion of this almost theatrical experience. And so, When I'm talking about performative.
+
+00:09:34.000 --> 00:09:41.000
+You know, this being an ELO conference and talking about narrative, a lot of times.
+
+00:09:41.000 --> 00:09:48.000
+This will be put under the narrative and what I'm really talking about is, is not what's from the script.
+
+00:09:48.000 --> 00:10:06.000
+If you were an actor, you get a script, there are certain things specified in the script and there are certain things that you as an actor improvise. And so things in the game that are not specified by the script or the gameplay, but which the player
+
+00:10:06.000 --> 00:10:26.000
+gets to choose, and you know is based really on their style of play. And so, you know, when I play shooter games. I prefer to stay back and or games that have some kind of fighting in the my usually prefer to stay back and be a sniper as opposed to running
+
+00:10:26.000 --> 00:10:42.000
+forward into the fray and and that's a style aspect of performative play and things like, you know, Changing your characters appearance and the skills that you choose.
+
+00:10:42.000 --> 00:11:09.000
+All of those things are performative aspects of character play other concepts that that are going into this research are really his English zingers magic circle as world building activities is.
+
+00:11:09.000 --> 00:11:20.000
+suspension of disbelief in theater. Edward Gordon Craig's performative concept of the Uber Marionette, as the perfect actor.
+
+00:11:20.000 --> 00:11:30.000
+That doesn't have any sort of never goes out of character and doesn't have any of the actors ego in it.
+
+00:11:30.000 --> 00:11:44.000
+He came up with that concept in 1907 and in described it, and for the theater of the future, and he said, what the wires will be I don't know and he kept trying to create it.
+
+00:11:44.000 --> 00:12:01.000
+Up until he died but was never able to technologically make it, but I argue that that's that is digital characters in games and and the end the wires for that is AI code.
+
+00:12:01.000 --> 00:12:24.000
+And so being this Ludo narrative dissonance through bridging lewd ology and narrow technology with this performance approach, so that your, your character acting from the script is connecting to the gameplay all of that sort of aligning and looking at
+
+00:12:24.000 --> 00:12:32.000
+shakes me highs flow concepts and other concepts of immersive immersion in theater.
+
+00:12:32.000 --> 00:12:52.000
+Its flow has been applied to both theatrical acting and video game play. And the flow arc has been compared to the narrative or. And so sort of trying to come up with a framework that will align these things is something that we're applying.
+
+00:12:52.000 --> 00:13:01.000
+In this research, and I call it the sugar play framework, it's got three aspects screenplay gameplay and role play.
+
+00:13:01.000 --> 00:13:07.000
+And those are really the narrative ludic and performative aspects of play.
+
+00:13:07.000 --> 00:13:21.000
+I'm really trying to sort of break these down into separate areas that can be covered in a game analysis and game design and.
+
+00:13:21.000 --> 00:13:38.000
+And then, since this is a yellow conference, I'll, you know, I'm very interested in sort of literary aesthetics and and sort of something like Alan Wake which I thought did a really good job as a game of creating of the feel and the aesthetics of the
+
+00:13:38.000 --> 00:14:01.000
+Stephen King novel that align the gameplay and the themes of light and dark and fight or flight with, with the narrative, as well as with the performative aspect of the character as a writer, which is very common in a lot of the Stephen King novels, and
+
+00:14:01.000 --> 00:14:10.000
+other kind of literary aspects like narration and actually turning words into objects in some parts of the game.
+
+00:14:10.000 --> 00:14:28.000
+So, you know, looking at all three of these areas of play in games and taking this framework and really trying to formalize it has been something that I've been doing in my game studies and game design courses.
+
+00:14:28.000 --> 00:14:31.000
+So that I've give my students.
+
+00:14:31.000 --> 00:14:51.000
+qualitative survey with questions for each area. And, and then they calculate that, and plotted on this chart to chart playfulness or a balance of the three areas of play, which is actually in the center of the chart.
+
+00:14:51.000 --> 00:15:11.000
+And usually older games will fall out towards the edges of the chart because they don't really have much of the three aspects or towards one area of the other, but but a lot of these cinematic games are falling in the middle area of the chart.
+
+00:15:11.000 --> 00:15:23.000
+So going back to the some of the projects that we're doing in our MFA to sort of bring some aspects of board game play into this VR space in this xR space.
+
+00:15:23.000 --> 00:15:29.000
+One of them is
+
+00:15:29.000 --> 00:15:36.000
+this game which which focuses on Indian culture.
+
+00:15:36.000 --> 00:16:02.000
+It's, it's basically takes Indian board games that things like Ludo that you're tossing dice and you're moving through parts of the board and Manisha brought this out and create made its life size, so that you're, you're, you've got a full size board
+
+00:16:02.000 --> 00:16:21.000
+and an environment that surrounds you, and has aspects, especially in story mode of the Mahabharata, and bringing those narrative aspects in three different cards that come up in the environment, as you're rolling your dice and, and then the formative
+
+00:16:21.000 --> 00:16:26.000
+aspects in some of the character designs and characters that you're using.
+
+00:16:26.000 --> 00:16:49.000
+Based on the pen device and core of us of the Mahabharata and the major scene that is at the center of that epic, which is the dice game between those two families that actually gets the, the panda was exiled, and then leads to the climax of the war.
+
+00:16:49.000 --> 00:17:08.000
+So, those sort of narrative aspects of bringing in there as well as performative aspects in some of the design of this project, and I have a link here that I can, I can get this PDF on my slides to anybody who wants to click on the links or you can go
+
+00:17:08.000 --> 00:17:17.000
+to my, my website toe from rafi.com to see some examples of prototypes there.
+
+00:17:17.000 --> 00:17:22.000
+This one murder mystery theater.
+
+00:17:22.000 --> 00:17:45.000
+Actually it's a Magic Leap project where we're taking aspects of clue, and murder mystery improv theater productions and using the Magic Leap headset and also we're doing some stuff in VR as well as sort of trying to deliver lines to a player and place
+
+00:17:45.000 --> 00:17:58.000
+life size bodies and environment with blood splatter that you can follow with a UV light which controller is actually a UV light and placed in the environment.
+
+00:17:58.000 --> 00:18:10.000
+So that you're actually moving through your environment, and finding clues and delivery lines, and also trying to produce some kind of mass theater type of thing.
+
+00:18:10.000 --> 00:18:33.000
+We're also doing something related to this with IBM Watson, where it can recognize your lines, so that it can check your lines against lines for the character to make sort of an actor training type of tools to get this performative aspect into this space.
+
+00:18:33.000 --> 00:19:01.000
+This sort of full size space, and we have other projects that we're working on for VR, that have to do with the indie and Lark in a construction set, and also a VR escape room and Egyptian pyramid that uses sort of educates on Egyptian culture and Egyptian
+
+00:19:01.000 --> 00:19:05.000
+gods, so
+
+00:19:05.000 --> 00:19:10.000
+that's that's basically what I wanted to talk about today I'm not sure where I am on time.
+
+00:19:10.000 --> 00:19:35.000
+But those are some of the projects there were that we're working on that are trying to bring these three aspects of the narrative performative and competitive gameplay, sort of, consciously together with this, this framework.
+
+00:19:35.000 --> 00:19:38.000
+And you know I.
+
+00:19:38.000 --> 00:19:41.000
+this
+
+00:19:41.000 --> 00:19:57.000
+presentation was not originally for her for an electronic literature venue. So, so I apologize if that did not have as much electronic literature content as you guys are used to.
+
+00:19:57.000 --> 00:20:03.000
+Great.
+
+00:20:03.000 --> 00:20:09.000
+So next will have, Nick present.
+
+00:20:09.000 --> 00:20:13.000
+Oh goodness.
+
+00:20:13.000 --> 00:20:21.000
+Well let me get myself, situated. I was just grabbing something.
+
+00:20:21.000 --> 00:20:25.000
+So I wanted to give
+
+00:20:25.000 --> 00:20:37.000
+a link to my slide deck, and to, usually when I'm on a panel or I'm about to present a paper or something like that I'll write a post on some blog platform about it.
+
+00:20:37.000 --> 00:20:48.000
+And so there are the links to those two things. Now let me grab my thing here.
+
+00:20:48.000 --> 00:20:51.000
+Also thank you to for.
+
+00:20:51.000 --> 00:21:05.000
+I'm tragically, I can never use a VR goggles ever the second i do i barf. So, that is not something for me.
+
+00:21:05.000 --> 00:21:07.000
+So let's go with this one.
+
+00:21:07.000 --> 00:21:09.000
+All right.
+
+00:21:09.000 --> 00:21:14.000
+Where's my need the G force experience.
+
+00:21:14.000 --> 00:21:15.000
+Alright.
+
+00:21:15.000 --> 00:21:35.000
+So my name is Nicole loan I am a, an assistant professor over at the University of Nebraska at Omaha. I am in the MIS department which is management information systems, but my training is in sociology, particularly in pop culture sociology.
+
+00:21:35.000 --> 00:21:44.000
+A lot of what I'm going to be talking about today has to do with the tensions of who I was as a sociologist, and who I am now, as somebody who's in my s department.
+
+00:21:44.000 --> 00:21:53.000
+But my training is in human computer interaction computer science, things like that.
+
+00:21:53.000 --> 00:21:56.000
+Nick we're seeing the presenter notes. No.
+
+00:21:56.000 --> 00:21:58.000
+All right, are you still seeing them.
+
+00:21:58.000 --> 00:22:00.000
+Yes.
+
+00:22:00.000 --> 00:22:05.000
+I picked the wrong your day today. Okay, good.
+
+00:22:05.000 --> 00:22:17.000
+So, the sort of talk that I wanted to put together has to do with the tension between my past self and my current self. And my wife tells me that the sound I often make is.
+
+00:22:17.000 --> 00:22:30.000
+So I gave this sound as many different m words as I could, string together that made sense. In this case we're going to be talking a little bit about makers being miffed about the things that they've created.
+
+00:22:30.000 --> 00:22:41.000
+They're being used in appropriately they've been appropriated for other reasons methods are often misused. When evaluating especially digital objects.
+
+00:22:41.000 --> 00:22:48.000
+And this is often do to kind of the history of where those methods originally came from.
+
+00:22:48.000 --> 00:23:05.000
+Because we often misuse methods to understand what we're seeing a lot of measures end up getting mast. A lot of the consequences of how particular products are created or how specific materiality is this in this case board games are getting messed, either
+
+00:23:05.000 --> 00:23:13.000
+by computation they're getting masked by contexts that we can't access there's just a lot of stuff we can get to.
+
+00:23:13.000 --> 00:23:31.000
+And I believe that the the sort of reason for this is that we often afford different modalities, different levels of, we can basically just access them in different ways, computation lends itself computer mediated spaces lend themselves to being understood,
+
+00:23:31.000 --> 00:23:46.000
+Mostly because we have access to every single action in terms of keystrokes, we can look at chat we can look at inputs and things like that. And finally this Mona it's map I'm going to be talking about a little bit later.
+
+00:23:46.000 --> 00:23:49.000
+So this first aspect makers miffed.
+
+00:23:49.000 --> 00:23:54.000
+A lot of my work goes into disaster.
+
+00:23:54.000 --> 00:24:05.000
+The disaster world emergency management, they rely on role playing, and they rely on tabletop exercises to understand the world that they're about to inhabit.
+
+00:24:05.000 --> 00:24:21.000
+And the world that they're about to inhabit is typically things that are completely destroyed, there's no electricity, there's no connectivity. And so, they have often felt that they don't necessarily need fancy computational models, about how disasters
+
+00:24:21.000 --> 00:24:35.000
+work, but unfortunately what ends up happening is that because Emergency Management doesn't know or understand how computation can affect their tabletop exercises.
+
+00:24:35.000 --> 00:24:53.000
+Different things occur. So a lot of my early work as a grad student had to do with the Boston Marathon bombing and just as a kind of what it what happened with this is read it had been trying to shift, what they did, from sort of aggregating links aggregating
+
+00:24:53.000 --> 00:25:06.000
+information and talking about it to aggregating in real time. And what ends up happening with the Boston Marathon bombing the FBI route was reliant on the tip line.
+
+00:25:06.000 --> 00:25:20.000
+And in this case the tip line was, if you have any video if you have any audio, please send it to us. We need to try and figure out who placed these pressure cooker bombs right at the finish line of the Boston Marathon bombing and what ends up happening
+
+00:25:20.000 --> 00:25:37.000
+here is several petabytes of data, suddenly appear and the FBI has no way to go through this they have no they're not prepared to deal with this much information and so the crowd tries to go around and figure out who the Boston Marathon bombers were and
+
+00:25:37.000 --> 00:25:39.000
+they end up failing horribly.
+
+00:25:39.000 --> 00:26:00.000
+And so, what ends up happening and what this ends up pointing to is that no tabletop exercise no analog game could prepare them for this sort of mediated space, this this this multiple reality XRA or whatever you want to call it, and it reflects two different
+
+00:26:00.000 --> 00:26:17.000
+ways of thinking about the world. So, for the tabletop folks, they want to get embedded into their roles very quickly, versus computer software designers who are creating an artifact that contains possibilities that allows them perform particular tasks
+
+00:26:17.000 --> 00:26:31.000
+and has particular requirements. This is the task artifact cycle we constantly cycle through because when we release an artifact to the wild people use it in ways we weren't anticipating and what ends up happening is we sit there and our spent, we spend
+
+00:26:31.000 --> 00:26:35.000
+all of our time patching.
+
+00:26:35.000 --> 00:26:48.000
+We spend all of our time trying to make sense of how users are misusing or using in ways that we didn't anticipate. And a lot of this has to do with, you know, the diversity of the development team, the talent of the development team.
+
+00:26:48.000 --> 00:27:05.000
+And so what ends up happening is we're left with this complete disagreement about how the computerized world how the computer mediated world should represent the this sort of analog or physical space.
+
+00:27:05.000 --> 00:27:15.000
+And when we try to study it. What ends up happening is we evaluate it from the perspective of either.
+
+00:27:15.000 --> 00:27:20.000
+People are doing this thing, or software is creating this problem.
+
+00:27:20.000 --> 00:27:37.000
+And as a person who began in sociology and ended up in the technical spaces, I have been obsessing over ways to evaluate how people, the materials that they need and the materials that they use software, the creators, where this particular space ends
+
+00:27:37.000 --> 00:27:46.000
+up, because if you look at how we evaluate use how we evaluate play how we evaluate games.
+
+00:27:46.000 --> 00:28:00.000
+We use a lot of things to sort of see if you know it's just a little acceptable if it's just another level of complexity on top of our growing complexity complex lives.
+
+00:28:00.000 --> 00:28:06.000
+And I think the best way to illustrate this has to do with Robinson Crusoe.
+
+00:28:06.000 --> 00:28:22.000
+In this case we have Robinson Crusoe and Friday or the other island. So, Crusoe is, this is sort of the birth of realistic fiction Crusoe is sort of the birth of the modern man he goes to the wilds and he colonizers it by replicating the world that he
+
+00:28:22.000 --> 00:28:37.000
+came from and so he just starts adding all of these different things he's able to fish he's growing food. He's got gunpowder and weapons, and he's got this education his guy Friday, who's a savage, he trains him and they all go back eventually to England
+
+00:28:37.000 --> 00:28:46.000
+and live their modern man life versus Friday or the other island which is a sad satirical retelling of this.
+
+00:28:46.000 --> 00:29:03.000
+Everything Crusoe does adds tension and pressure to the world that they're living in to the world that he's trying to recreate. And over time, fry Crusoe is so in love with what he's doing he literally tries to have sex with the island.
+
+00:29:03.000 --> 00:29:14.000
+And what ends up happening at the end of Friday or the other island is Friday blows everything up and Crusoe is so relieved that he disappears into the jungle never to be seen again.
+
+00:29:14.000 --> 00:29:23.000
+And this is sort of where we're at, when we evaluate with the methods that exist. We're not necessarily looking at whether or not.
+
+00:29:23.000 --> 00:29:39.000
+The game is necessarily good right we're not looking at this particular thing we're looking at do users accept it, or is it, adding something to our survivability is adding something to the island that we've created called video games, or is it something
+
+00:29:39.000 --> 00:29:47.000
+that are we starting to fall a little bit too in love with the way that we're creating and translating play.
+
+00:29:47.000 --> 00:29:53.000
+And a lot of these methods end up
+
+00:29:53.000 --> 00:30:04.000
+on ones, one way or the other, although we often try to avoid thinking about us being in love with these digital environments these digital elements that we've been using.
+
+00:30:04.000 --> 00:30:20.000
+And so I keep coming back to this, I keep coming back to this. Are we too in love with the digital spaces and we just need to constantly seem to blow everything up and start over again, or do we need to keep looking for the space of least disagreement
+
+00:30:20.000 --> 00:30:28.000
+with our methods, what's left over, what's getting masked in terms of what we're measuring. And so, I keep.
+
+00:30:28.000 --> 00:30:48.000
+One of the things that I have also been trying to figure out is how can I, while you're watching people mess around with little bits in a game so meatballs or dice or if we're talking about keyboards and mice or if we're talking about.
+
+00:30:48.000 --> 00:30:52.000
+Is there a way that I can blow up. Right.
+
+00:30:52.000 --> 00:31:06.000
+Play. Is there a way that I can see how every piece that I can see in front of me all the ingredients to the game all the rules to the game. It can I look at how each of these is affecting the whole.
+
+00:31:06.000 --> 00:31:17.000
+Is there a way that I can gather enough data to understand how an analog version of something works so that I can translate it into a digital space and work with it.
+
+00:31:17.000 --> 00:31:26.000
+And what do I mean by this. So, social network analysis which is sort of where I've, I ended up tends to look at. Humans interacting with other humans.
+
+00:31:26.000 --> 00:31:42.000
+And if we're talking about a group of people playing a board game. Then we're going to be talking about those people, social network analysis allows us to see the sort of interactivity between all the people at the game but this is where we often miss
+
+00:31:42.000 --> 00:31:59.000
+method, social network analysis relies on this idea that only humans are capable of association of agency. But in order for us to achieve agency as human as humans we have all of these sort of durable pieces of culture that allow us to pursue agency,
+
+00:31:59.000 --> 00:32:14.000
+we can't pursue agency without them. And so when we're talking about a board game we have the players hands we have, in the case of content we have these different resource cards we have all the bits on the board, each player has particular bits on the
+
+00:32:14.000 --> 00:32:31.000
+board. There are cards that people can use and have different powers, there's the dice themselves, and each of the players each of the player hands, we get into the table itself, we get into the different parts of the board the reference cards, and also
+
+00:32:31.000 --> 00:32:32.000
+the players.
+
+00:32:32.000 --> 00:32:48.000
+So, if I take everything that exists on, on a particular board. Can I understand play, and essentially allow play to form, my understanding of what's happening there.
+
+00:32:48.000 --> 00:32:50.000
+And in doing that.
+
+00:32:50.000 --> 00:33:01.000
+Can I take the different modalities that exists so if we're talking about analog play which I absolutely hate that term but I'm going to use it because I have to versus virtual player digital play.
+
+00:33:01.000 --> 00:33:16.000
+Um, can I get past this world that wants to reward folks for you making video games versus sort of taking board games and sort of shoving them off onto the side.
+
+00:33:16.000 --> 00:33:29.000
+Is there a way for me to not keep misunderstanding modality but to allow us to understand how modalities shift the way that play for forms within the magic circle itself.
+
+00:33:29.000 --> 00:33:36.000
+So I did this for my dissertation, and this is something I keep coming back to because I'm sort of at that point where I'm like well now what.
+
+00:33:36.000 --> 00:33:40.000
+And so when I looked at was how did patterns change.
+
+00:33:40.000 --> 00:33:52.000
+If I watch people play a game of content and then watch people you interact with the app called Clinton on an iPad together, how, how do people change the way that they related to one another.
+
+00:33:52.000 --> 00:34:01.000
+And if I look at types of association, like human to human human to non human non human to non human.
+
+00:34:01.000 --> 00:34:15.000
+What are the different types of associations that matter the most to that particular modality. And then, what afford instance does physical, the physical play provided the user to the user that virtual plate is not so.
+
+00:34:15.000 --> 00:34:23.000
+When computer starts mediating a space, what's the impact of that, and in looking at it, is there a way for us to do that now.
+
+00:34:23.000 --> 00:34:42.000
+What ends up happening is, all of these silly looking social network maps, and all I want to point to for this particular thing is that this is a visualization of a particular iPad mediated game and if you look right in the middle.
+
+00:34:42.000 --> 00:34:46.000
+There is this trade icon.
+
+00:34:46.000 --> 00:34:53.000
+I think I can actually annotate it campaign. Yeah, and
+
+00:34:53.000 --> 00:34:55.000
+turn that off.
+
+00:34:55.000 --> 00:35:12.000
+And so this trade icon. This is the only button in the iPad game that will actually prompt me to hand the iPad to another person, every other aspect of this game is being mediated by this network over here which is essentially the iPad itself, and the
+
+00:35:12.000 --> 00:35:22.000
+players all that they can really do is interact with each other in order for them to interact with the game they have to hold the object that is actually mediating the game itself.
+
+00:35:22.000 --> 00:35:28.000
+And so, this continues, As we move forward.
+
+00:35:28.000 --> 00:35:43.000
+Apparently I need to. Now we'll just leave them there. And if you start adding up all the different associations their sensuality and things like that, in the digital games the iPad is the most dominant object on the entire game.
+
+00:35:43.000 --> 00:35:57.000
+And there isn't anything that you can really do about it, it the humans are completely disconnected from the activity itself, they're interacting with the game, but they're interacting with the game as mediated by the iPad.
+
+00:35:57.000 --> 00:36:01.000
+Now when you start moving into the analog version of play.
+
+00:36:01.000 --> 00:36:04.000
+Everything's relatively balanced.
+
+00:36:04.000 --> 00:36:14.000
+There is no dominant actor, aside from the humans themselves and then the cards the game board the resources. All of these things are evenly distributed.
+
+00:36:14.000 --> 00:36:17.000
+And this continues on through everything.
+
+00:36:17.000 --> 00:36:25.000
+And what I've essentially done with this method is I've taken the least.
+
+00:36:25.000 --> 00:36:36.000
+There we go. I figured it out. I've taken to the moon ads themselves. These are the most least reducible object and I have essentially map them I've created a Motorhead map.
+
+00:36:36.000 --> 00:36:54.000
+And this is getting back into a long discussion that began, all the way back with Newton, and like I never say that name correctly and sort of the finding of this particular thing is when the iPad takes over human centrality the humans matter, 40 at an
+
+00:36:54.000 --> 00:37:00.000
+average of 40% less than when they're actually playing the game in front of each other.
+
+00:37:00.000 --> 00:37:05.000
+And so with that, I'm a minute overtime apologies for that.
+
+00:37:05.000 --> 00:37:14.000
+I'll leave questions and comments for when we start discussing later and I'll turn everything over to jack himself.
+
+00:37:14.000 --> 00:37:17.000
+Thanks, Nick.
+
+00:37:17.000 --> 00:37:20.000
+Let's see.
+
+00:37:20.000 --> 00:37:25.000
+I got rid of all my presenter notes and started to wing it so i hope i wasn't too weird.
+
+00:37:25.000 --> 00:37:31.000
+All right. Can we all see the PowerPoint.
+
+00:37:31.000 --> 00:37:32.000
+Yes.
+
+00:37:32.000 --> 00:37:34.000
+Okay.
+
+00:37:34.000 --> 00:37:37.000
+And let me.
+
+00:37:37.000 --> 00:37:44.000
+Where's.
+
+00:37:44.000 --> 00:37:47.000
+There is a link to my slides.
+
+00:37:47.000 --> 00:37:59.000
+And so Hello again everyone, my name is jack Murray, I am a PhD student in the text and Technology Program at the University of Central Florida.
+
+00:37:59.000 --> 00:38:06.000
+My presentation is going to be a more theoretical angle on some of the themes that we've already covered.
+
+00:38:06.000 --> 00:38:13.000
+So I am primarily interested in the way that analog games and play mediate effect.
+
+00:38:13.000 --> 00:38:29.000
+And what happens when analog games are translated into digital formats. So for brief roadmap, I want to discuss briefly how analog games exist as platforms, how these platforms do the work of mediating effect and different approaches to adaptation and
+
+00:38:29.000 --> 00:38:39.000
+their effects on play. So what does it mean when I say analog answer platforms.
+
+00:38:39.000 --> 00:38:45.000
+Books.
+
+00:38:45.000 --> 00:39:03.000
+For me, an analog platform is an assemblage of the material components. The codified rules and procedures as well as the social context of the players, and the environment that, and you know the environment that they're playing and etc and how the game,
+
+00:39:03.000 --> 00:39:14.000
+and how that impacts how the game is played. So Taken together, they become this assemblage for analog play that functions as a platform that immediate effect.
+
+00:39:14.000 --> 00:39:23.000
+So Africa, broadly speaking is a way of thinking about the in articulable process of feeling how do we feel how do things influence how we feel.
+
+00:39:23.000 --> 00:39:33.000
+Aubrey animal uses aspect to refer to the aspects of emotions, feelings, and bottling engagements that circulate through people and things but are often registered only at the interface.
+
+00:39:33.000 --> 00:39:42.000
+Here the interface is taken literally to mean the interface of an object such as the touchscreen of a phone or a tablet that animal basis for analysis on.
+
+00:39:42.000 --> 00:39:56.000
+However, interface can also be understood as the points of contact between objects that emerged from their position within a network of effect effect is interested in the interrelations and the intensities of the relations between bodies, and this is
+
+00:39:56.000 --> 00:40:12.000
+what makes ethics useful for studying analog games as platforms in that they specifically mediate the effective relations, through contact an interplay between members of the assemblage ethic plays an important part and how a subject comes to know understand
+
+00:40:12.000 --> 00:40:18.000
+and interact with the material conditions of, of being
+
+00:40:18.000 --> 00:40:35.000
+so effect is particularly susceptible to processes of mediation, as, as an assemblage analog games performing mediating role that influences both the capacity to be effective and the capacity to be affected by orienting players towards the game as a platform
+
+00:40:35.000 --> 00:40:48.000
+cold world notes that board game aesthetics, like the rules that structure their play are essentially political and they organize the relationship between play between players for a game structures play so to do they structure feelings.
+
+00:40:48.000 --> 00:41:00.000
+In other words, games that replicate familiar effective structures that provide a provide a framework for effective responses based on the subject position within that network.
+
+00:41:00.000 --> 00:41:13.000
+The relationship with an analog game retain the flexibility of an effect as a system of potential in this dynamic is afforded by the interactions between the rules the components and the capacity for the game to game and players to enforce not only formal
+
+00:41:13.000 --> 00:41:31.000
+structures, or to enforce formal structures, but also by employing whatever militaria calls an effective structuring, whatever you suggests that effective structuring is an informal mechanism that allows games to facilitate play through queuing and priming
+
+00:41:31.000 --> 00:41:36.000
+of certain emotional responses and the interpolation of certain relational subject positions in players effect of structuring precisely describes how analog games.
+
+00:41:36.000 --> 00:41:46.000
+Effective structuring precisely describes how analog games. Game platforms act as and orienting force for the varying levels of effective intensity.
+
+00:41:46.000 --> 00:41:50.000
+So what does it mean to orient effect.
+
+00:41:50.000 --> 00:42:02.000
+To answer this question I'm going to draw on the concept of intimacy, looking at it through a queer theory framework, and the most common definitions tend to focus on belonging and connection through kind of embodied and carnal sensuality.
+
+00:42:02.000 --> 00:42:10.000
+However, other queer theory scholars have described intimacy as a sensuous closeness through points of physical contact.
+
+00:42:10.000 --> 00:42:37.000
+It describes the ability for the relationships between.
+
+00:42:37.000 --> 00:43:05.000
+jack we can't hear you. Yeah.
+
+00:43:05.000 --> 00:43:07.000
+I don't think he can hear us either.
+
+00:43:07.000 --> 00:43:12.000
+I don't think so either.
+
+00:43:12.000 --> 00:43:21.000
+Let me see. I'll click on the mute button.
+
+00:43:21.000 --> 00:43:24.000
+You can ask him to unmute. Yeah.
+
+00:43:24.000 --> 00:43:37.000
+That's awkward my headset just died. I don't know how long ago it died, it's only like about a minute. Okay. Sorry I took drastic measures.
+
+00:43:37.000 --> 00:43:43.000
+All right. Well, hopefully,
+
+00:43:43.000 --> 00:43:50.000
+hopefully, We didn't hear much about the intimacy slide.
+
+00:43:50.000 --> 00:44:13.000
+Okay, so basically the point of intimacy is that is a specific way that aspect gets mediated and oriented. So instead of. So, if an effect operates on intensities then desire helps orient those intensities and so essentially intimacy becomes a vector
+
+00:44:13.000 --> 00:44:20.000
+for effect it becomes, where the intensity is the.
+
+00:44:20.000 --> 00:44:29.000
+I'm forgetting all my science words magnitude. And, and then desire, operates as the direction.
+
+00:44:29.000 --> 00:44:35.000
+So moving on to this first kind of case study is cat, Katherine staples, Nick phobia.
+
+00:44:35.000 --> 00:44:45.000
+And thematically it draws on classic tropes from Horan slasher films by pitting one player as the slasher versus the remaining players as the hunted.
+
+00:44:45.000 --> 00:45:02.000
+The goal is intuitively simple, the hunted must escape the forest and the hunter must incapacitate the hunted before before they're able to escape the twist is that the hundred players are required to wear blackout glasses and play entirely by touch simple
+
+00:45:02.000 --> 00:45:16.000
+design this game so that it could be played with people with visual impairments and as a result the design paced careful attention to the activity of components.
+
+00:45:16.000 --> 00:45:17.000
+Other games.
+
+00:45:17.000 --> 00:45:21.000
+Use the deprivation of sight.
+
+00:45:21.000 --> 00:45:30.000
+In order to obscure information whereas Nick to phobia uses it removes vision from the players for the duration of the game.
+
+00:45:30.000 --> 00:45:45.000
+To set up specific relationships so in playing Nick to phobia players, engage in a micro level what lane new Nichols spelunking, which is unintentionally disorienting and imprecise experience that opens players up to effective relationships within the
+
+00:45:45.000 --> 00:45:46.000
+apparatus of play.
+
+00:45:46.000 --> 00:45:56.000
+The board for Nick phobia itself is a vacuum form shelf plastic with alternating circular divots, you can see a picture of it here and the tokens
+
+00:45:56.000 --> 00:46:01.000
+and smaller holes were barriers barriers form.
+
+00:46:01.000 --> 00:46:04.000
+But trees.
+
+00:46:04.000 --> 00:46:18.000
+Yeah, so there's a lot of attention paid to the materiality of, of these objects. So the effect is one of players fumbling around exploring the game components with their hands in order to determine information.
+
+00:46:18.000 --> 00:46:29.000
+So in order to prevent the players from scattering game pieces across the table or otherwise slowing down the pace of play Nick to phobia relies on the hundred player who maintains their site.
+
+00:46:29.000 --> 00:46:42.000
+So that in addition to their antagonistic relationship with the other players the hunter must also facilitate certain kinds of play. This comes in part through the turn to turn administration necessitated by systems of game rules and the procedures as
+
+00:46:42.000 --> 00:46:57.000
+well. Additionally, and perhaps more interestingly the hunter guides their players to their pieces by physically touching and moving their hands touch in Nick de phobia opens a state of effective vulnerability between players that denotes the willingness
+
+00:46:57.000 --> 00:47:12.000
+or ability to be affected by another player which points, other players are which points them all towards the place in bludgeon specific ways. So this process of orienting players are first disorienting and then reorienting the players towards the so
+
+00:47:12.000 --> 00:47:16.000
+much of play is a kind of intimacy.
+
+00:47:16.000 --> 00:47:25.000
+And this kind of orientation highlights the oscillation between the subject position within the narrative space of the game as well as the position of the players playing the game.
+
+00:47:25.000 --> 00:47:38.000
+Nick the phobia makes this process. Yeah, even more explicit by for granting the possibilities of intimacy through the materiality of the game and the relationship between players.
+
+00:47:38.000 --> 00:47:41.000
+Yeah.
+
+00:47:41.000 --> 00:47:53.000
+And so, the, it's important to note that this effect is not unique to Nick the phobia and touch is not the only way intimacy emerges through games.
+
+00:47:53.000 --> 00:48:07.000
+Through games and play so in the trading card game Magic the Gathering this connection between players emerges through what McLaughlin calls instrumental intimacy, in which the connections are constrained by normative aspirations and ideals.
+
+00:48:07.000 --> 00:48:19.000
+In this case, the competitive nature of magic brings players into an antagonistic relationship defined by the desire to win held intention with a desire to continue playing the game.
+
+00:48:19.000 --> 00:48:36.000
+And so as a generally as a platform magic is more expansive than Nick de phobia in that it encompasses a wider field of social and cultural dynamics that determine how the game is played, where it's played who gets to play it and how it is interacted
+
+00:48:36.000 --> 00:48:37.000
+with.
+
+00:48:37.000 --> 00:48:55.000
+So whereas Nick the phobia exemplifies how games construct intimacy magic highlights the scope of play that happens beyond just the bounds of an individual game where people, two people sit down to play cards with each other.
+
+00:48:55.000 --> 00:49:09.000
+So this. This also includes discussions of social aspects such as discuss discussions of magic analyzing the meta game engaging with the fiction and even the intricate economic systems that are supported by the game.
+
+00:49:09.000 --> 00:49:20.000
+The effective network encompassed by Magic the Gathering is somewhat larger than Nick de phobia but nonetheless nonetheless relies on specific effect or similar effective vectors.
+
+00:49:20.000 --> 00:49:23.000
+So that leads us to the.
+
+00:49:23.000 --> 00:49:38.000
+The big question what happens when these games are translated into digital platforms for this I'm turning to Bolton Goossens theory of remediation that describes the representation of one medium within another, and that this is a process of cultural competition
+
+00:49:38.000 --> 00:49:54.000
+between or among technologies that define themselves by borrowing from paying homage to critiquing and refashioning the predecessors, we might also think about this as a form of adaptation that highlights a relationship between the two objects.
+
+00:49:54.000 --> 00:50:01.000
+The original in the adaptation and the relationship between those two things and the entire own objects that press upon them.
+
+00:50:01.000 --> 00:50:13.000
+The process of remediation exists on an axis of hypermedia see on one end and immediacy on the other, where as immediacy described the tendency or desire
+
+00:50:13.000 --> 00:50:28.000
+for the interface for the interface of an object to completely disappear erasing the gap between representation and the object it is representing by seeking to mimic the original media as closely as possible hypermedia see on the other hand, acknowledges
+
+00:50:28.000 --> 00:50:33.000
+this this difference between the representation the original object and kind of runs with it.
+
+00:50:33.000 --> 00:50:45.000
+So as a way to illustrate here I have some popular adaptations of Magic the Gathering which I chose over Nikita phobia because I've yet to find anyone who's figured out how to play Nick to phobia digitally.
+
+00:50:45.000 --> 00:51:02.000
+So on the immediacy end of the spectrum we have platforms such as Magic the Gathering arena and spell table which both take different approaches to allow allow players to play magic remotely spell table is uses the webcams and you play with paper magic
+
+00:51:02.000 --> 00:51:06.000
+cards whereas Magic the Gathering arena is
+
+00:51:06.000 --> 00:51:13.000
+primarily on
+
+00:51:13.000 --> 00:51:16.000
+isn't entirely digital platform.
+
+00:51:16.000 --> 00:51:32.000
+So, and then towards the hypermedia the end of the spectrum we have tabletop simulator which explicitly highlights the kind of digital element, it is it rebels in the awkwardness of its interface of trying to do the things you would do in a physical space
+
+00:51:32.000 --> 00:51:37.000
+exaggerated through a digital medium.
+
+00:51:37.000 --> 00:51:47.000
+So, while it's not explicitly Magic the Gathering simulator you can play Magic the Gathering in it and it is a gleefully digital representation of what it is like to play magic on a table.
+
+00:51:47.000 --> 00:52:05.000
+So on this end of the spectrum we also have the 1997 computer RPG Magic the Gathering handler, where instead of just playing magic, you play a wizard who travels through the world of magic playing magic with people.
+
+00:52:05.000 --> 00:52:14.000
+So Shandel our aims for a drastically different experience than that of some of the other Magic the Gathering adaptations.
+
+00:52:14.000 --> 00:52:22.000
+Instead of leaning into the connection between the players it's more interested interested in providing a traumatic experience.
+
+00:52:22.000 --> 00:52:35.000
+It also highlights the shortcomings of this, of this singular axis, instead of purely replicating the platform of magic Shandel our attempts to capture a specific effect associated with playing the game.
+
+00:52:35.000 --> 00:52:52.000
+So for this I turned to something I got from Cameron consultant who described offers a description of effective versus subjective adaptations here aspect of experiences are interested in replicating the particular feelings of an object, and in consultants
+
+00:52:52.000 --> 00:53:06.000
+example This involves playing within the world of the film but not necessarily a specific character within the film subjective experiences on the other hand enforce a specific subject position on the player so for example playing a film character in the
+
+00:53:06.000 --> 00:53:13.000
+game that's based on the film so this is when you play legless in one Lord of the Rings games.
+
+00:53:13.000 --> 00:53:31.000
+So, because of, so this doesn't map cleanly on to analog to digital adaptations because players, as we discussed earlier players inhabit this both a narrative subject position within the game, and the position of someone playing the game, though I think
+
+00:53:31.000 --> 00:53:46.000
+it's still useful to identify what experiences the adaptation is interested in replicating so if we add an access, access onto the graph that describes a fanatic or narrative position on the top end and the lunatic on the bottom, we get something kind
+
+00:53:46.000 --> 00:53:47.000
+of like this.
+
+00:53:47.000 --> 00:54:00.000
+So we see arena spell table and tabletop simulator end up near the bottom is there explicitly interested in the ludic experience of sitting at a table playing Magic the Gathering Shandel our ends up slightly above the middle because while it's still includes
+
+00:54:00.000 --> 00:54:08.000
+the card game, it is more interested in you playing a character that exists within the narrative world of Magic the Gathering.
+
+00:54:08.000 --> 00:54:20.000
+And then at the top of the chart towards the hypermedia see and we have things like Magic the Gathering battle made which is also from 1997, which is a real time strategy game set in the Magic the Gathering universe where you play cards summon creatures
+
+00:54:20.000 --> 00:54:33.000
+and then command them around the battlefield, which is a imagined as a live action version of what systematically happening within, when you sit down to play with paper magic cards.
+
+00:54:33.000 --> 00:54:47.000
+And then, more recent game. Magic the Gathering legends which is a Diablo style action RPG, that's just setting the magic universe, and you get to play as character established characters.
+
+00:54:47.000 --> 00:55:02.000
+So both battle age and legends are introduced interested in primarily adapting the fanatic element of magic but not necessarily the traditional experience of the Magic the Gathering as it pertains to the platform centered around the trading card game.
+
+00:55:02.000 --> 00:55:07.000
+So I want to end with kind of a question kind of a provocation.
+
+00:55:07.000 --> 00:55:25.000
+When remediating or adapting an analog game to digital platform. The relationships within the play assemblage change the effective vector shifts depending on the aspect of the original that the adaptation is attempting to preserve and what and what what
+
+00:55:25.000 --> 00:55:26.000
+it changes.
+
+00:55:26.000 --> 00:55:46.000
+So when engaging with a digital version of the object, what experiences get maintained. What gets changed what gets lost. How does the platform orient the player reader user or otherwise part, participating interact or towards the network of athletic
+
+00:55:46.000 --> 00:55:50.000
+their sub subsequently unmatched within.
+
+00:55:50.000 --> 00:56:13.000
+And so with that, thank you and we will open up for some q&a.
+
+00:56:13.000 --> 00:56:21.000
+Likewise.
+
+00:56:21.000 --> 00:56:31.000
+So I lost I did lose audio and but, so I apologize for that. At some point I should replace this headset.
+
+00:56:31.000 --> 00:56:37.000
+Because this the second time it's happened at a conference.
+
+00:56:37.000 --> 00:56:42.000
+So, do we have
+
+00:56:42.000 --> 00:56:52.000
+any questions from the chat that I missed. Did anyone see.
+
+00:56:52.000 --> 00:57:13.000
+I don't see any questions.
+
+00:57:13.000 --> 00:57:17.000
+All right, Alan.
+
+00:57:17.000 --> 00:57:25.000
+I'm just wondering, what kind of effect. What was the name of the one with intimacy with the touch.
+
+00:57:25.000 --> 00:57:33.000
+Nick de phobia Nikki focus. What kind of effect. Do you think this would have on players long term.
+
+00:57:33.000 --> 00:57:45.000
+In terms of. In other words, if, if people are uncomfortable touching each other, does this create a sense of intimacy or a zero kind of alienation because you don't really know who you're touching or.
+
+00:57:45.000 --> 00:57:51.000
+I mean, it seems to have psychological issues really built into it, which is fascinating.
+
+00:57:51.000 --> 00:58:11.000
+Yeah, so it's it, you're correct. It is really interesting it oftentimes there's a lot of discussion around like consent and setting boundaries before play begins in that way, it takes a lot of cues from things like Nordic ALARP, which have a variety
+
+00:58:11.000 --> 00:58:20.000
+of mechanisms for kind of mediating mediating intimacy and so.
+
+00:58:20.000 --> 00:58:23.000
+But yeah, even beyond that.
+
+00:58:23.000 --> 00:58:36.000
+It's a, it's a, an odd experience because it does have the potential for to like highlight the negative.
+
+00:58:36.000 --> 00:58:46.000
+The kind of negative intimacy. So part of one of the things that I probably got got cut off, was that like intimacy is not always a good thing.
+
+00:58:46.000 --> 00:58:51.000
+And that, and based on how that intimacy is deployed.
+
+00:58:51.000 --> 00:58:58.000
+It can like quickly change the experience of play.
+
+00:58:58.000 --> 00:59:03.000
+It seems to also refer relate to test it knowledge.
+
+00:59:03.000 --> 00:59:12.000
+I play kind of experimental guitar and I'll do it with my eyes closed sometimes and even wearing earphones so I can't hear what I'm doing and just feeling.
+
+00:59:12.000 --> 00:59:21.000
+So there's, there's something about remapping your whole body in a situation like that, and the kind of memory that goes along with it.
+
+00:59:21.000 --> 00:59:23.000
+Yeah, exactly.
+
+00:59:23.000 --> 00:59:37.000
+So I just have there's a question from Dan Cox, how am I, effective vectors and you're working mapping along the axis of remediation work for things like d&d enroll 20 or fantasy grounds.
+
+00:59:37.000 --> 00:59:48.000
+Yeah. So that was another thing that I that I've been thinking about, and it functions, somewhat similarly so
+
+00:59:48.000 --> 01:00:10.000
+well also somewhat differently depending. So like, I would say that like the things that are more thematically oriented end up being like the early computer RPG it because they are like explicitly making Dungeons and Dragons for the computer, whereas,
+
+01:00:10.000 --> 01:00:14.000
+Something like
+
+01:00:14.000 --> 01:00:32.000
+20 or fantasy grounds would be more interested in, you know, replicating the experience of sitting down and playing at the table so they'd be closer to something like arena, or spell table.
+
+01:00:32.000 --> 01:00:41.000
+And, yeah, so this is, this isn't kind of figuring out this relationship is kind of an ongoing process
+
+01:00:41.000 --> 01:00:43.000
+that.
+
+01:00:43.000 --> 01:00:56.000
+So this is like my third or fourth version of this kind of graph, trying to figure out like, what, what does it look like in these kinds of situations.
+
+01:00:56.000 --> 01:01:07.000
+That's good answer. Um, so there's another question here about AR, and I think that this is something interesting for Devin, there's a bunch of papers by.
+
+01:01:07.000 --> 01:01:13.000
+I think it the two authors or ip ip and Cooper stock, they talk about playing content on a light table.
+
+01:01:13.000 --> 01:01:36.000
+But they. The question is how do AR platforms factor into sort of this conversation of materiality, and then they linked to the tilt five, sort of, ar experience on the table.
+
+01:01:36.000 --> 01:01:38.000
+So yeah i think i think that's very.
+
+01:01:38.000 --> 01:01:44.000
+I haven't actually played till five but it looks very interesting.
+
+01:01:44.000 --> 01:01:51.000
+You know, I mean going from, from material that digital changes so much.
+
+01:01:51.000 --> 01:02:14.000
+I do think that it's an open research area in VR or a car to make it feel more real to make it for feel more material, so that when you're, you know you're in the lot of these platforms where you're using VR AR or Mr.
+
+01:02:14.000 --> 01:02:30.000
+You can see your hands sometimes, and it's just a representation of you pushing the controller buttons, but it does feel like your hands after a while, and.
+
+01:02:30.000 --> 01:02:47.000
+And depending on how well the haptics are implemented in the touching of things, it can actually feel like you're touching something like if you're playing beat saber and VR, you actually feel yourself.
+
+01:02:47.000 --> 01:03:06.000
+Cut what you would think, because nobody really knows what a lightsaber would feel like cutting through a block as your, your digital lightsaber is going through the blocks that are going by and so I think that, you know that's kind of like the goal of
+
+01:03:06.000 --> 01:03:26.000
+a lot of these platforms is to try and bring more of that feeling of that materiality over as an aesthetic and, and so things like the void VR experience where they actually have you touch a lot of things that are actually physical things.
+
+01:03:26.000 --> 01:03:41.000
+If you took your glasses off they wouldn't look anything like what they look like in the virtual world, but you know it makes all the difference to the illusion that when you grab this lever, there's actually a lever there where you don't get that in
+
+01:03:41.000 --> 01:03:45.000
+the home VR experience.
+
+01:03:45.000 --> 01:03:55.000
+So, so I think that there's there's levels of theatricality to bring that illusion into the virtual world.
+
+01:03:55.000 --> 01:04:08.000
+And the more you can do it in a way that is seamless it's it's really pretty amazing. It makes you it grounds you in that experience even more.
+
+01:04:08.000 --> 01:04:25.000
+In thinking about virtual board games. There used to be a version of Scrabble where you're sort of tray for your letters was your iPhone, and the board itself is on an iPad.
+
+01:04:25.000 --> 01:04:33.000
+And so, this game, you know, in order for you to play it, you had to have spent something like, what seven $8,000.
+
+01:04:33.000 --> 01:04:52.000
+And I think that a lot of the reasons for not like we're sort of touching on some of this stuff like what's the potentials, because we don't know really how to study it right what's good in this particular regard and then to this stuff is very inaccessible,
+
+01:04:52.000 --> 01:05:11.000
+the amount of money you need to use like till five or something like that is, is prohibitive. In a lot of ways. I keep coming back to Golem Arcana, which sadly wasn't really implemented very well but all of the little miniatures, you know, these are things
+
+01:05:11.000 --> 01:05:27.000
+that you could touch all of their information was stored on an app. And so you had to touch RF tags on a miniature so that you do this. I think there's different ways for you to kind of mediate sort of the procedures of play with the materials of play.
+
+01:05:27.000 --> 01:05:38.000
+And I hope that people start trying different things as we move forward. Yeah I'm, I'm thinking about things like recently, or I guess several years ago.
+
+01:05:38.000 --> 01:05:59.000
+Keep talking. Nobody Explodes where you have one person who has the headset and then everyone else is given a pamphlet, or even something like the battle tech pods, which I get it's, it's, I'm not was like an interesting like mixed reality kind of experience.
+
+01:05:59.000 --> 01:06:13.000
+Personally I mean I don't really think you should adapt to me. Well, I don't know if you should but I don't think it's a good use of the medium if you're not changing it.
+
+01:06:13.000 --> 01:06:32.000
+When you're going from the physical game to the virtual game I mean I really love the idea. I haven't played it, of the, the Magic the Gathering one channel are where your wizard going around playing the game in the, in the, in the game world.
+
+01:06:32.000 --> 01:06:40.000
+You know that sort of meta narrative within or meta play inside of the game.
+
+01:06:40.000 --> 01:06:44.000
+So, you know, I think that you might.
+
+01:06:44.000 --> 01:06:49.000
+I liked, I liked the idea of exploring how does it change it.
+
+01:06:49.000 --> 01:07:07.000
+Rather than trying to keep it the same, although I can see where the one reason why you would want to maybe completely say create a digital version of a board game would be to be able to play with people that are on the other side of the world.
+
+01:07:07.000 --> 01:07:11.000
+You know who are not in your space at all.
+
+01:07:11.000 --> 01:07:14.000
+Especially with covert and everything.
+
+01:07:14.000 --> 01:07:30.000
+And in that case, I mean, there are certain things you'd want to replicate to give that feeling of the real game like I play dominoes and Mexican train a lot and one of the things is the sound of those you know the sound of the dominoes hitting each other
+
+01:07:30.000 --> 01:07:45.000
+when you move them around you would want to replicate that if you if you wanted to sort of make a digital version that you could play with people somewhere else, that there's an interesting thing I think that happens when you digitize a game.
+
+01:07:45.000 --> 01:07:50.000
+Because like the analog, the physical space the tabletop space.
+
+01:07:50.000 --> 01:08:08.000
+Humans are imperfect. And so, we often will finish a game and then realize, Oh, I missed a rule 20 turns back. This is especially prevalent in magic because there's so many different interactions with cards and things like that, almost universally when
+
+01:08:08.000 --> 01:08:13.000
+I was experimenting with trying to figure out how to measure what happens during play.
+
+01:08:13.000 --> 01:08:20.000
+When I handed the players an iPad and told them to play another game of content using just this.
+
+01:08:20.000 --> 01:08:25.000
+They all said, I've been misinterpreting that rule for a long time.
+
+01:08:25.000 --> 01:08:37.000
+And so this is where, like, yes you should take advantages advantage of the medium, but the recognition that like computers can't make exceptions to the way that they're programmed.
+
+01:08:37.000 --> 01:08:47.000
+And so, your the procedures of a tabletop game especially where, especially in like magic and things like that.
+
+01:08:47.000 --> 01:08:57.000
+They become a lot more strict. And I think that this tends to sort of take away from the human factor on the board game.
+
+01:08:57.000 --> 01:09:12.000
+But yeah, I don't know. Yeah, I think that's one of the reasons why things like spell table or tabletop simulator especially are interesting is because it's, it doesn't.
+
+01:09:12.000 --> 01:09:21.000
+It still relies on the the human aspect to follow the procedures of the game and like execute this this like these processes.
+
+01:09:21.000 --> 01:09:29.000
+So I had a question that's actually relevant to what we're talking about now, and I guess this would be for uj, which is that.
+
+01:09:29.000 --> 01:09:38.000
+So like, you can play magic on things like lackey GIMP octagon.
+
+01:09:38.000 --> 01:09:43.000
+Are you going to incorporate those types of platforms into your.
+
+01:09:43.000 --> 01:10:05.000
+Yeah, it's definitely something that I want to look into is like what are the ways that games like magic are being adapted to digital play, and what what are the impacts of that so like one of the things I was talking to someone about how there are a
+
+01:10:05.000 --> 01:10:22.000
+of the language and how they write, Matt magic cards is changing because of the emphasis on arena. So before. When you would play magic. Generally you would have your, your deck of 60 cards with like 15 card sideboard that you could swap cards and from.
+
+01:10:22.000 --> 01:10:35.000
+And so, like, as you would play people you would swap cards in and out but for magic, but for arena since you generally match with a person, a random person one time, play one game and then disconnect and never see them again.
+
+01:10:35.000 --> 01:10:51.000
+They're starting to print a lot of cards that are either or so it's do this or this so it gives you more options without having to split things, or even a lot of the language is getting less vague and more.
+
+01:10:51.000 --> 01:11:03.000
+Almost like you would do like a write a natural language processing program.
+
+01:11:03.000 --> 01:11:18.000
+Cards banned in arena but not in the paper version that's super interesting that this has been a project that we've been trying to get off the ground for a while, has to do with
+
+01:11:18.000 --> 01:11:27.000
+how charisma. The Christmas attribute changed in dungeons and dragons across all of its disparate additions.
+
+01:11:27.000 --> 01:11:33.000
+Because when d&d was digitized charisma was the most powerful stat in the entire game.
+
+01:11:33.000 --> 01:11:46.000
+Right, all the robe likes, all of the early versions of Dungeons and Dragons. They ignored charisma because it also meant that your retinue that giant amount of creatures that are following you around.
+
+01:11:46.000 --> 01:11:56.000
+They couldn't follow you into the dungeon and so if you watch it from its early first release and the wooden box and 74 getting into first edition in like 81 or 81.
+
+01:11:56.000 --> 01:12:13.000
+Getting into second edition you see this sort of retreat back in taking charisma and sort of taking a lot of the word game out of Dungeons and Dragons, and putting it more into the emphasis of this performative clay is super interesting to watch, but
+
+01:12:13.000 --> 01:12:29.000
+it's watching this sort of interplay of dungeons and dragons and our relationship to systems, our relationship to computation, the sort of spread of our acceptance of like automated procedures.
+
+01:12:29.000 --> 01:12:39.000
+It's really affected dungeon dragons and it's really interesting to see where we are at this particular moment where dungeon dragons has sort of gone backwards all the way to.
+
+01:12:39.000 --> 01:12:52.000
+That 1974 dungeon exploration type game, and there's just so much out there that needs to be explored more in this particular space.
+
+01:12:52.000 --> 01:13:03.000
+So Nick Have you made one of those maps for Dungeons and Dragons, which map. The, the, oh my, the social network analysis No Yes.
+
+01:13:03.000 --> 01:13:21.000
+You said map, I've written like three different papers on cartography cartographic experiences at the table, mostly because emergency management, it's central figure is a map right where are the people that need help how Where are assets in the field.
+
+01:13:21.000 --> 01:13:27.000
+And so, evaluating how the map and our, the way that we interact with maps over time changes.
+
+01:13:27.000 --> 01:13:43.000
+But in terms of social network analysis of playing d&d, who, like what I was trying to do, took hundreds and hundreds of hours and there's ways for me to accelerate it doing that for D amp D would be super interesting.
+
+01:13:43.000 --> 01:13:52.000
+But I have to wonder like, how do you adjust for people starting to figure their characters out over time.
+
+01:13:52.000 --> 01:14:03.000
+Right when people come into Dungeons and Dragons, when they come into it like that board game they might not understand the rules but after the first time they play, you got a pretty good idea on it for the end, you're like well this time I'm going to
+
+01:14:03.000 --> 01:14:20.000
+a ranger and I'm going to use this kit from this specific book and I might use these specific things, how to bring all of that stuff in to analysis, I don't know. I mean you could do it but it would be extremely painstaking very time sensitive and also
+
+01:14:20.000 --> 01:14:32.000
+be interesting to consider like at that point what counts as, like, pieces of the game because you know, there's the joke that like snacks are an important part of every Dungeons and Dragons experience or,
+
+01:14:32.000 --> 01:14:46.000
+you know, things like that. So I think it'd be especially since there's no prescribed pre prescribed turn order things, things like that get met get messy like how
+
+01:14:46.000 --> 01:15:05.000
+well what's the one, there's an app for Chrome and add on for Chrome, that feeds into roll 20 from the DNS thing, and it puts all these buttons into role 20 so it mediates all the rules we don't need to know anything anymore.
+
+01:15:05.000 --> 01:15:18.000
+As long as your character is created correctly you just push a button, and you're like okay, and it makes me think about like my favorite board games and a lot of the board games that we played when I was more active in that space we're all faceless like
+
+01:15:18.000 --> 01:15:31.000
+we played Amber's chronicles of Amber. We played a lot of big I small mouth, which is just three stat, but body, mind and soul. And so we were almost entirely an improv troupe.
+
+01:15:31.000 --> 01:15:46.000
+Seeing D amp D which has really gone back into like trying to have a ton of rules so that people. It can accept any kind of person, there's a lot there, that needs to be unpacked.
+
+01:15:46.000 --> 01:16:04.000
+And this is what we've been really trying to dig into with some of our analysis at this particular point. But, yeah, it's. There's so much to unpack there I don't know, when you can.
+
+01:16:04.000 --> 01:16:06.000
+Yeah.
+
+01:16:06.000 --> 01:16:15.000
+You're not allowed to use that spec anymore it's too powerful.
+
+01:16:15.000 --> 01:16:31.000
+It's, I still think fourth edition front end is probably the most interesting for academic inquiry, because it was the moment in time where like video games, informed Dungeons and Dragons so much that it reflected, video games, and then fifth edition
+
+01:16:31.000 --> 01:16:35.000
+retreats all the way back to the beginning.
+
+01:16:35.000 --> 01:16:42.000
+Oh no it isn't talked about enough, like, it is a it is amazing, this, it's this tiny little moment in time.
+
+01:16:42.000 --> 01:16:51.000
+Like right after the World Trade Center disaster all the way up until like net culture starts to explode. It's just fourth edition represents that space.
+
+01:16:51.000 --> 01:16:58.000
+It's like watching the fifth rocky movie and you're like I don't like this but also the 90s were crazy and terrible.
+
+01:16:58.000 --> 01:17:01.000
+You just have to accept that.
+
+01:17:01.000 --> 01:17:07.000
+So, I will note that we're a little bit over time.
+
+01:17:07.000 --> 01:17:14.000
+But, you know, I'm thoroughly enjoying this conversation.
+
+01:17:14.000 --> 01:17:25.000
+But I want to thank the two of you for being on this panel, and everyone who came to show up as well as our conference admin for
+
+01:17:25.000 --> 01:17:28.000
+keeping things running smoothly.
+
+01:17:28.000 --> 01:17:33.000
+Yes, thank you very much. Thank you. It was also very interesting conversation.
+
+01:17:33.000 --> 01:17:38.000
+And one day I want to talk about d&d with you.
+
+01:17:38.000 --> 01:17:51.000
+Absolutely.
+

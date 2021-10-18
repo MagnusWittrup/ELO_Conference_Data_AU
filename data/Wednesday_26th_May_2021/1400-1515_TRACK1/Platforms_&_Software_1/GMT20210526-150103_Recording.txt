@@ -1,0 +1,26 @@
+01:14:10	Christine Wilks:	Why do universities not use Moodle, which is the open source version of Blackboard?
+01:14:22	Christian Ulrik Andersen:	But there are still people exploring alternatives. Like the idea of a “fediverse”. So, we don’t necessarily need to go back into history to find alternatives to corporate structures.
+01:14:55	Vinícius UFMT:	Interesting: in Brazil Moodle is used in the vast majority of universities
+01:15:05	Dani Spinosa:	One of my universities (York) uses Moodle, too.
+01:15:18	Christine Wilks:	Yes, sorry, I should have said more universities
+01:15:30	Dene Grigar:	Christine, I wonder why universities use out of the box systems for much of what they do rather than customize what they need using open source tools
+01:15:37	Rob Wittig:	Our university just moved us from Moodle to Canvas :(
+01:15:38	Vinícius UFMT:	If you are going to use something that is no open software, the law requires that you prove why an open program is not viable
+01:15:53	Vinícius UFMT:	The Brazilian law, I mean
+01:16:06	Dani Spinosa:	Would be very interested to know what LMSs your institutions use, btw. Feel free to backchannel me.
+01:16:07	Melinda White (she/her):	That’s a great law!
+01:16:26	Melinda White (she/her):	Also Canvas
+01:16:47	Vinícius UFMT:	That applies also for Microsoft Office; our universities have to use BR OFFICE
+01:19:02	Søren Bro Pold (he, him):	Universities the last year have invested billions in Zoom accounts…
+01:19:14	Christine Wilks:	The open web platform is very robust and there's a lot of exciting development in and on the open web platform
+01:19:20	Alessia Pannese:	Thank you very much for the presentation and discussion.
+01:19:32	Dene Grigar:	Thanks, everyone!
+01:19:38	Marjorie Luesebrink:	thanks so much-wonderful
+01:19:39	Dene Grigar:	Great papers
+01:19:39	Melinda White (she/her):	Thank you!
+01:19:43	Alessia Pannese:	Thank you very much for presentations and discussion.
+01:19:46	Roberta Iadevaia:	thank you :)
+01:19:48	Christine Wilks:	Thanks all. Very interesting
+01:19:50	Søren Bro Pold (he, him):	Thank you! Great panel.
+01:19:51	CLARA CHETCUTI:	Thanks so much for turning this in the direction of complicity! All papers were super engaging!
+01:20:06	Andréa Catrópa:	Thank you!

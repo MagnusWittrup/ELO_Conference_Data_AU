@@ -1,0 +1,71 @@
+00:22:40	Christian Ulrik Andersen:	Optag evt også “jinglen”. Det ser godt ud :-)
+00:26:38	Serge BOUCHARDON:	Q @David:Maybe you know a book published by Georges Perec (member of the Oulipo) in 1975 entitled “An Attempt at Exhausting a Place in Paris” (“Tentative d’épuisement d’un lieu parisien”). Perec aims to describe all the things that usually pass unnoticed. We can find an encyclopedic mode, diegetic exuberance, completeness… Would you consider this work as a maximalist novel?
+00:27:34	Serge BOUCHARDON:	Q @David:Do you think digital technology facilitates, reinforces or reconfigures this notion of “maximalist novel” (the flow of information, notably the dream of getting all data, the intersemioticiy)?
+00:28:36	Serge BOUCHARDON:	Amazing
+00:32:59	Serge BOUCHARDON:	Q @Leah:To what extent do the videos by Steve Roggenbuck (and maybe his own personal life) illustrate the tension at the heart of « third generation e-lit »: complicity vs. resistance vis-à-vis social media platforms ?
+00:33:21	Serge BOUCHARDON:	Is the biography of 3G el-it authors more relevant than for other authors, because digital platforms make the connection between life and work even stronger and more visible?
+00:33:25	Shanmuga priya:	Very interesting!
+00:40:53	Vinícius UFMT:	Super interesting discussion! Loved the thought on platform stories
+00:41:25	Shanmuga priya:	Wonderful!
+00:43:51	Vinícius UFMT:	Q @Erika and Serge: would storyshowing be a bit of a sequential art, like comics, with panels that quickly replace one another?
+00:44:06	Joseph Paul Tabbi:	Q Smartfictions: 'fictional time inserted in the reader's real time' (Serge).'real time data flows' become more of a presence: both observations seem right to me, but  they might change the nature of realism (as much as the nature of narrativity) and yes, if both realism and narrative are so seamlessly absorbed, do we have a need for a literary dimension?
+00:44:35	Serge BOUCHARDON:	If we accept that “literariness” is a social and historical construction (in the sense that it has always varied with time), can we speak of the “post-literary”?Do you think that digital technology accelerates the reconfiguration of “literariness”?
+00:44:50	Serge BOUCHARDON:	Q @Clara...
+00:45:10	Chris Arnold:	Question for Serge and Erika
+
+I loved this thinking of time and narrative in electronic media. I have an idea that there's a fundamental difference between the social media stories and the narrativised data feed: You mention Manovich's database idea in your paper. As a software engineer, we understand databases and the network as roughly equivalent: the database represents data at rest and the network is data in motion. I wonder if the social media stories are an example of database narratives while the data feed is somehow static, and therefore deficient as narrative in the terms you describe from Ricoer? Whereas the narrativised train timetable is a diametric opposite, and intrinsically performative. What do you think of this idea?
+00:45:59	Chris Arnold:	Sorry, I miskeyed my question. Will repost.
+00:46:27	Leah Henrickson:	Q @ David and Chris - Your paper talks about paranoia/the paranoid imagination. Could you please talk a bit more about how paranoia might factor into The Perfect Democracy?
+00:46:28	Erika Fulop:	Really interesting renard, thanks Chris! I do wonder how this works from the programmer’s perspective
+00:46:51	Erika Fulop:	remark I meant (French autocorrect…)
+00:48:44	Erika Fulop:	I’ve got an issue with this « post-«  hype, quite trends to announce everything post...
+00:48:52	Erika Fulop:	trendy
+00:48:56	Chris Arnold:	Sorry for the earlier typo! Too much self-editing. Here it is again: 
+
+I loved this thinking of time and narrative in electronic media. I have an idea that there's a fundamental difference between the social media stories and the narrativised data feed: You mention Manovich's database idea in your paper. As a software engineer, we understand databases and the network as roughly equivalent: the database represents data at rest and the network is data in motion. I wonder if the social media stories are an example of database narratives are somehow static, and therefore deficient as narrative in the terms you describe from Ricoer? Whereas the narrativised train timetable is a diametric opposite, and intrinsically performative. What do you think of this idea?
+00:50:49	Deena Larsen:	H ow much do the definitions matter?
+00:51:14	Deena Larsen:	What are the implications of definitions?
+00:51:42	David Wright:	What impact does the platform make – looking at the examples from Serge and Erika’s presentation, I was reminded of Bigelow’s How To Rob a Bank – which doesn’t use the social media platforms themselves, but refers to them… 2nd rather than 3rd. What difference does the absence of social media platform mean? What would it be like to adapt that work to social media… or vice-versa, to remove them from social media and ‘create’ them sans platform?
+00:52:10	David Wright:	RE: Deconstruction of temporality … what about temporal play in ‘classical’ literature? My professor when I was at Edinburgh once performed a version of Ulysses that took something like 30 hours – meaning that if you read faster than you read out loud, it probably plays for exactly 24 hours. Or In Search of Lost Time, which Erika is of course the authority… just to be pedantic, where is the ‘temporal’ divide?
+00:54:20	Erika Fulop:	Exactly..
+00:54:46	Malthe Stavning Erslev:	We need to create a notion of post-post :-)
+00:54:56	Serge BOUCHARDON:	Roland Barthes wrote : "Lirterature is what is taught in schools, that's all""La littérature, c'est ce qui s'enseigne, c'est tout"
+00:54:59	Leah Henrickson:	Given this year's conference theme, pppost?
+00:55:00	Erika Fulop:	Haha indeed, let’s do that!
+00:55:41	Malthe Stavning Erslev:	Q @ Serge & Erika:The question of digital temporality infers a different temporality, as you also commented upon. The temporality of 'the digital' (which might better in this context be referred to as 'computational') is arguably one of 'micro-temporality', which is radically different from our usual notion of 'real-time', even though it is the technical enabler for the notion of real-time media. Do you have any comments on whether there are narrative ways of engaging with microtemporality? Shintaro Miyazaki proposes a rhythmic approach to the understanding of computational algorithms, incl. their micro-temporality -- i.e. what Miyazaki calls 'algorythmics'. Would this fit within your notion of 'narrative'? If so, how does that turn into e-lit? (A lot of questions, I know.. And thanks for the fascinating presentation!)
+00:56:25	David Wright:	RE: Serge’s earlier question, I’m very much reminded of Calvino’s text ‘The Castle of Crossed Destinies’, in which he uses the Tarot Cards as a literary machine. His goal was to exhaust all possibilities, to make a ‘complete’ narrative, but he ultimately abandoned the novel – this ultimately became too weighty (in opposition to lightness) – and leads to his value of ‘crystal’ exactitude, where referring to Piaget, sought to create ‘enough variation’ to allow the reader to imagine the ‘completeness’ of the text, as opposed to wholly exhausted  this led him to novels such as If on a winter’s night a traveller… what Calvino calls a kind of zig-zag structure. And this is the basis for the novel I’m attempting – I cannot represent every character in the culture, but by zig-zagging through the culture I can utilise visibility (currency) to move through the culture as quickly as possible.
+00:56:26	Malthe Stavning Erslev:	Ref: http://computationalculture.net/algorhythmics-understanding-micro-temporality-in-computational-cultures/
+00:56:34	Malthe Stavning Erslev:	(For my question above)
+00:56:42	David Wright:	RE: Serge’s second question: I feel that yes, although the difference is we approach the posthuman… there is ‘too much’. Thomas Pynchon and Foster Wallace are thick and heavy and big, but it is readable. Which is why I feel is why Calvino’s value of ‘lightness’ and ‘consistency’ is requisite. For Calvino, in a data-heavy age ‘realism’ becomes a form of orientiaton, rather than discovery. Calvino’s informed another project I’ve attempted, which is called A Recombinant History of Australian Camels – where I found all the images I could from Australian archives of camels – and used these to similarly, quickly navigate the entire history of Australian camels, which were introduced in 1840.
+01:01:37	CLARA CHETCUTI:	Re: Serge's question about how we can speak of the post-literary if literariness changes constantly with time, I suppose to do that in good conscience we would need to incline towards theorisations of the post- that do inscribe notions of linear progressions of time so that we talk of befores and afters - I'm talking of course about the kind of theorisation that CounterText, Stefan Herbrechter, and to soem extent Lyotard enables
+01:02:42	CLARA CHETCUTI:	And if digital technology does not accelerate the reconfiguration of literariness, it definitely marks the need to reconfigure the institutions thinking about what the literary encompasses
+01:03:09	Zach Whalen (He|Him):	My colleagues in Communication studies call that sense of connection to a social media persona a "parasocial relationship".
+01:07:38	Christian Ulrik Andersen:	For Serge and Erika - but concerning the “previous question of “post" (modernism, digital, etc), more generally. There is a certain periodising logic in this, which e.g. allows us to understand a crisis (such as the financial, heat, climate, etc.) ... It allows us e.g. to periodise technological innovation and how this is played out culturally (as in post-digital, post-internet, post-platform).
+
+In Serge and Erika's presentation you suggest a series of literary genres that also complicate time -  og make the complication of time an experience to us, as e.g. not post/prior but realtime, contemporary, microtemporal, etc.. Am I right to assume this dichotomy? (Between a (modernist) periodising logic and a complication of time)?Can you say, perhaps, more about what these work that complicate time reveal to us? That a periodising (modernist) logic perhaps does not address?  What other epistemological layers do they make visible to us? (I know this is a very broad question)
+01:13:18	CLARA CHETCUTI:	@David, I was talking about Gertrude Stein's The Making of Americans (1925) earlier
+01:15:47	Søren Bro Pold:	Q: I like to follow up on the discussion of platforms in relation to David + Chris and Serge/Erika. I wonder if it is the case that platforms such as social media (e.g Erika’s ex. of Facebook stories) aim to hide their narrative settings and schemes. E.g. the narrator is turned into an algorithm, the temporality is hidden as an eternal ‘nowness’ and the plot (and the manipulation of it, e.g. the manipulation that follows from business models, etc). is hidden. In this way it results in an illusion of contact or a minimalist hiding of the interface. In this sense, E-lit might be a form of art, that makes this minimalist hiding visible – sort of a minimalist realism in stead of the maximalist attempt of ‘realism’ of big data and social media?
+01:16:38	Søren Bro Pold:	And btw. such a fantastic panel! :-)
+01:17:49	Astrid Ensslin (she/her):	In narratology this is called narrativization (following gestalt principles)
+01:17:54	Vinícius UFMT:	Yes, I was thinking of McLoud when I made the question
+01:20:30	Serge BOUCHARDON:	@Leah : maybe we could speak of collecive identity...
+01:20:36	Serge BOUCHARDON:	*colelctive
+01:20:57	Leah Henrickson:	Absolutely, Serge - would love to continue this conversation!
+01:22:13	Erika Fulop:	Yes, I called this « the digital identity of a network » in the paper, « pixelated image constructed through a simple algorithmic juxtaposition »
+01:22:52	Erika Fulop:	But you’e absolutely right Leah, it’s not the same thing if we look at it from the poster’s end, teh receiver’s, or the platforms
+01:23:39	Søren Bro Pold:	I think you’re right Joe, but if it is a problem for e-lit, it is also an actual question for contemporary writing and reading culture.
+01:28:53	Leah Henrickson:	… are we saying that linear texts aren't e-lit?
+01:29:08	Leah Henrickson:	I feel like we're underestimating the reader's agency here.
+01:31:41	CLARA CHETCUTI:	"or whatever" is so spot on!
+01:31:52	Leah Henrickson:	^ So true!
+01:34:26	Malthe Stavning Erslev:	https://www.youtube.com/watch?v=apDFVsBDCYE A different experience of micro-temporality, through rhythmics
+01:36:01	Scott Rettberg:	Great papers, everyone!
+01:36:38	John McDaid:	Great, thought-provoking discussion! Thanks, all!
+01:36:43	Serge BOUCHARDON:	Merci ! Sorry for my bad English :-)
+01:37:03	Malthe Stavning Erslev:	Such a great panel, thanks all!
+01:37:09	Christian Ulrik Andersen:	Great panel. Joe. I get your point - but one might also ask (following the line of my question in the chat) why do we need this complication of time? What does it allow for? Rather than seeing it as a limit….
+01:37:18	CLARA CHETCUTI:	Thanks all!
+01:37:43	Christian Ulrik Andersen:	Enjoyed all the presentations… thanks
+01:37:45	Hazel Smith:	Thanks very much everyone, really enjoyed it
+01:37:46	Winnie Soon:	Thank you!
+01:37:48	Vinícius UFMT:	Great panel! Congrats to all presenters!

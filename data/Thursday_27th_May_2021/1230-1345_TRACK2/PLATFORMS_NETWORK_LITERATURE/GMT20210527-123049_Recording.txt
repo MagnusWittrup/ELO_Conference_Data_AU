@@ -1,0 +1,38 @@
+00:13:58	Claus-Michael Schlesinger:	I'm awfully sorry - having some problems logging on to the session. I'll try again.
+00:15:46	Magdalena Regina Tyzlik-Carver:	hello
+00:15:50	Roberta Iadevaia:	we have already solved the Babylonian Confusion ^^
+00:37:56	Roberta Iadevaia:	@Hartmut I just wanted to thank you for the huge and challenging work
+00:40:45	Hartmut Koenitz:	@Roberta Thank you!
+00:42:06	Mona Ulrich:	https://sdc4lit.de/
+00:48:42	Roberta Iadevaia:	sorry, is the sdc4lit web site only in German?
+00:49:10	Roberta Iadevaia:	(silly question maybe^^)
+00:50:43	Vinícius UFMT:	(same question here, LOL)
+00:51:59	Roberta Iadevaia:	nice, thank you!
+00:52:04	Martin Campostrini:	How does the visualization look
+00:58:13	Roberta Iadevaia:	very interesting, thank you
+00:58:23	Martin Campostrini:	Thank you
+01:00:45	Hannah Ackermans:	https://elmcip.net/research-collection/digital-literary-works-flanders-and-netherlands
+01:05:49	Magdalena Regina Tyzlik-Carver:	Q: where are these works now? are they archived somewhere already? Do you have a list already or are you compiling this list?
+01:07:07	Martin Campostrini:	What is the role of public libraries in the project? Maybe you already answered thi?
+01:07:39	Vinícius UFMT:	Q @Siebe: did you include in your corpus international authors who live in the Netherlands? Or Dutch/Flemish authors who live in other countries? I mean, how did you circumscribe your corpus on Ducth and Flemish e-lit?
+01:08:03	Siebe Bluijs:	https://elmcip.net/research-collection/digital-literary-works-flanders-and-netherlands
+01:08:35	Magdalena Regina Tyzlik-Carver:	thanks, great.
+01:12:50	Vinícius UFMT:	Thank you! That is a challenge for projects on Latin American e-lit as well
+01:15:37	Magdalena Regina Tyzlik-Carver:	are you collaborating with any media archeology projects or insitutions? Is that an element of your research too?
+01:15:53	Roberta Iadevaia:	@all How do you do with copyrighted works? (For example, I think of those of Eastgate). I mean, in that case it is not possible to extract the references, but only mention the work and link it to the publisher's site, right? Thank you
+01:21:28	Roberta Iadevaia:	all clear, thank you
+01:21:38	Martin Campostrini:	What about interactive installation pieces or other works that are not accessable online
+01:23:30	Dene Grigar:	Hi Mona and Claus-Michael
+01:23:43	Mona Ulrich:	Hello Dene :)
+01:24:52	Dene Grigar:	I am hoping to coordinate our initiatives via the CELL Server and a Wikibase
+01:25:19	Álvaro Seiça:	Yes I think it is important for resources to be integrated with CELL
+01:25:48	Roberta Iadevaia:	same in Italy
+01:25:50	Hannah Ackermans:	Yes, and also to link to CLARIN(O)
+01:26:13	Christine Wilks:	Thanks all
+01:26:19	Álvaro Seiça:	Thanks!
+01:26:23	Vinícius UFMT:	Great panel! 
+01:26:25	Giulia Carla Rossi (she/her):	thank you everyone, very interesting session!
+01:26:26	Roberta Iadevaia:	thank you :)
+01:26:28	Magdalena Regina Tyzlik-Carver:	Than you :)
+01:26:31	Martin Campostrini:	thank you
+01:26:33	miriam:	Thanks!

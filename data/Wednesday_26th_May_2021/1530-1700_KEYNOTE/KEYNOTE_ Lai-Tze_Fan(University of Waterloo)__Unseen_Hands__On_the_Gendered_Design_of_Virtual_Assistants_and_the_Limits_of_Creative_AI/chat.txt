@@ -1,0 +1,233 @@
+17:32:15	 From Brian Kelly : <3
+17:32:23	 From Lara El Mekkawi  To  All Panelists : Excited for this talk! Hi, Dr. Fan.
+17:36:11	 From Jeremy Hight : excited   yay
+17:36:56	 From Leonardo Flores : I’m nodding
+17:37:28	 From Samya Brata Roy : yes!
+17:41:02	 From Brian Kelly  To  All Panelists : Can you say more about language technology and Turing tests--do we change our reading habits when machines pass the turning tests?
+17:42:26	 From Krista-Lee Meghan Malone : oh lol there is chat separate from Q&A - I apologize whoever had to mark of my "question" earlier
+17:45:47	 From Søren Pold  To  Scott Rettberg and  All Panelists : Do you want to be promoted to panelist?
+17:46:40	 From Brian Kelly : Interesting that http://bostonreview.net/gender-sexuality/sarah-sharma-going-work-mommys-basement is from 2018---and I think Covid has complicated this exponentially
+17:48:16	 From Krista-Lee Meghan Malone : "which humans" YES thank you!
+17:49:42	 From Nick LaLone  To  All Panelists : My whole history of alexa commands is just... alexa! fart. I wonder what analysts do with these data.
+17:50:29	 From esther (she/her) : https://laitzefan.wordpress.com/portfolio/2018-unseen-hands-a-monograph-project/
+17:50:44	 From Matthew G. Kirschenbaum : \o/
+17:52:25	 From Nick LaLone : Tron is such a weird moment in shifting the user to men as god of the machine.
+17:53:06	 From Andrew Klobucar : She has a female name… I mean, sheesh…
+17:53:09	 From esther (she/her) : "sympathetic" is code easy to use for emotional labour
+17:55:11	 From Leonardo Flores : Personification is a core strategy for bot creation, and making it gendered is quite telling of the creators.
+17:56:55	 From Brian Kelly  To  All Panelists : Or because the developer has not *lived* that experience
+17:57:39	 From Dene Grigar : What I liked about MOO environments was that it allowed for multiple identities including non gendered
+17:59:11	 From Katie Schaag : yikes
+17:59:18	 From Scott Rettberg : Alexa just answered in our living room.
+17:59:27	 From Dani Spinosa  To  All Panelists : +1 yikes
+17:59:38	 From Leonardo Flores : Same here. :-)
+17:59:42	 From Katie Schaag : wow
+17:59:51	 From Maria Mencia  To  All Panelists : In mine too!
+18:00:55	 From Brian Kelly : wow. Thank you for unveiling these dark assumptions. It is so important to be aware of these!
+18:01:06	 From Leonardo Flores : The Pygmalion myth really resonates right now.
+18:01:21	 From Brian Kelly : Yes, this is very scary.
+18:01:37	 From CLARA CHETCUTI  To  All Panelists : I can't wait to read this book!
+18:02:03	 From Brian Kelly : If someone has an Alexa, could  you ask: Alexa, ask my wife to make me a sandwich?
+18:02:21	 From Patrick Lichty  To  All Panelists : The talk is triggering my Echo to make a sandwich. :(
+18:03:06	 From Krista-Lee Meghan Malone : I imagine this is how divorces happen
+18:03:09	 From Sarah Ciston (she/they) : They can anticipate their own sexist jokes but not sexism and racism in the world? Hmmm, telling
+18:03:23	 From Katie Schaag : ^
+18:03:31	 From esther (she/her) : ^!!!!!
+18:03:41	 From leannej  To  All Panelists : ^
+18:03:42	 From Liahm Ruest : ^^^
+18:04:09	 From Andréa Catrópa  To  All Panelists : A Brazilian bank made a campaing on TV to announce that the virtual assistant, called Bia (a female nickname) would respond harshly to verbal abusers
+18:05:06	 From Brian Kelly : We need advocacy in AI design!!
+18:05:27	 From Andréa Catrópa  To  All Panelists : But they didn´t think about changing to a "male" assistant
+18:05:55	 From Krista-Lee Meghan Malone : we do - and better representation in positions of power (matters otherwise people can be so easily ignored)
+18:07:33	 From Nick LaLone : I've often wondered if computation in its current form is akin to burning and stripping an entire forest down and when folks get up in arms about the loss of the forest, they are given a pencil made from the forest and told to use the tools created from the destruction to somehow fix what was destroyed.
+18:07:51	 From monique tschofen  To  All Panelists : Amazing metaphor Nick.
+18:09:11	 From Patrick Lichty : The talk was triggering my Echo… :(
+18:12:07	 From Brian Kelly : Wait, I thought Alexa (or having any device in your home) has been creepy since Orwell's 1984?
+18:12:28	 From Brian Kelly : John Cayley
+18:12:37	 From Brian Kelly : John Cayley's work is always so lyrical
+18:13:37	 From Brian Kelly : https://moto-assistant.informer.com/
+18:15:12	 From Nick LaLone : We've been 5 years from solving this issue for the past 70 years.
+18:15:56	 From Brian Kelly : AT least make the bias visible and public
+18:16:21	 From Brian Kelly : I'm reminded of Noah Wardip Fruin's Impermance agent...
+18:16:52	 From Sarah Ciston (she/they) : Thank you for discussing the emotional costs of your research! <3
+18:17:20	 From Katie Schaag : Absolutely brilliant talk, Lai-Tze!
+18:17:25	 From Vinícius UFMT : Applauses!
+18:17:26	 From Olli Tapio LEINO  To  All Panelists : clap clap clap
+18:17:28	 From Brian Kelly : Applause!!!
+18:17:29	 From Christine Wilks  To  All Panelists : Thank you!
+18:17:29	 From John McDaid : <<applause>>
+18:17:29	 From Liahm Ruest : *clap emoji*
+18:17:30	 From Kate Russell  To  All Panelists : Amazing talk, thank you so much!!!
+18:17:30	 From Scott Rettberg : Hurray! Great talk, :Lai-Tze!
+18:17:31	 From Lulu Liu  To  All Panelists : Woooooot
+18:17:31	 From david jhave johnston  To  All Panelists : well done!
+18:17:31	 From Caitlin Fisher : Fabulous!
+18:17:32	 From Winnie Soon : fantastic  ! Thank you!!!
+18:17:32	 From Mark Marino : brava!!!!
+18:17:33	 From Melinda White (she/her) : Great! Thank you!
+18:17:33	 From Laura Hyunjhee (she/her)  To  All Panelists : Care-based AI!! Thank you!
+18:17:34	 From monique tschofen  To  All Panelists : Lovely and important work Lai-Tze. Clapping.
+18:17:34	 From Oreto Doménech i Masià : Applauses!!!
+18:17:35	 From Matthew G. Kirschenbaum : *clapping*
+18:17:35	 From Brad Gallagher : Thank you!
+18:17:35	 From Agustín Berti : great talk!
+18:17:36	 From Maria Mencia  To  All Panelists : Excellent!
+18:17:37	 From Alexandra Tranc  To  All Panelists : Great talk! :)
+18:17:38	 From Vini : thanks  !!
+18:17:38	 From CLARA CHETCUTI  To  All Panelists : It seems our personification of these devices only goes so far because it certainly does not prevent us from being hateful to them in way that we might (just might) hesitate to be towards an actual person
+18:17:39	 From sarahthorne  To  All Panelists : Thank you! That was amazing! Really loved it!
+18:17:39	 From Álvaro Seiça : Brilliant, thanks!
+18:17:40	 From Roberta Iadevaia : great!
+18:17:41	 From Christine Wilks  To  All Panelists : Clap clap!!!!
+18:17:43	 From Andrew Demirjian he/him  To  All Panelists : thank you!!
+18:17:43	 From Zach Whalen (He|Him)  To  All Panelists : **applause**
+18:17:43	 From Mark Marino : standing o
+18:17:47	 From María Goicoechea  To  All Panelists : Thank you!!!
+18:17:47	 From annie : yessss
+18:17:47	 From Dene Grigar : wonderful
+18:17:47	 From Scott Rettberg and Jill Walker Rettberg : Thank you, that was a great talk! We were clapping in our living room.
+18:17:48	 From Agnieszka Przybyszewska  To  All Panelists : Thanks!
+18:17:48	 From Rob Wittig  To  All Panelists : Applause! Wonderful talk!
+18:17:49	 From Hannah Ackermans  To  All Panelists : clap clap clap!
+18:17:50	 From Jeremy Hight  To  All Panelists : awesome  standing ovation with my cat
+18:17:50	 From Ian Hatcher : Clap clap clap clap
+18:17:54	 From Mark Sample (he/him)  To  All Panelists : EXCELLENT TALK!!!!
+18:17:54	 From CLARA CHETCUTI  To  All Panelists : That was hella thought-provoking!
+18:17:54	 From Lisa : *clapping*
+18:17:54	 From Sarah Ciston (she/they) : Huzzah!!!!
+18:17:55	 From Mark Marino : excellent
+18:17:55	 From Joellyn J Rock : Bravo!!
+18:17:55	 From Serge BOUCHARDON  To  All Panelists : Superb
+18:17:56	 From Stefani Starivlah  To  All Panelists : Thank you Lai-Tze! (I'm giving a standing ovation from my desk!!!)
+18:17:57	 From Alex Saum-Pascual (she/her)  To  All Panelists : Woohoooo clap clap clap clap
+18:17:57	 From Richard Carter  To  All Panelists : Wonderful stuff
+18:18:02	 From Christian Ulrik Andersen : Yeah, applause
+18:18:04	 From mjsingh  To  All Panelists : *clapping* thank you!
+18:18:10	 From Joseph Paul Tabbi  To  All Panelists : timely
+18:18:12	 From Richard Holeton : Terrific Lai-Tze thank you!
+18:18:12	 From Serge BOUCHARDON : Bravo
+18:18:13	 From Andréa Catrópa  To  All Panelists : Thank you! Very nice :)
+18:18:16	 From Malthe Stavning Erslev : Can you say more about language technology and Turing tests--do we change our reading habits when machines pass the turning tests?
+18:18:36	 From Oreto Doménech i Masià : Very important things have been said
+18:18:38	 From Astrid Ensslin (she/her) : Thanks so much, Lai-Tze. Very compelling.
+18:18:42	 From Brian Kelly : This was really answered--except that now I want to ask--do we change our reading habits when we know the biases behind the programming?
+18:18:56	 From sbraune : Applause! :)
+18:19:46	 From Rob Wittig  To  All Panelists : The talk really encourages us to think more about the machine that says “No.”  Is anyone talking about Alexa shutting down for, say, 24 hours after being addressed in an abusive way? Three strikes and you lose your account?
+18:20:38	 From Christian Ulrik Andersen : If you have questions, you can use the Q&A function. This way you make sure that we see them :-)
+18:21:43	 From Brian Kelly  To  All Panelists : This was really answered--except that now I want to ask--do we change our reading habits when we know the biases behind the programming
+18:21:48	 From Álvaro Seiça : 1989
+18:23:04	 From Malthe Stavning Erslev : “Emotional nuance” has never been acceptable to modern knowledge systems. It’s an intriguing question to discuss. We can’t make algorithms as places of intense feeling… We don’t want Alexa to FEEL. But this could be a question of aesthetic response from where feeling derives. I think this is partly the strength of Ian Hatcher’s work…
+18:23:08	 From Judy Malloy : Just noting that women or nonbinary authored code can radically change algorithms, and it d it ccould  possible to do this with code
+18:24:16	 From Caitlin Fisher : Always causes me pause that the voice assistant for American Express is male - in contrast to female voices for all of my other cards  - super, extra reliable and professional ! Lol
+18:24:26	 From Krista-Lee Meghan Malone : build that! I cant help you, but I want that turn off in the world
+18:24:27	 From Dene Grigar : Checkout early cyberfeminists.
+18:24:37	 From Melinda White (she/her) : “Make your own damn sandwich” haha
+18:25:07	 From eQ / Jules [ they, them ] : Attaching emotions reminds me of Deena Larsen's Rose Language
+18:25:22	 From Sarah Ciston (she/they) : This project by Sylvie Howton is a nod to the feminist Alexa concept: https://map.usc.edu/project/the-android-mystique/
+18:25:36	 From CLARA CHETCUTI  To  All Panelists : I'm just wondering how hard it can possibly be to mix an automated voice that doesn't have either masculine or feminine overtones. A gender-neutral voice, if you like, because that might condition the kinds of requests the assistant is likely to get.
+18:25:41	 From Gabriel Pereira : It’s kinda weird, but this Brazilian bank (Bradesco) did a whole advertisement campaign on this. If customers mistreat the bank’s AI, it responds strongly. It’s a bit weird and complicated though, IMHO. See here: https://www.youtube.com/watch?v=-Ou6sCA1q1A
+18:26:05	 From Dene Grigar : Cheney and Weise’s Wired_Women; Hawthorne and Klein’s Cyberfeminsim; Harcourt’s Women @  Internet
+18:26:07	 From Andrew Klobucar : That’s interesting: performativity vs. spontaneity…
+18:26:24	 From Laura Hyunjhee (she/her)  To  All Panelists : Like Samantha in “Her”!
+18:27:06	 From Alan Sondheim  To  All Panelists : Years ago I met some researchers who were designing an emergency voice for fighter pilots - if the plane was in trouble and action had to be taken immediately. The voice was female; they found that pilots paid much more attention to a female voice than to a male. Somewhere I still have the files, but I don't remember the details offhand.
+18:27:08	 From Malthe Stavning Erslev : What do you think of purposely biasing language models in the other direction? Large language models like GPT-2/3 based on the internet will inevitably be biased towards a white western male viewpoint at best and full of racism and misogyny at worst. Since these behaviors are ultimately features learned by the neural-network expressed in the weights computed by the training process, what would it mean to proactively change these weights to reflect voices that are traditionally under represented?
+18:27:12	 From Mark Marino : this has me thinking of Emily Short's Galatea
+18:27:20	 From Dene Grigar : Mark +1
+18:27:24	 From Brian Kelly  To  All Panelists : REdirectiong from MalteWhat do you think of purposely biasing language models in the other direction? Large language models like GPT-2/3 based on the internet will inevitably be biased towards a white western male viewpoint at best and full of racism and misogyny at worst. Since these behaviors are ultimately features learned by the neural-network expressed in the weights computed by the training process, what would it mean to proactively change these weights to reflect voices that are traditionally under represented?
+18:29:00	 From Brian Kelly : We have to have that diversity of experience as input.
+18:29:49	 From Caitlin Fisher : we’re trying to retrain GPT2 with feminist datasets… but it’s so hard to shift such a large dataset. I can’t even imagine what kind of dataset would be needed to shift traditional. Western storytelling structures. Maybe need to start again rather than training on top of something so immovable…
+18:30:29	 From Søren Pold : Esther asks: Considering the mass commercalization and proliferation of residential AI technology by multibillion dollar corporations, how much of this is a reflection of the creators/developers and how much of it is a reflection of our socio-cultural mores of gender/sexuality? How do you discern this distinction?
+
+Is it possible that because coding/developing AI tech is by nature a collaborative task that it inherently diffuses and deflects personal responsibility in perpetuating these misogynitstic biases/tendencies and thus that much more complex to address accountability in tech development and creation?
+18:30:30	 From Malthe Stavning Erslev : Considering the mass commercalization and proliferation of residential AI technology by multibillion dollar corporations, how much of this is a reflection of the creators/developers and how much of it is a reflection of our socio-cultural mores of gender/sexuality? How do you discern this distinction?Is it possible that because coding/developing AI tech is by nature a collaborative task that it inherently diffuses and deflects personal responsibility in perpetuating these misogynitstic biases/tendencies and thus that much more complex to address accountability in tech development and creation?
+18:31:06	 From CLARA CHETCUTI  To  All Panelists : Too bad we've trained our existing AIs on such weighted datasets because now we can't have subsequent ones train on existing AI-production until the corpus is purified of human biases
+18:32:49	 From Brian Kelly : https://www.comparitech.com/blog/vpn-privacy/surveillance-capitalism/
+18:33:37	 From Leonardo Flores : Your talk reminds me of two SF films— Her (2013) and Ex Machina (2014), also Bladerunner 2049 (2017)— that expose how much a male dominated culture projects femininity onto AI, and how that projection makes AI seem more realistic (to men) because they’re distracted by their sexuality.
+18:33:54	 From CLARA CHETCUTI  To  All Panelists : ^^
+18:34:07	 From Alex Saum-Pascual (she/her)  To  All Panelists : Yes! I was also thinking about the same movies!!!
+18:34:31	 From Malthe Stavning Erslev : I wonder if you could talk a little about Alexa’s (or other assistants’) constant surveillance and how they have been used as criminal witnesses and the like. I also wonder if the fact that they are gendered female makes any difference in how comfortable folks are having them constantly listening.
+18:35:20	 From Brian Kelly : I wonder how this reflects on the Victorian attitude towards servants--where servants were invisible... yet there...
+18:36:01	 From Alexi Orchard (she/her)  To  All Panelists : https://www.wired.com/story/telltale-heart-fitbit-murder/
+18:36:12	 From Alexi Orchard (she/her) : https://www.wired.com/story/telltale-heart-fitbit-murder/
+18:36:35	 From Alex Saum-Pascual (she/her)  To  All Panelists : There’s been cases, but also police has asked for recordings like in this case: https://www.washingtonpost.com/technology/2019/11/02/police-think-amazons-alexa-may-have-information-fatal-stabbing-case/
+18:36:51	 From Brian Kelly : Yet there is bias in facial recognition as well--which can be deadly.
+18:37:16	 From Brian Kelly : As the photo datasets in facial recognition is not diverse, either
+18:37:16	 From eQ / Jules [ they, them ] : (Jules Chatelain, couldn't change my "name") - in my day job I create content for a conversational bot to augment (##REPLACE##) human customer service people. My team is working to expand the customers' possible inputs using a tool from MSFT (QnA Maker) that was not designed to easily support the amount of complexity we want to put in. After this talk I'm going back energized (and questioning the big narrative).
+18:38:47	 From Andrew Klobucar : It’s interesting how masking wasn’t ever really considered an effective response to outdoor and indoor surveillance technologies
+18:38:54	 From Malthe Stavning Erslev : my former comp sci student was flown up to use his thesis that extrapolated ms paint to music in tones and shadings to rewrite alexa to be more intuitive and flexible but turned it down....also when gps first was in cars there were male voice models including celebrities that just did not catch on....wondering how you see the future of this embedded sexism in technology
+18:39:03	 From Søren Pold  To  Malthe Stavning Erslev(privately) : You’re obviously pointing to dimensions of how gender is coded in to software, platforms, interfaces and modes of interaction. And you also pointed to the work of Daniela Rosner on how the histories of females have been forgotten. And this is obviously a problem. But is this just a problem of gender, or a wider problem of domination and manipulation? There are also histories of how ‘female’ practices have entered into interface design, e.g. Stephen Monteiro’s: The Fabric of Interface, where he argues that touch interfaces in some ways are based on stitching. However, touch interfaces are not ‘nicer’ in any way, are they? They’re in many ways just as manipulating, even though they are based on feminine practices, aren’t they?
+18:39:41	 From Patrick Lichty : For example, Waze is a GPS program that allows users to make their own vocal cues. How can we use that to subvert the normative model of voice assistants?
+18:39:41	 From CLARA CHETCUTI  To  All Panelists : (hey Samuel Jackson, Morgan Freeman's voices would make GREAT voice assistants)
+18:40:03	 From Patrick Lichty : Through “resigning”?
+18:40:08	 From Patrick Lichty : skinning
+18:40:51	 From Patrick Lichty : KDA?
+18:40:55	 From Brian Kelly : yes, but this problem is much more than skin-deep
+18:40:57	 From Stefani Starivlah : I'm really glad you brought up Aespa--it's a great emerging example of this whole thing
+18:42:00	 From eQ / Jules [ they, them ] : When a keynote can launch a bunch of other discussions that is a GOOD thing
+18:42:12	 From Brian Kelly : Jules +1
+18:42:31	 From Malthe Stavning Erslev : But diversifing and aiming at equal representation would not eventually boost the data extactivism that underlies corporate platform economy?
+18:43:09	 From Brian Kelly : collecting data to diversify datasets... yep.
+18:43:20	 From Agustín Berti : Would not make them more profitable in terms of surveillance capitalism goals?
+18:43:21	 From Brian Kelly : privacy vs utility...
+18:43:55	 From Katie Schaag : And increasing the sophistication of predictive policing algorithms
+18:44:18	 From Agustín Berti : Maybe the debate is demmanding that data sets are made public instead of private
+18:44:23	 From Leonardo Flores : Yes
+18:44:49	 From Scott Rettberg : Seems like all roads lead to boosting the data extactivism.
+18:44:53	 From Jeremy Hight  To  All Panelists : it is interesting that early theory into more semantic web search  pre alexa etc the metaphor often was golf caddy....then it was switched/engendered in general to one could say the old female assistant problematic structure
+18:45:16	 From Malthe Stavning Erslev : Your talk reminds me of two SF films— Her (2013) and Ex Machina (2014), also Bladerunner 2049 (2017)— that expose how much a male dominated culture projects femininity onto AI, and how that projection makes AI seem more realistic (to men) because they’re distracted by their sexuality.Is the way bots are gendered a kind of social hack to get people to fall into socialized habits?
+18:46:14	 From eQ / Jules [ they, them ] : Ready Player One extremely "male" "one of us"
+18:46:33	 From eQ / Jules [ they, them ] : Even though some of the core team are POC (sigh)
+18:46:39	 From Leonardo Flores : All of those films are extremely male.
+18:46:43	 From Andrew Klobucar : Completely agree with Agustin Berti… That is a KEY point here… America is very backward in this regard - compared to EU
+18:46:57	 From Brian Kelly : yes, as H has to be a male and white avatar in Ready Player 1... the forced representations mirror society
+18:47:25	 From eQ / Jules [ they, them ] : Brian +1
+18:47:29	 From Andrew Klobucar : …The data commons
+18:48:12	 From CLARA CHETCUTI  To  All Panelists : That scene in the desert with women's bodies rising out of the dunes is unforgettable and also such a visual nod to Philip K. Dick's ambivalence towards women, as Katherine Hayles discusses
+18:48:35	 From eQ / Jules [ they, them ] : Pale Fire: "There is a large amusement park directly across from my present lodgings." [me: and it's US culture UGH]
+18:50:05	 From eQ / Jules [ they, them ] : LTF: appreciate your point about how "doing this work is NOT FUN" and is emotional labor. Important for all scholars of all genders: mutual community support like this, and self care
+18:50:10	 From Leonardo Flores : Thank you!
+18:50:17	 From Malthe Stavning Erslev : You’re obviously pointing to dimensions of how gender is coded in to software, platforms, interfaces and modes of interaction. And you also pointed to the work of Daniela Rosner on how the histories of females have been forgotten. And this is obviously a problem. But is this just a problem of gender, or a wider problem of domination and manipulation? There are also histories of how ‘female’ practices have entered into interface design, e.g. Stephen Monteiro’s: The Fabric of Interface, where he argues that touch interfaces in some ways are based on stitching. However, touch interfaces are not ‘nicer’ in any way, are they? They’re in many ways just as manipulating, even though they are based on feminine practices, aren’t they?
+18:50:25	 From Søren Pold  To  All Panelists : I have this question if we have time for more: You’re obviously pointing to dimensions of how gender is coded in to software, platforms, interfaces and modes of interaction. And you also pointed to the work of Daniela Rosner on how the histories of females have been forgotten. And this is obviously a problem. But is this just a problem of gender, or a wider problem of domination and manipulation? There are also histories of how ‘female’ practices have entered into interface design, e.g. Stephen Monteiro’s: The Fabric of Interface, where he argues that touch interfaces in some ways are based on stitching. However, touch interfaces are not ‘nicer’ in any way, are they? They’re in many ways just as manipulating, even though they are based on feminine practices, aren’t they? And if so, is feminism rather than gender focus the solution?
+18:50:52	 From Søren Pold : I have this question if we have time for more: You’re obviously pointing to dimensions of how gender is coded in to software, platforms, interfaces and modes of interaction. And you also pointed to the work of Daniela Rosner on how the histories of females have been forgotten. And this is obviously a problem. But is this just a problem of gender, or a wider problem of domination and manipulation? There are also histories of how ‘female’ practices have entered into interface design, e.g. Stephen Monteiro’s: The Fabric of Interface, where he argues that touch interfaces in some ways are based on stitching. However, touch interfaces are not ‘nicer’ in any way, are they? They’re in many ways just as manipulating, even though they are based on feminine practices, aren’t they? And if so, is feminism rather than gender focus the solution?
+18:51:29	 From Mark Marino : Also Hicks' work
+18:55:19	 From Leonardo Flores : ELC2
+18:55:25	 From Leonardo Flores : Wonderful work!
+18:55:44	 From Brian Kelly : Dene Grigar is now resurrecting this work and Christine read it a month or two ago--@Dene --what was the link
+18:56:03	 From eQ / Jules [ they, them ] : Toast to the Flash Generation on viemo
+18:56:05	 From Søren Pold : I agree, actually Monteiro also points to use practices and material practices as part of his interface analysis.
+18:56:09	 From Christine Wilks : Yes, thank you so much
+18:56:12	 From Leonardo Flores : Bravo!!!
+18:56:21	 From Brian Kelly : huzzah!
+18:56:25	 From monique tschofen : Bravo.
+18:56:29	 From Brad Gallagher : Thank you Lai-Tze for the amazing and thought provoking presentation!
+18:56:34	 From Liahm Ruest : *emoji clap*
+18:56:35	 From Lai-Tze (Ligh Chee) Fan : Sorry if I missed parts of the conversation and any questions!!
+18:56:37	 From eQ / Jules [ they, them ] : Great moderation too !!
+18:56:38	 From Andrew Klobucar : Fredrico Campagna Technic and magic
+18:56:41	 From CLARA CHETCUTI  To  All Panelists : So inspiring! Thanks for energising us after a long day!
+18:56:42	 From Leonardo Flores : Virtual clapping!
+18:56:45	 From Andrew Demirjian he/him  To  All Panelists : Thank you!
+18:56:52	 From Dene Grigar : Thanks, Lai-Tze. And thanks for the shout out
+18:56:53	 From Andrew Klobucar : Ovation
+18:56:53	 From Agnieszka Przybyszewska  To  All Panelists : Thank You Lai-Tze!
+18:56:56	 From Katie Schaag : Fascinating conversation!
+18:56:57	 From Jon Saklofske : Brilliant!  Thank you so much Lai-Tze!
+18:57:18	 From Brian Kelly : Thank you!!
+18:57:20	 From Claudia Kozak  To  All Panelists : Great keynote!!!
+18:57:22	 From Melinda White (she/her) : Thank you!
+18:57:24	 From Christian Ulrik Andersen : Thank you for a great talk
+18:57:24	 From Leonardo Flores : Thank you for a great keynote!
+18:57:25	 From belle : lai-the is da bomb!
+18:57:26	 From Brandon  To  All Panelists : Thank you, Lai-Tze!
+18:57:26	 From Stefani Starivlah : Thank you Lai-Tze!
+18:57:27	 From Kate Russell  To  All Panelists : Thank you!!!!
+18:57:29	 From Laura Hyunjhee (she/her)  To  All Panelists : Thank you!!
+18:57:30	 From Chris Rogers : Thank you Lai-Tze for the interesting talk and great discussion! 
+18:57:31	 From Oreto Doménech i Masià : and very interesting chat discussion indeed
+18:57:32	 From Christine Wilks : Thanks. Great talk!
+18:57:32	 From Vini : Thanks  a lot ! Lai for this great keynote  
+18:57:36	 From Zach Whalen (He|Him)  To  All Panelists : Thank you!
+18:57:36	 From david jhave johnston : Thank you Lai-Tse!
+18:57:37	 From Rob Wittig  To  All Panelists : Applause!
+18:57:38	 From Jeremy Hight  To  All Panelists : lychoooo rocks
+18:57:41	 From Olli Tapio LEINO  To  All Panelists : Thanks Lai-Tze, the moderator, and those asking questions!

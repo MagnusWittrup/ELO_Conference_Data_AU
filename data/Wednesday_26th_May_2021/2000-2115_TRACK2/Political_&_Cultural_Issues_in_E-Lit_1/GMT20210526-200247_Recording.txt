@@ -1,0 +1,81 @@
+00:39:46	Søren Pold:	Awesome jingle ;-)
+00:40:01	Deena LArsen:	You can do it. Hooray
+00:48:07	Lai-Tze Fan:	You can read Leo’s essay on third generation e-lit, published in electronic book review:
+00:48:08	Lai-Tze Fan:	http://electronicbookreview.com/essay/third-generation-electronic-literature/
+00:48:38	Carlota Salvador Megias:	thanks, lai-tze!
+00:49:07	Søren Pold:	And the current paper just came in. We just need to dig in to Easychair and dig it out and link it to the program. ASAP. :-)
+00:51:02	Leonardo Flores:	https://docs.google.com/document/d/1IoLGtVWisGhNOCPxllT2h0Qnz0yCUY0qLOIU_XQwfqQ/edit?usp=sharing
+00:51:15	Carlota Salvador Megias:	thanks, leo!
+00:54:15	Deena Larsen:	As well as community spread--people saw others using it and inviting you to Farmville a million times, so everyone joined in.
+00:54:26	Deena Larsen:	Immediacy is really the key
+00:57:16	Andrew Demirjian he/him:	Emerging Spaces for E-Lit: Filter: https://linktr.ee/filterinstazine  (RE)VERB https://www.gesso.app/reverb
+00:57:41	Leonardo Flores:	Thanks ^Andrew
+00:58:52	Carlota Salvador Megias:	you can find patrick’s piece in the covid-19 exhibition here: https://eliterature.org/elo2021/covid/
+01:00:44	Lai-Tze Fan:	Great group of artists~
+01:01:07	Leonardo Flores:	I have a creative piece in there too. It’s part of the Taper #5: Pent Up issue.
+01:01:24	Carlota Salvador Megias:	and so does lai-tze! hehe
+01:01:57	Lai-Tze Fan:	:D
+01:10:18	Deena Larsen:	love the mansion in the clouds--the imagry really reinforces the message
+01:10:48	Leonardo Flores:	These don’t look like a defunded police force.
+01:12:50	Patrick Lichty:	Q
+01:13:23	Søren Pold:	Q
+01:16:10	Carlota Salvador Megias:	regarding patrick’s question, “what would have happened if the internet had gotten its start in karachi?:” there’s a very cool project that’s been running for the past year that tries to imagine artifacts from speculative timelines like these — https://fict.site/
+01:16:30	Alan Sondheim:	The early net was simultaneously colonized and decolonized; don't forget IRC, newsgroups, MOOs, MUDs, LP-MUDs, and so forth. There were over 100,000 newsgroups at one point. I think there really was democratization early on, with a minimum of programming and literally millions of users. The bar was extremely low then.
+01:17:07	Deena Larsen:	Question --what about using the tech that people have--such as mobile phones? How does the ubiquity of these technologies help us promote elit and get access
+01:17:08	Erika Fulop:	But dosen’t lowering the bar overall also Risk melting away the possibility of saillent work?
+01:17:15	Erika Fulop:	salient
+01:17:21	Alan Sondheim:	Even the very early 68-69 Net developed communality -
+01:17:46	Carlota Salvador Megias:	thanks, deena, erika! i’ve added you both to the queue (though please feel free to continue the discussion in the chat)
+01:18:35	Alan Sondheim:	From what I saw as participant, it wasn't much re: economic divides at that point. My experience is very different than the idea of "generations" - more like constant multiple strands and expanding tendrils.
+01:19:10	Lai-Tze Fan:	Q. For Liahm: would you like to talk a bit more about speculative fictions as “warning narratives” and how they occur or are unique in the unfolding/first-person experience of game play?  I am thinking of the warning signs of the genre of “cli-fi” (climate fiction), to show the extremes to which climate crisis would/will reach.
+01:19:13	Alan Sondheim:	(For example look at POWWOW)
+01:19:14	Patrick Lichty:	Mobile phones are special in that they have caused leapfrogging conventional computation in terms of computing with a smaller platform. SE Asia, the Subcontinent and parts of Africa are great examples,mes of this
+01:19:36	Alan Sondheim:	Patrick, yes -
+01:20:15	John McDaid:	Q for Liahm. Do you feel that Infinite avoids the criticisms of Bioshock for ludonarrative dissonance. Can a critique of violent repression coexist with the FPS framework?
+01:20:37	Leonardo Flores:	Geocities and MySpace were such great engines of access. Free hosting.
+01:20:38	Patrick Lichty:	q
+01:20:46	Leonardo Flores:	I keep thinking of Judy Malloy’s work in the Art Com network (paid Internet in the 80s), which I simply didn’t have access to at the time.
+01:22:24	Leonardo Flores:	Apropos of an earlier panel, the impact of RPGs, like DND, is huge in MUDs and IF.
+01:23:22	Alan Sondheim:	Agree, also on MOOs = I was on the board of PMC-MOO at one point - it was crazed -- all role-playing -
+01:24:07	Leonardo Flores:	I think of it as “the top of the pyramid.”
+01:24:41	Leonardo Flores:	But what I’m saying is that they’re all bad.
+01:26:21	Deena Larsen:	'THE fast obsolescence is also a barrier!!!
+01:26:54	Lai-Tze Fan:	Collaborative and pedagogical too~
+01:27:52	Lai-Tze Fan:	What Leo’s saying doubles down on the necessity of collaborative scholarship and practice.
+01:28:06	Carlota Salvador Megias:	+1 !!
+01:28:38	Lai-Tze Fan:	I work at a STEM-heavy university and the STEM kids all want to do better—and they have amazing skills—but they want cultural and critical guidance sometimes.
+01:28:39	Alan Sondheim:	There's now programming available in Navaho if I remember correctly.
+01:28:46	Devin Shepherd:	In the case of Bioshock and Farmville, the industry that produces these games and tools are exploitative of users AND developers
+01:30:00	Deena Larsen:	sorry I lost my internet
+01:30:15	Carlota Salvador Megias:	that’s alright! i’ve put you back in the queue
+01:30:32	Deena Larsen:	and can not voice in. BUt I would like to ask about using mobile technology in third world countries
+01:30:43	Lai-Tze Fan:	Not sure if Deena can see the chat history, so here was her question:
+01:30:45	Lai-Tze Fan:	"Question --what about using the tech that people have--such as mobile phones? How does the ubiquity of these technologies help us promote elit and get access”
+01:30:47	Carlota Salvador Megias:	sounds good :) if you’re alright with it, i’ll say your question when it’s your turn
+01:30:53	Carlota Salvador Megias:	thanks, lai-tze!
+01:31:01	Deena Larsen:	Thanks! I can see the chat and transcript--but no sound
+01:31:28	Deena Larsen:	So this is a real time access issue--we do need to consider those with handicaps such as not being able to read or to have sound
+01:31:31	Deena Larsen:	:P
+01:34:09	Leonardo Flores:	Thank you for the question.
+01:35:20	Alan Sondheim:	Have to go, apologies, wonderful discussion!
+01:35:24	Leonardo Flores:	Thanks!
+01:35:26	Carlota Salvador Megias:	take care, alan!
+01:35:43	Lai-Tze Fan:	Bye, Alan!! (:
+01:36:42	Alan Sondheim:	One last thing - people are simplifying in some ways -- people associated with Furtherfield / Netbehaviour are developing live-action role-playing games for working on social problems - this needs very little technology - bye :-(
+01:37:20	Patrick Lichty:	Nathan Shafer - Shared Universe, Anglo/Indigenous Cli-Fi project with Alaskan indigenous peoples dealing with climate fiction in the 22nd century
+01:38:23	Lai-Tze Fan:	I just remembered Scott Rettberg and Rod Coover created another mediated speculative work, Toxi•City, an experimental film.
+01:38:29	Andrew Demirjian he/him:	Cree# is an interesting programming language that not only uses the indigenous language but also aims to embed the cultural logic and values https://esoteric.codes/blog/jon-corbett
+01:38:56	Patrick Lichty:	Cree# is awesome :)
+01:39:02	Leonardo Flores:	I absolutely love that project
+01:39:03	Carlota Salvador Megias:	thanks so much for all these! this is great
+01:39:34	Carlota Salvador Megias:	i’ll put these links/works in the discord for our track after we’re finished. if you’ve posted something you’d prefer doesn’t find its way there, please let me know! (i’m just posting links, not comments.)
+01:40:32	Lai-Tze Fan:	Jason Edward Lewis and Skawennati (Indigenous artists based in the nation-state currently known as Canada) are also approaching Indigenous language through computation studies and practices.
+01:40:34	Leonardo Flores:	The video game community has developed a strong indie tradition because they participate in a market. Electronic Literature doesn’t have a market (not like publishing or video games), so we’re all indie.
+01:41:31	Patrick Lichty:	brb
+01:47:15	Leonardo Flores:	I see such a strong connection between the impulse of creating immersive environments, in FPS games like Bioshock and with VR technologies, such as Patrick’s work. I wonder what the audiences are like for these. Bioshock can move through PCs and consoles (which give better access). VR has a way to go, though VR video is expanding access.
+01:47:50	Leonardo Flores:	Creating work like this: that requires some means.
+01:49:54	Leonardo Flores:	To create a powerful platform that people enjoy and use is akin to be a founder of discourse, in the Foucauldian sense of the term.
+01:49:55	Lai-Tze Fan:	@Leo: Yes! The literacy requirements are enormous … and I also fear those increasingly “user friendly” templates, which just make the gap between amateur and expert wider and wider.
+01:50:18	Leonardo Flores:	Exactly. Yet game engines become powerful tools for creativity.
+01:50:27	Andrew Demirjian he/him:	Great panel, thank you for your presentations!
+01:50:32	Leonardo Flores:	So even companies, build upon others’ work.

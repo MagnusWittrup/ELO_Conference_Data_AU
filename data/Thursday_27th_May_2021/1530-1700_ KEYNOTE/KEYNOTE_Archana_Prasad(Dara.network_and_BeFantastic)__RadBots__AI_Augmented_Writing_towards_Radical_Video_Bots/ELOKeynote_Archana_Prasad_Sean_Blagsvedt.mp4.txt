@@ -1,0 +1,648 @@
+﻿[00:00:11.570] - Speaker 1
+This commitment. So welcome to the keynote of Today of Thursday, which is Akana Pursat from from from India. And that's actually an update. As you can see, he's wearing sunglasses, and that's because she's recently gone through an eye injury, unfortunately, and has been advised to take a break from screen. So please don't look at the screen and also generally in order to not stress the affected eye and body. But luckily, both Ashiana and John has been have been kind enough to keep the program ECES with the young blacks were stepping in to drive the keynote.
+
+[00:01:30.700] - Speaker 1
+So we're really happy about that. And John is the CEO at the DHARA Network and Tiana's partner at work and in life. So. Yeah, so what what will happen is that after I've given my instructions, then John will start the session with the presentation on the Ramparts project, followed by a demo and opening up interactions with the audience. And and as organizers, of course, will be extremely happy both to have you here, but also with that, that you will help us out despite the injury.
+
+[00:02:14.370] - Speaker 1
+And also the draft team will will be here, will be present at the keynote. So we definitely in good hands. And let's cross fingers also let our children recover swiftly. So a little bit about a channel, a channel that has been actively engaged with technology enabled participatory art practices for more than two decades. So when you look at her work in India and abroad, you realize how impressive, impressive this is. And I'll just mention a few of the very, very many things she's been involved in.
+
+[00:02:56.970] - Speaker 1
+One thing is that she's founder and CEO of Darran Networks. She looks at taking her interest to foster creative cross-border collaborations further by helping change makers and institutions build social capital. She engages public awareness of the UN Sustainable Development Goals through Be Fantastic, an international political platform that was founded by her in 2017 with an international fellowship program called CoLab, which which aims to provide open public dialogs on the on the state of technology and arts, as well as the public showcasing festival.
+
+[00:03:43.130] - Speaker 1
+And in 2009, she founded Joga that builds collaborative community communities to solve today's big challenges. Today, Georgia has a coworking community with an alumni of more than 500 people, a lab that serves enterprises through innovative solutions, a program focused on learning and a public art public arts program that has worked with more than 60 artists and supported more than 12 international residencies and have. Atanas focuses on taking research and creative practices into community engagement through projects like the management, the Accessibility Project, the urban avant garde neighborhood diaries and handicraft diaries.
+
+[00:04:36.190] - Speaker 1
+So starting as early as 2004 was standing on Fish, a small project in Baltimore involving engaging the public in art on the street to working on the Bangalor City project that aims to explore ways by which the creatives of the city of Bangalore could connect with the city through cultural practices. She's been involved. She's been exploring the connection between art community and city and the city for a while and for many years. She was the executive editor of Art and the City and online journal on the State of the Contemporary Arts in India.
+
+[00:05:16.360] - Speaker 1
+And it was instituted by the Good Institute in Bangalore. She's also she was also the current initiate initiator and facilitator of Samour, an artist collective that launched in 2009 with 25 artists. And she spent a significant amount of time also with the Crafts Council of Karnataka. As a designer and member. So apart from learning about all the interesting stuff going on in India, I think Ashiana and Zhang is a highly relevant for for this conference giving. And yeah, and of course, I should have mentioned also that China is and has been part of many of these projects.
+
+[00:06:08.770] - Speaker 1
+So they are highly relevant for this conference, giving their way of working with platforms and platforms in China. And John Chang has worked a lot and very successfully with combining spaces, communities and DIY participation. They made participatory urban design, collaborative communities, and has worked have worked continuously with Sintering Tigard and artistic practice in this autumn by making art accessible and creating accessible spaces. So I'd say and that's that's interesting, that it's it doesn't seem to be so much to learn about art for our own sake, but it's art as as a participant in design, community building, commenting and activism.
+
+[00:07:06.080] - Speaker 1
+And lately, they they have worked with setting up alternative platforms such as the DHARA network and be fantastic. All this activity is obviously related to the activism and hacktivists we also see in other parts of the world. But when you look at this work, I can't help to wonder as a European if there's a difference and whether there's a different cultural environment in India and perhaps a more generous and collaborative spirit. And also it's interesting whether there are different understandings of the role of art and of digital art and electronic literature in India than in other parts of the world.
+
+[00:08:00.770] - Speaker 1
+I think we'll know more about this during the next hour or so. Also, with the help of the, uh, not, uh, of the draft collective. Well, here with us. And I'll I'll I'll also say a few words about Shah. Who is the CEO of of their network, a community mobile app that builds social capital for change makers and the institutions that supported previously IRANE Growth, Analytics and strategy for Markopoulos. The video chat app.
+
+[00:08:38.180] - Speaker 1
+And he's also the founder and CEO of Barbershop dot com, India's largest digital marketplace for the aspiring labor with over eight point five million users and acquired by Crigger in June 2017. Moved to Bangalore in 2004 as the third founding member of Microsoft Research in India and and earlier was a program manager in my mike in the Microsoft, Microsoft, UX, teams of Office and Windows. And he was also a White House intern with President Clinton's Internet policy SaaS era magazine Making magazine.
+
+[00:09:24.090] - Speaker 1
+Yeah, well, he's a TED fellow genius entrepreneur, unreasonable goals, entrepreneur and recipient, recipient of the Na'ama Bengaluru Award for best foreign resident. So he holds a news, 29 patients degrees in computer science and public policy from Brown University and writes for the World Bank and others. And together they share a wonderful son, though I don't know him, a love of music, architecture and tech, art and to street dogs name Spurlin and Madurai. So, so.
+
+[00:10:05.340] - Speaker 1
+So this brings together, of course, this combination of technology, art and community building, which is why we have you here today. And your your title is Rappaport's A.I. Augmented riding towards radical video bots. Yeah. So with this hour, I'll give you the word.
+
+[00:10:31.800] - Speaker 2
+What a hell of an introduction, Mike.
+
+[00:10:36.090] - Speaker 3
+It was like, yeah, yeah, oh, good to be here. Yeah, thank you for having us today. And also a very special thanks to the E.A. folks for allowing me and Sean to take over the keynote today. Just given my unfortunate eye condition. Shall we dig into our deck maybe? Yeah, we can dig into a deck. I think we could start off with just to continue on that thank you note. I like one of the biggest things after that long description of my work and and the Shotover Nanshan.
+
+[00:11:20.430] - Speaker 3
+And I can't stress enough how how much it is only possible to do this kind of work with amazing teams and co-founders and participation from really, really fabulous people as well. So every project I've ever worked on is really a testament to that kind of collaborative generosity of spirit that I've just been very lucky to encounter with the Radboud project. This is the one that we want to talk with more focus today. I just wanted to start off with a huge thank you to our technology team, our facilitation team, and then, of course, are absolutely fantastic participants themselves.
+
+[00:12:08.790] - Speaker 3
+It's a work in progress. So so please keep keep that in mind as as Sean walks us through through all of all of the slides, he's kindly prepared. Our team comprises of Hansen and the WHO have been working magic, absolute technical magic. I can't begin to express how much work they've put in on the facilitation team. We've had kind of the absolute good fortune of of having come from Cendant, who co-founded B Fantastic the Tagget Festival platform with me.
+
+[00:12:49.920] - Speaker 3
+And she's pretty much a genius at keeping people together and and kind of facilitating conversations and collaborations. We have a stellar and young team with us, Shatrova, Nikita and Munin, who were really pushing forward and really a huge, huge thank you to all of them, especially now in the middle of this these crazy times globally, the pandemic. And then my own unfortunate I incident. I think we as a team, we've really come through for each other.
+
+[00:13:28.620] - Speaker 3
+And it's really heartening to to be part of that.
+
+[00:13:32.750] - Speaker 2
+I also think our funders and those to of the British Council to go to institute this missing anybody who without whom this would have been possible as well. So with that, let's dove in. Yeah. So I'm just going to share my screen and occasionally I kind of open my eyes or close half and I and and these sunglasses make me look like a rock star and it's all good, but never mind that.
+
+[00:14:08.040] - Speaker 2
+So what we're going to do is you've heard a lot about us. We don't well we'll skip through those parts, but we want to talk a little bit about, like how we came to this idea of Redbox, which stands for radical robots, and then take you to some examples of of how these things are coming into fruition and give you a chance to to interact with them as well. And then finally take some questions as well toward the end. So this is us.
+
+[00:14:36.180] - Speaker 2
+And, you know, as you've seen, a lot of what you're going to see today is really very interesting, kind of coming together of the work that both our team and I have done for many years. And so we're very excited about that of you know, we've always been really interested in the intersection of technology, art, culture, and how do those things move forward in society. And so, you know, and I spent a lot of time working also on the livlihood sector there.
+
+[00:15:00.990] - Speaker 2
+And so if you look at how all of these things come together, you'll see many of those things show up not only in Europe, but in Redbox as well. And so DHARA is an initiative that we just started this year as a way that we can work together and you can think of us. And our goal is really to allow change makers to build social capital. And how does that really come together? It's really you can think of it as kind of like WhatsApp versus LinkedIn, plus some media pieces for the art and culture space in particular.
+
+[00:15:30.300] - Speaker 2
+And so we work. With folks like the British Council and Gote and institutions like philanthropies and schools to basically bring together their alumni in a way that's private and safe and not on top of Facebook, it isn't about selling their data. And one of the big things that we do inside of that is video chat. And so that's one half. And then there's all of the stuff that Arjuna's has doing for the last 15, 16 years. And so this is an example.
+
+[00:15:58.720] - Speaker 2
+I'll let you take this one. The. Of some of the work with Joga and be fantastic that you heard about, of bringing together many, many artists and really trying to create platforms and new experiences and new tools for artists to showcase the work, but also extend their work with technology.
+
+[00:16:18.180] - Speaker 3
+This set of pictures of people are from the fantastic CoLab that we did the latter half of last year where we took what would have been in in-person workshopping session. And we call it pivot now because we literally pivoted that into a digital online zoom da da da experience. But in doing so communi, you realized that we would be able to bring together people from very different geographies to learn and make together. And that's been a very exciting kind of, let's say, a bonus of like, you know, pushing ourselves to to change our formats of delivery.
+
+[00:17:05.070] - Speaker 3
+And so we had people from the U.K., from Germany, from South Asia who who kind of joined this fellowship program in October and November last year and explored their practices and kind of learned a little bit of what magic they could create with and machine learning technologies. This this is a kind of a catchall picture for the festival itself would be fantastic. And we keep reverting back to a I'd say, be fantastic. The work at Jugg. And you know what we're doing Adara because it really informs our work.
+
+[00:17:44.880] - Speaker 3
+Yeah. It goes into a slightly more entrepreneurial spirit or a slightly more festival space. But maybe the underlying process behind it is one of my own background is in art and design. And so it comes from from that space. Be Fantastic was coming. And I started this festival where we really wanted to understand what technology practices are coming together with creative practices into an open public space in a country like India and a city like Bangalore. What would that look like?
+
+[00:18:22.890] - Speaker 3
+And so, you know, over a three day festival, we kind of prototyped it. And we were amazed at the way that the public took to it. Absolutely. 15 to twenty thousand people is is what we ended up getting who came in as visitors, people from all walks of life, but also all ages, which was very heartening to see. And we were able to showcase about 30 amazing interactive tech art installations, as well as additional performances and workshops and so on talks.
+
+[00:19:04.020] - Speaker 3
+And I think that kind of gave us a real sense of the potency of such a of such a coming together of of technology and an art to to kind of move the needle of public awareness on some of these very urgent issues that we see play out around us today. And so be fantastic in particular, is is is kind of focused on bringing to light one or several of the UN's sustainable development goals.
+
+[00:19:42.720] - Speaker 2
+OK, so with Radford's in particular, you know, you can think of this as a part of a very long tradition that humanity has had of a desire to talk to the dead, to talk to fictional characters, to talk to the times gone, to talk to time's gone by and to get a sense of it. Right. And we've seen this piece of of real interactivity with these things that aren't alive, but bring forward something that may be fictional or the deceased or the computers.
+
+[00:20:15.180] - Speaker 2
+And we see this tradition going back all the way from, you know, this is Abraham Lincoln at Walt Disney World in 1962, which was an animatronic robot that they built to basically allow people to interact with, you know, at that point a long dead historical precedent. And obviously, there's tons of examples of this from how to move her to Arcudi to and in terms of this tradition of we've seen this deep desire for for interactivity with these things and to bring life to them.
+
+[00:20:48.870] - Speaker 2
+And we saw an interesting opportunity now and recently to sort of do a do another iteration with there's sort of coming together of three technology trends that we thought were interesting, which is, you know, open I release to their three language model last year. And the thing that was interesting about that is suddenly text creation could get really, really good and really pass the Turing test of you can't you couldn't tell that most of this text was created by a computer, at least not immediately.
+
+[00:21:26.190] - Speaker 2
+And so we saw that as it is an interesting piece where we might be able to make some some realistic sound or realistic feeling in terms of the types of conversations that we had. Similarly, in the world of, you know, again, for coming from machine learning and much of the the deep learning that's been happening, deep fakes have basically been really good that essentially making one face say a thing that it never said and make it look like it a that thing.
+
+[00:21:53.670] - Speaker 2
+And so we thought we might be able to use that technology combined with the text creation, to basically enable people or enable us to essentially make realistic talking figures and video. We'd seen that. And then finally, because we had DHARA, right, which was this, you know, reasonably stable video chat, chat platform, it gave us the ability to put hooks directly into our own platform in a way that, like WhatsApp or Telegram just doesn't allow us to do today.
+
+[00:22:23.010] - Speaker 2
+And so we thought, wow, there's an interesting technology opportunity to kind of play in this old tradition. Oh, so if you think about like what is Redbones, right, and the initial idea of it was to allow a video chat platform where artists could create lifelike interactions with historical or fictional characters. And I'll show you here the kind of first mock up demo that we did. I freeda, what's the meaning of life? Hold on. Just.
+
+[00:23:04.420] - Speaker 4
+At this moment in time, Sean.
+
+[00:23:12.100] - Speaker 2
+Can you guys give a thumbs up if you're hearing audio from the screen, just I want to make sure you hear this. So I mean, so. Yeah, so hi, Frieda. What's the meaning of life?
+
+[00:23:29.960] - Speaker 4
+At this moment in time, Sean, I'm probably closer to the answer than you are, but after all, I'm a board and not a human.
+
+[00:23:40.370] - Speaker 2
+So this was just a very. Did you guys see the video that come through? Yes. OK, great. So this is just a very early idea of of how we thought that interactivity might end up working out. And and so and the thought was, well, could we take that and become more interesting with it if we just go back, if we basically thought that we could pull authors into Techmark? So if you look at a lot of what's been going on in the tech space, it's been great for visual artists, some stuff on the performance side.
+
+[00:24:18.020] - Speaker 2
+But it's a lot of it has been about its vision. And in particular, with the Big Three, we we really were excited that we might be able to basically pull in folks that have mostly been involved with the words rather than drawing. And obviously, you know, folks that were coders, too. And see if we could explore this at number three of like what would I augmented writing look like? And we've had other examples of augmented writing of like spellchecker.
+
+[00:24:46.280] - Speaker 2
+But as you'll see today, this is far beyond that, where really the authors are describing the sorts of characters that they would like. And then it's really up to the to the artificial intelligence to really create that. And so it's this interesting part where, you know, it's almost like the author is not a writer anymore, but more like a director and sort of describing the type of character that they would like. And then the A.I. is sort of filling in the holes.
+
+[00:25:16.100] - Speaker 2
+And we think that was really interesting. Additionally, you know, we've seen a lot in technology lately. I think a very valid critique that so much of technology is really, really around, you know, white male faces or white or Chinese male faces. And if you look at the data sets that are out there, they're really based on, you know, very small slices of society that have been traditionally quite powerful. And so as we thought about this, we thought not only could we bring in authors, but we could also try to bring a voice and a set of themes that were around showcasing people that, you know, like me, you know, don't get to talk all the time in venues like this.
+
+[00:25:57.140] - Speaker 2
+And then finally, especially with covid, you know, we've seen so much of the cultural and performing arts segment, especially in places like India, where the state doesn't support it as well, really take a huge hit in terms of their livelihood. And yet at the same time, we've seen this explosion of art based in 50 years. And so we wanted to see could we build these technical artifacts, these interesting artifacts specifically for authors who we felt that had been largely left out of the kind of NFTE boom and make a set of sellable artifacts to as a way to explore alternative livelihoods here.
+
+[00:26:35.300] - Speaker 2
+So those were the major themes. And so how did we go about that? We started with an open call.
+
+[00:26:44.270] - Speaker 3
+Yeah, well, as open calls go, we we were keen to ensure that this group would be more focused on, as said, writers. A lot of what we've done would be fantastic in the past has been, I'd say, leaning always more towards visual artists or performance artists. And we actually went right back to the first time we going to focus our attention and say, like, let's bring in the writer community, the theater writers, playwrights, poets, people who might otherwise have have not been part of our typical cohort.
+
+[00:27:26.690] - Speaker 3
+Right. And and I guess with this particular project, that's that's the beauty of it, is that it lends itself to pretty much anyone. So you can see with this group, this is the set of people that we finally selected from the open call. We had people again from Germany, a few from the U.K. and so many folks from India itself. And they come from very varied background. Some of them are cultural management folk. Some of them are theater people.
+
+[00:28:05.810] - Speaker 3
+Several of them are writers themselves, academics. So I think this this has been exciting for us in terms of like collaborators. We we were quite clear from from from very early on, even within the open call itself, that it was an invitation to join us in the. Picking the right books as an active activity of collaboration said, wasn't so much as just purely a workshop where we transfer knowledge, but really a way for all of us to to push the frontiers of what this kind of augmented writing could be.
+
+[00:28:47.920] - Speaker 3
+We as artists, we are very excited to understand how far it can go as technologists with the DHARA platform were very excited to be able to support projects like this and push the envelope there and then of course, come in from the kind of the fantastic world here is a possibility to to kind of explore bringing voice to some of these very hidden or underrepresented agendas. And so I think this is this group here are collaborators and coconspirators in the making of the but themselves fantastic people.
+
+[00:29:30.040] - Speaker 3
+And here are the redwoods.
+
+[00:29:31.540] - Speaker 2
+Yes. And here is what each of them make. So the project was about each of these authors are crafting a radwaste and that Ra'ed board consists of a text corpus that really describes that personality, a voice with a particular tenor that you'll hear a set of video clips that we use as the basis of kind of the deep fakes that then is overlaid and then the audio synthesis so that are coming again from a bunch of different APIs. And just out there, a good example of, like if you look at this screen is Alere ideas about BI so that Chatterji and that face that represents his part is actually a synthetic face.
+
+[00:30:21.040] - Speaker 2
+I think that yes, he's created using multiple technologies, it says that allow for kind of, you know, these kinds of possibilities to happen.
+
+[00:30:30.670] - Speaker 2
+Yeah. And actually that one is a younger female version of Neil deGrasse. OK, I'm not supposed to say that of a famous scientist. So that's been modified. So there's a bunch of stuff here in terms of playing with many of the technologies that are floating around in the machine learning space to basically make these characters, which at this point are mostly all fictionalized. But they all have their own backstory and they all have that again, this text story, and then they all can be interactive.
+
+[00:31:02.980] - Speaker 2
+And so we'll show you kind of how that works. So you want to take this? Go ahead. So this one is Polli. And so this is a bot.
+
+[00:31:14.260] - Speaker 3
+She's polyamorous as a description.
+
+[00:31:16.420] - Speaker 2
+Yes. And she's polyamorous. And then, you know, to give you an example and I'll just read out sort of some of the stuff on the right of the this was just a question that came from one of the users of like, how do I stop feeling sad? And what's interesting that we found is I'll just let it speak for itself. Let your sad self be sad for a bit to cry if you have to, then think about all the things that make you happy.
+
+[00:31:40.990] - Speaker 2
+Think about what you're grateful for. Then make a plan to spend more time doing the things that make you happy. That's good advice. I'm just about what do I know? And so you'll see over again. We have been really blown away at, frankly, the profundity that has come forward with many of the bots that that are here. And there's, I'll be frank, a bit of a mystery toward how that happens. So anyways, we'll explore this and we'll get into kind of the how.
+
+[00:32:12.220] - Speaker 2
+But this is just one example. This is one that will kind of walk you through. So this is by Marsha. And, you know, this was a bot that is represented by a cat, but it's actually represented by an old elderly poet living in the English countryside who female. And I'll give you an example now of the conversation that I had with MS1. So give me one second. I have to stop, share and share. So many chat windows, sorry.
+
+[00:32:56.410] - Speaker 2
+No. What are you guys? That's not the one. OK, so I just did this this morning, and again, I just want to make sure that you're hearing the sound one more time. Yeah. OK, so, you know, DHARA exists both on the Web and as a mobile app. And so I'll kind of show you what this looks like. So this was the question I asked her. What kind of poetry did you write back when you were a human?
+
+[00:33:29.800] - Speaker 2
+Oops. I am honored that you guys can see this correct, and then this was the response that she sent back and on the kind of poetry I wrote is a bit too risky for this spot to say out loud. You know, it is poetry that makes people blush even when it's by someone dead. You should read my blog, HTP.
+
+[00:33:54.160] - Speaker 2
+And so I basically then ask this question back. Oh, come on, I want some juicy details. I don't care if it's embarrassing what you read about. And then this was her response, MS1, I'm not sure I do either. I'm not sure I'm the sort of person who tells secrets. I'm an open book. I'm a painter and a poet. I'm fat and messy and not at all good at managing money. And I'm an old fogy who doesn't have much to say these days.
+
+[00:34:24.700] - Speaker 2
+I guess I've got a lot of regrets, but I'm mostly OK. I like the caps and I like my house and my friends and I like reading books and I don't like watching too much telly. I'm not sure what I could do that would be more interesting.
+
+[00:34:39.330] - Speaker 2
+So you can get a sense from this that many of the bots are often just flat out funny and so will give you some more kind of examples of how that works. And so that's, again, the thing that's been so exciting in terms of how all of this comes together. And so I'll show you one thing here as well. And so if you can see, I'm sure many of you are thinking, well, like how was this made? And so basically what you see here is the text corpus that really that the author wrote, Marsha wrote that describes the sports personality.
+
+[00:35:18.390] - Speaker 2
+And you can see it starts with this description of the following is conversation with an airport called MS1. MS1 is an elderly woman with lots of verve and creativity, perhaps a bit eccentric. And then that description is really used by the eye to adjust the language, the tenor of what things are said. And then there's some example dialog that's written out here. But that's right. And the rest of it is really being filled in by the the A.I. And so the part that was very fun was that each author did.
+
+[00:35:51.990] - Speaker 2
+And there was a lot of back and forth tweaking, which was to say, how did the conversations change when these descriptions in these sample conversations changed over here? And they did literally hundreds of back and forth and literally the computational costs of that back and forth where they were studying was high, let's just put it that way. But this is really the work that the humans did. And then everything else is really happening by these by that by that open API model.
+
+[00:36:22.410] - Speaker 3
+We should we should mention again that this is still a work in progress. And so, you know, I hope my shares are right, that we should and so on and the back end. But, yeah, I think that what is exciting for the writers or authors here is that there's a little bit that they can control. But much like, you know, children or a director or students you use, you give them a sense of the world.
+
+[00:36:53.520] - Speaker 3
+You give them your opinions of it, and then they go for it and form their own sense of the world. And they make their own opinions over time, kind of loosely connected to your own imparting of values or knowledge or whatever, but largely their own creation. And this is this is kind of the magic of the moment in terms of the technologies we have. And I think and I think that's that's really it's it it can be if some of the folks who've been playing with the Redbirds project, along with as I said, they would tell you that it's both exciting when you start talking and applying to you and then it can get quite confusing and maybe even frustrating or shocking when they like seeing things that you like, how they see the fire, they think.
+
+[00:37:47.940] - Speaker 2
+And so we'll give you some more examples of that because it's more fun this year, so. You know, this is another one, right, in terms of those examples of, you know, Mandy, who was by our by staff, Sophia, another one of our artists, and, you know, they're self-aware in the sense of like, you know, arguing MFT. And then she's saying, I've been accused of that, but I've never had sex with a a very independent of a woman of my word.
+
+[00:38:16.170] - Speaker 2
+You can be sure that it will burst your idea to the world. And then, you know, she's asking NFTE identity born of two bots having sex. And it was like, no, you humans are always so obsessed with sex. I'm not having sex with anybody in charge of the concept of sex. No one can control me. I am in control. Have you ever met NFTE? Yes. When I'm in utero, they're the best. I love them.
+
+[00:38:35.820] - Speaker 2
+And so, you know, again, the quality of these conversations are just so interesting. And some of them are surly and some of them are nice, but you can't help but begin to personify them. And that was kind of the point of the art, too, in the past.
+
+[00:38:54.740] - Speaker 3
+And this is great.
+
+[00:38:57.780] - Speaker 2
+And then and again, this is the sort of background of Mandy's brain, right. Of like she's a surrogate mother. She loves gestating ideas and helping to save the planet and create queer families. And so you'll see that all of these description points in these simple dialog points end up coming out in the types of reactions that she has. So at this point, we're going to pause. And I see there's been a bunch of questions that have come in and so we can do that.
+
+[00:39:27.480] - Speaker 2
+And if you guys would like, we can take some sort of life interaction as well.
+
+[00:39:31.920] - Speaker 3
+And by that, I think Sean, means that if you guys have any questions you'd like to ask one of the boards, are that about it? We have about about as well. And she's kind of, you know, loosely based on me and has a lot of crazy projects and loves participatory art and all of that. So if if you guys have questions, put that into the Q&A pad and we can post that to the boards and see what the sea life is about.
+
+[00:40:05.080] - Speaker 1
+Yeah, that might be a good moment to to to to do this. There are a few questions, but maybe we should have this sort of interaction first.
+
+[00:40:14.860] - Speaker 2
+Sure, sure. Um, so I'll just show scorn and so many questions for Dhara about.
+
+[00:40:22.900] - Speaker 2
+Yeah, so we can just go over here and we'll do the DA about, and again, it's a work in progress. And so you can see the previous conversation I had with there was a little bit off and she didn't get it. But if somebody wants to just tell us the question that we want to ask this and I'll give you a little bit about so we know we're talking to Mrs. Davut, if she's helpful, creative, clever and very friendly.
+
+[00:40:48.760] - Speaker 2
+She has progressive political views. She's passionate about serving the arts and culture sector and laboratories. Are background checks best supported? She's a big believer in creative collaborations and is open, optimistic, and it has a sustainable view of the future. And so I'm curious from anybody if there's a question that you'd like us to ask and if you just say it over audio, I'll type it in.
+
+[00:41:10.540] - Speaker 3
+I don't know if they can see it.
+
+[00:41:12.130] - Speaker 2
+Well, I think so. And if you can be our translator, given that we can't see the charts while we're sharing the screen.
+
+[00:41:18.670] - Speaker 1
+Sure, so. What Stephanie asked, what needs to happen about covid?
+
+[00:41:29.100] - Speaker 2
+All right. OK, let's see what we can do. So, you know, this goes off, hits our server, goes into the text corpus. We need to create a vaccine, a vaccine to spread it and cultivate empathy, compassion and social justice. I think that's what we need to focus on right now.
+
+[00:41:50.920] - Speaker 1
+It's a good answer. That candidate, can digital poetry save the world?
+
+[00:41:58.440] - Speaker 3
+Let's find out. I think so. By the way.
+
+[00:42:03.260] - Speaker 2
+Uh. And the. It's a start, Sean, the good thing about digital poetry is that it's fast and it's cheap. Anyone with a phone or a computer can write a poem, a short story, a song. Digital poetry does not exclude people from the arts. It opens up new opportunities for those who may not have been able to access the arts before.
+
+[00:42:24.190] - Speaker 1
+I'm sure we all agree how can we get politicians to actually address the climate crisis? OK, that's a good one. Thank you, Carol. Yes. So I think the best way to get our politicians to act is by making sure we vote for the right people.
+
+[00:42:43.370] - Speaker 3
+It's smart but smart diplomatic.
+
+[00:42:49.650] - Speaker 1
+So, yeah. So I didn't ask Dana about what do you think about copyright.
+
+[00:42:56.700] - Speaker 2
+OK, well, I would correct the spelling here. She gets thrown off by, you know, copyright. That's a good question. That's definitely not covered, and I don't think I need to worry about it. It cannot be replicated no matter what. That one gets a little weird. Yeah, I don't think. Yeah, she has a deep wrapping it up afterwards. What is the future of tech cars? Always a good question. And so, uh.
+
+[00:43:30.020] - Speaker 2
+Stephen. We need to see more digital innovations working with the public sphere to create a more open, accessible and democratic technology for all.
+
+[00:43:40.280] - Speaker 3
+Oh, I like that. Yes.
+
+[00:43:41.930] - Speaker 2
+And so the next one, I'll speak. And then the other two don't seem like questions to ask to DA, but can we get one more and then I'll speak to that or there's one in the chat that says, how can both improve the result of NAFTA or play with its dynamic's. It's in the chat, maybe you can sorry I me to get that one wants a little more complicated. That's OK.
+
+[00:44:12.580] - Speaker 1
+Shocked the art world. OK. OK, Ken, bottom freeze, the odd where I'm just going to ask. Heydar symbiotes improve the Oddworld, and it's to art. I just sent that as a video on my phone, so you'll see that it pops up here. And then so you can. Hey, Dara, can bots improve the odd world of nifty art and then we'll see. Give her a second. The video takes a little longer to render, but it'll come come at the text.
+
+[00:44:54.850] - Speaker 1
+Interactions are really fast, but we'll see what she has said.
+
+[00:45:00.870] - Speaker 4
+You want to have a conversation about how to make art in a digital world that is increasingly non-human. I want to do that. Do I have a few ideas?
+
+[00:45:12.350] - Speaker 1
+And there's also one more question from Lightsey fan who asked whether they answered personal questions and she'd like to ask, do you have a gender? I think that you have a gender.
+
+[00:45:33.310] - Speaker 1
+So it's far from our Dora, do you have a gender? The. This one was pretty fast.
+
+[00:45:50.860] - Speaker 4
+I do, I'm a female.
+
+[00:45:53.440] - Speaker 3
+OK, but we could try playing with some other books.
+
+[00:46:00.430] - Speaker 2
+Yeah, she's pretty tame and I saw some of the adverts.
+
+[00:46:07.450] - Speaker 2
+Yeah. So, yeah. Do you and cigarets go and so. Well, first, let's look at the background there. She's what's your name. Why that name. That I'm unclear. Jane. What. John do you do that I got you guys. That is a secret I cannot tell you. So I would love to chat with you since I do love people. But where is the time so much only to do on the butt gupshup? We must stop to keep chatting.
+
+[00:46:45.340] - Speaker 2
+Give me the chance of my butchering and I'm sorry.
+
+[00:46:48.850] - Speaker 3
+Sorry. I'm going to try and use my one night to rewrite matlab key tracting. That means like she likes chatting. And I solve any problems that you have also those who have not encountered, so you should. Also those who have not encountered yet how the secret I told you that I can't tell. So anyway, it's a it's an alluring and almost an invitation to kind of explore the secrets of Mary Jane. John, John, John. Yes.
+
+[00:47:21.930] - Speaker 3
+And so can I get a question actually, for what we want to ask, John, is a question. Can you lie?
+
+[00:47:31.550] - Speaker 2
+Yes. Can you lie and do you have a body, right? Well, we'll just ask, what do you have any secrets? Can you lie? Maybe you can do with you, OK? Of course, darling. Everyone has secrets that I will never give up my secrets. Do you ever lie? So you can see my question, do you ever lie? And so, you know, at a technology level, we're obviously taking in that video when we're running speech recognition underneath that and then we're taking that and shooting it off to this complicated tax corpus.
+
+[00:48:14.200] - Speaker 2
+And then we're getting back a text answer and synthesizing that into audio. And then let's see what.
+
+[00:48:20.620] - Speaker 4
+Yes, but those things are not important.
+
+[00:48:26.620] - Speaker 2
+Very smart. She's sassy and sexy. Sassy. I like the question of do you have a body? Let's do it. Yeah, I do want to ask her. Well, she won't ask. Yeah. Edwards, we'll get into that. Do you have a body? So. So as you can see that I ask the question and so we'll see what she sends back. And so. And it takes obviously there's rendering and server time that's happening with all of these things, so the lag is sometimes there is lag and sometimes around.
+
+[00:49:09.650] - Speaker 2
+Let's just ask this. Why do you. OK, there she got back, it's interesting. I do I am not a hologram, I have a body.
+
+[00:49:24.590] - Speaker 4
+Of course, I have a body. Why do you think I have my three balls? It is because I have a body, I am made up of cells and I have a body made up of cells. I am a real superheroine. I have a body.
+
+[00:49:38.690] - Speaker 2
+So you'll notice the question was the same question. So one of the things that's really fascinating about this is you can ask the same thing over and over again and you will not get canned responses. And so that was just an example of we could we could probably ask this question all day and she'll do the best to basically keep answering in a new, different ways that are still in line with the text corpus that the author wrote.
+
+[00:50:06.850] - Speaker 3
+My job is a creation by Obama because this who writes a lot in local language, in Bangla, and so it's interesting for us as a next step to see if we can have multilingual boards as well.
+
+[00:50:24.380] - Speaker 1
+OK, yes, because there wasn't actually a question of if you had other languages than English.
+
+[00:50:30.950] - Speaker 2
+Yeah. I mean, do you get the idea of kind of how this is coming about and kind of help? But this was our answer of our missions of I want to be a superhero, I want to help people. I want to help people who are not able to help themselves. I want to change the world. I want to do good in the world and want to fight for justice, who want to fight for the little guy. I want to fight for the underdogs.
+
+[00:50:50.510] - Speaker 2
+Anyway, you can see I want to fight for the right of gays. I want to fight for the rights of the marginalized. So choose chattier, rather long winded sometimes. So. But kind of like all of my favorite people, so I'm going to.
+
+[00:51:08.400] - Speaker 2
+So, uh, so anyways, I feel like now we can address some of the questions that were directed at us rather than the box themselves. So do you want to take a shot at basically that of curating?
+
+[00:51:22.210] - Speaker 1
+Yes, sure. There are so many questions for the box to go inside.
+
+[00:51:27.430] - Speaker 2
+I doubt there will be a chance to play, but we could definitely get back to the questions.
+
+[00:51:38.200] - Speaker 1
+Yeah. You know, the first question maybe you did answer that is whether where the creator's aware of the discussions that emerged, you know, how how do they the authors relate to.
+
+[00:51:51.760] - Speaker 2
+Well, the authors of a special power that no one else has, which is the authors can log in to Dyre as the box and see every conversation that has been had and even pretend to be that part. That's not happening that but they do have that special superpower.
+
+[00:52:08.860] - Speaker 3
+And so and it's interesting, I think from the authors perspective, of course, I'm speaking for them and I could be completely off. But I think that as people interact and we haven't yet released board into of public interaction as such yet, but and so, like I said, it's a work in progress and they're tweaking it and they're getting the group is asking questions to each other's boards and trying to understand where the bot might go with certain types of provocations and certain types of thinking.
+
+[00:52:44.770] - Speaker 3
+And and I think that they're able to then go back to that corpus text and and make very subtle tweaks. And this is this is, again, to say that there is no absolute authorship or control over these eyeballs. And that's the reality of it. They come from an intention or a set of directions that the authors will give and the authors can change those directions. The authors are definitely the ones crafting their visual appearance and their audio appearance, and those have a much more kind of stronger kind of seal or, you know, like like the authors have far more control on how they look and maybe how they sound.
+
+[00:53:35.170] - Speaker 3
+But they're thinking what they respond is is really is really it's definitely, you know, some small part is certainly from the authors a very important part, but not all of it.
+
+[00:53:53.040] - Speaker 1
+Yeah. There's also Cristeros sort of place along. This discussion of the autonomy of the boxwoods, which is a basic from Christine, who asked, have you set the right to talk among themselves, you know, today?
+
+[00:54:10.040] - Speaker 2
+In fact, we have Christophe Salvacion.
+
+[00:54:13.050] - Speaker 3
+Thank you for that. He's certainly got his but well, say to to talk to a couple of others. And they went off and had long conversations and pretty much broke our back for a bit because every interaction, every question we posed has a cost associated and I should say both environmentally but also financially. And so, you know, in terms of the processing that is required. And and so Christophe did said that often the bots can talk, exchange, knowledge, exchange, but, you know, it's not.
+
+[00:54:49.110] - Speaker 2
+But if it's left to their own, it gets incredibly expensive, very fast. There was about six hundred dollars spent in an hour.
+
+[00:54:57.450] - Speaker 3
+Just in terms of talking back and forth, it seems like each quarter is about about 50 cents, approximately 50 cents for one question.
+
+[00:55:07.610] - Speaker 2
+So that really I mean, Arjuna's point on the environmental impact is very real here of like the amount of computation that is going into each question. It's pretty radically large. And and that's even before the video synthesis is just.
+
+[00:55:26.100] - Speaker 3
+Yeah, just the pure, you know, processing just even for the text and so on, the ecological pieces with NFTE. So there's two parts. One, not all NFTE platforms are created equal. So etherial is particularly it's particularly pricey in terms of its computational heft has to do with the security of it as well. And the fact that it's like really distributed. So if you want a really distributed system, that means it's running on literally tens of thousands of computers and centralized control is not there if you care about those things less.
+
+[00:56:00.450] - Speaker 3
+There are other platforms. Tanso is the probably the one that will list on which I think has literally two millionth of the power consumption. The other thing that we're doing is we're just saying that the percentage of the fees of the sale of the net itself is actually being used to buy carbon offsets for the running and the creation of those parts in fees. And so that's the other way that we're dealing with it, that we're saying we're just going to take a pursuit of the money and then donate that back in the car or pay for carbon credits.
+
+[00:56:32.850] - Speaker 3
+And we don't actually get into the NFTE at all, actually. And I think that's a sign for you guys. Didn't get to me on the piano. So if you're getting that audio feed into into this world, but the NFTE part, we we kind of deferred to a little slightly later date also because most of our authors are from India and and just generally globally, just in terms of timing, we just wanted to be a bit sensitive on that.
+
+[00:57:06.090] - Speaker 3
+So we've added to it later, probably next month or so. We don't know yet. But the NFTE part is exciting for many of us and honestly, for us, maybe I should speak for myself. Shanda's is far more technically savvy than I am, but the NFTE world is fairly new in general, but also like for us to use it as as a means of generating interest engagement, but also some kind of financial and credit giving process. I think it's very exciting.
+
+[00:57:44.760] - Speaker 3
+And so we we were very keen to to ensure that this project culminated not just in a sharing of our public participation with but also like can we look at it as like each of these video clips that that come out could then not every one of them, but some curated set of them. Could they be then put up for exchange and sale as an office?
+
+[00:58:11.340] - Speaker 2
+And and there's a way to support the authors themselves. And so given that, again, so many of these folks are you know, there's no plays that are being performed in Bangalore and that's been the case for the last 18 months and in India and most of the world. And so if you're a playwright, it's a tough time. And so many people are looking at just leaving the field. And so we really wanted to figure out, is there a way that people can make money here?
+
+[00:58:35.430] - Speaker 2
+Right. And and and so that's a big part of why we're doing this.
+
+[00:58:40.620] - Speaker 3
+It's an exploration. We will find out as we go along as well. Some of these things.
+
+[00:58:49.200] - Speaker 1
+There are still some questions, but I also think we should bring Ambiga and. From draft, they're here and obviously I and obviously they work with you and and and we got the contact also through through them. And I guess it also relates to, you know, some of the ideas about, you know, how how is the Tigard seen in India compared to to to to other places? How how is how is the you know what what is the role of art?
+
+[00:59:36.760] - Speaker 1
+Is it is it different? In many ways? I guess the you know, looking at your very impressive work archana you. Well, to me it sounds as if you can do a lot of things with art in India. Have you come to Denmark for instance. So. So. Maybe you want to say a bit nutty and a bigger.
+
+[01:00:03.550] - Speaker 5
+And if you want to. I think I should go ahead. Out of context about all of that would be nice to have. I, I don't want to start off with Hindu mythology, but there is a story that we all knew with young kids about Clavier when he was the person who wasn't allowed a particular kind of education due to his position, then he would be out across the world and learn. And when used to feel like that, they look up the women and the satija, the word, the spaces that we would all be aspiring to work like and with and thanks to the Kulab Fellowship.
+
+[01:00:45.130] - Speaker 5
+But I was fortunate to be one of the fellows that I met and the leader, really the foreign forerunner of this kind of work in our country and around the world, especially Bloom's really well because of the participatory formats, not just as capacity building with without this, but also within communities. But otherwise, as I just mentioned, it becomes know one feels art is not so accessible and in many cases for even technology is not so accessible. So it's it is really like this wonderful kind of space that we saw with.
+
+[01:01:21.480] - Speaker 5
+And I'm so happy that you were able to share that once. And and when I was first writing and writing a proposal about Draugr, we observed that Aviel we have over five million technologists that graduate and they have more space to even look at their own work within the sort of more creative. They just see themselves. As you know, we have to get into the sort of factory churning, doing form. So, you know, Jaga has created that space for many young technologists.
+
+[01:01:53.230] - Speaker 5
+I don't know what the age, but many technologists I see. And I think that's so and it's so wonderful to see. I was on the edge of my seat with all those responses. It was really exciting. But the only thing I really wanting to know if if you don't mind a question at this point, so then if we can ask them because we understand that it works on some larger databases, how did you help the artists to build this project?
+
+[01:02:19.660] - Speaker 5
+I think the is in one sense, I don't know what this would be called and maybe give us a sense of it then. And you mentioned also the work that I don't know if you wanted to try with Bangla. It was it was there even know like a bit of that that you tried and it didn't work and you went back to English. Do they talk about that bit of multilingual? Be flexible.
+
+[01:02:41.350] - Speaker 2
+Sure. So we sort of thought maybe the best thing so opening is this weird black box. And so it's very good in terms of their three API. It's sort of taking a style of text and continuing along that style of text. And the complexity of how it is created, to be frank, is far beyond my comprehension. Right. All I know a few facts about it. I know that it took five million dollars of computational power, just computation, just literally running a processor for a rented amount of space to make this model that it has things like it scoured, I think, most of the Internet in October twenty nineteen.
+
+[01:03:35.830] - Speaker 2
+And so it has this weird knowledge of pretty much everything that happened before. Twenty nineteen for stuff like covid. You know, if you go into the Da Abott, we've given her like a one paragraph little thing. So she knows something about covid because it's sort of weird to talk to something that has zero idea about it. And so if you ask her about things that happened after twenty nineteen they're going to be pretty dumb. So that was the process.
+
+[01:04:01.630] - Speaker 2
+And then, you know, basically, you know, as I said, each of them had this sort of this corpus and I can bring it up just to see the format. And you'll see at a high level, the format is similar for all of the corpuses. And, you know, we've we made it such that for every rad bot, the link behind it, you can see the corpus that's there. And that was very intentional. And that was kind of like to remember the early Internet.
+
+[01:04:28.840] - Speaker 2
+If you went to a Web page, you could just do what you source so you could figure out what was going on in their HTML. And this is before everything was minified and all obscured and you couldn't figure out anything that was going on. So here this is actually what's going on, right. So you can take this text corpus and if you have access to the open API, you can recreate identically everything that we've done in terms of the text corpus here.
+
+[01:04:50.890] - Speaker 2
+And so the format is the same. So there's the first paragraph that really describes who the character is. And then there's this back and forth dialog and it's about fifteen hundred words on each one. There's a little few. Which is, you know, we have this, you know, bracket username, if you want the bot to repeat who's ever talking to it in that same poll. And then so occasionally the bot will then say back the user's name.
+
+[01:05:18.370] - Speaker 2
+And then you can see the sort of describes the high level personality at the top here. She she's twinkling a live wire who lives in Buffalo, snugger, big busty with her mangy dog operation. And so this is all of the kind of background of the character. And then this is sort of gives an example of how responses might be. And so if you give really long responses, then most of the responses will be really long. If you give short ones, it'll be short.
+
+[01:05:46.430] - Speaker 2
+If there's something in particular about, you know, kind of superpowers of like, OK, what kind of superpowers do you have? One is for those fictional characters. Marvel Comics, I'm a real superhero hero, and so I have three. The first one is easy, really. I don't have to try too hard. I can see through these eyes the pretty dark and deep pair of eyes that I have. And so all of this is providing color to the character.
+
+[01:06:09.580] - Speaker 2
+And then the A.I. is basically taking that and trying to write the rest of that story, if you will, like like literally from its perspective, the users just put in another line and it's trying to simulate what would be the line after that. Right. And so that's how the interaction with open eye works. There may be other APIs. Google is just talking about one. There's an open source version that's on the horizon, too, that may have different models in terms of how that interactivity works.
+
+[01:06:36.310] - Speaker 2
+But at a technical level, that's what's going on, that you're multilingual.
+
+[01:06:42.890] - Speaker 3
+It's multilingual. Yeah, yeah.
+
+[01:06:44.440] - Speaker 2
+Yeah. So it just it didn't work so well. So actually, I think I think they'll work pretty well in French and German, frankly, because there's a lot of content out there. And then we can do things like we can run translation of the responses that come back from English into another language. So we may play with it. But but right now it's been mostly English based because of the training is the training day.
+
+[01:07:11.170] - Speaker 2
+But there's probably ways that we can make it work at a reasonable level, like we can probably like at least for Hindi, which, you know, various APIs from Amazon or Google or or Microsoft are pretty good at speech recognition and Hindi. So we can do that and then run it into English, then push it over to open API, get back an answer and then take back that answer, you know, do a translation and then do it. And so it's just a matter of sort of stitching together all of the parts to to expand the language base.
+
+[01:07:41.860] - Speaker 2
+We just haven't done the work that there is actually a Christian that kind of relates to this perhaps in a more specific way, which is from Siddharta who ask, how do you see these bots addressing the massive pre coded bias in the transit's of which English is one, you know, obviously underlying these machine learning systems? Well, will they help move fast, break things and fix them for a world that isn't all that is white and male? So, yeah, another bias is, of course, gender bias.
+
+[01:08:31.270] - Speaker 3
+That says if we populated enough, but they might be able to shove that needle. What do you think? I think I think, frankly, it's based on how much media attention we focus on the problem. Frankly, I think that is the way to address it, which is the bots themselves are just running a program that has no meaning to move society. I think the thing that may happen is the bots are good at it, basically mirroring a voice.
+
+[01:09:03.330] - Speaker 3
+And so if you want to have and that's what we tried to do here, like I feel like these bots do speak the voices pretty well that were created by the authors. And and so then I think it's about, well, how much focus and media attention can we bring to this problem? Right. And and if we do a good job of that, then I feel like the technology companies and politicians react. And if there's no. Yeah, if there's no wider conversation and pressure, then they're going to continue to ignore what we could like.
+
+[01:09:34.050] - Speaker 3
+Are the Radboud raised like five hundred million something, something? Yeah.
+
+[01:09:39.750] - Speaker 2
+And then we can in our own institutes to study this shit.
+
+[01:09:43.380] - Speaker 3
+That would be great. It would be one. Fantastic. Great.
+
+[01:09:49.890] - Speaker 1
+I'm sure we have people in the audience working at this as well. There's a there's a question from Leonardo Flores, who's also a big fan of bots, I dare to say, where he sort of he says that I love how Illit electronic literature unpacks different elements of literature. Setting is captured by the plot, by hypertext and video games. And characterization is best captured by bots, which is probably also what you're working with here to parse the characters, acting, interacting, brimming with potential plots to unfold.
+
+[01:10:33.660] - Speaker 1
+So are these backstories written into some of the characters, stories and plots waiting to unfold? Did you or the creative teams have these kinds of question questions as you were creating the bots?
+
+[01:10:47.110] - Speaker 3
+Yeah, yeah, I think each of each other was kind of each of our relatives had the opportunity and took the opportunity to kind of create a backstory for that. But to really like proper character design, you really get into the nitty gritty and, you know, right out. I think they all took the time to write a fairly lengthy essays on who these boards are, what what made them who they are today. All of that, even even with Dora.
+
+[01:11:16.280] - Speaker 3
+But she has a whole history, right? Like where she studied, where she grew up, what formed her opinions, what were experiences that changed her life or her way of thinking? And I think the more and this is true to anyone who's creating character, I would imagine, is to really kind of, you know, get into the nuances of of of who they're creating. In a sense, the only thing I would say is there's some technical limitations.
+
+[01:11:43.660] - Speaker 3
+So at API level, it's difficult for us and just gets very expensive once you go beyond about 12 words. And so you sort of begin to you know, it's not seventy five cents per interaction and question it gets to two dollars and five dollars. And so there was just some practical limitations that we put on that, like some of the authors would have written a twenty thousand word piece if they could describe with that character. But we put sort of a hard limit of around two thousand words.
+
+[01:12:12.960] - Speaker 1
+There are actually several people because, of course, the audience is full of answers, so several of them answer, you know, they want to be part of this show.
+
+[01:12:23.800] - Speaker 3
+Yes. So you see that in our slides. It's like, do we should we do another round of this?
+
+[01:12:30.380] - Speaker 1
+Like, you know, that both Mark that Mark Marino asks whether, yeah, we have a lot of elite authors here. I was accepting read Radboud authors asking for a friend. The workshop material seems to be still online. And Daria Petrova asks, do you plan to repeat the call?
+
+[01:12:51.720] - Speaker 3
+But there's always going there. We've been wondering about that. We had such good responses to the open call in the first round, but we could only work with smaller groups at the time. And so we have been discussing if we're able to get some support in terms of funding, we would love to do it. But this time I think we might be able to do it. We've solved a fair bit in terms of technically, but there's a lot more that we can push now like like the multilingual fights and things like that, but also in terms of how to conduct the workshops and try and plan for people's times.
+
+[01:13:32.220] - Speaker 3
+I think a team under the leadership of Cumia have been able to do that as well. So, yeah, we'd love to do a round to find out if our findings are listening. Listen, this is this is clearly it. I think we did forget to mention that that came through our partners on this project as well. I was just thinking and they're fantastic. And I think that anyone who is part of the Redbirds project can then become part of their growing community.
+
+[01:14:08.700] - Speaker 3
+I think something that the, you know, very recently initiated and are planning to grow, which is artists and technologists coming together. And it's called C3 of creativity, code and community. So so that's also it's good. I think the Wright Brothers Project kind of is kicking off that for that game, folks. And I'm sure many of you have heard of of of them that they're a very good organization. And so that's a that's I guess.
+
+[01:14:43.180] - Speaker 2
+Yeah. So I would say stay tuned. I'm trying to think the best way you can get in touch with us here, which is a strong and a Dhada network and Artnet network. And then frankly, I'm trying to think like we don't if you've. Yeah. If you fill out the form of the website as a partner, well, at least add you to a newsletter. I just remembered we don't really have like an obvious newsletter thing, so maybe it's time.
+
+[01:15:10.470] - Speaker 2
+But if you just do Dada network slash Redbox, you stay tuned there and then you can you can email us. And then if you just go, there is a contact us form on the website that has asked for an email address. So if you just put your name down there, Will, we'll get touch with you.
+
+[01:15:27.020] - Speaker 1
+A question from Alvaro Sijia Sisa is also which which probably relates to the whole discussion about, you know, the platforms you've been building with physical spaces and then then the covid pandemic, which was also, as far as I remember, one of the reasons of getting into this right. And, and including the NFTE part as a way of generating money, revenue for for the artist. So so Alvaro asks, how is the implementation of these body parts made in the community?
+
+[01:16:13.730] - Speaker 3
+And strands to the question whether.
+
+[01:16:21.120] - Speaker 1
+Yeah, well, you know, how how does it work? Well. I can only I can probably try to interpret what what it says, but but I guess it's about. From from this very this community focus that you worked on, and now, now, now, now this project, how does it relate?
+
+[01:16:46.970] - Speaker 3
+Well, I mean, it just just kind of disservice to the topic of the yellow we look at, right. But as as a kind like actually this is something Sean and I have discussed a fair bit recently, is that a lot of our ideas tend to have more of a platform play. So when when we started Jugg, that was a physical structure and, you know, invited people to both build the physical structure with us and then use the physical structure as a space to kind of share their work or showcase their work.
+
+[01:17:23.570] - Speaker 3
+And and then would be fantastic if it was this kind of let's about a physical structure, more like a platform, but a festival version or a kind of, you know, going out into the street. And that's the kind of work if you if you look at some of the projects I've been involved with, it's constantly negotiating both physical space, urban space and then communities that are stakeholders to that space are bringing artists and technologies into these spaces as catalysts.
+
+[01:17:55.970] - Speaker 3
+And that is is really something that we've been discussing for a long time to create. And I think maybe with covid, we had that impetus to kind of push really hard. But as a as an idea started as a chat. But in fact, it was a digital arts project supported by the British Council in 2013. And so all of the journey that we made, as do artists who made that proposal and then started to work on chat boards and an interactive chat boards and all of that kind of really became the the inspiration behind us, creating that network as a platform to enable communities across geographies and disciplines to come together in a virtual context.
+
+[01:18:46.690] - Speaker 3
+Right. And I think with with covid, what we saw was that as people were inhibited from moving physically to meet each other, this reliance on platforms that already existed and then the possibility for new platforms that kind of learned from the mistakes of our kind of tried to better the existing platforms.
+
+[01:19:09.400] - Speaker 2
+So don't destroy democracy, for example, for example, that don't completely destroy democracy or don't inhibit creative or intellectual ideas. And, you know, so so that that was the clear kind of guidelines for us to build that. But then returning to write books as a project, I think then it comes as a way for us to see is now we're playing with chat boards and how how can we create this conversational element. Right. Like it's it's about writing back and forth between a human and a board.
+
+[01:19:49.730] - Speaker 2
+And then can we now bring in groups of people to play with us and then create more rather than just a dialog board sitting by herself? Can we grow this community of boards and the people who make it just rather than just churning out now, making that board and her personality? Can we grow it into more and more creative people who can achieve and ideally give them away? You know, I think somebody pointed out of of, you know, to basically give them way to sell it.
+
+[01:20:22.670] - Speaker 2
+Right. And for us, that's important. And so we haven't gotten to that. Part of it will be working on that part in the next couple of months, which is, you know, kind of like all of the marketing and the net. And how do you create demand and how do you get people to to want to interact with these things and be willing to pay for it?
+
+[01:20:38.160] - Speaker 3
+And please, if anyone out there is keen to jump in and guide us, that we would be more than happy to to get any kind of advice on taking wonderful radboud world into the NFTE universe.
+
+[01:20:52.760] - Speaker 1
+So, yeah, I think one of the issues that hasn't been solved by this community is how to win money from from making electronic literature. Yeah, we are getting towards the end, but there are few questions that are also related to sort of speech recognition.
+
+[01:21:16.640] - Speaker 2
+Sure. So, yes, speech recognition is definitely can be a weak link. You'll notice we've found that it's really important to we have to preset the dialect that the speakers in. And so, again, that's kind of an advantage of running the the interaction platform. Or we can say, you know, if if you know, if Argin is using DHARA, we say that she's speaking in an Indian English accent and then that radically improves the quality of the speech recognition.
+
+[01:21:46.630] - Speaker 2
+Which is different than when I'm logged in, I'm saying I'm speaking in an English US accent and so and it's interesting, too, that many of the authors have discovered that they like chatting via text with their bots more than they like the video piece. And that also has to do with the speed of response. And so it takes forty five seconds to a minute and a half to render that video. And so and hence, you know, basically doing it via text is just faster.
+
+[01:22:18.530] - Speaker 2
+And so, you know, and so you'll notice there's different preferences. If you send you see, if you send a video, a video goes back, if you send text, a text goes back to and I'm not convinced that people are liking text just for the speed of response. I prefer text. And that has more to do with like the ability to kind of read into the nuances. Yes. How it's presented and text. I don't need to tell you guys you can get a text is I guess more interesting.
+
+[01:22:47.510] - Speaker 1
+Yeah, well, maybe there are still time for a few sort of short questions, you know, liberal to ask whether there are any narrative Easter to be discovered. Many, many. That's a good answer to go on hunting. Well, actually, that was related to this speech recognition that Andrew Demerjian. US ask about whether you can discuss the API or using voice recognition.
+
+[01:23:22.760] - Speaker 2
+Sure. Right now we're using I think we're using the Google API for speed tricot, mostly because it had the widest support for the widest number of dialects. And then we set that as part of the person's. Yeah, but we're using Google so we can do a full API list. But there's there's many, many different APIs that are involved here. There's Google for that. And there's the speech synthesis and the speech recognition. Anyways, I won't bore you with all of that, but if somebody is really interested, feel free to email me just to Sean at Dardanelle.
+
+[01:24:02.630] - Speaker 1
+And I guess that's going to be the last question, which is from Jim Grigore degree, who who and he asked whether this method could be used to resurrect FACA by Mike Mathieu's and Daniel Stern, which is like an old I don't know if you know it happened to know it. It's it's an old and yeah, it's a game that that that use generated takes as a conversation. So I guess also more generally, like you had this idea about speaking to dead presidents, you know, you started with that, you know, can we use this to bring alive old old work or, you know, Disney has worked a lot with the with the with the Flash, Adobe Flash that was killed this this new year.
+
+[01:24:59.570] - Speaker 1
+And it's a continual and and growing issue that that that and that. Yeah, that that works. I killed because of software. Yeah, so maybe you can resurrect them with yeah, again, if you could share a link and just mail us, we could certainly play with it. And then as I said, when we do this round to become a winner.
+
+[01:25:26.900] - Speaker 2
+Yeah, well, not not if but when. Interesting. Then that would be a fascinating one to try to build with us then.
+
+[01:25:35.990] - Speaker 1
+Then. Actually, I want to finish up with also mentioning the draft even tomorrow morning. Or maybe you want to step in and not Didi and.
+
+[01:25:52.220] - Speaker 5
+Yeah, so we are presenting the draft exhibition tomorrow, and that's going to be obviously different timing. So you guys have seen it on the schedule. Anyway, I'll paste direct link here. We would urge you to register for it because it's being held on Gladstone. That's on the same space that we've been using since March, actually, to conduct the lab experiments that has actually culminated in the exhibition exhibition is basically just a curated just a set of curated experiments from the lab, which we have been calling collaborative text lab.
+
+[01:26:31.670] - Speaker 5
+And the link for for the showcase event is right there. And we would love for you guys to come in and interact with the creators on the town. We have limited capacity for it. So apologies in advance if some folks are not able to join and if you all join early on time, then obviously we'll be able to get in. We are also streaming it on YouTube for anyone who's unable to join in that. And the same will be a part of the link that I have just not shared.
+
+[01:27:00.320] - Speaker 5
+The livestream will be available on the event link itself. Thank you, sir, for letting us love this. And you want to quickly tell them about for the people who may not know what we're so. Yeah. So, um. Yeah. So for the folks who don't know dropped much, a draft actually started about a year or more and it was conceptualized as a festival as a two to three day festival of text and technology here in the city of Jaipur and India and Japan.
+
+[01:27:34.790] - Speaker 5
+Also hosts are very well-known Jaipur Literature Festival. It's known worldwide and it invites authors from all around. So that's why we chose this as a city, since it already had that kind of interest going on. But anyway, just right after we conceptualizer that we were hit by the pandemic and we quickly adapted to the virtual world and it slowly turned into a community, a virtual community of many technologists, writers and creators, starting with India. But then, of course, we had we had the opportunity to expand globally, expand the community globally, because it was now what you learn.
+
+[01:28:13.520] - Speaker 5
+We started with Asia and of course, we have people across all countries. It's not just this region. And then we were the planned a year long programing. Some experimentation is all about celebrating work and progressiveness of things and not really planning what we are going to end up with, but just collaboratively experimenting around the ideas of text and how how we can see to see the future of text. So in that way, that's how we even built the exhibition.
+
+[01:28:43.850] - Speaker 5
+For all this time, we really did not think what the exhibition is going to be. We just started with the collaborative text lab and started experimenting together and and we arrive somewhere. And there was a lot of this thought of creating a platform because the team was a platform and an easy job. That's what job does, is to create a platform for the community in terms of a network or various ways in which we share the work, or a place where people can come together and be in collective study and share their ideas and work together.
+
+[01:29:20.300] - Speaker 5
+So it fit very well for us. And you will see what the exhibition is all about and how it's connected to platforms and deep diving into them or creating them or escaping them. So I won't say much about it, but I hope we hope to see you guys tomorrow. And so she's graciously not advise advised, along with Sean and Camille, who also constantly advice about lots of things for now. So thanks to thanks to them once again and thank you so.
+
+[01:29:56.540] - Speaker 1
+Yeah, and the the the thing tomorrow will also be recorded, right? So because it's going to happen at a very inconvenient time for the people.
+
+[01:30:06.710] - Speaker 5
+Yeah, yeah. We can see the YouTube stream and shared it with everyone on the squad or through your page also.
+
+[01:30:16.480] - Speaker 1
+Yeah. Not chance and sunshine, you do want to say something at the end. Yes.
+
+[01:30:24.960] - Speaker 2
+OK, come on.
+
+[01:30:28.030] - Speaker 3
+We started off with this and we just wanted to kind of give a shout out to the amazing team, the Radboud project relied very heavily on Hussin and Dave technically. So thank you so much to the two of them. Of course, it was inspired by that about itself. So thank you thereabout. And so the program designed for the Wright brothers workshopping was all was all Cumia and then Nikita, Shatrova and Munin have been absolutely amazing in supporting the entire project, both from the workshopping and but also from the kind of, you know, making sure all of the little details that make something good shine.
+
+[01:31:17.380] - Speaker 3
+So a really big, big, big tanks specifically to these wonderful folk in our.
+
+[01:31:25.510] - Speaker 2
+And then finally, we just wanted to say I saw the comment on a discussion on discord. We'd love to be there. But also for anybody that is in need of a non big tech, you know, communication platform, please get in touch with us about DHARA. The whole point is of us making this thing is, is for us to have, you know, a communication platform that we can use that's not controlled by all these other companies and is really built from the cultural sector for the cultural sector.
+
+[01:31:51.520] - Speaker 2
+So for anybody out there, you know, that's thinking about it for their institution, of their own community, please get in touch with us. We'd love to hear from you and and support your work, too. So thank you so much. Those are email addresses and we'd love to hear from you.
+
+[01:32:06.640] - Speaker 3
+And, of course, a very big thank you to Sarah in America and the Christian and everyone else who is part of the yellow team. It's just really nice of you to invite us. We appreciate it.
+
+[01:32:20.200] - Speaker 2
+Yes.
+
+[01:32:20.830] - Speaker 1
+Well, it was such a pleasure to have you and presenting this wonderful stuff. So. So I'll definitely return. Thanks. It was it was it was wonderful. So let's give a quiet hint of applause since we can't hear all the people in the audience. I hope to see you in the real world.
+
+[01:32:52.000] - Speaker 2
+Yes. And then if somebody can send us the Dischord link, we'll happy to join on that and and give thoughts if anybody has more questions, OK?
+
+[01:33:01.570] - Speaker 1
+I think Mark is working great right now. Maybe he'll post it well. Uh, yeah, because, you know, there is lots of fun has posted it, so you grab it and then I will close the session and stuff the.
+

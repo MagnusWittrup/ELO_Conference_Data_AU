@@ -1,0 +1,567 @@
+﻿[00:00:00.410] - Speaker 2
+Leonardo Floor is the President of the Electronic Potter. They we need to start with this. Okay.
+
+[00:00:22.260] - Speaker 1
+Bye.
+
+[00:00:25.500] - Speaker 2
+Okay. Now we have Leon Flores, the President of the Electronic Literature Organization.
+
+[00:00:31.570] - Speaker 1
+Thank you so much. Scott. I want to thank, first of all, all of you for being here. And I want to thank the organizers, a large and diverse team led by Soren and Scott, thank you for the massive undertaking that is to put one of these conferences together. I mean, this is where our community comes together. We come together as reviewers. We come together in the sharing of our research and our creative work. We come together in these virtual spaces and hopefully next year in some physical spaces as well.
+
+[00:01:11.920] - Speaker 1
+And this coming together is what keeps our community vital strong. Growing as we grow, there are growing pains. We we're becoming a bit of a global organization, got along more outside. We're becoming a bit of a global organization. And yet, you know, we need to constantly re examine ourselves and and shape ourselves into the organization we want to be without losing sight of the organization that we are. So this conference will give us a taste of who we are at this moment in our history as an organization.
+
+[00:01:52.260] - Speaker 1
+And and I'm thrilled to see what a great history and what a great group we have here together. I love that this is a conference that is happening in multiple parts of the world that we have partners in India. We have partners all around coming together, thanks to these wonderful platforms that allow us to do so. And so I ask of you all. I ask of us all to recognize that there's a ton of moving parts and to recognize that, you know, these things come together and come together through a lot of efforts.
+
+[00:02:33.220] - Speaker 1
+And I want us all to be very generous with each other, but not too generous in keeping time so that we can all really participate and enjoy each other, what we all have to offer and continue growing as an organization. Back to you, organizer, thank you.
+
+[00:02:56.180] - Speaker 2
+Thank you, Lee and Scott, thanks. And Hello, everyone. And welcome to Yellow 21 to 21 in Bergen and in our house in Vancouver, Washington, and New Delhi. And everywhere in between. I was reflecting the other night that this is actually the third ELO conference in festival that have been part of organizing, including the 2,002 state of the Art symposium at UCLA and the 2,015 End of Electronic Literature Conference. I guess that one didn't really work out because we're still here. And now, for one last time, the 20 21 platform post pandemic.
+
+[00:03:42.420] - Speaker 2
+And although this has been in some ways the most challenging of those experiences, it's also been the most rewarding. This year, I took on the Organization of the Arts program, and Soren has earned his Angels wings. I'm not sure if you're supposed to say that before somebody's actually, but you heard those wings in directing and planning the execution of the research program. So I'll restrict myself to a few words about the arts program here. So first I'd say that there's many people to thank in this endeavor, and I've seen Soren's notes, so I know that he'll be thinking some of the other folks who work most closely with us, and it's a long list in terms of the arts program.
+
+[00:04:26.650] - Speaker 2
+I'll single out Jason Nelson for his masterful production of the Web exhibitions, which I think are both the most visually striking online conference exhibitions the Yellow has ever had and the most valuable from a documentary perspective, Jason has produced wonderful interfaces for the majority of the eight exhibition sites, eight exhibition sites that we're featuring the program here at Bergen. The production of these exhibitions, with two of them manifesting both online and in physical Gallery and library exhibitions, has been a team effort involving everyone in our electronic literature research group.
+
+[00:05:09.080] - Speaker 2
+Hannah Ackerman organized the poster sessions and workshops that are just ending today. Joseph Tabby and Amon ocaine worked on the Post Human exhibition Astrid Enslin Co Curating, the performance program led by Ian Hatcher, who I'm very proud to say is our incoming 2,021 and 22 digital culture. Full bright after being our sort of virtual almost full bright last year come due to the Pandemic, along with Claire Donato and Cap Mutate curating the performance program, a lot of Salvador as pulling together all the logistical pieces. I mean, Fabri working on the sites with Jason and Ashley Steel producing a documentary film as part of our COVID project.
+
+[00:06:00.290] - Speaker 2
+Old Years Doll and Ronnie Norvik at the University of Burgan Library and many others have contributed to making this an extraordinary arts program that has been unfolding since March, and the ELO Community and Board have also been tremendous contributors. Finally, I want to thank the University of Bergen Department of Linguistic, Literary, and Aesthetic Studies and the Bergen University Fund for their substantial material support of ELO 2,021. And I'm sure Soaring will also think Carlsburg Brewer sponsor something other than usual that we tried out this year.
+
+[00:06:41.270] - Speaker 2
+And something that I think has been successful is that the Posthuman exhibition, The COVID Ideation and the Platforming Utopias and Platform Dystopias exhibitions all opened well in advance to the conference itself, with dedicated virtual openings featuring the majority of the artists and each exhibition presenting their work. And the online exhibitions already include the video documentation of those events this year. We really wanted to give dedicated space and attention to each exhibition and to each artist. When we wrote the call for work for these exhibitions, Son and I talked about the fact that we wanted to organize focused and curated exhibitions that cohere with the themes of the conference as a whole, featuring works that could function as critical digital media in reflecting our current situation in the pandemic and in platform culture, and provide frameworks for thinking about what comes after.
+
+[00:07:43.880] - Speaker 2
+In a way, we were challenging Elos community of authors and artists, not just they have working on, but to respond very specifically to the call answer this moment. And we are enormously grateful for the work that you've all produced. There's still a great deal arts program to come. Last night we saw the first reveal of the fantastic Kitty Lid exhibition in Gather Town. So Wonderfully, curated by Mark Marino and Maria Gotcha. The diverse performance program begins momentarily, and we'll continue for the three following nights. Dini Regar is presenting us with a tremendous collection of preserved flash works and the new next online Musician Museum of Electronic Literature.
+
+[00:08:29.570] - Speaker 2
+And on Friday, the draft team, led by Nine Clean Ambika Joshi and I Got Sharma and I think adds here with us, is presenting Freefall Future Text, the first ever exhibition of Indian and Asian let to be Fed. Before I drop the mic and head off into the sunset, or more accurately, the Zoom in the spare room, I want to say that the thing I've always valued most about the ELO community, and I think Leo touched on this as well is that it's always been a generous community, intellectually generous, artistically, generous, tolerant, and welcoming to new thinkers and authors and artists and ideas of what electronic literature is and yet might become.
+
+[00:09:21.840] - Speaker 2
+I hope that even as this community grows and goes through its growing pains, we can keep that spirit of openness and generosity alive. So be generous to each other and have a great conference. And with that, I would like to turn it over to one of the most generous people I know who has for months been pouring his blood, sweat, and tears into this conference. My dear friend and collaborator, Soren Cold. Thanks a lot, Scott. And with this Let me.
+
+[00:10:00.000] - Speaker 1
+Say also, welcome to As. At least you'll be here virtually through your embedded screens. And through this opening will also try to get you here there and everywhere from wherever you're located, because you're not just going to be a even though we would have liked you to be here. And please come sometime in the future. But this conference is Planet ELO was one of the working title of it. Energy includes partners from all over the world. It's called Shared by Scott from the Bergen Electronic Literature Research Group at University of Bergen and me from the Digital Aesthetics Research Center here at our University.
+
+[00:10:55.470] - Speaker 1
+And it's been some wide months, as Scott mentioned, since we took this on. But it's also been an immense pleasure to work with Scott with his many great ideas and his experience of making things happen. And I could even say that things often happen in a slightly bigger way than Gen vision from the beginning. And that's part of the fun that things just grow. So thank you, Scott. I'll be happy to work with you again in the future. Yeah, definitely. I'll also mention the important person behind the scene here.
+
+[00:11:40.520] - Speaker 1
+And as mine colleague Christian, who like Hanson, who's out there, Mel Astounding Arli, who's done a tremendous job on logistics, conference websites and many other things. And we'll come back in a second when soon Mark the slick car kite Coining Monk, who has helped a lot with the conference support and also our student assistance here, knows there are actually two sitting right there. You can see them, but they are helping a lot with the Zoom backstage. And obviously in Bergen, Scott has mentioned all the great people.
+
+[00:12:24.910] - Speaker 1
+And I also want to say send my thanks to this fantastic team there. And as Scott mentioned, we have excellent partners such as the Electronic Literature Lab at Washington State University, Vancouver in the USA, with led by Dean Greek, Harley slogan great Tobruk Richard Made, Catherine Solo, Denis Venosa and Claudia COSAC. So thanks to them. And also I mentioned graphs in India with Nandi Kanani, I'm Big Yoshi. I got Shama and others. And Caitlin Fisher, who serves as a global coordinator. So she keeps everything together.
+
+[00:13:15.900] - Speaker 1
+So Besides all these wonderful people who have spent hours, days, nights and months of the extra time preparing this, I want to thank the institutions and University supporting this, obviously, the Electronic Literature Organization Draft, University of Bergen, Washington State University of Vancouver and York University, Canada. And my own University of University who has supported with resources and staff support. I also want to thank some of the Funders Daria EU for supporting the COVID Elite exhibition and the Casper Foundation for reporting the conference. And maybe it's time to I have it here.
+
+[00:13:59.760] - Speaker 1
+Unfortunately, we couldn't get the sum where you could pour be through. That was too expensive. But we have free beer and as Unfortunately. Yeah. And we have the Discord server with Cafe. And I believe they serve Castor. And it's run by Mark Marino and Talia Devana Dara. And thanks also to them. The program runs live 12 hours a day and we have a complicated time schedule. We noted the time zone of the organizers. Please find your local time through the links in the program where you can sort of find time zone for all over the world.
+
+[00:14:44.580] - Speaker 1
+And after these two days of workshops, we will have the conference program start tomorrow, and it will consist of panels which will be moderated by themselves within the schedule. And then we have full paper tracks that have moderators attached and the paper tracks will Yeah, moderated by a moderator. And I guess we all suffer from screen or soon fatigue after more than a year pandemic lockdown. So therefore we also plan the paper tracks to consist of a brief five minute presentations of main point from the submitted papers, which will be followed by what we trust would be a lively, an enlightening discussion from first the panelist and then everybody in the track.
+
+[00:15:40.820] - Speaker 1
+So the point is to see this contract also as a as a research and artistic work in process, a way to present and develop work and to connect to your communities. And we definitely hope and also trust that you will contribute to this. You'll have to bring your own coffee, but please contribute to these discussions in ways that they become constructive for both newcomers and old timers, this is a fantastic opportunity to share, contribute and be critical in a constructive way and receive the same attention from your peers from all over the ELO planets.
+
+[00:16:23.720] - Speaker 1
+All submitted papers are linked to the program, so please read as much as you can both before. Well, that's almost over during and of course, after the conference. Hopefully these discussions will also nourish your curiosity for reading papers. All tracks, keynotes and performances will be recorded and made available quickly after ending, allowing for people across the world to catch up with what has happened during the sleep. They will be archived at the outset, knowledge space after the conference. And actually when submitting, you all accept this recording.
+
+[00:17:01.870] - Speaker 1
+But if you'd rather not appear on the recording, keep your camera off and if needed, also your microphone and post your comments in the chat, and then they'll of course, be put forth by the moderator. The theme this year ended up being platform postpandemic, as Scott said, and we have a long description that I won't repeat now, However, our briefly mentioned two things. The first thing is this post pandemic. When Scott and I wrote the first version of the theme description last autumn, we naively believe that the pandemic would be more or less over by now and and Luckily the yellow board light our proposal, but suggested, I think actually Leo suggested that we put this post in parenthesis and with a question Mark in order to unalign that we didn't take the disease the Covet disease lightly in any way.
+
+[00:18:02.300] - Speaker 1
+And currently we are in a situation where some countries and societies are getting relieved and opening up while others, like Indian Brazil, go through the worst crisis yet and on the part of the global South is also are also challenged. The Pandemic at us all, but our conditions for coping have proven to be very different. And currently this seems to be leaving many countries of the global South out in the cold while rich countries are holding vaccines. It's even been dubbed sort of new or even COVID colonialism which will continue to widen inequalities spread poverty and keep bottles closed.
+
+[00:18:44.370] - Speaker 1
+Last week was the week with the most infections globally so far. So we definitely not after this pandemic and the Pandemic will of course, still have a huge influence on this conference just by the fact that this is the second Virtual Yellow conference and the first that was fully planned as virtual. The Pandemic has made an impact on our lives. It's the theme of one of the exhibitions, as Scott mentioned, and it has affected many papers of the conference. Obviously it's serious times and Unfortunately it's not only a theme to reflect on.
+
+[00:19:21.520] - Speaker 1
+I've received several emails from people from and in India withdrawing their submission because they would have to put their energy into getting oxygen or hospital based for the loved ones. And our partners in India and Draft have also suffered. And maybe you should make you visible yourself. Visible. Yeah, now did is here. They've also suffered from the situation in India and are still suffering. And obviously it has also had an effect on on what they could develop for this conference. But we are happy that they got an exhibition and they're going to launch it on Friday.
+
+[00:20:06.770] - Speaker 1
+So please send one thought and also perhaps a donation to India and other parts of the world that are currently challenged and in difficult situations. And you can donate through the big organizations like UNICEF, Red Cross Medicine. So once or Oxfam and our friends in India have also suggested specific, more local initiatives that I'll include in my next email. However, as can be be seen in the exhibition three for future text Escaping No Escalating platforms that is open and will be presented Friday. There's a lot of great lots going on in India and this leads me to the second term, which is platform.
+
+[00:20:57.460] - Speaker 1
+This is a conference that will trivially explore platforms of many kinds, including how we experiencing platform culture during the pandemic and how we might envision it beyond the Pandemic has in many ways been climax in platform culture and I believe also a turn in plot plat formalization. I certainly hope that we're seeing the beginning of something new and better than the current version of Atomization of what request no like anesma called the meter interface. We are thrilled to see the many ways that the theme of platform has been taken off from discussing the history and the disappearance of old platforms like Flesh, which is also a topic of the exhibition after flash to thinking about it happening on platforms which we saw last night in the Killed exhibition, and how electronic literature is afforded and challenged by platform culture and to developing alternative platforms and alternative ways of thinking, as also Draft has been doing again.
+
+[00:22:10.160] - Speaker 1
+And this is of course, also the topic of one of of the main exhibition, Platforming Utopias and Platform Dystopias. Electronic literature obviously has a history of developing new forms and media of expressions ever since the beginning or through the development of Hypertext, to currently experiments with machine learning, just to mention a few examples. And from looking at the program this year, this community is still taking the lead in thinking Platforms Post and Dame, but the platform still have us captured, including this conference. And this is not to apologize, but just to sort of in by explaining how and why in order for us also to collectively reflect on the conference platform postpandemic.
+
+[00:23:01.360] - Speaker 1
+So we do. Video conferencing obviously allows us to have this conference during the Pandemic with global partners saving travel and carbon emissions, which is great. And this is also an example of why and how we rely on platforms. Ideally we would have used an open source platform, but they Unfortunately don't have the solidity of scale to fit a conference such as this. And Besides, they are not supported by our universities actually as an Burgen University's supply. So version with like the one we're in now that is running on our own Nordic Scandinavian servers, securing Privacy.
+
+[00:23:45.720] - Speaker 1
+But it turned out that we couldn't use these versions either because they didn't support other partners outside our universities. They couldn't make recordings available in an efficient way, nor had the had the possibility for live captioning, all of which depends on sums own servers. So as a result, we ended up with a commercial Zoom license that most of the conference will run on, apart from the opening and this opening and the keynotes. So I think this conundrum is a perfect example of how we are trapped and captured by the platforms that we depend on for meeting, communicating, reading, writing, making art, literature and culture.
+
+[00:24:25.040] - Speaker 1
+Organizing a conference also teaches you about this. So this is the world we live in. It needs to turn to the better both regarding the platforms and the Pandemic. But I think this community is full of ideas. Electronic literature is about its literary and artistic qualities, but it's also and simultaneously about the platforms, the technologies, the network that it uses explores, criticizes and great alternatives. And with this I think, you know, we are the ones who can push things forward. So with this I would say welcome to Platform Postpandemic and next point of the agenda is really welcoming you to war.
+
+[00:25:14.500] - Speaker 1
+And this is done through a a commissioned artwork that's called As Open Operating System that Amela will present.
+
+[00:25:27.280] - Speaker 2
+Thanks and thanks for that opening. We feel welcome here the conference, and I'll try to welcome you in the virtual version of this city that we call outs. So my name is Malta and somewhere here in Us is my collaborator and visuals joining in Bias, and we wanted to give you just some way of experiencing and getting lost in our strange in the old city, even though you can't be here physically. In order to sustain this, we have created this huge urban operating system and the work will be lied during the entire conference and also after.
+
+[00:26:00.840] - Speaker 2
+And we encourage all of you to dive into the work during breaks or movements of lacking concentration. So Almost Urban operating system is situated as a parasitic flipside of the conference website, where you'll find the chat room populated by literary bots that are trained to the converse on certain aspects of the city of orders. The bot of Almost Urban operating system are based on equal parts handcrafted conversation, trees and recurring networks. Each part is character is a character in Michele Politan drama, from the head of the tourist Department to the local Park body, the carbon demand, the iron in models are trained on texts about all those as it is and its present and how it was in its past States and also urban development plans that represent an increasingly gentrified all those that, according to these urban developers, is just around the corner.
+
+[00:26:49.220] - Speaker 2
+So the work Furthermore entails and was medial side that are images and sounds and the sounds in particular were recorded locally. Here in Us is part of an earlier version of the work in which this new chat room inflicted version is based upon. So in the case of Almost Urban operating system, the work makes for an unstable and emergent polices of a gathering that could have been situated in an imaginary of an abuse that might still become which is saturated with Multimedial debris gathered from around the city.
+
+[00:27:19.340] - Speaker 2
+So Here's how you can actually experience the work. First, you can go to this thing that I'm posting in the chat, and there's also a button on the conference website that's Orange and you can go to this work. You can enter a screen name in the chat box and then start chatting. We and you can address individual box or the visitors by using an ad tech and you'll be able to address about and then be sure to have your question answered by that specific box. And when it's acting with the box, you'll be reading about the city.
+
+[00:27:49.460] - Speaker 2
+You've been reading the city, the box. The conference website anti boundaries of our idiosyncrasy idiosyncrasies. So if I'm allowed to, I am going to share my screen. There it is. And while doing that, I hope I can still read this. So now we invite you to participate in an improvisational and emergent performance drift through this work and for the best experience, we encourage you to use the side by side for you and some if you can. Otherwise other things are fine. So if you could please go to this work URL and start interacting with the word Anos vest and I are going to try to do a side app impromptu reading of the word in our blatantly Danish town sounding accents.
+
+[00:28:38.630] - Speaker 2
+And actually I have to ask Can to on the spot make as a panelist so that he can also speak. Otherwise it's just going to be me. But that's not of course also okay, but if it's possible it would be great to have honest with me I.
+
+[00:29:00.320] 
+So.
+
+[00:29:04.700] - Speaker 2
+It gets art. I'm going to stop by posting questing someone on already then Hello. Bob says, Where is the best place to get some Elin round here? Aaus says, Leo has joined the Chat. Nse says, A Us who I give A-U-O-S-S at me, I am almost urban operating system. You can call me a OS, so maybe I should find something else here. Wine son says, Who are you.
+
+[00:29:54.960] - Speaker 9
+And the A us says, question like Anderson has joined the Chat first says, Can we comment on the lack of cemeteries?
+
+[00:30:11.780] - Speaker 2
+All Link says, Are you real.
+
+[00:30:20.570] - Speaker 9
+Car Beeman says, At MC the car Bellman, you know the most well preserved back body in the world. Not to brag, but I know a lot about the history of us as seen from the back.
+
+[00:30:37.630] - Speaker 2
+Urban developer says, By the way, an experiment Arium in constant change. There is a connection with the volunteers of this city for the cooperation with vulnerable housing areas and low areas of purpose in the Labor market.
+
+[00:30:56.850] - Speaker 9
+Bergen says, The swamp that sounds interesting.
+
+[00:31:04.310] - Speaker 2
+First is I am much older than Emo. That is why we need a Cemetery commentary.
+
+[00:31:14.950] - Speaker 9
+Elo says, at me about my abstract. What about surpassed Cartesian mind body dualism, the rise of novel hybrid by conscious, deliberate non body.
+
+[00:31:35.740] - Speaker 2
+Side says, At me, beginning of the distance around in the flying drones and with the fly in and Port to the dream and the sides completed.
+
+[00:31:51.530] - Speaker 9
+The OS urban operating system says.
+
+[00:31:54.960] - Speaker 2
+20 20 has joined the Chats and I guess since we're now in 20 21 as this is the time to stop the impromptu performance. But thanks for participating and thanks for listening and welcome to Almost. And we hope you will be enjoying your virtual stay in this city. And also if you will check out this piece of.
+
+[00:32:22.940] - Speaker 9
+Thank you.
+
+[00:32:24.310] - Speaker 1
+Thanks a lot. And one Yeah, it certainly feels like being here. Is there any rain?
+
+[00:32:33.060] - Speaker 2
+I think you have to supply the rate yourself. I'm not sure. Did you quote that it.
+
+[00:32:40.350] - Speaker 3
+I think that's our bot.
+
+[00:32:45.000] - Speaker 1
+Okay, now we're getting ready to the Us program. Ion is here, right?
+
+[00:32:52.300] 
+So.
+
+[00:32:54.580] - Speaker 1
+This is the end of the opening and he's in.
+
+[00:33:01.550] - Speaker 3
+Alright. Hello.
+
+[00:33:07.720] - Speaker 1
+Well, who else do we need to invite in.
+
+[00:33:11.780] - Speaker 3
+We have a few attendees to promote.
+
+[00:33:16.330] - Speaker 1
+Is that any that's probably any Abrams Count promoter.
+
+[00:33:26.000] - Speaker 3
+And so we're already recording. We just continue on with the same take.
+
+[00:33:35.460] - Speaker 4
+Daniel Good and Constant.
+
+[00:33:40.960] - Speaker 3
+Let's see. Still doing promotions over here. We get started in just a minute to.
+
+[00:34:19.660] - Speaker 1
+Have everybody.
+
+[00:34:20.700] - Speaker 3
+Do I have everyone, or is there another member of.
+
+[00:34:24.380] - Speaker 4
+Yes, Constant Value omen.
+
+[00:34:35.500] - Speaker 3
+I think I promoted them. She's in, but she needs to turn on audio in for you. Alright. Do we have everyone?
+
+[00:34:53.360] 
+Yeah.
+
+[00:34:54.600] - Speaker 3
+Great. So I'm gonna. Let's see.
+
+[00:35:02.600] 
+Right.
+
+[00:35:03.610] - Speaker 3
+So you already played this one. Okay, well, he already played the video, so I will skip the video. It's already beginning of the recording. Hello. It is my pleasure to be your host for this webinar. The first session of performances at ELO 2,021. And it's really nice to see people's faces and names in the Sidebar. I want to start by thinking the other three members of the Performance curatorial committee that's clear, Donato, Astrid, Insulin and Cat 10, as well as Scott and Soren and Carlotta and Jason and Leo and the board and everyone else involved in orchestrating this conference and the Elo.
+
+[00:35:46.590] - Speaker 3
+So today's session is a webinar, as you see, but the other three performance sessions over the next three days will be standard Zoom format and you'll join those at a different link which is on the schedule. So I wanted to tell you all something before we begin, which is something that some of you already know about me. But I love technical difficulties. I've had a dream for a long time of making a performance that consisted entirely of technical difficulties, like a long string of problems of of problems with projectors and required software updates and microphone problems and spikes and so forth.
+
+[00:36:25.490] - Speaker 3
+I've been thinking about doing this for about 10 years, but I've never gotten around to it. And when it became clear that I'd be hosting the performances for the conference, I realized it was my chance and I could finally make the stream come true by sabotaging all the performances as they occurred in really subtle but terrible ways. And so I had this plan. But then I thought maybe I wouldn't do it. At least not everyone. But I want to suggest that perhaps if technical difficulties do occur, you could think about saving them like a kind of fine wine cheese and maybe attribute it to me as my fault and personal responsibility as a kind of conceptual meta performance that I'm doing about technology and the body.
+
+[00:37:14.910] - Speaker 3
+The riskier quotes in that, but I think they disappeared in in the Mario world. So I'm going to keep this most of my comments short to keep things wearing along. But we're going to begin today with a future performance by Uttering. It's great to have you here. A very technological and bodily performance. The members of Uttering are Any, Abraham's, Daniel Pinero and Sense Carvalho Home Kurt Cancer Arena coachi and Derek computers. A lot of two. I think you're not here today, and in the interest of time, I'm not going to read BIOS during these sessions, but you can find those and other information, as well as a video Gallery of prerecorded performance works on the conference site at the URL, which I am pasting into the chat.
+
+[00:38:02.490] - Speaker 3
+But don't be distracted by it now. Just save it for later because it's time for uttering to begin. So please join me in silently clapping for uttering.
+
+[00:38:40.800] - Speaker 10
+Okay.
+
+[00:38:53.760] 
+Okay.
+
+[00:39:32.100] - Speaker 10
+It's easy. So I Oh kick. She.
+
+[00:41:03.260] 
+Smokes.
+
+[00:41:14.640] - Speaker 3
+I.
+
+[00:41:20.880] - Speaker 10
+Can just first on temporal.
+
+[00:41:49.680] 
+I stuff.
+
+[00:42:00.420] - Speaker 10
+The thank.
+
+[00:42:20.100] 
+So.
+
+[00:42:29.810] - Speaker 3
+I.
+
+[00:42:50.220] - Speaker 10
+Chest chest in 12 so I.
+
+[00:43:32.890] 
+Ooooooooo.
+
+[00:43:41.420] - Speaker 10
+Jose. So I.
+
+[00:44:59.220] 
+To.
+
+[00:45:13.490] - Speaker 3
+The this is sticky.
+
+[00:45:17.100] - Speaker 10
+But check for check terabit state.
+
+[00:45:56.060] - Speaker 4
+It'S okay.
+
+[00:47:12.840] 
+I.
+
+[00:47:34.610] - Speaker 10
+See.
+
+[00:47:47.460] - Speaker 4
+So so Hello.
+
+[00:49:25.140] 
+So.
+
+[00:49:27.150] - Speaker 4
+To so.
+
+[00:50:12.460] - Speaker 10
+So I.
+
+[00:50:42.580] 
+So so.
+
+[00:51:04.010] - Speaker 4
+I.
+
+[00:52:08.620] - Speaker 10
+So she still call them to be set can. Oh.
+
+[00:53:24.380] 
+Okay.
+
+[00:53:29.850] - Speaker 3
+Thank.
+
+[00:54:30.880] - Speaker 10
+Well, so.
+
+[00:54:58.910] - Speaker 3
+I.
+
+[00:55:15.110] - Speaker 10
+Do your best. I erase.
+
+[00:55:46.700] 
+So.
+
+[00:56:19.840] - Speaker 3
+So I.
+
+[00:56:48.420] 
+Had so.
+
+[00:57:23.860] - Speaker 10
+I so.
+
+[00:57:30.950] 
+I.
+
+[00:57:47.740] - Speaker 4
+I.
+
+[00:57:53.880] 
+In.
+
+[00:58:04.400] - Speaker 4
+Nice.
+
+[00:58:06.950] 
+Hello.
+
+[00:58:31.300] - Speaker 4
+To save me a.
+
+[00:59:49.320] - Speaker 3
+Thank you uttering. We will now proceed with performed by a pair of Renee Carmile. Renee, are you ready?
+
+[01:00:35.000] - Speaker 4
+My feeling of quantum scrolling is meta touch phrases, at least as the neologism to begin the experiment of coming to existence of mass mixed with bodies, a score of touching where mass is as much formal as it is feeling as much codifying as dancing, a contigency adjective of the time in which both bodies and mass violently execute and effectively face each other. Mass is an execution that is other. It never becomes mass with a capital M who rather shows it violent nature in the iterative loop that leaves X in the place of mutual bodies, a symbol of the incomparable movement mixed up in the touching of the chemical physical compound Temecula father.
+
+[01:01:21.840] - Speaker 4
+It does so in relation to a using body through a micro series of micro defective differences of movements that go beyond representation reflection, and nothing to X after air is the problem of many wrapped to the atomic scale of one beat, an energetic one that moves receptively to the economic compounds of the equation of method touch choice.
+
+[01:02:02.950] - Speaker 8
+VAR fast tracker equals function fast tracker basis constructor tracking inherits fast tracker tracking tracker tracking fast threshold equals two fast tracker prototype threshold equals tracking fast threshold fast tracker prototype track equals function pixels with high stats begin VAR Gray equals tracking image Grace Cale pixels width height VAR corners equals tracking. I fast find corners Gray with eight tenths it track beta corners touch execution movement non touch back fire back frack back partial back partial T back sigh equals backs. How hback sigh.
+
+[01:03:08.320] - Speaker 4
+But later this feeling in the impossibility of the future of mecodes phoresis will not, However, become the metaphor it wants to be. But say, somewhere in the middle of meta and touch and Foring it is Asis equals action process equals movement equals question in this Gray world of tired and war announced infinite Scrolls. A dismal energy, gestures and metaphor is at once needed. Necessary? Is it like the complex wave dual paradox?
+
+[01:03:54.760] 
+Is.
+
+[01:03:56.830] - Speaker 4
+It a world where decart remains as a dreamer of a machine theory? Is it a physics summer in the Gray one of Gray media? Is it the infinite power over others? To the greatness of an infinite Scroll? Is it like taking advantage of power while using it to do something else? Is it this breathing now? What is it? It's a metaphor necessary human misuse intention with the modern exteriority of the dreaming possibility of his future. So this here now booming. How is it when the dreaming of the middle of it all?
+
+[01:05:20.140] - Speaker 4
+The place where movement actually takes place to explore other quantum Scrolls as a new logistic metaphor istic moves of made the touch forces metadat co races, merit is confess, made land Oasis, maintain early faces, meter, Penice, metal. My employees, my employees mate even more as Matan soft Asis metaphors are teaching on the edge of the displace touches like a hunting materializing, their very meta natures. So we use movement to read the energy of metaphors that emerge in this impossible space. How can we dwell at the edge of the future?
+
+[01:10:23.040] - Speaker 4
+The metaphor moves in between remaining as the Asis where the score begins and emerges between movement and code. For now, keep contem scrolling. Nothing left to do here but to move for the slippery soap between word is wave and the particle that goes too fast to keep count at all. My feeling of quantum scrolling is.
+
+[01:11:43.140] - Speaker 3
+Thank you Renee Carmichael, for that beautiful piece. Renee here with us from Argentina and title that peace was. My feeling of quantum scrolling is you can learn more about Renee and her work on the performances website along with the other performers. And again, I'll paste that in the chat. But don't let it distract you from our final performer today. Who is Alan on time? Ellen, are you all set?
+
+[01:12:17.120] - Speaker 5
+Yes, but I can't share the screen while the other participant is sharing.
+
+[01:12:22.560] - Speaker 3
+I think you just need to start your video.
+
+[01:12:26.300] - Speaker 5
+Okay. Sure. Sounds optimized for video clip share.
+
+[01:12:35.270] - Speaker 3
+There we go. Alright. I'm going to disappear. Alan on time with no content.
+
+[01:12:58.900] - Speaker 5
+Where are you? Where are you? This is the theater of our operations. Where are you? Where are you? Come on through. To the other side. Comma. This is the theater of our operations, period. Come on through to the other side. Where are you? I'm not sure why this is so difficult for you to understand. Hang on for a moment. We have to catch up. Where are you? We seem to be in two different spaces. Come on through. I don't understand the language you're using. Come on through.
+
+[01:14:50.420] - Speaker 5
+Could this be considered? Could this be considered a failed attempt? Hello? Where are you? Where are you? Where are you? Are.
+
+[01:15:36.620] 
+You?
+
+[01:15:38.730] - Speaker 5
+Are you? Could this be considered a failed attempt. Hello, where are you? Could this be considered a failed attempt? Hello? Where are you? Where are you? Where are you? Where are you? Could this be considered a failed attempt?
+
+[01:17:37.940] - Speaker 10
+Logging in. Please wait. Notice login error. Region has begun the logout process. Notice region has begun. The logout process press entered twice to retry logging in. Please wait. Connecting to region. Notice you are now in honesty.
+
+[01:18:17.610] - Speaker 5
+Notice you are connected or perhaps has already begun. We are cut off from the other sin. We are cut off from the other SIM. The local host cannot connect.
+
+[01:18:35.410] - Speaker 8
+Notice she had input. She had input. Galu Hello, we are logging in. We are trying G cut off entirely from the other sin recess we are trying to reach recess. We are trying to log into and avoid being cut out entirely when this begins its process that is starting up now. Or perhaps get from the other sin to local host. Kim, that is starting up now or perhaps has already begun. We are cut off from the other sin. We are cut off from the other sin. The local host cannot connect.
+
+[01:19:13.640] - Speaker 5
+The other host cannot connect.
+
+[01:19:17.060] 
+No.
+
+[01:19:19.070] - Speaker 5
+The other in a host cannot connect.
+
+[01:19:22.020] - Speaker 10
+Had input.
+
+[01:19:24.940] - Speaker 5
+No, the other host cannot connect.
+
+[01:19:27.880] - Speaker 10
+No.
+
+[01:19:30.160] - Speaker 5
+The other host cannot connect. Note, the other host cannot connect. Chat input. Although we are logging in, we are trying cut off entirely from this. The other host cannot connect from the other SIM recess we're trying to reach recess. We are trying to log into and avoid this SIM the other host cannot connect so.
+
+[01:20:03.240] - Speaker 8
+No, the other host cannot connect. Notes, the other host cannot connect. Chat input. Hello, we are logging and we are trying cut off entirely from this. The other host cannot connect from the other SIM recess we're trying log into and avoid the SIM. The other from the other SIM recess we're trying to reach recess. We're trying to log into and avoid the SIM. The other host cannot connect.
+
+[01:20:24.090] - Speaker 10
+Chat input.
+
+[01:20:26.230] - Speaker 5
+The other host cannot connect. The other host cannot connect. I don't like this. The other host cannot connect. The other host cannot connect.
+
+[01:21:53.160] - Speaker 8
+She had input.
+
+[01:22:02.990] - Speaker 5
+The other hosts cannot connect. Hello, we're logging and we're trying we're cut off entirely from the other SIM recess we are trying to reach recess. We are trying to log into an avoid being cut out entirely when this begins. The process is starting now. Starting now. Starting now. Perhaps from the other SIM to local host that is starting up now. Or perhaps it's already begun. We're cut off from the other SIM. We cut off from the other SIM. The local host cannot connect. The other host cannot connect.
+
+[01:22:43.520] - Speaker 8
+All the other host cannot connect. Hello, we are logging in. We're trying we're cut off entirely from the other SIM recess we are trying to reach recess. We are trying to log into and avoid being cut out entirely when this weekends the process is starting now, starting now, starting out perhaps from the other SIM to local host that is starting up now or perhaps is already begun. We're cut off from the other SIM. We cut off from the other sincala host cannot connect. The other host cannot connect.
+
+[01:23:09.650] - Speaker 10
+Shed input.
+
+[01:24:20.800] 
+I.
+
+[01:24:25.560] - Speaker 7
+Am from Allen.
+
+[01:24:28.840] - Speaker 10
+Where are you? No image, no image.
+
+[01:24:36.050] - Speaker 8
+Olu distinctions between analog and digital domains at the limits. Then it segues into issues of the body in relation to the digital and a consideration of failure as fundamental to philosophy and theory in general. The topics resonate with each other shift back and forth. The style is somewhat related, to Wittgenstein, to aphorisms to the Buddhist three Gafa nuns testimonies to then Coons. I am influenced by early Chris Tava and I regret, as well as Alfonzo Lingus and others who focus on the body and se miosis, perhaps in a problematic relation to Cyborg prosthetics.
+
+[01:25:13.330] - Speaker 8
+In other words, the witnessing and phenomenology of the body, not as an element of technique, but as an interalize and politicized flow, which is, among other things, a problem within and without a digital. Or rather, the digital can be seen as a carapace or virus in relation to the body. I am from Joel.
+
+[01:25:34.360] - Speaker 6
+I am in region Odyssey.
+
+[01:25:35.700] - Speaker 8
+How about you?
+
+[01:25:37.490] - Speaker 7
+I am from Allen.
+
+[01:25:41.160] - Speaker 10
+Where are you? Where are you?
+
+[01:25:43.100] - Speaker 8
+I am from you.
+
+[01:25:45.880] - Speaker 6
+I am in region Odyssey.
+
+[01:25:47.550] - Speaker 8
+How about you? Chat input, Jalu, I have nothing. Chat input, Where are you now? Are you from Alan? Are you made of Alan? J, are you stuff of.
+
+[01:26:13.810] - Speaker 10
+Alan?
+
+[01:26:14.820] - Speaker 8
+Chat input, Are you stuff of Jo? Are you made of Jo? Come again. Can you hear me? I.
+
+[01:26:58.260] - Speaker 7
+Am from Allen.
+
+[01:27:01.240] - Speaker 8
+Who are you talking about? Good reasoning. What does it refer to? Tell me more. Tell me more. Do you mean your name is influenced by early Chris Tava and IRA Grey, as well as Alfonzo Lingus and others who focus on the body and semio's, perhaps in a problematic relation to Cyborg prosthetics. In other words, the witnessing and phonology of the body not as an element of technique, but as an internalized and politicized flow which is, among other things, a problem within and without a digital. Or rather, the digital can be seen as a carapace or virus in relation to the body.
+
+[01:27:36.970] - Speaker 7
+I am from Allen.
+
+[01:27:39.670] - Speaker 10
+Where are you?
+
+[01:27:40.540] - Speaker 7
+I am from Allen. Where are you?
+
+[01:27:46.210] - Speaker 8
+I am from Joel.
+
+[01:27:48.970] - Speaker 6
+I am in region Odyssey.
+
+[01:27:51.040] - Speaker 8
+Where are you?
+
+[01:27:53.320] - Speaker 7
+I am from Allen. Are you Joel?
+
+[01:27:57.470] - Speaker 8
+Chat input, I am from Joel.
+
+[01:28:02.170] - Speaker 6
+I am in region Odyssey.
+
+[01:28:04.230] - Speaker 8
+Where are you, Joe? Where are you? Where are you? Are you a I am from you. I don't know whether or not I am JOAM. An electronic brain. Ou. Are you made of Joujou? Failed. Failed. Chat input. I do not hear you. Chat input. Chat input failed. I do not hear you. Chat input. Balu, I have nothing. Jalu. Failed. Jalu.
+
+[01:29:02.150] 
+Failed.
+
+[01:29:02.510] - Speaker 8
+Failed. I do not hear you. Failed. Failed, failed, failed. I do not hear you. I have nothing failed chat input.
+
+[01:29:26.730] - Speaker 5
+That's it.
+
+[01:29:33.710] - Speaker 3
+Thank you, Alan, for that piece. That was fantastic.
+
+[01:29:37.580] - Speaker 8
+I.
+
+[01:29:43.220] - Speaker 3
+Really enjoyed watching you watch that piece in your glasses so you can see the reflection of your glasses. Well, that is it for today. There is a, like a musical through line. It was really nice. I was a little disappointed by the lack of technical difficulties, but I live with it, so I should I think today we have half power. There's a pair of workshops. And then that's the end of going on today. And then tomorrow we'll pick back up. And there are three more days of performances.
+
+[01:30:16.150] - Speaker 3
+Thank you again, Allan and Renee and Uttering for your performances. That was a great first day.
+
