@@ -1,96 +1,34 @@
-:root {
-  --primary: #63a6e9;
-  /* --secondary: #bee0fc; */
-  --secondary: #95cfd6;
-  --before: #fcf1be;
-  --containing: #befcd3;
-  --after: #fcf1be;
-  --grey-line: #95cfd6;
-}
 
-* {
-  box-sizing: border-box;
-}
 
-#header-section > .container {
-  /* background: ; */
-  display: flex;
-  justify-content: space-between;
-}
-
-b {
-  margin-right: 1em;
-  font-weight: 400;
-}
-.card {
-  margin-bottom: 1.5em !important;
-}
-.card-header:hover {
-  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0 0 3px rgba(10, 10, 10, 0.02);
-}
-
-.sentence .before {
-  background-color: var(--before) !important;
-}
-
-.sentence .containing {
-  background-color: var(--containing) !important;
-}
-
-.sentence .after {
-  background-color: var(--after) !important;
-}
-
-.sentence-full {
-  margin-bottom: 0.75em;
-}
-
-.card-header-title {
-  margin-bottom: 0px !important;
-}
-
-.card-header {
-  background: var(--secondary);
-}
-
-.card:not([data-trigger-word]) > .card-header {
-  background: var(--primary);
-  color: whitesmoke !important;
-}
-.card:not([data-trigger-word]) > .card-header > .card-header-title {
-  color: whitesmoke !important;
-}
-
-p.sentence {
-  padding: 4px;
-  margin-bottom: 5px !important;
-  border-radius: 9px;
-}
-
-p.sentence.before {
-  background: var(--before);
-}
-p.sentence.containing {
-  background: var(--containing);
-}
-p.sentence.after {
-  background: var(--after);
-  margin-bottom: 0px !important;
-}
-
-span.trigger-word-highlight {
-  font-weight: 700;
-}
-.hori-line {
-  height: 4px;
+#bigram-iframe{
   width: 100%;
-  background: var(--grey-line);
-  margin-bottom: 0.75em;
-  border-radius: 20px;
+  height: 100%;
+  overflow: hidden;
 }
 
-.trigger-word-checkbox {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+#iframe-section>.container.box {
+	overflow: hidden;
+	height: 50vh;
+	display: flex;
+	/* flex-direction: column; */
+	justify-content: stretch;
+	align-items: stretch;
 }
+
+#iframe-sidebar{
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+}
+
+#close-fullscreen{
+	position: fixed;
+	bottom: 15px;
+	left: 10px;
+
+	z-index: 20;
+}
+
+#go-fullscreen{
+		width: min-content;
+	}

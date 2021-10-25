@@ -1,31 +1,21 @@
 $(function () {
-  $('.card-header').click(function (elem) {
-    let icon = $(elem.currentTarget).find('i.fas');
-    if (icon.hasClass('fa-angle-down')) {
-      icon.removeClass('fa-angle-down');
-      icon.addClass('fa-angle-right');
-    } else {
-      icon.removeClass('fa-angle-right');
-      icon.addClass('fa-angle-down');
-    }
-    $(elem.currentTarget).next().toggle();
-  });
-  $('.card[data-trigger-word]').each((index, elem) => $(elem).find('.card-header').click());
+  $("#go-fullscreen").click(function (e) { 
+    e.preventDefault();
+    
+    $("#bigram-iframe").css({height:"95vh",width:"100vw",position:"fixed",left:"0", top:"0",zIndex:"10"})
 
-  $('.dropdown-trigger').click(function (elem) {
-    let icon = $(elem.currentTarget).find('i.fas');
-    if (icon.hasClass('fa-angle-down')) {
-      icon.removeClass('fa-angle-down');
-      icon.addClass('fa-angle-right');
-    } else {
-      icon.removeClass('fa-angle-right');
-      icon.addClass('fa-angle-down');
-    }
-    $(elem.currentTarget).next().toggle();
+    $("#close-fullscreen").removeClass("is-hidden");
   });
 
-  $('.trigger-word-checkbox').click(function (target) {
-    let triggerWord = $(target.currentTarget).data().triggerWordToggle;
-    $('[data-trigger-word="' + triggerWord + '"]').each((index, elem) => $(elem).toggle());
+  $("#close-fullscreen").click(function (e) { 
+    e.preventDefault();
+    $("#bigram-iframe").css({height:"100%",width:"100%",position:"unset",left:"unset", top:"unset",zIndex:"unset"})
+    $("#close-fullscreen").addClass("is-hidden");
+  });
+
+  $("#bigram-button").click(function (e) { 
+    e.preventDefault();
+    $("#bigram-iframe").attr("src",$("#bigram-select").val());
+    $("#bigram-title").html($(`option[value='${$("#bigram-select").val()}']`).html());
   });
 });
